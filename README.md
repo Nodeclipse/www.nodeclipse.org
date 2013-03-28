@@ -1,3 +1,8 @@
+# ATTENSION 
+
+This project doesn't reflect the latest changes.  
+Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)	
+
 # Nodeclipse -- Node support for Eclipse
 
 
