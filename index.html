@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <meta content="nodeclipse,Nodeclipse,node.js,eclipse pulgin,ide,node" name="keywords">
+    <meta content="nodeclipse,Nodeclipse,node.js,eclipse pulgin,ide,node,debug" name="keywords">
     <link type="image/x-icon" rel="icon" href="http://www.nodeclipse.org/favicon.ico">
     <link type="image/x-icon" rel="shortcut icon" href="http://www.nodeclipse.org/favicon.ico">
     <link rel="stylesheet" href="http://www.nodeclipse.org/pipe.css">
@@ -11,6 +11,12 @@
 		ul {
 			padding: 0;
 			margin: 0;
+			font-size: 14px;
+		}
+		ol {
+			padding: 0;
+			margin: 0;
+			font-size: 14px;
 		}
 	</style>
 </head>
@@ -24,34 +30,100 @@
             <div id="column2" class="interior">
                 <ul>
                     <li><a href="http://www.nodeclipse.org/" class="logos current">Home</a></li>
+                    <li><a href="https://groups.google.com/forum/?fromgroups=#!topic/nodejs/ayLUeUOanzA" class="community">Community</a></li>
                     <li><a href="http://www.nodeclipse.org/updates/" class="download">Download</a></li>
+                    <li><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse">
+  <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
                 </ul>
                 <p class="twitter"><a href="http://twitter.com/nodejs">@nodejs</a></p>
             </div>
         
             <div id="column1" class="interior">
 		        <p>
-		        	<a href="http://www.nodeclipse.org/">Nodeclipse</a> is an plugin that 
+		        	<a href="./index.htm">Nodeclipse</a> is an plugin that 
 			        adds IDE functionality to the <a href="http://www.eclipse.org/">Eclipse</a> 
-			        for the <a href="http://www.nodejs.org/">Node</a>. <br/>
+			        for the <a href="http://www.nodejs.org/">Node</a>. </br>
 					    The purpose of Nodeclipse is to create an environment in
-					    which development of Node is easy for a beginner to intermediate user.
-					    Development is slow, but ongoing. If you would like to help out,
-					    please leave a comment stating so in the Nodeclipse forum.
+					    which development of Node is easy for a beginner to professional user.</br>
+						Now, you can try Nodeclipse version 0.2.0.
 		        </p>
+						
+						<h3>Vision</h3>
+		        <p>
+						One-stop shop for Node.js tools.
+
+						We can't develop everything at once, but we let you know what are the best things around for Node.js development with Eclipse.
+		        </p>
+				<p>
+					<h3>What's new (ver 0.3.0)</h3>
+					<ul>
+					<li>Modify project generating features adding support for <a href="http://www.jshint.com/">JSHint</a> integration for Eclipse, <a href="https://github.com/eclipsesource/jshint-eclipse">developed by EclipseSource</a></li>
+					　Update site: http://github.eclipsesource.com/jshint-eclipse/updates/  <br />
+					<li>Update template for new project</li>
+					<li>Add README.md template</li>
+					<li>Add hello-world-server.js</li>
+					<li>Add package.json (This is good practice)</li>
+					<li><a href="https://marketplace.eclipse.org/content/nodeclipse">Publish</a> on Eclipse marketplace
+					<li><a href="https://github.com/tomotaro1065/nodeclipse/issues/3">t#3 [Feature Request] allow passing arguments</a></li>
+					<li><a href="https://github.com/Nodeclipse/nodeclipse/issues/2">n#2 on x64 windows doesn't find NodeJS dir automatically]</a></li>
+					</ul>
+						<h3>Features</h3>
+						<ul>
+						<li>Creating default structure for New Node Project and New Node Source File</li>
+						<li>JavaScript Syntax highlighting</li>
+						<li>Content Assistant</li>
+						<li>NPM support</li>
+						<li>Debugging - Breakpoint, Trace, etc... via Eclipse debugger plugin for V8</li>
+						<li>Generating Express project</li>
+						<li>Support for <a href="http://www.jshint.com/">JSHint</a> Update site: <a href="http://github.eclipsesource.com/jshint-eclipse/updates/">http://github.eclipsesource.com/jshint-eclipse/updates/</a> </li>
+						<li>Support for Juno</li>
+						</ul>
+
+		        <p>
+						For <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/README.md">details</a>.<br />
+						<a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/changelog.md">History</a>
+		        </p>
+
+		        <h3>Usage</h3>
+		        <p>
+			 If you can not access the video below, please try <a href="index2.htm">here</a>.<br/><br/>
+		        </p>
+			 <iframe width="560" height="315" src="http://www.youtube.com/embed/aTe7SoaNd1E" frameborder="0" allowfullscreen></iframe>
+
+		        <h3>Generating of Express project</h3>
+				<p>
+				<ol>
+				<li>Select the [File]-[New]-[Project] menu.</li>
+				<li>Select [Node]-[Express Project], and push [Next] button.</li>
+				<li>Enter [Project name], and push [Finish] button.</li>
+				</ol>
+				</p>
+				
+				<h3>Debugging</h3>
+				<p>
+				<ol>
+				<li>Open the JavaScript source files that you want to set breakpoints.</li>
+				<li>Double-click on the ruler at the left end of the line you want to set a breakpoint.</li>
+				<li>If you want to remove a breakpoint, double-click on the ruler again.</li>
+				<li>Select the main source file of Node Application on the Project Explorer, open the context menu by right-clicking, select the [Debug As]-[Node Application] menu.</li>
+				</ol>
+				</p>
+
 		        <h3>Installing</h3>
+		        <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse"><img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
           		<pre>Update Site : <a href="http://www.nodeclipse.org/updates">http://www.nodeclipse.org/updates</a></pre>
+
           		<h3>Fork me on GitHub</h3>
           		<p>
-          			You can also clone the <a href="https://github.com/Nodeclipse/nodeclipse">project</a>
+          			You can also clone the <a href="https://github.com/Nodeclipse/nodeclipse-1">project</a>
           			 with <a href="http://git-scm.com">Git</a> by running:
 				</p>
 				<pre>$ git clone git@github.com:Nodeclipse/nodeclipse.git</pre>
 				<pre><s>$ git clone git://github.com/lambgao/nodeclipse</s></pre>
 				<h3>Contact</h3>
 				<p>
-					Not hesitate to contact me. Feel free to send 
-					<a title="Send me an email" href="mailto:dev@nodeclipse.org">email</a> to me. 
+					Please report the <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">bugs</a>.<br>
+					Or please send me an <a title="Send me an email" href="mailto:dev@nodeclipse.org">email</a>.
 				</p>
         	</div>
 </div>
@@ -69,5 +141,17 @@
   })();
 
 </script>
-</body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40088581-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
 </html>
