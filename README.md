@@ -19,6 +19,7 @@ which Node.js development is easy for any user from beginner to professional.
 - Modify project generating features adding support for [JSHint](http://www.jshint.com/) integration for Eclipse, [developed by EclipseSource](https://github.com/eclipsesource/jshint-eclipse)  
 	You had to set project property for JSHint for each project creating. It was boring work.
 	Nodeclipse 0.3 will set them automatically when generating Node project and Express project.
+
 	You should install JSHint integration for Eclipse.
 	Download site: http://github.eclipsesource.com/jshint-eclipse/updates/
 - Update template for new project
