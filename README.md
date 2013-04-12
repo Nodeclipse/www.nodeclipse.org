@@ -17,14 +17,16 @@ which Node.js development is easy for any user from beginner to professional.
 ## What's new (ver 0.3.0)
 
 - Modify project generating features adding support for [JSHint](http://www.jshint.com/) integration for Eclipse, [developed by EclipseSource](https://github.com/eclipsesource/jshint-eclipse)  
+	You had to set project property for JSHint for each project creating. It was boring work.
+	Nodeclipse 0.3 will set them automatically when generating Node project and Express project.
+	You should install JSHint integration for Eclipse.
 	Download site: http://github.eclipsesource.com/jshint-eclipse/updates/
 - Update template for new project
 * Add README.md template
 * Add hello-world-server.js
 * Add package.json (This is good practice)
 * [Publish](http://marketplace.eclipse.org/quickstart) on Eclipse marketplace
-
-* [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
+* [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)
 * [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
 
 ## Vision
