@@ -2,10 +2,7 @@
 
 ![nodeclipse-logo](nodeclipse-logo-rough.png)
 
-We have released version 0.3.0 . Enjoy!
-
-Update site has been changed from [https://github.com/tomotaro1065/nodeclipse/updates](https://github.com/tomotaro1065/nodeclipse/updates)
- to [http://www.nodeclipse.org/updates](http://www.nodeclipse.org/updates)
+We have released version 0.3. Enjoy!
 
 Moved from [https://github.com/tomotaro1065/nodeclipse](https://github.com/tomotaro1065/nodeclipse)
  to [https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1) .
@@ -14,19 +11,22 @@ Moved from [https://github.com/tomotaro1065/nodeclipse](https://github.com/tomot
 The purpose of Nodeclipse is to create environment in 
 which Node.js development is easy for any user from beginner to professional. 
 
-## What's new (ver 0.3.0)
+## What's new (ver 0.3)
 
-- Modify project generating features adding support for [JSHint](http://www.jshint.com/) integration for Eclipse, [developed by EclipseSource](https://github.com/eclipsesource/jshint-eclipse)  
-	You had to set project property for JSHint for each project creating. It was boring work.<br/>
+- Add support for [JSHint](http://www.jshint.com/) integration for Eclipse, [developed by EclipseSource](https://github.com/eclipsesource/jshint-eclipse)  
+	You had to set project property for JSHint for each project creating. It was boring task.<br/>
 	Nodeclipse 0.3 will set them automatically when generating Node project and Express project.<br/>
 	You should install JSHint integration for Eclipse.<br/>
-	Download site: http://github.eclipsesource.com/jshint-eclipse/updates/
+	Update site: http://github.eclipsesource.com/jshint-eclipse/updates/
 - Update template for new project
 * Add README.md template
 * Add hello-world-server.js
 * Add package.json (This is good practice)
 * [Publish](http://marketplace.eclipse.org/quickstart) on Eclipse marketplace
 * [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)
+	You can pass arguments to application and node.js setting on [Debug configration...]-[Node Application]-[&ltyour configration name&gt]-[Arguments].<br/>
+	You can also set arguments on [Run configuration...].<br/>
+	![Screen shot](Arguments.png)
 * [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
 
 ## Vision
@@ -43,12 +43,12 @@ We can't develop everything at once, but we let you know what are the best thing
 * NPM support
 * Debugging - Breakpoint, Trace, etc... via [Eclipse debugger plugin for V8](http://code.google.com/p/chromedevtools/)
 * Generating Express project
-* Support for [JSHint](http://www.jshint.com/)
+* Support for [JSHint](http://www.jshint.com/).<br/>
 	Download site: http://github.eclipsesource.com/jshint-eclipse/updates/
 * Support for Juno
 
 ## Installing
-
+Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse"><img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a> into a running Eclipse Indigo workspace to install Nodeclipse.
 Download site : http://www.nodeclipse.org/updates  
 
 ## Usage
