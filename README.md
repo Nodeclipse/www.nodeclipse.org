@@ -1,6 +1,6 @@
 # Nodeclipse - Node.js support in Eclipse IDE
 
-![nodeclipse-logo](nodeclipse-logo-rough.png)
+![nodeclipse-logo](Nodejs_logo_light.png)
 
 We have released version 0.3. Enjoy!
 
