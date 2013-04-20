@@ -112,6 +112,15 @@ Before starting development, please do
 
 ### Preparing environment
 
+#### Recommended way
+
+In Eclipse for Java or RCP developers
+
+1. Copy to clipboard git repository URL: <code>https://github.com/Nodeclipse/nodeclipse-1.git</code>
+2. File -> Import.. -> Git / Project from git
+
+#### Other way
+
 1. <code>git clone https://github.com/Nodeclipse/nodeclipse-1.git</code>
 2. [Download Eclipse](http://www.eclipse.org/downloads/) 
 3. File -> Import -> Existing Projects into Workspace
