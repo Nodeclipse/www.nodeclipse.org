@@ -28,6 +28,11 @@ which Node.js development is easy for any user from beginner to professional.
 	You can also set arguments on [Run configuration...].<br/>
 	![Screen shot](Arguments.png)
 * [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
+* [#5 When creating Node project and folder already exists, then add only .project file and don't add 3 files (README.md, hello-world-server.js, package.json)](https://github.com/Nodeclipse/nodeclipse-1/issues/5)
+* [#6 Add Express Project in main menu under File -> New (in Node perspective)](https://github.com/Nodeclipse/nodeclipse-1/issues/6)<br/>
+	If [Node Express Project] menu does not appear under File->New, reset [Node] perspective by right-clicking on the [Node] button, which is located perspective switching area.<br/>
+	![ResetPerspective](ResetPerspective.png)
+
 
 ## Vision
 
