@@ -9,5 +9,8 @@
    <feature url="features/org.chromium.sdk_0.3.9.201304201138.jar" id="org.chromium.sdk" version="0.3.9.201304201138">
       <category name="Nodeclipse"/>
    </feature>
+   <feature url="features/markdown.editor.feature_0.2.3/feature.xml" id="markdown.editor.feature" version="0.2.3">
+      <category name="Nodeclipse"/>
+   </feature>
    <category-def name="Nodeclipse" label="Nodeclipse"/>
 </site>
