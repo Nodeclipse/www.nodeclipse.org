@@ -59,9 +59,9 @@ We use [Semantic Versioning](http://semver.org/). Version is MAJOR.MINOR.PATCH, 
 - PATCH indicates that is bug-fix
 
 
-### 0.4 (TBD)
+### 0.5 (TBD)
 
-TBD
+- Eclipse 4.3 Kepler support
 
 ### Ideas, proposals, work-in-progress etc.
 - Improving Code Assist
@@ -113,7 +113,8 @@ In Eclipse for Java or RCP developers
 LambGao 魔都 https://github.com/Nodeclipse (original creator v0.1.8)   
 Scott Elcomb https://github.com/psema4  
 Tomoyuki Inagaki https://github.com/tomotaro1065 (debugging integration v0.2) [blog](http://d.hatena.ne.jp/tomotaro1065/)   
-Paul Verest https://github.com/PaulVI/  (Vision, readme, reference to plugings) [blog](https://github.com/PaulVI/blog)   
+Paul Verest https://github.com/PaulVI/  (Vision, readme, reference to plugings) [blog](https://github.com/PaulVI/blog)  
+Pushkar Gupte (together for 0.4)
 
 ## Contacts
 Do not hesitate to contact developers. 
