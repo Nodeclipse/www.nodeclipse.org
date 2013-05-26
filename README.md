@@ -114,7 +114,7 @@ LambGao 魔都 https://github.com/Nodeclipse (original creator v0.1.8)
 Scott Elcomb https://github.com/psema4  
 Tomoyuki Inagaki https://github.com/tomotaro1065 (debugging integration v0.2) [blog](http://d.hatena.ne.jp/tomotaro1065/)   
 Paul Verest https://github.com/PaulVI/  (Vision, readme, reference to plugings) [blog](https://github.com/PaulVI/blog)  
-Pushkar Gupte (together for 0.4)
+Pushkar Gupte https://github.com/pushkar85 (together for 0.4)
 
 ## Contacts
 Do not hesitate to contact developers. 
