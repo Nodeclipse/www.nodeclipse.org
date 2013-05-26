@@ -24,3 +24,8 @@ Learning a bit of Eclipse for developing Node.js will help you even if you don't
  
  Whereas [JDK (Java Development Kit)](http://en.wikipedia.org/wiki/JDK) is currently 88MB,
   has a lot of use cases, languages. Some features are new, some are outdated.
+  
+## Starting with Node.js
+
+[How do I get started with Node.js? (wiki on Stackoverflow)]
+(http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)  
