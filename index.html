@@ -38,12 +38,12 @@
                     <li><a href="img/Nodeclipse_logo_light.png" class="logos">Logo</a></li>
                     <li><a href="http://www.nodeclipse.org/updates/" class="download">Download</a></li>
                     <li><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
-                     title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse">
-  			<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
-  			</a></li>
+                     title="Drag and drop into a running Eclipse to install Nodeclipse">
+			  			<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+			  			</a></li>
                     <li><a href="https://github.com/Nodeclipse/eclipse-node-ide/#eclipse-nodejs-ide" class="download">Enide</a></li>
                     <li><a href="http://sourceforge.net/projects/nodeclipse/" class="download">NTS</a></li>
-                    <li><a href="http://nodeclipse.github.io/" class="blog">Developers</a></li>
+                    <li><a href="http://nodeclipse.github.io/" class="blog">Developing</a></li>
                 </ul>
             </div>
         
@@ -65,15 +65,17 @@
 
 			<h3>Announces</h3>
 			<p>
-		        		2013-05-19<br/>
-						We have released version 0.4 . Now, you can try it. And enjoy!
+        		2013-05-19<br/>
+				We have released version 0.4 . Now, you can try it. And enjoy!
 			</p>			
 			<p>
-				There was slow Internet connection, and deny of service
+				2012-05-22<br/>
+				<font size="2">There was slow Internet connection, and deny of service
 				("No repository found" message in Eclipse)
 				around period from 2012-05-22 21:00 UTC to 2012-05-23 9:30 UTC.
 				This should be related to cloud provider hosting GitHub pages.
-				Please report if you are unable to install. We look carefully.
+				Please report if you are unable to install. We look carefully.</font></br>
+				Take a look at <a href="https://status.github.com/messages/">GitHub System Status</a> before reporting issue.
 			</p>
 
 			<h3>Usage</h3>
@@ -107,20 +109,28 @@
 				If you have not installed <a href="http://www.nodejs.org/">Node.js</a> yet,
 				please <a href="http://www.nodejs.org/download/">install</a> it first.<br/>
 				Then, please install Express as follows.
-
+				<!-- for Windows
+				<pre>$ npm install -g express</pre><br/>
+				-->
 				<pre>$sudo npm install -g express</pre><br/>
 				</p>
 
 				<p>
-		        Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse"><img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a> into a running Eclipse Indigo workspace to install Nodeclipse.
+		        Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
+		         title="Drag and drop into a running Eclipse to install Nodeclipse">
+		         <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+		         </a> into a running Eclipse to install Nodeclipse.</br>
+		         Or use update site:
 
           		<pre>Update Site : <a href="http://www.nodeclipse.org/updates">http://www.nodeclipse.org/updates</a></pre>
 				</p>
 
+				<!-- 
 				<p>
 				You should install JSHint integration for Eclipse.<br/>
 				Update site: <a href="http://github.eclipsesource.com/jshint-eclipse/updates/">http://github.eclipsesource.com/jshint-eclipse/updates/</a></li>
 				</p>
+				-->
 				
 				<h3>Features</h3>
 				<ul>
@@ -154,20 +164,49 @@
 				</ol>
 				</p>
 
-          		<h3>Fork me on GitHub</h3>
+				<h3><a name="support" class="anchor" href="#support"></a>Support</h3>
+				<p>				
+				<ul>
+					<li>How do I? -- <a href="http://stackoverflow.com/questions/ask">StackOverflow</a>!</li>
+					<li>I got this error, why? -- <a href="http://stackoverflow.com/questions/ask">StackOverflow</a>!</li>
+					<li>I got this error and I'm sure it's a bug -- file an <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">issue</a>!</li>
+					<li>I have an idea/request -- file an <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">issue</a>!</li>
+					<li>Why do you? -- <a href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse">Nodeclipse forum(Mailing list)</a>!</li>
+					<li>When will you? -- <a href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse">Nodeclipse forum(Mailing list)</a>!</li>
+				</ul>
+				</p>
+				<p>
+				Should you report a bug, please include the following:
+				<ol>
+					<li>Eclipse version number (like 4.2.2 or 3.8.0)</li>
+					<li>Eclipse distribution (e.g. Eclipse for JEE Developers)</li>
+					<li>A detailed description of the steps necessary to reproduce the problem.</li>
+					<li>The '.log' file from the directory '.metadata' in your workspace.</li>
+				</ol>
+				</p>
+			
+
+          		<h3>Fork me on <a href="https://github.com/Nodeclipse">GitHub</a></h3>
           		<p>
-          			You can also clone the <a href="https://github.com/Nodeclipse/nodeclipse-1">project</a>
+          			You can also clone the <a href="https://github.com/Nodeclipse/nodeclipse-1">nodeclipse-1 project</a>
           			 with <a href="http://git-scm.com">Git</a> by running:
 				</p>
 				<pre>$ git clone git://github.com/Nodeclipse/nodeclipse-1.git</pre>
+				<!--
 				<pre><s>$ git clone git://github.com/tomotaro1065/nodeclipse.git</s></pre>
 				<pre><s>$ git clone git://github.com/Nodeclipse/nodeclipse.git</s></pre>
 				<pre><s>$ git clone git://github.com/lambgao/nodeclipse</s></pre>
+				-->
+				
 				<h3>Contact</h3>
 				<p>
-					Please report the <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">bugs</a>.
+					Please report <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">bugs</a>.
 					Please visit the <a href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse">Nodeclipse forum(Mailing list)</a>.
-					Please send me an <a title="Send me an email" href="mailto:dev@nodeclipse.org">email</a>.<br/>
+					Please send us <a title="Send me an email" href="mailto:dev@nodeclipse.org">email</a>.<br/>
+				</p>
+				
+				<p>
+					Looking for webmaster.
 				</p>
         	</div>
 </div>
