@@ -1,0 +1,94 @@
+---
+layout: nil
+title: SHARE
+---
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta content="nodeclipse,Nodeclipse,node.js,eclipse pulgin,ide,node,debug" name="keywords">
+    <link type="image/x-icon" rel="icon" href="http://www.nodeclipse.org/favicon.ico">
+    <link type="image/x-icon" rel="shortcut icon" href="http://www.nodeclipse.org/favicon.ico">
+    <link rel="stylesheet" href="http://www.nodeclipse.org/pipe.css">
+	<title>Nodeclipse -- Node support for Eclipse</title>
+	<style>
+		ul {
+			padding: 0;
+			margin: 0;
+			font-size: 14px;
+		}
+		ol {
+			padding: 0;
+			margin: 0;
+			font-size: 14px;
+		}
+	</style>
+</head>
+<body class="int" id="logos">
+    <div id="intro" class="interior">
+        <a href="http://www.nodejs.org/" title="Go back to the home page">
+            <img id="logo" src="http://nodejs.org/logo.png" alt="node">
+        </a>
+    </div>
+    <div id="content" class="clearfix">
+            <div id="column2" class="interior">
+                <ul>
+                    <li><a href="http://www.nodeclipse.org/" class="home">Home</a></li>
+                    <li><a href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse" class="community">Community</a></li>
+                    <li><a href="https://github.com/Nodeclipse/nodeclipse-blog#blog" class="blog">Blog</a></li>
+                    <li><a href="http://www.nodeclipse.org/share.html" class="docs current">SHARE</a></li>
+                    <!-- 
+                    <li><a href="http://nodejs.org/api/" class="docs">Docs</a></li>
+                     -->
+                    <li><a href="img/Nodeclipse_logo_light.png" class="logos">Logo</a></li>
+                    <li><a href="http://www.nodeclipse.org/updates/" class="download">Download</a></li>
+                    <li><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
+                     title="Drag and drop into a running Eclipse to install Nodeclipse">
+			  			<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+			  			</a></li>
+                    <li><a href="https://github.com/Nodeclipse/eclipse-node-ide/#eclipse-nodejs-ide" class="download">Enide</a></li>
+                    <li><a href="http://sourceforge.net/projects/nodeclipse/" class="download">NTS</a></li>
+                    <li><a href="http://nodeclipse.github.io/" class="blog">Developing</a></li>
+                    <li><a href="https://github.com/Nodeclipse/coffeescript-eclipse" class="blog">Coffee</a></li>
+                </ul>
+            </div>
+        
+            <div id="column1" class="interior">
+            
+  <h1>SHARE</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+        	</div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31140487-1']);
+  _gaq.push(['_setDomainName', 'nodeclipse.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40088581-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
