@@ -20,8 +20,9 @@ We got 2 'formal' email. One saying that some "Investment Group" were applying t
 	 
 and 10 more domain.
 	 
-At first we were surprised. And then after small discussion we bought <code>nodeclipse.com<code> domain directly at our registrator.
-It is not big sum of money.
+At first we were surprised. And then after small discussion (90% chance that it is some sort of sales)
+ we bought <code>nodeclipse.com<code> domain directly at our registrator.
+It is not big sum of money, in the end.
 
 This way we came to that Nodeclipse is our brand, and we somehow need to care about it.
 
