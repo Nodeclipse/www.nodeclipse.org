@@ -32,7 +32,9 @@ We can't develop everything at once, but we let you know what are the best thing
 * Support for Juno
 
 ## Installing
-Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse"><img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a> into a running Eclipse Indigo workspace to install Nodeclipse.
+Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
+ title="Drag and drop into a running Eclipse to install Nodeclipse">
+ <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a> into a running Eclipse to install Nodeclipse.  
 Download site : http://www.nodeclipse.org/updates  
 
 ## Usage
