@@ -18,7 +18,7 @@ Update site: `http://www.nodeclipse.org/updates/staging/`
 
 I have already started using it.
 
-![GFM-Viewer.PNG](../img/GFM-Viewer.PNG)
+![GFM-Viewer.PNG](/img/GFM-Viewer.PNG)
 
 We will let you know if there are some issues.
 
@@ -28,6 +28,7 @@ Best regards,
 UPDATE:
 
 I have noticed that GFM Viewer (as well as GitHub pages), doesn't show image referenced as `![GFM-Viewer.PNG](../img/GFM-Viewer.PNG)`
-Though Markdown HTML Preview does show.
+when used inside `_post` folder. Though Markdown HTML Preview does show.
+This actually is sright, as `_post` folder content will get other path when published. 
 
 
