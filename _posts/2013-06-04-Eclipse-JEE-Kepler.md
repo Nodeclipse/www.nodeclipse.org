@@ -15,7 +15,7 @@ title: Eclipse JEE Kepler packaging
  
 Eclipse JEE Kepler also comes with EGit and m2e (Maven Integration for Eclipse) included.
 
-As RCP/RAP packaging also includes m2e, it is a sign of beiing on road on Maven/Tycho adoption. 
+As RCP/RAP packaging also includes m2e, it is a sign of beiing on road to mass Maven/Tycho adoption. 
  
 Best regards,  
 [Paul Verest](https://github.com/PaulVI)
