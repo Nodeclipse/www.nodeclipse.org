@@ -48,6 +48,38 @@ but what if to reference other classes in JavaScript by using relative file name
 
 Dear Nodeclipse users, just use JSdoc more. Any way it is good practice to document your code any way, and
 
-Wish us good luck!
+Wish us good luck! Support us.
 
 [Paul Verest](https://github.com/PaulVI), [Nodeclipse team](https://github.com/Nodeclipse)
+
+P.S. 
+
+Hint: In Eclipse with JSDT (you have it when Nodeclipse >0.4 is installed) select class/function, press <kbd>Alt+Shift+J</kbd>
+
+```js
+/**
+ * @
+ */
+function(){
+	//
+};
+```
+
+![javascript-annotation-support.png](/img/javascript-annotation-support.png)
+
+Notes/resources
+
+
+Google stack [Annotating JavaScript for the Closure Compiler](https://developers.google.com/closure/compiler/docs/js-for-compiler)  
+http://stackoverflow.com/questions/4880191/required-annotation-in-javascript-files --> wiki.commonjs.org/wiki/Modules/AsynchronousDefinition 
+
+JetBrains http://blog.jetbrains.com/webide/2012/10/validating-javascript-code-with-jsdoc-types-annotations/ supports 
+[Google Closure types syntax](https://developers.google.com/closure/compiler/docs/js-for-compiler#types)
+
+http://code.google.com/p/javascript-annotation/
+> This program gives JavaScript developers an easy way to create modular JavaScript by providing means to load files with a Java preprocessor.
+ This is particularly useful for developing JavaScript libraries. For JavaScript applications, systems like AngularJS are more appropriate.
+
+
+
+
