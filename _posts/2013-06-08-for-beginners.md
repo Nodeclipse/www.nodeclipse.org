@@ -8,7 +8,7 @@ title: Message for beginners
 
 <p class="meta">8 June 2013</p>
 
-# For Student
+# For beginners
 
 If you are beginner in fields of Software development, this article is for you.
 
