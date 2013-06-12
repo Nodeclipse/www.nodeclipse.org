@@ -8,7 +8,7 @@ title: JavaScript Annotations
 
 <p class="meta">12 June 2013</p>
 
-# Improving Code Assist
+## Improving Code Assist
 
 https://github.com/Nodeclipse/nodeclipse-1/issues/7 
 
@@ -27,7 +27,7 @@ That maid me think "well, maybe it is so. Scripting helps me get results quickly
  
 So what for JavaScript?
 
-# JavaScript Annotations
+## JavaScript Annotations
 
 JavaScript already has them in JSDoc, though for JavaScript it is not as standard thing as in Java JavaDoc.
 
