@@ -46,13 +46,13 @@ Most of the JSDoc annotations are for documentation purposes. What could help so
 If those `type` values are just basic JavaScript types, there's no big help,
 but what if to reference other classes in JavaScript by using relative file name, for example.
 
-Dear Nodeclipse users, just use JSdoc more. Any way it is good practice to document your code any way, and
+Dear Nodeclipse users, just [use JSdoc](http://usejsdoc.org/tags-type.html) more. Any way it is good practice to document your code, and
 
 Wish us good luck! Support us.
 
 [Paul Verest](https://github.com/PaulVI), [Nodeclipse team](https://github.com/Nodeclipse)
 
-P.S. 
+## P.S. 
 
 Hint: In Eclipse with JSDT (you have it when Nodeclipse >0.4 is installed) select class/function, press <kbd>Alt+Shift+J</kbd>
 
@@ -67,6 +67,8 @@ function(){
 
 ![javascript-annotation-support.png](/img/javascript-annotation-support.png)
 
+<!--
+
 Notes/resources
 
 
@@ -79,7 +81,9 @@ JetBrains http://blog.jetbrains.com/webide/2012/10/validating-javascript-code-wi
 http://code.google.com/p/javascript-annotation/
 > This program gives JavaScript developers an easy way to create modular JavaScript by providing means to load files with a Java preprocessor.
  This is particularly useful for developing JavaScript libraries. For JavaScript applications, systems like AngularJS are more appropriate.
+ 
+ 
 
-
+-->
 
 
