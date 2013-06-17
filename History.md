@@ -1,3 +1,8 @@
+---
+layout: nil
+title: Version History
+---
+
 # Version History
 
 TODO put all released version info here.
