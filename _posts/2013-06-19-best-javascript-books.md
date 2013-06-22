@@ -1,4 +1,11 @@
+---
+layout: share
+---
 
+{{ page.title }}
+================
+
+<p class="meta">19 June 2013</p>
 
 
 JavaScript: The Definitive Guide by David Flanagan, 
