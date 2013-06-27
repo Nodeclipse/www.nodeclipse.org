@@ -16,3 +16,6 @@ This time is was announced in 3 languages: [English](http://www.eclipse.org/org/
  
 [Kepler 10 Highlughts](http://www.eclipse.org/community/eclipse_newsletter/2013/june/article1.php) 
 
+In media:
+
+[InfoQ](http://www.infoq.com/news/2013/06/eclipse-kepler)
