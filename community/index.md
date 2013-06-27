@@ -1,5 +1,5 @@
 ---
-layout: share
+layout: community
 ---
 
 {{ page.title }}
