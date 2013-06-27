@@ -13,7 +13,9 @@ title: Nodeclipse update site in your local network
 If you are starting using Nodeclipse in a [big] team, you may have problem, that every developer needs
  to update Eclipse over [possibly] limited or unstable Internet connection. In this case you can:
  
-1. `git clone --depth 1 https://github.com/Nodeclipse/www.nodeclipse.org` to get all needed files on your device
+1. `git clone --depth 1 https://github.com/Nodeclipse/www.nodeclipse.org` to get all needed files on your device.
+ You can copy `www.nodeclipse.org` folder on USB stick or other devices. You also have this article
+ as `_posts\2013-06-22-Nodeclipse-update-site-in-your-network.md` file.
 2. `npm install http-server -g` to get [simple HTTP file server](https://github.com/nodeapps/http-server),
  you may want to use Apache or any other
 3. `http-server www.nodeclipse.org -p 8010`
