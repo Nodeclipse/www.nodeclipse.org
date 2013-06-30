@@ -1,9 +1,11 @@
 ---
-layout: share
+layout: community
 ---
 
 {{ page.title }}
 
 
 
-[Nodeclipse Google Group](https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse)
+[Nodeclipse Google Group (English)](https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse)
+
+[Chinese 中文](chinese)

@@ -1,6 +1,6 @@
 ---
 layout: nil
-title: SHARE
+title: Community
 ---
 <!DOCTYPE html>
 <html lang="en"><head>
@@ -10,7 +10,7 @@ title: SHARE
     <link type="image/x-icon" rel="icon" href="http://www.nodeclipse.org/favicon.ico">
     <link type="image/x-icon" rel="shortcut icon" href="http://www.nodeclipse.org/favicon.ico">
     <link rel="stylesheet" href="http://www.nodeclipse.org/pipe.css">
-	<title>Nodeclipse - Logos and Artworks</title>
+	<title>Nodeclipse -- Node support for Eclipse</title>
 	<style>
 		ul {
 			padding: 0;
@@ -33,11 +33,11 @@ title: SHARE
     <div id="content" class="clearfix">
             <div id="column2" class="interior">
                 <ul>
-                    <li><a href="/" class="home">Home</a></li>
-                   <li><a href="/community/" class="community">Community</a></li>
+                    <li><a href="http://www.nodeclipse.org/" class="home">Home</a></li>
+                    <li><a href="/community/" class="community current">Community</a></li>
                     <li><a href="https://github.com/Nodeclipse/nodeclipse-blog#blog" class="blog">Blog</a></li>
                     <li><a href="http://www.nodeclipse.org/share.html" class="docs">SHARE</a></li>
-                    <li><a href="http://www.nodeclipse.org/artworks.html" class="logos current">Logos</a></li>
+                    <li><a href="http://www.nodeclipse.org/artworks.html" class="logos">Logos</a></li>
                     <li><a href="http://www.nodeclipse.org/updates/" class="download">Download</a></li>
                     <li><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
                      title="Drag and drop into a running Eclipse to install Nodeclipse">
@@ -52,33 +52,10 @@ title: SHARE
         
             <div id="column1" class="interior">
             
-            <h1>LOGOS AND ARTWORKS</h1>
-            
-            <div>
-            <p>Current logo:</p>
-            <p><a href="img/Nodeclipse_logo_light.png">
-				<img alt="Nodeclipse_logo_ligh" src="img/Nodeclipse_logo_light.png" /></a></p>
-				
-			<p>The very first logo:</p>	
-			<p><a href="img/nodeclipse-logo-rough.png">
-				<img alt="nodeclipse-logo-rough.png" src="img/nodeclipse-logo-rough.png" /></a></p>	
-			
-			<p>If you have an idea or can do better logo let us know.
-			We don't promise we will use it, but at least we will put it here.</p>
-				
-			<p>Related to <a href="http://www.nodejs.org/logos/">Node.js logos</a>
-				and <a href="http://www.eclipse.org/artwork/">Eclipse artwork</a>
-			</p>	
-
-			<p>Use <a href="/img/icon-huge.png" class="home">this Eclipse wallpaper</a>.</p>
-			
-		<p>
-			Looking for webmaster. If you noticed any site problem, typos, etc, please 
-			<a href="https://github.com/Nodeclipse/www.nodeclipse.org/issues">raise an issue here</a>.
-		</p>
-
+            <div>            
+  			{{ content }}
 			</div>
- 
+
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -91,9 +68,11 @@ title: SHARE
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         })();
     </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-         	</div>
-         	
+        	</div>
+
 </div>
 
 <script type="text/javascript">
