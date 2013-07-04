@@ -39,6 +39,10 @@ Java is mostly used for Enterprise (big companies) software.
 Node.js is currently good for small and middle projects. It is already taking some share of all other languages,
 for example Python, because it is easier to start (Every developers know a bit of JavaScript)
   
+## JavaScript
+
+[JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## Starting with Node.js
 
 [How do I get started with Node.js? (wiki on Stackoverflow)]
