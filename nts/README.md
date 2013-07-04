@@ -4,7 +4,7 @@ layout: nts
 
 ## Nodeclipse NTS (Node Tool Suite)
 
-see [http://www.nodeclipse.org/nts/README](http://www.nodeclipse.org/nts/README)
+see <http://www.nodeclipse.org/nts/README>
 
 This is basically standard Eclipse with Node.js additional plugins.
 
