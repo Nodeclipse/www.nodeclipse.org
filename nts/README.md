@@ -14,6 +14,8 @@ or [download workspaces zip](https://sourceforge.net/projects/nodeclipse/files/N
 
 Check for updates and news on [Marketplace entry](http://marketplace.eclipse.org/content/nodeclipse-nts).
 
+Try <a href="http://www.nodeclipse.org/#support">support options</a>.
+
 ### Instructions
 
 0. If you don't have, get latest Node.js <http://www.nodejs.org/download/>
