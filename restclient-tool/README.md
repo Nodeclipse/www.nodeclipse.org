@@ -6,9 +6,10 @@ title: Nodeclipse --- REST client tool README
 
 ## REST Client
 
-
+<!-- 
 ![Rest-Client-View.png](Pictures/Rest-Client-View.png)
 ![](../img/Nodeclipse-NTS-Hello-world.png)
+-->
 
 Sources have migrated from [SVN](http://svn.codespot.com/a/eclipselabs.org/restclient-tool/trunk/)
  to [GitHub](https://github.com/Nodeclipse/restclient-tool/).
