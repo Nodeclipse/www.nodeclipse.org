@@ -1,25 +1,30 @@
+---
+layout: nil
+title: Nodeclipse - REST client tool
+---
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <meta content="nodeclipse,Nodeclipse,node.js,eclipse pulgin,ide,node" name="keywords">
+    <meta content="nodeclipse,Nodeclipse,node.js,eclipse pulgin,ide,node,debug" name="keywords">
     <link type="image/x-icon" rel="icon" href="http://www.nodeclipse.org/favicon.ico">
     <link type="image/x-icon" rel="shortcut icon" href="http://www.nodeclipse.org/favicon.ico">
     <link rel="stylesheet" href="http://www.nodeclipse.org/pipe.css">
-	<title>Nodeclipse -- 404 Not Found</title>
+	<title>Nodeclipse -- REST client tool</title>
 	<style>
 		ul {
 			padding: 0;
 			margin: 0;
+			font-size: 14px;
+		}
+		ol {
+			padding: 0;
+			margin: 0;
+			font-size: 14px;
 		}
 	</style>
-	<script type="text/javascript">
-		function delayer() {
-			window.location = "http://www.nodeclipse.org/"
-		}
-	</script>
 </head>
-  <body class="int" id="logos" onLoad="setTimeout('delayer()', 5000)">
+<body class="int" id="logos">
     <div id="intro" class="interior">
         <a href="http://www.nodeclipse.org/" title="Go back to the home page">
             <img id="logo" src="http://nodejs.org/logo.png" alt="node">
@@ -42,29 +47,53 @@
                     <li><a href="/nts/" class="download">NTS</a></li>
                     <li><a href="http://nodeclipse.github.io/" class="blog">Developing</a></li>
                     <li><a href="https://github.com/Nodeclipse/coffeescript-eclipse" class="blog">Coffee</a></li>
-                    <li><a href="/restclient-tool/" class="blog">REST CLIENT</a></li>
+                    <li><a href="/restclient-tool/" class="blog current">REST CLIENT</a></li>
                 </ul>
-                <p class="twitter"><a href="http://twitter.com/nodejs">@nodejs</a></p>
             </div>
         
             <div id="column1" class="interior">
-              <h3>404 Not Found</h3>
-              <p>There is no such page hosted here, sorry.</p>
-              <p>Guess you're going to have to go <a href="/">home</a> and try again!</p>
-              <p>You will be redirected momentarily...</p>
+            
+            <div>            
+  			{{ content }}
+			</div>
 
-				<p>
-					Looking for webmaster. If you noticed any site problem, typos, etc, please 
-					<a href="https://github.com/Nodeclipse/www.nodeclipse.org/issues">raise an issue her</a>e.
-				</p>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'nodeclipse'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
         	</div>
+
 </div>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-31140487-1']);
   _gaq.push(['_setDomainName', 'nodeclipse.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40088581-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
