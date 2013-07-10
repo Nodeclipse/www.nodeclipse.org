@@ -1,11 +1,9 @@
 ---
-layout: nil
-title: Version History
+layout: home
+title: Nodeclipse -- Version History
 ---
 
 # Version History
-
-TODO put all released version info here.
 
 <h3>Version 0.4, 2013-05-19</h3>
 <ul>
@@ -23,7 +21,7 @@ TODO put all released version info here.
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/36">#36 Associate *.json files with JS Editor</a></li>
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/25">#25 Node perspective doesn't support working sets</a></li>
 
-## Version ver 0.3, 2013-04
+### Version ver 0.3, 2013-04
 
 - Add support for [JSHint](http://www.jshint.com/) integration for Eclipse, [developed by EclipseSource](https://github.com/eclipsesource/jshint-eclipse)  
 	You had to set project property for JSHint for each project creating. It was boring task.<br/>
@@ -45,8 +43,8 @@ TODO put all released version info here.
 	If [Node Express Project] menu does not appear under File->New, reset [Node] perspective by right-clicking on the [Node] button, which is located perspective switching area.<br/>
 	![ResetPerspective](img/ResetPerspective.png)
 	
-## Version ver 0.2
+### Version ver 0.2
 
 - Integrating Chromium Development Tools & Debugger.
 
-## Version ver 0.1	
+### Version ver 0.1	

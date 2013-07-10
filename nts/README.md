@@ -42,5 +42,5 @@ Try <a href="http://www.nodeclipse.org/#support">support options</a>.
 6. You default Workspace (folder where you keep you projects) is ..\ws, 
  e.g. <code>D:\Progs\nodeclipse-NTS-jee-kepler-win64\ws</code>
  
- To change it to more suitable place, e.g. <code>D:\Workspaces\nodeclipse-NTS-0410</code>
- copy provided workspace ws as template, or follow [configuration instructions](https://github.com/Nodeclipse/eclipse-node-ide#configuration).
+ To change it to more suitable place, e.g. <code>D:\Workspaces\nodeclipse-NTS-0410</code>,
+ copy provided workspace <code>ws</code> as template, or follow [configuration instructions](https://github.com/Nodeclipse/eclipse-node-ide#configuration).
