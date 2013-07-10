@@ -67,23 +67,17 @@ function(){
 
 ![javascript-annotation-support.png](/img/javascript-annotation-support.png)
 
-<!--
+### Notes/resources
 
-Notes/resources
+developers.google.com [Annotating JavaScript for the Closure Compiler](https://developers.google.com/closure/compiler/docs/js-for-compiler)  
 
+[@required annotation in javascript files](http://stackoverflow.com/questions/4880191/required-annotation-in-javascript-files)
+ --> <wiki.commonjs.org/wiki/Modules/AsynchronousDefinition> 
 
-Google stack [Annotating JavaScript for the Closure Compiler](https://developers.google.com/closure/compiler/docs/js-for-compiler)  
-http://stackoverflow.com/questions/4880191/required-annotation-in-javascript-files --> wiki.commonjs.org/wiki/Modules/AsynchronousDefinition 
+[JetBrains supports](http://blog.jetbrains.com/webide/2012/10/validating-javascript-code-with-jsdoc-types-annotations/)   
+ [Google Closure types syntax](https://developers.google.com/closure/compiler/docs/js-for-compiler#types)
 
-JetBrains http://blog.jetbrains.com/webide/2012/10/validating-javascript-code-with-jsdoc-types-annotations/ supports 
-[Google Closure types syntax](https://developers.google.com/closure/compiler/docs/js-for-compiler#types)
-
-http://code.google.com/p/javascript-annotation/
+<http://code.google.com/p/javascript-annotation/>  
 > This program gives JavaScript developers an easy way to create modular JavaScript by providing means to load files with a Java preprocessor.
  This is particularly useful for developing JavaScript libraries. For JavaScript applications, systems like AngularJS are more appropriate.
- 
- 
-
--->
-
 
