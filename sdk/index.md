@@ -10,6 +10,6 @@ This will help those developing with Node.js and willing to contribute to Nodecl
 
 ![Nodeclipse-SDK-About.png](..\img\Nodeclipse-SDK-About.png)
 
-It includs [WindowsBuilder](http://www.eclipse.org/windowbuilder/) for two way GUI development.
+It includes [WindowsBuilder](http://www.eclipse.org/windowbuilder/) for two way GUI development.
 
 ![WindowsBuilder Overview](http://www.eclipse.org/windowbuilder/images/wb_summary_shot.gif)
