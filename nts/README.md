@@ -29,7 +29,7 @@ Try <a href="http://www.nodeclipse.org/#support">support options</a>.
 
 3. Extract NTS.zip into folder where you keep our tools, e.g. D:\Progs\
 
-4. Open eclipse.exe from Eclipse folder, e.g. <code>D:\Progs\nodeclipse-NTS-jee-kepler-win64\eclipse\eclipse.exe</code>
+4. Open `eclipse.exe` from `eclipse` folder, e.g. <code>D:\Progs\nodeclipse-NTS-jee-kepler-win64\eclipse\eclipse.exe</code>
 
 5. If you have error messages like
 
@@ -44,3 +44,8 @@ Try <a href="http://www.nodeclipse.org/#support">support options</a>.
  
  To change it to more suitable place, e.g. <code>D:\Workspaces\nodeclipse-NTS-0410</code>,
  copy provided workspace <code>ws</code> as template, or follow [configuration instructions](https://github.com/Nodeclipse/eclipse-node-ide#configuration).
+ 
+### Ideas? Questions?
+
+Try <a href="http://www.nodeclipse.org/#support">support options</a> to connect with us. 
+ 
