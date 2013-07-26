@@ -16,7 +16,7 @@ title: Nodeclipse -- Version History
 <img src="img/Markdown.png" />
 </li>
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/37">#37 Enhancement: Ability to set a working directory</a>
-<img src="img/WorkingDirectory.png"
+<img src="img/WorkingDirectory.png" />
 </li>
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/36">#36 Associate *.json files with JS Editor</a></li>
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/25">#25 Node perspective doesn't support working sets</a></li>
