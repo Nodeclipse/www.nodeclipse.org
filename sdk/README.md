@@ -26,9 +26,12 @@ Try <a href="http://www.nodeclipse.org/#support">support options</a>.
  <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
  For example "Java Platform (JDK) 7u25"
 
-2. [Download Nodeclipse SDK](https://sourceforge.net/projects/nodeclipse/files/Standard-Development-Kit/) for your operating system (currently only Windows x64)
+2. [Download Nodeclipse SDK](https://sourceforge.net/projects/nodeclipse/files/Standard-Development-Kit/) for your operating system (currently only Windows x64).
 
 3. Extract nodeclipse-SDK-kepler-win64-xxxx-xxxxxxxx.zip into folder where you keep our tools, e.g. D:\Progs\
+
+4. It is recommended (and required by some projects) to use [Maven/Tycho build](http://eclipse.org/tycho/). [Download Apache Maven](http://maven.apache.org/download.cgi).
+ Make sure you have updated [plugins to latest version](https://cwiki.apache.org/confluence/display/MAVEN/AetherClassNotFound) if using Maven 3.1. (We have yet migrated.)
 
 4. Open `eclipse.exe` from `eclipse` folder, e.g. <code>D:\Progs\nodeclipse-SDK-kepler-win64\eclipse\eclipse.exe</code>
 
