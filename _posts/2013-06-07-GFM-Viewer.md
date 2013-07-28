@@ -13,8 +13,8 @@ I am glad to share that I have found GitHub Flavored Markdown viewer plugin for 
 It was created by [Satyagraha](https://github.com/satyagraha).
 
 There was no update site, but sources compiled without any questions, so I have published GMF Viewer
- on [Nodeclipse site](http://www.nodeclipse.org/)  
-Update site: `http://www.nodeclipse.org/updates/staging/`
+ on [Nodeclipse site](http://www.nodeclipse.org/).   
+Check for latest version at [Marketplace](http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site).
 
 I have already started using it.
 
