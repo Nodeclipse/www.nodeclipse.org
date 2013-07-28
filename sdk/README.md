@@ -31,7 +31,7 @@ Try <a href="http://www.nodeclipse.org/#support">support options</a>.
 3. Extract nodeclipse-SDK-kepler-win64-xxxx-xxxxxxxx.zip into folder where you keep our tools, e.g. D:\Progs\
 
 4. It is recommended (and required by some projects) to use [Maven/Tycho build](http://eclipse.org/tycho/). [Download Apache Maven](http://maven.apache.org/download.cgi).
- Make sure you have updated [plugins to latest version](https://cwiki.apache.org/confluence/display/MAVEN/AetherClassNotFound) if using Maven 3.1. (We have yet migrated.)
+ Make sure you have updated [plugins to latest version](https://cwiki.apache.org/confluence/display/MAVEN/AetherClassNotFound) if using Maven 3.1. (We have not yet migrated.)
 
 4. Open `eclipse.exe` from `eclipse` folder, e.g. <code>D:\Progs\nodeclipse-SDK-kepler-win64\eclipse\eclipse.exe</code>
 
