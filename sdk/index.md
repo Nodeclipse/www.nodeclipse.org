@@ -16,4 +16,4 @@ It includes [WindowsBuilder](http://www.eclipse.org/windowbuilder/) for two way 
 
 ![WindowsBuilder Overview](http://www.eclipse.org/windowbuilder/images/wb_summary_shot.gif)
 
-See [README]
+See [README](README)
