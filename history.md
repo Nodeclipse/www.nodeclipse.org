@@ -15,11 +15,12 @@ title: Nodeclipse -- Version History
 <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/29">29 Integrate Markdown Editor, add Markdown HTML preview to Node perspective</a><br/>
 <img src="img/Markdown.png" />
 </li>
-<li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/37">#37 Enhancement: Ability to set a working directory</a>
+<li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/37">#37 Enhancement: Ability to set a working directory</a><br/>
 <img src="img/WorkingDirectory.png" />
 </li>
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/36">#36 Associate *.json files with JS Editor</a></li>
 <li><a href="https://github.com/Nodeclipse/nodeclipse-1/issues/25">#25 Node perspective doesn't support working sets</a></li>
+</ul>
 
 ### Version ver 0.3, 2013-04
 
@@ -47,4 +48,9 @@ title: Nodeclipse -- Version History
 
 - Integrating Chromium Development Tools & Debugger.
 
-### Version ver 0.1	
+### Version ver 0.1
+
+- Node perspective
+- Run as Node application
+- Console integration	
+- ...
