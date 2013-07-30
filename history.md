@@ -48,4 +48,9 @@ title: Nodeclipse -- Version History
 
 - Integrating Chromium Development Tools & Debugger.
 
-### Version ver 0.1	
+### Version ver 0.1
+
+- Node perspective
+- Run as Node application
+- Console integration	
+- ...
