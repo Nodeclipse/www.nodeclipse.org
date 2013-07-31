@@ -13,13 +13,13 @@ It is simple and nice.
 
 On the other hand, it is other framework that you have to learn. If you are developing also in Java or Ruby,
 keeping in mind all those peculiarities, when you not using them everyday, is not what you should pay attention.
-*Why there are not good framework, that would work in Java, Ruby and Node.js?* 
+*Why there are no good framework, that would work in Java, Ruby and Node.js?* 
 
 Every platform is reinventing wheel. When long enough time passed by, it can grasp the latest ideas and neglect what is fading away.
 That's good. What is bad is that those framework never care to be compatible or share libraries. In fact, on the contrary
  they tend to make everything their own.
  
-I invite for open discussion [here (just modify & send pull request)](https://raw.github.com/Nodeclipse/www.nodeclipse.org/master/_posts/2013-07-30-Universal-webframeworks.md),
+I invite for open discussion [here (just modify & send pull request)](https://github.com/Nodeclipse/www.nodeclipse.org/blob/master/_posts/2013-07-30-Universal-webframeworks.md),
  or add comments below. Share good framework you know, that have some features, ideas, templates shared with other languages, platforms.
  
 Recently [Wikipedia articles says, that web frameworks](http://en.wikipedia.org/wiki/Web_application_framework#Features) should take care about:
