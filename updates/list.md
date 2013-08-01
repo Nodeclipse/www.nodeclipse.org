@@ -27,3 +27,6 @@ JSON Editor Plugin
 
 ## Eclipse SDK
 
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator)
