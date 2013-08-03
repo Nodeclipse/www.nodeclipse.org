@@ -21,6 +21,9 @@ JSDT jQuery Integration
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 JSON Editor Plugin
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522" class="drag">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+TypeSctipt Editor
 
 ## Eclipse SDK
 
