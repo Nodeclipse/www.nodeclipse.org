@@ -4,6 +4,9 @@ layout: nil
 
 # Nodeclipse Plugins List
 
+Even more plugin listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide),
+the list below is for convenience and quick way to install.
+
 ## Node.js
 
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140">
