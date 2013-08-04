@@ -18,9 +18,21 @@ Eclipse 4.x Chrome Theme
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=58952">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 JSDT jQuery Integration
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147">
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-GitHub Mylyn Connector
+JSON Editor Plugin
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522" class="drag">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+TypeSctipt Editor
 
 ## Eclipse SDK
 
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator) [overview](http://javatime.no/blog/inplace-activator-overview/)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+GitHub Mylyn Connector
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Atlassian Connector for Eclipse](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
