@@ -38,4 +38,5 @@ TypeSctipt Editor
 GitHub Mylyn Connector
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[Atlassian Connector for Eclipse](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
+[Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
+
