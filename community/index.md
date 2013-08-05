@@ -10,6 +10,10 @@ layout: community
 
 [Suggest your ideas and vote for ideas](http://nodeclipse.uservoice.com/)
 
+[Q&A](q-and-a) based on [StackOverflow](http://stackoverflow.com/tags/nodeclipse) and [issues](https://github.com/Nodeclipse/nodeclipse-1/issues).
+
+Help us to collect and store knowledge - [Edit here](https://github.com/Nodeclipse/www.nodeclipse.org/).
+
 
 ## In other languages
 
