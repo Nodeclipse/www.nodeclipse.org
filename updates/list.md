@@ -43,3 +43,9 @@ GitHub Mylyn Connector
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 
+## Other lists
+
+https://code.google.com/p/sandipchitaleseclipseplugins/
+
+
+
