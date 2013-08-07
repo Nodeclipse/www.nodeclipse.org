@@ -33,15 +33,15 @@ TypeSctipt Editor
 
 ## Nodeclipse Eclipse Development
 
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator) [overview](http://javatime.no/blog/inplace-activator-overview/)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 GitHub Mylyn Connector
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator) [overview](http://javatime.no/blog/inplace-activator-overview/)
 
 ## Other lists
 
