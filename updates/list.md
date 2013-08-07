@@ -42,6 +42,9 @@ GitHub Mylyn Connector
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator) [overview](http://javatime.no/blog/inplace-activator-overview/)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
 
 ## Other lists
 
