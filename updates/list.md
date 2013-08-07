@@ -33,6 +33,9 @@ TypeSctipt Editor
 
 ## Nodeclipse Eclipse Development
 
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 GitHub Mylyn Connector
