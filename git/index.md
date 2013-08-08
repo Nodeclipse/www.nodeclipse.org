@@ -62,6 +62,16 @@ As usual, final point were set after looking at documentation.
 <http://wiki.eclipse.org/EGit/User_Guide#Adding_a_Remote_Configuration>
 Though it takes time, in the end it take less time to read documentation, than solve arising issues one by one.
 
+## commit
+
+`Commit...` <kbd>Ctrl+#<kbd>
+
+When committing often, you cat select `Amend Previous Commit`
+
+![](commit-dialog-amend-previous-commit.PNG) 
+
+This way you can keep commit history more meaningful.
+
 ## pull & push
 
 > Q: pull with uncommitted changes
