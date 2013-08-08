@@ -103,3 +103,6 @@ Try `git help stash`
     $ git stash pop
     ... continue hacking ...
 
+## gitignore
+
+Take a look at [addon](addon)
