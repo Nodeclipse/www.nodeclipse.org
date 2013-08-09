@@ -39,3 +39,7 @@ has not yet Node.js frameworks, but is good example for references.
 
 **Are there Universal web frameworks**? 
 
+UPDATE:
+
+Scaffolding using JS MVC frameworks seems interesting direction.  
+<https://github.com/robfletcher/grails-angular-scaffolding>

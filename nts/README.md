@@ -2,7 +2,7 @@
 layout: nts
 ---
 
-## Nodeclipse NTS (Node Tool Suite)
+## Nodeclipse NTS (Node Tool Suite) README
 
 see <http://www.nodeclipse.org/nts/README>
 
@@ -14,8 +14,6 @@ or [download workspaces zip](https://sourceforge.net/projects/nodeclipse/files/N
 
 Check for updates and news on [Marketplace entry](http://marketplace.eclipse.org/content/nodeclipse-nts).
 
-Try <a href="http://www.nodeclipse.org/#support">support options</a>.
-
 ### Instructions
 
 0. If you don't have, get latest Node.js <http://www.nodejs.org/download/>
@@ -25,7 +23,7 @@ Try <a href="http://www.nodeclipse.org/#support">support options</a>.
  <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
  For example "Java Platform (JDK) 7u25"
 
-2. Download Node Tool Suite (NTS) for your operating system (currently only Windows x64 & x32)
+2. [Download Node Tool Suite (NTS) for your operating system (currently only Windows x64 & x32)](https://sourceforge.net/projects/nodeclipse/files/Node-Tool-Suite/)
 
 3. Extract NTS.zip into folder where you keep our tools, e.g. D:\Progs\
 
