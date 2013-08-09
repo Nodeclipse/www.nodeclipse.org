@@ -11,7 +11,7 @@ the list below is for convenience and quick way to install.
 
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-Nodeclipse 0.4.0
+[Nodeclipse (Nodeclipse core, Chromium Tools, Marddown Editor)](http://www.nodeclipse.org)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236" class="drag">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
@@ -48,10 +48,15 @@ GitHub Mylyn Connector
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 
 ## Other lists
 
-https://code.google.com/p/sandipchitaleseclipseplugins/
+<https://code.google.com/p/sandipchitaleseclipseplugins/>
+
+Let us know more.
 
 
 
