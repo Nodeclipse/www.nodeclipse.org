@@ -9,7 +9,7 @@ see <http://www.nodeclipse.org/nts/mini/README>
 This is basically minimal Eclipse with basic Nodeclipse plugins
  (Nodeclipse core, Chromium Tools, Markdown Editor, JSHint Integration).
 
-The intention was to try Nodeclipse .zip ditributon less than 100MB.
+The intention was to try Nodeclipse .zip distribution with minimal size.
 Based on Eclipse 3.8.2 Runtime, while our plans to shift to Eclipse 4.x platform.
 
 It has no Java Tools, no EGIt, no Marketplace client nor HTML Editor.
@@ -33,7 +33,7 @@ If you need any of these you [should download NTS instead](https://sourceforge.n
 6. You default Workspace (folder where you keep you projects) is ..\ws, 
  e.g. <code>D:\Progs\nodeclipse-*\ws</code>
  
- To change it to more suitable place, e.g. <code>D:\Workspaces\nodeclipse-NTS-0410</code>,
+ To change it to more suitable place, e.g. <code>D:\Workspaces\nodeclipse-*</code>,
  copy provided workspace <code>ws</code> as template, or follow [configuration instructions](https://github.com/Nodeclipse/eclipse-node-ide#configuration).
  
 ### Ideas? Questions?
