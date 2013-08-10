@@ -12,11 +12,10 @@ layout: community
 
 [Q&A](q-and-a) based on [StackOverflow](http://stackoverflow.com/tags/nodeclipse) and [issues](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
-Help us to collect and store knowledge - [Edit here](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/community).
-
 ## In other languages
 
-Help us to translate and add you content you like.
+Translate and add content that you like,  
+collect and store knowledge - [Edit here](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/community).
 
 [Chinese 中文](chinese), [German Deutsch](german), [Japanese 日本語](japanese), [Russian русский](russian), [Spanish español](spanish) ...
 
@@ -39,4 +38,6 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { z7x4m1 = new WufooForm();z7x4m1.initialize(options);z7x4m1.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
+
+Your feedback is important for us, as this way we know better our way.
 
