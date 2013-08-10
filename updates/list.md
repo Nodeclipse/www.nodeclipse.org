@@ -2,10 +2,13 @@
 layout: nil
 ---
 
+[home page](/)
+
 # Nodeclipse Plugins List
 
-Even more plugin listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide),
-the list below is for convenience and quick way to install.
+The list below is for convenience and quick way to install.  
+Just drag-and-drop such <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png">
+ button for the plugin that you need to Eclipse menu bar.
 
 ## Node.js Development
 
@@ -36,9 +39,6 @@ TypeSctipt Editor
 
 ## Nodeclipse Eclipse Development
 
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 GitHub Mylyn Connector
@@ -47,7 +47,7 @@ GitHub Mylyn Connector
 [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator) [overview](http://javatime.no/blog/inplace-activator-overview/)
+[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator), see [overview](http://javatime.no/blog/inplace-activator-overview/)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
@@ -57,7 +57,8 @@ GitHub Mylyn Connector
 
 ## Other lists
 
-<https://code.google.com/p/sandipchitaleseclipseplugins/>
+- Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide)
+- <https://code.google.com/p/sandipchitaleseclipseplugins/>
 
 Let us know more.
 
