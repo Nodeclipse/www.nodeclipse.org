@@ -2,4 +2,4 @@
 layout: community
 ---
 
-あなたを待って
+La espera de su ayuda.

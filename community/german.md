@@ -2,4 +2,4 @@
 layout: community
 ---
 
-あなたを待って
+warten auf Ihre Hilfe
