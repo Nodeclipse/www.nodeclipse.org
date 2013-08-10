@@ -8,7 +8,7 @@ layout: nil
 
 The list below is for convenience and quick way to install.  
 Just drag-and-drop such <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png">
- button for the plugin that you need to Eclipse menu bar above.
+ button for the plugin that you need to Eclipse menu bar above ([see tip how](/img/how-drap-an-drop-to-install.png)).
 
 ## Node.js Development
 
@@ -60,7 +60,7 @@ GitHub Mylyn Connector
 - Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide)
 - <https://code.google.com/p/sandipchitaleseclipseplugins/>
 
-Let us know more.
+[Let us know](/community) more.
 
 
 
