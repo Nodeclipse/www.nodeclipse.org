@@ -14,7 +14,7 @@ Just drag-and-drop such <img src="http://marketplace.eclipse.org/sites/all/modul
 
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[Nodeclipse (Nodeclipse core, Chromium Tools, Marddown Editor)](http://www.nodeclipse.org)
+[Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236" class="drag">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
