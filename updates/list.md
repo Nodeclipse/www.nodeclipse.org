@@ -54,6 +54,9 @@ GitHub Mylyn Connector
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+Nodeclipse Plugins List plugin
 
 ## Other lists
 
