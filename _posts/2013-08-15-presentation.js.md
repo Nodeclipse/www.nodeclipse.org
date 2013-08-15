@@ -1,6 +1,6 @@
 ---
 layout: share
-title: HTML5 presentations engines
+title: HTML5 presentation engines
 ---
 
 ## {{ page.title }}
@@ -14,7 +14,7 @@ Some previous reviews:
 
 What I think is worth attention now is:
 
-- Deck.js <http://imakewebthings.com/deck.js/> 3600 stars
+- Deck.js <http://imakewebthings.com/deck.js/> 3600 stars (not updated for 7 months)
 - Impress.js <http://bartaz.github.io/impress.js> 17000 stars
 - Reveal.js <http://lab.hakim.se/reveal-js/>, [code](https://github.com/hakimel/reveal.js) 9500 stars
 
@@ -26,3 +26,16 @@ Personally I would like to have HTML Editor where I can drag-and-drop picture, a
 
 Best regards,  
 Paul Verest
+
+P.S.
+
+- Shower <https://github.com/shower/shower> <http://shwr.me/> 1300 Stars  Name is confusing, though they said they meant ['ʃəuə]. I don't know what dictionary they looked in.
+
+<http://stackoverflow.com/questions/9408160/prezi-html5-editor-via-impress-js>
+
+I went with Reveal.js as it has [Markdown support](https://github.com/hakimel/reveal.js#markdown).
+Also <http://slid.es/> and good [Browser-Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support)
+However [External Markdown doesn't work in reveal.js-2.4.0](https://github.com/hakimel/reveal.js/issues/559)
+
+
+
