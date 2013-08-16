@@ -35,7 +35,9 @@ P.S.
 
 I went with Reveal.js as it has [Markdown support](https://github.com/hakimel/reveal.js#markdown).
 Also <http://slid.es/> and good [Browser-Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support)
-However [External Markdown doesn't work in reveal.js-2.4.0](https://github.com/hakimel/reveal.js/issues/559)
+However [External Markdown doesn't work in reveal.js-2.4.0](https://github.com/hakimel/reveal.js/issues/559), only with external server.
+
+
 
 
 
