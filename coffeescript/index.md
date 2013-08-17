@@ -4,13 +4,21 @@ layout: coffeescript
 
 ## Nodeclipse CoffeeScript Editor
 
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343" title="Drag and drop into a running Eclipse to install Nodeclipse CoffeeScript Editor">
+  <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+</a>
+
 Nodeclipse CoffeeScript Editor is continuation of work by Adam Schmideg with FORMULA 400.
 Now it is just 2 persons Robert Gründle and Paul Verest, but we lack enough time to move it forward.
 Current 0.3.0 is refresh release with no new features added. Internally we switched to Maven/Tycho build.
 
 ![](logo.png)
 
+CoffeeScript Editor is general editor for Node.js or web-projects.
+
 ### Note on XText Nature
+
+Notice that before you start using CoffeeScript Editor, you `.project` file looks like
 
 	<?xml version="1.0" encoding="UTF-8"?>
 	<projectDescription>
@@ -31,9 +39,9 @@ Current 0.3.0 is refresh release with no new features added. Internally we switc
 		</natures>
 	</projectDescription>
 	
-If you just add *.coffee file and open it, Eclipse will ask
+If you just add `*.coffee` file and open it, Eclipse will ask
 ![](add-the-XText-nature.png).
-After that your .project file will be like:
+After that your `.project` file will be like:
 	
 	
 	<?xml version="1.0" encoding="UTF-8"?>
