@@ -15,3 +15,5 @@ Associate *.git* files with TextEditor
 Builded against Indigo and tested in Kepler.
 
 Hint: Press <kbd>Alt+Shift+W</kbd> for `Show In`
+
+Read [Git/EGit page](/git)
