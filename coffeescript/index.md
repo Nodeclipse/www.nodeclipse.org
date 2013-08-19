@@ -10,7 +10,7 @@ layout: coffeescript
 
 Nodeclipse CoffeeScript Editor is continuation of work by Adam Schmideg with FORMULA 400.
 Now it is just 2 persons Robert Gründle and Paul Verest, but we lack enough time to move it forward.
-Current 0.3.0 is refresh release with no new features added. Internally we switched to Maven/Tycho build.
+Current 0.3.0 is refresh release with no new features added, but icon and internally switch to Maven/Tycho build.
 
 ![](logo.png)
 
