@@ -75,6 +75,12 @@ http://www.editgrid.com/
 
 I have not tried.
 
+#### jqwidgets
+
+Nice commercial widgets based on jQuery. http://www.jqwidgets.com/
+
+<http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/spreadsheet.htm>
+
 #### Other lists
 
 - [List of Online Spreadsheets](http://en.wikipedia.org/wiki/List_of_online_spreadsheets)
@@ -87,5 +93,9 @@ I am going to try open-source SlimGrid first.
 
 NOTE: This is [open-source article you can contribute and extend](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/_posts).
 
+P.S. 
 
+- Long list of jQuery UI plguings: 
+[jQuery UI Frameworks To Improve Visitors’ User Experience – 25 Plugins]
+(http://www.designyourway.net/blog/resources/jquery-ui-frameworks-to-improve-visitors-user-experience-25-plugins/)
 
