@@ -10,7 +10,7 @@ layout: coffeescript
 
 Nodeclipse CoffeeScript Editor is continuation of work by Adam Schmideg with FORMULA 400.
 Now it is just 2 persons Robert Gründle and Paul Verest, but we lack enough time to move it forward.
-Current 0.3.0 is refresh release with no new features added, but icon and internally switch to Maven/Tycho build.
+Current 0.3.0 is refresh release with no new features added, but icon and internally switch to quicker Maven/Tycho build.
 
 ![](logo.png)
 
@@ -40,7 +40,7 @@ Notice that before you start using CoffeeScript Editor, you `.project` file look
 	</projectDescription>
 	
 If you just add `*.coffee` file and open it, Eclipse will ask
-![](add-the-XText-nature.png).
+![](add-the-XText-nature.png).  
 After that your `.project` file will be like:
 	
 	
