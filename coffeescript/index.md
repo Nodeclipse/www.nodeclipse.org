@@ -16,6 +16,8 @@ Current 0.3.0 is refresh release with no new features added, but icon and intern
 
 CoffeeScript Editor is general editor for Node.js or web-projects.
 
+![](https://github.com/Nodeclipse/eclipse-node-ide/raw/master/Pictures/CoffeeScriptEditor.png)
+
 ### Note on XText Nature
 
 Notice that before you start using CoffeeScript Editor, you `.project` file looks like
@@ -39,7 +41,7 @@ Notice that before you start using CoffeeScript Editor, you `.project` file look
 		</natures>
 	</projectDescription>
 	
-If you just add `*.coffee` file and open it, Eclipse will ask
+If you just add `*.coffee` file and open it, Eclipse will ask  
 ![](add-the-XText-nature.png).  
 After that your `.project` file will be like:
 	
