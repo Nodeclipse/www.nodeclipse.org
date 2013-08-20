@@ -10,32 +10,41 @@ The list below is for convenience and quick way to install.
 Just drag-and-drop such <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png">
  button for the plugin that you need to Eclipse menu bar above ([see tip how](/img/how-drap-an-drop-to-install.png)).
 
-## Node.js Development
+## General
+
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236" class="drag">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236) (has some bugs in standard perspectives)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101">
+<img src="https://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
+[Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
+
+## Node.js & JavaScript Development
 
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236" class="drag">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 GitHub Flavored Markdown (GFM) Viewer
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=339851">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 Eclipse 4.x Chrome Theme
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=58952">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 JSDT jQuery Integration
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 JSON Editor Plugin
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101">
-<img src="https://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
-[Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522" class="drag">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 TypeSctipt Editor
@@ -54,12 +63,6 @@ GitHub Mylyn Connector
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-[Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
-Nodeclipse Plugins List plugin
 
 ## Other lists
 
