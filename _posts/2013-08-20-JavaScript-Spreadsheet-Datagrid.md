@@ -5,9 +5,11 @@ title: JavaScript SpreadSheet/DataGrid
 
 ### {{ page.title }}
 
-<p class="meta">20 August 2013</p>
+<p class="meta">20 August 2013</p> by Paul Verest
 
-What I have found:
+NOTE: This is [open-source article you can contribute and extend](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/_posts).
+
+What I could find by googling (P.S. was not actually the best way to start):
 
 #### DHTMLX
 
@@ -24,16 +26,6 @@ Free for only GPL-ed projects, then $149 or $449
 It exists since 2005 and grow popular, there are some plugins. However it is not fully free, and not pure JavaScript.
 Though it is the closest approximation to Excel.
 
-#### SlickGrid
-
-A friend of mine advise me [SlickGrid](https://github.com/mleibman/slickgrid), that was great help because I could not find it.
- (Now I added it into Wikipedia, so maybe you have already).
- 
-It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
- However it is personal projects and the author seems to be overwhelmed with issues and Pull Requests stream. 
-
-[project wiki](https://github.com/mleibman/SlickGrid/wiki), [online examples](https://github.com/mleibman/SlickGrid/wiki/Examples) 
- 
 #### jQuery.sheet
 
 <http://jqueryplugins.weebly.com/jquerysheet.html> by Visopdev <http://visop-dev.com/Project+jQuery.sheet>
@@ -81,6 +73,16 @@ Nice commercial widgets based on jQuery. http://www.jqwidgets.com/
 
 <http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/spreadsheet.htm>
 
+#### SlickGrid
+
+A friend of mine advise me [SlickGrid](https://github.com/mleibman/slickgrid), that was great help because I could not find it.
+ (Now I added it into Wikipedia, so maybe you have already).
+ 
+It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
+ However it is personal projects and the author seems to be overwhelmed with issues and Pull Requests stream. 
+
+[project wiki](https://github.com/mleibman/SlickGrid/wiki), [online examples](https://github.com/mleibman/SlickGrid/wiki/Examples) 
+
 #### Other lists
 
 - [List of Online Spreadsheets](http://en.wikipedia.org/wiki/List_of_online_spreadsheets)
@@ -91,8 +93,6 @@ Nice commercial widgets based on jQuery. http://www.jqwidgets.com/
 There are a lot of commercial tools with varying degree of quality.
 I am going to try open-source SlimGrid first.
 
-NOTE: This is [open-source article you can contribute and extend](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/_posts).
-
 P.S. 
 
 - Long list of jQuery UI plguings: 
@@ -100,4 +100,6 @@ P.S.
 (http://www.designyourway.net/blog/resources/jquery-ui-frameworks-to-improve-visitors-user-experience-25-plugins/)
 
 These are popular grids: jqGrid, Flexigrid, SlickGrid, DataTables
+ 
+[SlickGrid Vs JQGrid](http://stackoverflow.com/questions/7000048/slickgrid-vs-jqgrid)
  
