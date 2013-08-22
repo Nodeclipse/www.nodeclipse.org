@@ -25,7 +25,7 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 <img src="/img/installbutton.png"></a>
 [Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
+<img src="/img/installbutton.png"/></a>
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239">
 <img src="/img/installbutton.png"></a>
@@ -56,7 +56,7 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 <img src="/img/installbutton.png"></a>
 TypeSctipt Editor
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343">
-<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
+<img src="/img/installbutton.png"/></a>
 [Nodeclipse CoffeeScript Editor](/coffeescript)
 
 
