@@ -6,7 +6,7 @@ layout: nil
 
 # Nodeclipse Plugins List
 
-The list below is for convenience and quick way to install.  
+The list below is for convenient and quick way to install Eclipse plugins.  
 Just drag-and-drop such <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png">
  button for the plugin that you need to Eclipse menu bar above ([see tip how](/img/how-drap-an-drop-to-install.png)).
 
@@ -51,7 +51,7 @@ JSDT jQuery Integration
 [ExtJS JSDT Integration](http://zulus.github.io/extjs-eclipse/)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945">
 <img src="/img/installbutton.png"></a>
-JSON Editor Plugin
+JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522">
 <img src="/img/installbutton.png"></a>
 TypeSctipt Editor

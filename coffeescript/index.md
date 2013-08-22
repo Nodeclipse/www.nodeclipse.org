@@ -2,7 +2,7 @@
 layout: coffeescript
 ---
 
-## Nodeclipse CoffeeScript Editor
+# Nodeclipse CoffeeScript Editor
 
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343" title="Drag and drop into a running Eclipse to install Nodeclipse CoffeeScript Editor">
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
