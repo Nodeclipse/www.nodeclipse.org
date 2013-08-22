@@ -25,8 +25,12 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 [Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101">
-<img src="https://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+[HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
+
 
 ## Node.js & JavaScript Development
 
@@ -45,9 +49,13 @@ JSDT jQuery Integration
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 JSON Editor Plugin
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522" class="drag">
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 TypeSctipt Editor
+- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343">
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/></a>
+[Nodeclipse CoffeeScript Editor](/coffeescript)
+
 
 ## Nodeclipse Eclipse Development
 
