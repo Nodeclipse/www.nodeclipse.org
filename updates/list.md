@@ -78,7 +78,7 @@ GitHub Mylyn Connector
 
 ## Other lists
 
-- Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide)
+- Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work in Kepler.
 - <https://code.google.com/p/sandipchitaleseclipseplugins/>
 
 [Let us know](/community) more.
