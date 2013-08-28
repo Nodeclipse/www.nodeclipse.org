@@ -9,7 +9,48 @@ title: JavaScript SpreadSheet/DataGrid
 
 NOTE: This is [open-source article you can contribute and extend](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/_posts).
 
-What I could find by googling (P.S. was not actually the best way to start):
+### Tried
+
+> Advice: When started search never, never stop on the first finding, but use it as base for search and comparison.
+When it is the best it is connected with other solutions more then any.
+
+I started my search from DHTMLX, then googling. When a got several results, I asked friend.
+Then I went to StackOverflow.com that revealed a bit different picture.
+
+![](/img/share/grid-slickgrid-grouping.PNG) 
+
+#### SlickGrid
+
+A friend of mine advised me [SlickGrid](https://github.com/mleibman/slickgrid), that was great help because I could not find it.
+ (Now I added it into Wikipedia, so maybe you have already found this way).
+ 
+It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
+ However it is personal projects and the author seems to be overwhelmed with issues and Pull Requests stream. 
+
+[project wiki](https://github.com/mleibman/SlickGrid/wiki), [online examples](https://github.com/mleibman/SlickGrid/wiki/Examples)
+
+![](/img/share/grid-jqgrid-subgrid.PNG) 
+
+### jqGrid
+
+[project home](http://www.trirand.com/blog/), [sources](https://github.com/tonytomov/jqGrid), [online examples](http://www.trirand.com/blog/jqgrid/jqgrid.html)
+
+jqGrid is oldie, with a lot of online [info](http://www.trirand.com/blog/?p=1125) and maybe some dust.
+It supports data from XML sources, it is likely has started from XML then added JSON.
+
+### Other
+
+- Long list of jQuery UI plugings: 
+[jQuery UI Frameworks To Improve Visitors’ User Experience – 25 Plugins]
+(http://www.designyourway.net/blog/resources/jquery-ui-frameworks-to-improve-visitors-user-experience-25-plugins/)
+
+These are popular grids: jqGrid, Flexigrid, SlickGrid, DataTables
+ 
+[SlickGrid Vs JQGrid](http://stackoverflow.com/questions/7000048/slickgrid-vs-jqgrid)
+ 
+### Googling 
+
+What I could find in the very beginning by googling (P.S. was not actually the best way to start):
 
 #### DHTMLX
 
@@ -32,7 +73,7 @@ Though it is the closest approximation to Excel.
 
 [online demo](http://jquerysheet.googlecode.com/svn/branches/3.x/jquery.sheet.html)
 
-I have not tried.
+Was not tried yet.
 
 #### Simple Spreadsheet
 
@@ -42,13 +83,16 @@ http://www.simple-groupware.de/cms/spreadsheet/home
 
 http://en.wikipedia.org/wiki/Simple_Spreadsheet
 
-<tbody><tr><td align="center"><a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_05_en.jpg" rel="nofollow"><img src="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_05_en.jpg" alt=""></a><br>Simple Spreadsheet (0.5)</td><td align="center"><a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/Spreadsheet/simple_spreadsheet_05_en_charts.jpg" rel="nofollow">
+<tbody><tr><td align="center"><a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_05_en.jpg" rel="nofollow">
+<img src="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_05_en.jpg" alt=""></a><br>Simple Spreadsheet (0.5)</td><td align="center">
+<a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/Spreadsheet/simple_spreadsheet_05_en_charts.jpg" rel="nofollow">
 <img src="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_05_en_charts.jpg" alt=""></a><br>Simple Spreadsheet (0.5) - Charts</td></tr>
 <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td align="center"><a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/Spreadsheet/simple_spreadsheet_04_en_offline.jpg" rel="nofollow"><img src="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_04_en_offline.jpg" alt=""></a><br>Simple Spreadsheet (0.4)<br>English - offline</td><td align="center"><a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/Spreadsheet/simple_spreadsheet_04_de_offline.jpg" rel="nofollow"><img src="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_04_de_offline.jpg" alt=""></a><br>Simple Spreadsheet (0.4)<br>German - offline</td></tr>
+<tr><td align="center"><a class="urllink" href="http://www.simple-groupware.de/cms/ext/files/Spreadsheet/simple_spreadsheet_04_en_offline.jpg" rel="nofollow">
+<img src="http://www.simple-groupware.de/cms/ext/files/SpreadsheetThumbs/simple_spreadsheet_04_en_offline.jpg" alt=""></a><br>Simple Spreadsheet (0.4)</td>
 </tbody>
 
-I have not tried.
+Was not tried yet.
 
 #### Sheetster
 
@@ -65,7 +109,7 @@ Seems to be dead. I have not tried.
 
 http://www.editgrid.com/
 
-I have not tried.
+Was not tried yet.
 
 #### jqwidgets
 
@@ -73,17 +117,7 @@ Nice commercial widgets based on jQuery. http://www.jqwidgets.com/
 
 <http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/spreadsheet.htm>
 
-#### SlickGrid
-
-A friend of mine advise me [SlickGrid](https://github.com/mleibman/slickgrid), that was great help because I could not find it.
- (Now I added it into Wikipedia, so maybe you have already).
- 
-It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
- However it is personal projects and the author seems to be overwhelmed with issues and Pull Requests stream. 
-
-[project wiki](https://github.com/mleibman/SlickGrid/wiki), [online examples](https://github.com/mleibman/SlickGrid/wiki/Examples) 
-
-#### Other lists
+### Other lists
 
 - [List of Online Spreadsheets](http://en.wikipedia.org/wiki/List_of_online_spreadsheets)
 - [Comparison of spreadsheet software](http://en.wikipedia.org/wiki/Comparison_of_spreadsheet_software)
@@ -92,14 +126,3 @@ It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
 
 There are a lot of commercial tools with varying degree of quality.
 I am going to try open-source SlimGrid first.
-
-P.S. 
-
-- Long list of jQuery UI plguings: 
-[jQuery UI Frameworks To Improve Visitors’ User Experience – 25 Plugins]
-(http://www.designyourway.net/blog/resources/jquery-ui-frameworks-to-improve-visitors-user-experience-25-plugins/)
-
-These are popular grids: jqGrid, Flexigrid, SlickGrid, DataTables
- 
-[SlickGrid Vs JQGrid](http://stackoverflow.com/questions/7000048/slickgrid-vs-jqgrid)
- 

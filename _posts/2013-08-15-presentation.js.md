@@ -5,7 +5,9 @@ title: HTML5 presentation engines
 
 ## {{ page.title }}
 
-<p class="meta">15 August 2013</p>
+<p class="meta">15 August 2013</p> by Paul Verest
+
+NOTE: This is [open-source article you can contribute and extend](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/_posts).
 
 Some previous reviews:
 
