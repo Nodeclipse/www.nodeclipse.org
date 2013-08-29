@@ -9,7 +9,7 @@ title: JavaScript SpreadSheet/DataGrid
 
 NOTE: This is [open-source article you can contribute and extend](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/_posts).
 
-### Tried
+### Looking closely
 
 > Advice: When started search never, never stop on the first finding, but use it as base for search and comparison.
 When it is the best it is connected with other solutions more then any.
@@ -17,7 +17,7 @@ When it is the best it is connected with other solutions more then any.
 I started my search from DHTMLX, then googling. When a got several results, I asked friend.
 Then I went to StackOverflow.com that revealed a bit different picture.
 
-![](/img/share/grid-slickgrid-grouping.PNG) 
+Popular free open-source grids jqGrid, Flexigrid, SlickGrid, DataTables are all dependent on jQuery.
 
 #### SlickGrid
 
@@ -29,23 +29,47 @@ It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
 
 [project wiki](https://github.com/mleibman/SlickGrid/wiki), [online examples](https://github.com/mleibman/SlickGrid/wiki/Examples)
 
-![](/img/share/grid-jqgrid-subgrid.PNG) 
+![](/img/share/grid-slickgrid-grouping.PNG) 
+
+SlickGrid seems to focus on performance from the very beginning. 50k+ rows is quite normal.
 
 ### jqGrid
 
-[project home](http://www.trirand.com/blog/), [sources](https://github.com/tonytomov/jqGrid), [online examples](http://www.trirand.com/blog/jqgrid/jqgrid.html)
+> jQuery Grid 1.0 beta
+May 5th, 2007
+jQuery Grid is my first jQuery plugin...
+
+[project home](http://www.trirand.com/blog/), [sources](https://github.com/tonytomov/jqGrid),
+ [online examples](http://www.trirand.com/blog/jqgrid/jqgrid.html)
+
+![](/img/share/grid-jqgrid-subgrid.PNG) 
 
 jqGrid is oldie, with a lot of online [info](http://www.trirand.com/blog/?p=1125) and maybe some dust.
 It supports data from XML sources, it is likely has started from XML then added JSON.
 
-### Other
+jqGrid is foundation for commercial offering Trirand jqSuite <http://www.trirand.net>.
+
+### Flexigrid
+
+Very lean web site <http://flexigrid.info/> has  examples, and all links. [code on GitHub](https://github.com/paulopmx/Flexigrid)
+
+![](http://flexigrid.info/images/flash.png)
+
+### DataTables
+
+DataTables <https://datatables.net>
+
+![](/img/share/grid-datatables.PNG) 
+
+> In order for DataTables to be able to function correctly, the HTML for the target table must be laid out
+ in a well formed manner with the 'thead' and 'tbody' sections declared.
+
+### Other 
 
 - Long list of jQuery UI plugings: 
 [jQuery UI Frameworks To Improve Visitors’ User Experience – 25 Plugins]
 (http://www.designyourway.net/blog/resources/jquery-ui-frameworks-to-improve-visitors-user-experience-25-plugins/)
 
-These are popular grids: jqGrid, Flexigrid, SlickGrid, DataTables
- 
 [SlickGrid Vs JQGrid](http://stackoverflow.com/questions/7000048/slickgrid-vs-jqgrid)
  
 ### Googling 
@@ -58,7 +82,8 @@ What I could find in the very beginning by googling (P.S. was not actually the b
 
 <http://www.dhtmlx.com/docs/products/dhtmlxSpreadsheet/>
 
-> dhtmlxSpreadsheet is an open source spreadsheet widget written in JavaScript and PHP that allows you to quickly add an Excel-like, editable data table on a web page. It is also available as a plugin for WP, Joomla, etc. 
+> dhtmlxSpreadsheet is an open source spreadsheet widget written in JavaScript and PHP that allows you
+ to quickly add an Excel-like, editable data table on a web page. It is also available as a plugin for WP, Joomla, etc. 
 
 ![](http://www.dhtmlx.com/docs/products/dhtmlxSpreadsheet/images/spreadsheet_math.png)
 
@@ -124,5 +149,6 @@ Nice commercial widgets based on jQuery. http://www.jqwidgets.com/
 
 ### Conclusion
 
-There are a lot of commercial tools with varying degree of quality.
-I am going to try open-source SlimGrid first.
+There are a lot of commercial tools with varying degree of quality.  
+Popular free open-source grids jqGrid, Flexigrid, SlickGrid, DataTables are all dependent on jQuery.  
+I am going to try open-source SlimGrid first, as it is the newest that is best on ideas for performance optimization, more closer to Excel experience.
