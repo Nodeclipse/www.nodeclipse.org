@@ -19,6 +19,14 @@ Then I went to StackOverflow.com that revealed a bit different picture.
 
 Popular free open-source grids jqGrid, Flexigrid, SlickGrid, DataTables are all dependent on jQuery.
 
+#### Handsontable
+
+<http://handsontable.com/> <https://github.com/warpech/jquery-handsontable> 2200 stars
+
+![](/img/share/grid-handontable.PNG) 
+
+added 2013-08-29
+
 #### SlickGrid
 
 A friend of mine advised me [SlickGrid](https://github.com/mleibman/slickgrid), that was great help because I could not find it.

@@ -16,7 +16,8 @@ Moved from [https://github.com/tomotaro1065/nodeclipse](https://github.com/tomot
 The purpose of Nodeclipse is to create environment in 
 which Node.js development is easy for any user from beginner to professional. 
 
-
+Google Forum
+<https://groups.google.com/forum/?fromgroups=#!forum/nodeclipse>
 
 ## Vision
 
