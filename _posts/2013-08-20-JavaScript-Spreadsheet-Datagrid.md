@@ -33,7 +33,7 @@ It is just 1 year old project hosted on GitHub, that grew popular (3000+ stars).
 
 SlickGrid seems to focus on performance from the very beginning. 50k+ rows is quite normal.
 
-### jqGrid
+#### jqGrid
 
 > jQuery Grid 1.0 beta
 May 5th, 2007
@@ -49,13 +49,15 @@ It supports data from XML sources, it is likely has started from XML then added 
 
 jqGrid is foundation for commercial offering Trirand jqSuite <http://www.trirand.net>.
 
-### Flexigrid
+#### Flexigrid
 
-Very lean web site <http://flexigrid.info/> has  examples, and all links. [code on GitHub](https://github.com/paulopmx/Flexigrid)
+Very lean web site <http://flexigrid.info/> has  examples, and all links. [code on GitHub](https://github.com/paulopmx/Flexigrid) 400 stars 
 
 ![](http://flexigrid.info/images/flash.png)
 
-### DataTables
+Last code update 4 month ago, seems a bit quiet.   
+
+#### DataTables
 
 DataTables <https://datatables.net>
 
@@ -63,8 +65,12 @@ DataTables <https://datatables.net>
 
 > In order for DataTables to be able to function correctly, the HTML for the target table must be laid out
  in a well formed manner with the 'thead' and 'tbody' sections declared.
+ 
+[sources on GitHub](https://github.com/DataTables) 900 stars
 
-### Other 
+The development went plugin way: Core DataTabled is now stable for a year, while development goes in additiona features. 
+
+#### Other 
 
 - Long list of jQuery UI plugings: 
 [jQuery UI Frameworks To Improve Visitors’ User Experience – 25 Plugins]
