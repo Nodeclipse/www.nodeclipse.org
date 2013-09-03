@@ -8,6 +8,8 @@ title: Nodeclipse -- Git Addon
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
 <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 
+[Git Addon on marketplace](http://marketplace.eclipse.org/content/nodeclipse-git-addon)
+
 Associate *.git* files with TextEditor
 
 ![](with-git-addon.PNG)
