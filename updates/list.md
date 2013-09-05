@@ -10,10 +10,11 @@ The list below is for convenient and quick way to install Eclipse plugins.
 Just drag-and-drop such <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png">
  button for the plugin that you need to Eclipse menu bar above ([see tip how](/img/how-drap-an-drop-to-install.png)).
 
+  [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
+
 ## General
 
-- <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253">
-<img src="/img/installbutton.png"></a>
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
 Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 - <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754">
 <img src="/img/installbutton.png"></a>
