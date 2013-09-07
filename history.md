@@ -5,6 +5,25 @@ title: Nodeclipse -- Version History
 
 # Version History
 
+Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
+
+### Version 0.5, 2013-09
+
+- [#59](https://github.com/Nodeclipse/nodeclipse-1/issues/59) setting environment variables in Launch (Run/Debug Configuration)
+- [#26](https://github.com/Nodeclipse/nodeclipse-1/issues/26) CoffeeScript support: run `*.coffee` and `*.litcoffee` files,
+ associate `*.litcoffee` ( [Literate CoffeeScript](http://coffeescript.org/#literate) ) with Markdown Editor.
+ Check for [letarate programming](http://www.google.com.hk/search?q=letarate+programming).
+- [#17](https://github.com/Nodeclipse/nodeclipse-1/issues/17) bundle [Express](http://expressjs.org/) and CoffeeScript into jar files.
+ This lets you install them even if you don't have admin permission on computer that you use, or if you want play quickly with Node.js 
+ and don't remember how to do `npm install express -g`. Note this bundle is of current Express/CoffeeScript versions, and doesn't
+ check for your Node.js version compatibility (the latest version is assumed).
+- [#66](https://github.com/Nodeclipse/nodeclipse-1/issues/66) built-in (Help -> Help Contents) and
+ [online help](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents). It is open-sourced and written in Markdown.
+ [Welcome to contribute](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents):
+ just edit Markdown files online, then send pull request.
+- [#40](https://github.com/Nodeclipse/nodeclipse-1/issues/40) [maven](http://maven.apache.org/) build.
+ Building Nodeclipse is now the the easiest `mvn package` from command line. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
+
 <h3>Version 0.4, 2013-05-19</h3>
 <ul>
 <li>Integration with JSDT (Code Assist and Outline)<br/>
@@ -30,9 +49,9 @@ title: Nodeclipse -- Version History
 	You should install JSHint integration for Eclipse.<br/>
 	Update site: http://github.eclipsesource.com/jshint-eclipse/updates/
 - Update template for new project
-* Add README.md template
-* Add hello-world-server.js
-* Add package.json (This is good practice)
+	* Add README.md template
+	* Add hello-world-server.js
+	* Add package.json (This is good practice)
 * [Publish](http://marketplace.eclipse.org/quickstart) on Eclipse marketplace
 * [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)
 	You can pass arguments to application and node.js setting on [Debug configration...]-[Node Application]-[&ltyour configration name&gt]-[Arguments].<br/>
