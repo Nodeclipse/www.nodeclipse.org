@@ -10,9 +10,12 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
 ### Version 0.5, 2013-09
 
 - [#59](https://github.com/Nodeclipse/nodeclipse-1/issues/59) setting environment variables in Launch (Run/Debug Configuration)
-- [#26](https://github.com/Nodeclipse/nodeclipse-1/issues/26) CoffeeScript support: run `*.coffee` and `*.litcoffee` files,
+- [#26](https://github.com/Nodeclipse/nodeclipse-1/issues/26) [CoffeeScript support](http://coffeescript.org): run `*.coffee` files 
+<!-- 
+and `*.litcoffee` files,
  associate `*.litcoffee` ( [Literate CoffeeScript](http://coffeescript.org/#literate) ) with Markdown Editor.
  Check for [letarate programming](http://www.google.com.hk/search?q=letarate+programming).
+ -->
 - [#17](https://github.com/Nodeclipse/nodeclipse-1/issues/17) bundle [Express](http://expressjs.org/) and CoffeeScript into jar files.
  This lets you install them even if you don't have admin permission on computer that you use, or if you want play quickly with Node.js 
  and don't remember how to do `npm install express -g`. Note this bundle is of current Express/CoffeeScript versions, and doesn't
