@@ -62,6 +62,11 @@ GitHub Mylyn Connector
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221)
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
 
+## XML, HTML
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=697)
+Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content/rinzo-xml-editor),[sources](https://github.com/ccancinos/rinzo-xml-editor)
+
 ## Other lists
 
 - Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work in Kepler.
