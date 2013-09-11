@@ -2,6 +2,8 @@
 layout: nil
 ---
 
+# Nodeclipse 0.5 has critical bug. Read news on home page before upgrading.
+
 [home page](/) (news, site navigation)
 
 # Nodeclipse Plugins List
@@ -26,7 +28,10 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
 [HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
+Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
+http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=
 
 ## Node.js & JavaScript Development
 
@@ -61,6 +66,11 @@ GitHub Mylyn Connector
  see [overview](http://javatime.no/blog/inplace-activator-overview/), [issues](https://github.com/inclipse/issues/issues), [wiki](https://github.com/inclipse/issues/wiki)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221)
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
+
+## XML, HTML
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=697)
+Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content/rinzo-xml-editor),[sources](https://github.com/ccancinos/rinzo-xml-editor)
 
 ## Other lists
 

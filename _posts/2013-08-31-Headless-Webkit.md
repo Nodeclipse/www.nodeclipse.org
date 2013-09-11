@@ -17,13 +17,13 @@ Node.js is not the only software that uses Google Chrome V8 engine.
 <http://phantomjs.org/>
 
 ```javascript
-console.log('Loading a web page');
-var page = require('webpage').create();
-var url = 'http://www.phantomjs.org/';
-page.open(url, function (status) {
-    //Page is loaded!
-    phantom.exit();
-});
+	console.log('Loading a web page');
+	var page = require('webpage').create();
+	var url = 'http://www.phantomjs.org/';
+	page.open(url, function (status) {
+	    //Page is loaded!
+	    phantom.exit();
+	});
 ```	
 	
 	
