@@ -2,9 +2,9 @@
 layout: nil
 ---
 
-[home page](/) (news, site navigation)
+# Nodeclipse 0.5 has critical bug. Read news on home page.
 
-Nodeclipse 0.5 has critical bug. Read news on home page.
+[home page](/) (news, site navigation)
 
 # Nodeclipse Plugins List
 
