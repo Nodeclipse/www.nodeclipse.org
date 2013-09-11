@@ -4,6 +4,8 @@ layout: nil
 
 [home page](/) (news, site navigation)
 
+Nodeclipse 0.5 has critical bug. Read news on home page.
+
 # Nodeclipse Plugins List
 
 The list below is for convenient and quick way to install Eclipse plugins.  
@@ -26,7 +28,10 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
 [HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
+Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
+http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=
 
 ## Node.js & JavaScript Development
 
