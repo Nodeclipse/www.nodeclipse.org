@@ -1,5 +1,5 @@
 ---
-layout: nts
+layout: studio
 ---
 
 ## Enide Studio README
