@@ -30,8 +30,8 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 [HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
-
-http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=907)
+[AWS Toolkit for Eclipse](https://marketplace.eclipse.org/content/aws-toolkit-eclipse)
 
 ## Node.js & JavaScript Development
 
@@ -53,9 +53,11 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343)
 [Nodeclipse CoffeeScript Editor](/coffeescript)
 - TODO JSHint plugin
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=881)
+[Vrapper](https://marketplace.eclipse.org/content/vrapper) acts as a wrapper for Eclipse text editors
+ to provide a Vim-like input scheme for moving around and editing text.
 
-
-## Nodeclipse Eclipse Development
+## Eclipse Development
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
 GitHub Mylyn Connector
@@ -66,6 +68,10 @@ GitHub Mylyn Connector
  see [overview](http://javatime.no/blog/inplace-activator-overview/), [issues](https://github.com/inclipse/issues/issues), [wiki](https://github.com/inclipse/issues/wiki)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221)
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=246)
+[JAutodoch](ttps://marketplace.eclipse.org/content/jautodoc) is an Eclipse Plugin for automatically adding Javadoc and file headers to your source code
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=678)
+[Bytecode Visualizer](https://marketplace.eclipse.org/content/bytecode-visualizer) is a tool used for visualizing and debugging Java byte code.
 
 ## XML, HTML
 
@@ -75,9 +81,10 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 ## Other lists
 
 - Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work in Kepler.
-- <https://code.google.com/p/sandipchitaleseclipseplugins/>
+- <https://code.google.com/p/sandipchitaleseclipseplugins/> by [Sandip Chitale](http://marketplace.eclipse.org/user/1047/listings)
+- [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
-[Let us know](/community) more.
+[Let us](/community) know more.
 
 ## Note mpc
 
