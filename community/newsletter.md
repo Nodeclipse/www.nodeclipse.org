@@ -217,3 +217,8 @@ function mce_success_cb(resp){
 
 </script>
 <!--End mc_embed_signup-->
+
+Nodeclipse monthly newsletter is planned to be sent no more often than once per month,
+when major news happen, e.g. new version release.
+It is to include main shared topics summary.
+In a word, it let's not to miss something important.
