@@ -72,6 +72,8 @@ GitHub Mylyn Connector
 [JAutodoch](ttps://marketplace.eclipse.org/content/jautodoc) is an Eclipse Plugin for automatically adding Javadoc and file headers to your source code
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=678)
 [Bytecode Visualizer](https://marketplace.eclipse.org/content/bytecode-visualizer) is a tool used for visualizing and debugging Java byte code.
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=164352)
+[Selection Explorer Eclipse Plug-in](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer) [mp](http://marketplace.eclipse.org/content/selection-explorer-eclipse-plug)
 
 ## XML, HTML
 
