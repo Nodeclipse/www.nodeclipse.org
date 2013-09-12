@@ -6,6 +6,27 @@ title: Nodeclipse -- News
 # Nodeclipse news
 
 <p>
+	2013-09-11<br/>
+	ATTENTION: There was reported issue of 
+	<a href="https://github.com/Nodeclipse/nodeclipse-1/issues/72">"#72 All nodejs apps fail to run after upgrade to 0.5"</a>.
+	<br/>
+	If you have already run into the problem. 1) let us know by confirming or raising new issue (we need to know exactly
+	 what OS, Java version, Eclipse version is affected. Currently only x32 Windows on Java 6 is confirmed.)
+	2) Uninstall Nodeclipse 0.5 (only 1 feature entry) via 
+	Help -> About Eclipse -> Installation details, select Nodeclipse, then <kbd>Uninstall..</kbd> button 
+	3) install 0.4 from update site 
+	<code>http://nodeclipse-1.github.io/updates</code>
+</p>
+<p>	
+	2013-09-08<br/>
+	<img src="/img/0.5.jpg"/><br/>
+	Nodeclipse-1 version 0.5.0 released. <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
+         title="Drag and drop into a running Eclipse to install Nodeclipse">
+  			<img src="/img/installbutton.png"/>
+  			</a><br/>
+	Check <a href="/history">What's new</a>.
+</p>
+<p>
 	2013-09-01<br/>
 	Nodeclipse-1 version 0.5.0 goes into staging repository for testing. Update site is
 	<pre>http://nodeclipse.github.io/nodeclipse-1/repository/</pre>
