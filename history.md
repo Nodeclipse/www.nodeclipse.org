@@ -3,10 +3,12 @@ layout: home
 title: Nodeclipse -- Version History
 ---
 
+<p></p>
+
 # Version History
 
 Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
-
+	
 ### Version 0.5, 2013-09
 
 - [#59](https://github.com/Nodeclipse/nodeclipse-1/issues/59) setting environment variables in Launch (Run/Debug Configuration)
