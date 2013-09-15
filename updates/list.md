@@ -10,7 +10,7 @@ layout: nil
 
 The list below is for convenient and quick way to install Eclipse plugins.  
 Just drag-and-drop such ![InstallLink][1]
- button for the plugin that you need to Eclipse menu bar above ([see tip how](/img/how-drap-an-drop-to-install.png)).
+ button for the plugin that you need to Eclipse menu bar above ([see tip how](list-tip-how)).
 
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
 
@@ -59,12 +59,16 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 
 ## Eclipse Development
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
-GitHub Mylyn Connector
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
-[Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311838)
+Eclipse 4 Tools: Application Model Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-application-model-editor)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311881)
+Eclipse 4 Tools: CSS Spy [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-css-spy)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311774)
+Eclipse 4 Tools: Lightweight CSS Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-lightweight-css-editor)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=164352)
+[Selection Explorer Eclipse Plug-in](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer) [mp](http://marketplace.eclipse.org/content/selection-explorer-eclipse-plug)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277)
-[InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator),
+Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator),
  see [overview](http://javatime.no/blog/inplace-activator-overview/), [issues](https://github.com/inclipse/issues/issues), [wiki](https://github.com/inclipse/issues/wiki)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221)
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
@@ -72,13 +76,19 @@ GitHub Mylyn Connector
 [JAutodoch](ttps://marketplace.eclipse.org/content/jautodoc) is an Eclipse Plugin for automatically adding Javadoc and file headers to your source code
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=678)
 [Bytecode Visualizer](https://marketplace.eclipse.org/content/bytecode-visualizer) is a tool used for visualizing and debugging Java byte code.
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=164352)
-[Selection Explorer Eclipse Plug-in](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer) [mp](http://marketplace.eclipse.org/content/selection-explorer-eclipse-plug)
 
 ## XML, HTML
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=697)
 Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content/rinzo-xml-editor),[sources](https://github.com/ccancinos/rinzo-xml-editor)
+
+## Mylyn Connectors
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
+GitHub Mylyn Connector
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
+[Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
+
 
 ## Other lists
 
@@ -86,12 +96,4 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 - <https://code.google.com/p/sandipchitaleseclipseplugins/> by [Sandip Chitale](http://marketplace.eclipse.org/user/1047/listings)
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
-[Let us](/community) know more.
-
-## Note mpc
-
-Drag-and-drop installing depends on [Marketplace client (mpc)](http://eclipse.org/mpc/) (usually in <kbd>Help</kbd> -> <kbd>Eclipse Marketplace ...</kbd> menu).
-If you don't have it, just install it from Kepler update site `http://download.eclipse.org/releases/kepler/` , check `General Purpose Tools` group.
-( Or from `http://download.eclipse.org/mpc/nightly/` with [bug 411752](https://bugs.eclipse.org/bugs/show_bug.cgi?id=411752) fixed).
-mpc has no dependencies, so it is possible to install the latest mpc on any Eclipse version. 
-
+Let [us](/community) know [more by adding here]().
