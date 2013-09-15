@@ -1,6 +1,7 @@
 ---
 layout: share
 title: Eclipse 4.3 Kepler is released
+categories: [eclipse]
 ---
 
 {{ page.title }}

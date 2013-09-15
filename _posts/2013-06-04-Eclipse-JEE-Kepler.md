@@ -1,6 +1,7 @@
 ---
 layout: share
 title: Eclipse JEE Kepler packaging
+categories: [eclipse]
 ---
 
 {{ page.title }}

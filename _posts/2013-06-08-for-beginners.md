@@ -1,6 +1,7 @@
 ---
 layout: share
 title: Message for beginners
+categories: [eclipse]
 ---
 
 {{ page.title }}

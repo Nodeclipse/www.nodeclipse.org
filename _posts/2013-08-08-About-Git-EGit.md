@@ -1,6 +1,7 @@
 ---
 layout: share
 title: Git in Eclipse
+categories: [eclipse]
 ---
 
 ## {{ page.title }}
