@@ -89,11 +89,10 @@ GitHub Mylyn Connector
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
 [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 
-
 ## Other lists
 
 - Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work in Kepler.
 - <https://code.google.com/p/sandipchitaleseclipseplugins/> by [Sandip Chitale](http://marketplace.eclipse.org/user/1047/listings)
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
-Let [us](/community) know [more by adding here]().
+Let [us](/community) know [more by adding here](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
