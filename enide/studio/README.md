@@ -35,7 +35,7 @@ Check for updates and news on [Marketplace entry](http://marketplace.eclipse.org
 	
 	Reinstall JDK (see 1.) or use [hint how to configure Eclipse](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md#select-jvm-for-eclipse-instance)
 	
-6. You default Workspace (folder where you keep you projects) is ..\ws, 
+6. Your default Workspace (folder where you keep you projects) is ..\ws, 
  e.g. <code>D:\Progs\Enide-Studio-05-kepler-win64\ws</code>
  
  To change it to more suitable place, e.g. <code>D:\Workspaces\Enide-Studio-05-workspace</code>,
