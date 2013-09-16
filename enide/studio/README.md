@@ -12,6 +12,15 @@ Take a look for [required configuration](https://github.com/Nodeclipse/eclipse-n
 
 Check for updates and news on [Marketplace entry](http://marketplace.eclipse.org/content/enide-studio).
 
+### Warning
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
+[Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236) (has some bugs in standard perspectives)
+
+If you debug a lot, it is recommended to uninstall it, as it causes a lot of Errors and Warnings ([issue #13](https://code.google.com/p/sandipchitaleseclipseplugins/issues/detail?id=13)).
+
+To uninstall any plugin in Eclipse go to Help -> About Eclipse -> Installation details, select plugin, then press <kbd>Uninstall..</kbd> button
+
 ### Instructions
 
 0. If you don't have, get latest Node.js <http://www.nodejs.org/download/>
