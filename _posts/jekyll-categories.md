@@ -30,3 +30,12 @@ How I Organize Posts In Jekyll
 
 http://jekyllbootstrap.com/
 <http://jekyllbootstrap.com/usage/blog-configuration.html>
+
+
+http://www.justkez.com/generating-a-tag-cloud-in-jekyll/
+
+SO
+
+http://stackoverflow.com/questions/17118551/jekyll-generating-a-list-of-pages-not-posts-in-a-given-category
+http://stackoverflow.com/questions/11495398/category-templates-in-jekyll
+
