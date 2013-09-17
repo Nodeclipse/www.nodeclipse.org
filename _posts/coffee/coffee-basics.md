@@ -5,7 +5,7 @@ date: 2013-09-11
 categories: [coffee]
 ---
 
-Quick way to get modules fnctions with coffee REPL:
+Quick way to get functions list of standard node.js modules with coffee REPL:
 
 	coffee> require 'console'
 	{ log: [Function],
