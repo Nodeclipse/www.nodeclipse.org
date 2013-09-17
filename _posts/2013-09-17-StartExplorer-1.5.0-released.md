@@ -1,6 +1,6 @@
 ---
 layout: share
-title: CoffeeScript Spaces and Tabs
+title: StartExplorer 1.5.0 released
 date: 2013-09-17
 categories: [eclipse, enide, studio, monster]
 ---
