@@ -2,7 +2,7 @@
 layout: nil
 ---
 
-# Nodeclipse 0.5 has critical bug. Read news on home page before upgrading.
+# Nodeclipse 0.5 has bug #72 in older JDK. Read news on home page before upgrading.
 
 [home page](/) (news, site navigation)
 

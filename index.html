@@ -1,3 +1,7 @@
+---
+layout: nil
+title: Nodeclipse, Enide
+---
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -6,7 +10,7 @@
     <link type="image/x-icon" rel="icon" href="http://www.nodeclipse.org/favicon.ico">
     <link type="image/x-icon" rel="shortcut icon" href="http://www.nodeclipse.org/favicon.ico">
     <link rel="stylesheet" href="http://www.nodeclipse.org/pipe.css">
-	<title>Nodeclipse -- Node.js development in Eclipse</title>
+	<title>Nodeclipse, Enide -- Node.js development in Eclipse</title>
 	<style>
 		ul {
 			padding: 0;
@@ -105,11 +109,12 @@
 				<a href="https://github.com/Nodeclipse/nodeclipse-1/issues/72">"#72 All nodejs apps fail to run after upgrade to 0.5"</a>.
 				<br/>
 				If you have already run into the problem. 1) let us know by confirming or raising new issue (we need to know exactly
-				 what OS, Java version, Eclipse version is affected. Currently only x32 Windows on Java 6 is confirmed.)
-				2) Uninstall Nodeclipse 0.5 (only 1 feature entry) via 
+				 what OS, Java version, Eclipse version is affected. Currently only x32 Windows on JDK 6 and x64 Windows on JDK 6 are confirmed.)
+				 Solutions: A) Install <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">latest JDK</a>
+				 B) Downgrade to 0.4
+				B.1) Uninstall Nodeclipse 0.5 (only 1 feature entry) via 
 				Help -> About Eclipse -> Installation details, select Nodeclipse, then <kbd>Uninstall..</kbd> button 
-				3) install 0.4 from update site 
-				<code>http://nodeclipse-1.github.io/updates</code>
+				B.2) install 0.4 from update site <code>http://nodeclipse-1.github.io/updates</code>
 			</p>
 			<p>	
 				2013-09-08<br/>
@@ -138,14 +143,16 @@
         		2013-07-31<br/>
         		Be first to suggest new <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
 			</p>
-			<p>
-        		2013-06-11<br/>
-				Welcome to share your Eclipse, Node.js or GitHub experience with
-				 <a href="/share.html" class="docs">SHARE</a>,
-				discuss and comment.
-			</p>
 			<p>See <a href="news/">all news at one page</a>.</p>
 			
+			<h3>Shared posts</h3>
+			<ul class="posts">
+			  {% for post in site.posts limit:5 %}
+			    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+			  {% endfor %}
+			</ul>
+			<p>See <a href="/share.html">all shares</a>.</p>
+
 		     <h3>Installing</h3>
 		        <p>
 				If you have not installed <a href="http://www.nodejs.org/">Node.js</a> yet,
