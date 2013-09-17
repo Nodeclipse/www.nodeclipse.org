@@ -18,6 +18,13 @@ CoffeeScript Editor is general editor for Node.js or web-projects.
 
 ![](https://github.com/Nodeclipse/eclipse-node-ide/raw/master/Pictures/CoffeeScriptEditor.png)
 
+### Hints
+
+Just run your `.coffee` file to check if it can compile, 
+and see coffee compiler message in `Console` View if it fails.
+(right-click in any Editor with `.coffee` file inside, seelct Run As -> coffee).
+This is quicker alternative to `coffee -c .` from command line.
+
 ### Note on XText Nature
 
 Notice that before you start using CoffeeScript Editor, you `.project` file looks like
