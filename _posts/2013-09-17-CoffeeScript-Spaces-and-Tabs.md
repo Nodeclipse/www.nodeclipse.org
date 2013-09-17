@@ -3,6 +3,7 @@ layout: share
 title: CoffeeScript Spaces and Tabs
 date: 2013-09-17
 categories: [coffee, eclipse, nodeclipse, enide, studio, monster]
+permalink: /share/coffeescript-spaces-and-tabs
 ---
 
 ### {{ page.title }}
