@@ -33,6 +33,10 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=907)
 [AWS Toolkit for Eclipse](https://marketplace.eclipse.org/content/aws-toolkit-eclipse)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=194)
+MoreUnit (assists in writing more unit tests, many programming languages) [mp](http://marketplace.eclipse.org/content/moreunit)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=801)
+WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
 
 ## Node.js & JavaScript Development
 
@@ -53,7 +57,8 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 [TypeSctipt Editor](https://github.com/palantir/eclipse-typescript) -only for Eclipse 4.3 on Java 6+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343)
 [Nodeclipse CoffeeScript Editor](/coffeescript)
-- TODO JSHint plugin
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1157104)
+[JSHint integration for the Eclipse IDE](http://github.eclipsesource.com/jshint-eclipse/) by Ralf Sternberg, EclipseSource [mp](http://marketplace.eclipse.org/content/jshint-eclipse)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=881)
 [Vrapper](https://marketplace.eclipse.org/content/vrapper) acts as a wrapper for Eclipse text editors
  to provide a Vim-like input scheme for moving around and editing text.
