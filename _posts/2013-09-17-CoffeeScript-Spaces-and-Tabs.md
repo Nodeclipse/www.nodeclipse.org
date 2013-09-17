@@ -36,6 +36,9 @@ Hopefully now on you will never spend time on such strange behavior.
 
 ![](/img/share/monster/Eclipse-Preferences-Editors-TextEditors.PNG)
 
+Just enable `Show whitespace characters` when in doubt` or pay attention to outline,
+or (the best) check your actual javascript file.
+
 ### Resources
 
 [Enide Monst(e)r](/enide/monster) is not yet released.
