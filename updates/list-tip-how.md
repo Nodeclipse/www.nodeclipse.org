@@ -1,9 +1,11 @@
 ---
-layout: home
+layout: nil
 title: Nodeclipse -- Plugin List How To
 ---
 
 <p></p>
+
+[home page](/) (news, site navigation)
 
 # Plugin List How to
 

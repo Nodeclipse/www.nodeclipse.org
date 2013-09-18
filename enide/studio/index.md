@@ -15,8 +15,20 @@ layout: studio
 
 [README](README)
 
+[Download Enide Studio for Windows x64/x32](https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/)
+
 <p>Latest version is shown on <a href="http://marketplace.eclipse.org/content/enide-studio">Marketplace</a>.</p>
             	
+## History
+
+### Version 0.5.33 (2013-09-18)
+
+- Uninstall Overview plugin for Eclipse (code birdview), as it caused a lot of error and warnigs during debug.
+- Release Windows x32 version
+
+### Version 0.5 (2013-09-12)
+
+- Release Windows x64 version
             	
 
 

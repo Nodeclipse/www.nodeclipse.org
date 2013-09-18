@@ -38,4 +38,7 @@ SO
 
 http://stackoverflow.com/questions/17118551/jekyll-generating-a-list-of-pages-not-posts-in-a-given-category
 http://stackoverflow.com/questions/11495398/category-templates-in-jekyll
+http://stackoverflow.com/questions/17566336/strip-url-to-1-word-in-jekyll
+http://stackoverflow.com/questions/15721310/stackoverflow-like-permalinks-with-jekyll
+
 

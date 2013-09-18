@@ -2,7 +2,11 @@
 layout: nil
 ---
 
-# Nodeclipse 0.5 has bug #72 in older JDK. Read news on home page before upgrading.
+# Nodeclipse 0.5 released. 
+
+Nodeclipse 0.5 has [bug #72](https://github.com/Nodeclipse/nodeclipse-1/issues/72) in older JDK 6. Get latest JDK 7 from
+<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a> 
+Read news on home page before upgrading.
 
 [home page](/) (news, site navigation)
 
