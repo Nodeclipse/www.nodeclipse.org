@@ -23,7 +23,7 @@ layout: studio
 
 ### Version 0.5.33 (2013-09-18)
 
-- Uninstall Overview plugin for Eclipse (code birdview), as it caused a lot of error and warnigs during debug.
+- Remove Overview plugin for Eclipse (aka code birdview), as it caused too much errors and warnings during debug.
 - Release Windows x32 version
 
 ### Version 0.5 (2013-09-12)
