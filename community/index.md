@@ -4,7 +4,7 @@ layout: community
 
 # Nodeclipse community pages
 
-[Nodeclipse Google Group (English)](https://groups.google.com/forum/?hl=en&fromgroups#!forum/nodeclipse)
+[Nodeclipse Google Group (English)](https://groups.google.com/forum/#!forum/nodeclipse)
 
 [Suggest your ideas and vote for ideas](http://nodeclipse.uservoice.com/)
 
