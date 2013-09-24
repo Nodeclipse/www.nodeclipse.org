@@ -18,3 +18,9 @@ http://zhiyongv.iteye.com/blog/1739267
 - [Eclipse中国](http://eclipse-china.github.io/)
 - [Node.js中国](http://cnodejs.org/)
 
+### 别人说 
+
+nodeclipse拯救世界… 
+虽然nodeclipse比较简陋但还是能用的 不过代码提示就别想了…
+
+ 
