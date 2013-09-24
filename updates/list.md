@@ -91,6 +91,7 @@ Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/i
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=697)
 Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content/rinzo-xml-editor),[sources](https://github.com/ccancinos/rinzo-xml-editor)
+- [Amateras Eclipse HTML Editor](http://amateras.sourceforge.jp/cgi-bin/fswiki_en/wiki.cgi?page=EclipseHTMLEditor)
 
 ## Mylyn Connectors
 
