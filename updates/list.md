@@ -28,7 +28,7 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
  ([has some bugs in standard perspectives](/enide/studio/README#warning))
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512)
-[Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse)
+[Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse) press Ctrl+Shift+L
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
@@ -106,4 +106,4 @@ GitHub Mylyn Connector
 - <https://code.google.com/p/sandipchitaleseclipseplugins/> by [Sandip Chitale](http://marketplace.eclipse.org/user/1047/listings)
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
-Let [us](/community) know [more by adding here](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
+Let [us](/community) know [more by editing this list on GitHub](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
