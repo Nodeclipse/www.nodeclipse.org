@@ -9,7 +9,7 @@ title: Nodeclipse -- Version History
 
 Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
 	
-### Version 0.5, 2013-09
+### Version 0.5, 2013-09-08
 
 - [#59](https://github.com/Nodeclipse/nodeclipse-1/issues/59) setting environment variables in Launch (Run/Debug Configuration)
 - [#26](https://github.com/Nodeclipse/nodeclipse-1/issues/26) [CoffeeScript support](http://coffeescript.org): run `*.coffee` files 
@@ -27,7 +27,7 @@ and `*.litcoffee` files,
  [Welcome to contribute](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents):
  just edit Markdown files online, then send pull request.
 - [#40](https://github.com/Nodeclipse/nodeclipse-1/issues/40) [maven](http://maven.apache.org/) build.
- Building Nodeclipse is now the the easiest `mvn package` from command line. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
+ Building Nodeclipse is now the easiest `mvn package` from command line. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 
 <h3>Version 0.4, 2013-05-19</h3>
 <ul>
