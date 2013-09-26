@@ -30,7 +30,10 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512)
 [Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse) press Ctrl+Shift+L
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
-[Start Explorer or shell](http://marketplace.eclipse.org/node/641101)
+[Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
+Wicked Shell - A non-evil eclipse plugin providing an integrated shell (by Stefan Reichert).
+ [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
 [HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
@@ -41,9 +44,6 @@ Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-e
 MoreUnit (assists in writing more unit tests, many programming languages) [mp](http://marketplace.eclipse.org/content/moreunit)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=801)
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
-Wicked Shell - A non-evil eclipse plugin providing an integrated shell (by Stefan Reichert).
- [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
 
 ## Node.js & JavaScript Development
 
