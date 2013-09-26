@@ -41,6 +41,9 @@ Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-e
 MoreUnit (assists in writing more unit tests, many programming languages) [mp](http://marketplace.eclipse.org/content/moreunit)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=801)
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
+Wicked Shell - A non-evil eclipse plugin providing an integrated shell (by Stefan Reichert).
+ [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
 
 ## Node.js & JavaScript Development
 
