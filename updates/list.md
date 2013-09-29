@@ -34,6 +34,10 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
 Wicked Shell - A non-evil eclipse plugin providing an integrated shell (by Stefan Reichert).
  [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
+Terminal Plug-in [mp](http://marketplace.eclipse.org/content/terminal-plug)
+- local terminal incubator project can be found among Genaral purpose tools
+ (depends on Eclipse C/C++ development platform) 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
 [HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
@@ -110,3 +114,5 @@ GitHub Mylyn Connector
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
 Let [us](/community) know [more by editing this list on GitHub](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
+(With GitHub you can adit online and send pull request event without getting whole project on local device.)
+
