@@ -4,6 +4,8 @@ layout: studio
 
 # Enide Monst(e)r
 
+![](Enide-Moster-logo-idea.png)
+
 <a href="Enide-Monster-Coffee-JS-Overview2.png">
 <img alt="Nodeclipse 0.4.10 overview" src="Enide-Monster-Coffee-JS-Overview2.png" width="350" height="200" /></a>            	
 
