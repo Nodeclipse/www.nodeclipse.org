@@ -3,9 +3,9 @@ layout: home
 title: Nodeclipse -- News
 ---
 
-<p></p>
-
 # Nodeclipse news
+
+<p></p>
 
 <p>
 	2013-09-11<br/>

@@ -15,7 +15,7 @@ REST client tool ([restclient-tool git repository](https://github.com/Nodeclipse
 It was created by [Yadu Vendra](http://code.google.com/a/eclipselabs.org/u/a1yadu/) ([blog](http://www.yaduvendra.com/))
  3 years ago, but has no updates for 2 years. Version 1.1.x will be continuation.
  
-This plugin in distributed within [Nodeclispe NTS](/nts/).
+This plugin in distributed within [Nodeclispe NTS](/nts/), [Enide Studio](/enide/studio) and [Enide Monst(e)r](/enide/monster).
 
 ### See more in README
 

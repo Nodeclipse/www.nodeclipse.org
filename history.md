@@ -16,21 +16,25 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
 - [Extended Help with examples and links](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents#intro). 
  Ready for contribution: just edit online with GitHub.
 - [#61](https://github.com/Nodeclipse/nodeclipse-1/issues/61) set debugging port in Preferences.
- Now you can debug several node.js apps in the same time (but in different Eclipse instances).
+ Now you can debug several Node.js apps in the same time (but in different Eclipse instances).
 - [#49](https://github.com/Nodeclipse/nodeclipse-1/issues/49) support black background color schemes
  for Chromium JS Editor (used in debug mode). That is good for Aptana users where default theme is dark.
  Also now Chromium JS Editor has Outline support.
-- TODO 2 items below have problem <http://stackoverflow.com/questions/19157302/eclipse-plugin-development-saved-launchconfiguration-overrides-launchtype> ,
- that limits their usability (wait for resolution or release AS IS)
-- more support for [CoffeeScript][1] (launch `coffee` util in RUN or DEBUG mode) & [TypeScript][2] (`tsc` compiler).
- Note that full featured CoffeeScript debugging [#12](https://github.com/Nodeclipse/nodeclipse-1/issues/12) is not yet implemented.
- Do you know Java library for parsing `coffee`-generated SourceMaps?
-- [#57](https://github.com/Nodeclipse/nodeclipse-1/issues/57) running app.js with node-dev, forever, supervisor, nodemon etc
- Default preferences to `node-dev`.
-- Integrate Github Flavored Markdown Viewer by Satyagraha, RestClient Tool by Yadu Vendra, StartExplorer by Bastian Krol 
+- TODO: 2 items below have problem <http://stackoverflow.com/questions/19157302/eclipse-plugin-development-saved-launchconfiguration-overrides-launchtype> ,
+ that limits their usability (wait for resolution or release AS IS with warning in Help)
+	- more support for [CoffeeScript][1] (launch `coffee` util in RUN or DEBUG mode) & [TypeScript][2] (`tsc` compiler).
+	 Note that full featured CoffeeScript debugging [#12][12] is not yet implemented.
+	 Do you know Java library for parsing `coffee`-generated SourceMaps? [#12][12]
+	- [#57](https://github.com/Nodeclipse/nodeclipse-1/issues/57) running app.js with node-dev, forever, supervisor, nodemon etc.
+	 Default preferences to `node-dev`.
+- Integrate [Github Flavored Markdown Viewer][3] by Satyagraha, [RestClient Tool](/restclient-tool) by Yadu Vendra,
+ [StartExplorer][4] by Bastian Krol 
 
   [1]: http://coffeescript.org/
   [2]: http://www.typescriptlang.org/
+  [3]: https://github.com/satyagraha/gfm_viewer
+  [4]: http://basti1302.github.io/startexplorer/
+  [12]: https://github.com/Nodeclipse/nodeclipse-1/issues/12
   
    
 ### Version 0.5, 2013-09-08

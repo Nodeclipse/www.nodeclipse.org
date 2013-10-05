@@ -18,7 +18,7 @@ and [solution page](http://www.nodeclipse.org/enide/monster).
 1. If you don't have, download & install latest JDK
 
  <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
- For example "Java Platform (JDK) 7u25"
+ For example "Java Platform (JDK) 7u40"
 
 2. [Download Enide Studio for your operating system (currently Windows x64 & x32, Linux x64)](https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/)
 
