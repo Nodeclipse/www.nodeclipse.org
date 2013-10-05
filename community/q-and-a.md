@@ -3,7 +3,9 @@ layout: community
 title: Nodeclipse - Community - Q & A
 ---
 
-# {{ page.title }}
+# FAQ
+
+(Check also <http://www.nodeclipse.org/community/q-and-a>)
 
 > Q: [How to install nodeclipse in myeclipse2013? I have no eclipse.](https://github.com/Nodeclipse/nodeclipse-1/issues/60)
 

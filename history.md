@@ -3,12 +3,36 @@ layout: home
 title: Nodeclipse -- Version History
 ---
 
-<p></p>
-
 # Version History
+
+<p></p>
 
 Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
 	
+### Version 0.6, 2013-10-??
+
+- Option to launch Node debug without -brk (disable interruption of Node.js app on the first line).
+ Check Help (<kbd>F1</kbd>) Debug page on debug-brk option.
+- [Extended Help with examples and links](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents#intro). 
+ Ready for contribution: just edit online with GitHub.
+- [#61](https://github.com/Nodeclipse/nodeclipse-1/issues/61) set debugging port in Preferences.
+ Now you can debug several node.js apps in the same time (but in different Eclipse instances).
+- [#49](https://github.com/Nodeclipse/nodeclipse-1/issues/49) support black background color schemes
+ for Chromium JS Editor (used in debug mode). That is good for Aptana users where default theme is dark.
+ Also now Chromium JS Editor has Outline support.
+- TODO 2 items below have problem <http://stackoverflow.com/questions/19157302/eclipse-plugin-development-saved-launchconfiguration-overrides-launchtype> ,
+ that limits their usability (wait for resolution or release AS IS)
+- more support for [CoffeeScript][1] (launch `coffee` util in RUN or DEBUG mode) & [TypeScript][2] (`tsc` compiler).
+ Note that full featured CoffeeScript debugging [#12](https://github.com/Nodeclipse/nodeclipse-1/issues/12) is not yet implemented.
+ Do you know Java library for parsing `coffee`-generated SourceMaps?
+- [#57](https://github.com/Nodeclipse/nodeclipse-1/issues/57) running app.js with node-dev, forever, supervisor, nodemon etc
+ Default preferences to `node-dev`.
+- Integrate Github Flavored Markdown Viewer by Satyagraha, RestClient Tool by Yadu Vendra, StartExplorer by Bastian Krol 
+
+  [1]: http://coffeescript.org/
+  [2]: http://www.typescriptlang.org/
+  
+   
 ### Version 0.5, 2013-09-08
 
 - [#59](https://github.com/Nodeclipse/nodeclipse-1/issues/59) setting environment variables in Launch (Run/Debug Configuration)
