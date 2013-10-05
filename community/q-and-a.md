@@ -9,8 +9,9 @@ title: Nodeclipse - Community - Q & A
 
 > Q: [How to install nodeclipse in myeclipse2013? I have no eclipse.](https://github.com/Nodeclipse/nodeclipse-1/issues/60)
 
-If you don't have Eclipse and you use Windows, you can download Nodeclipse NTS <http://www.nodeclipse.org/nts/>
-(quick link <https://sourceforge.net/projects/nodeclipse/files/Node-Tool-Suite/>)
+If you don't have Eclipse and you use Windows, you can download [Nodeclipse NTS](http://www.nodeclipse.org/nts/)
+ or [Enide Studio](http://www.nodeclipse.org/enide/studio/).
+(quick link <https://sourceforge.net/projects/nodeclipse/files/>)
 
 Otherwise follow instructions on <http://www.nodeclipse.org/updates/>
 
