@@ -2,11 +2,11 @@
 layout: nil
 ---
 
-# Nodeclipse 0.5 released. 
+### Nodeclipse 0.6 released. 
 
-Nodeclipse 0.5 has [bug #72](https://github.com/Nodeclipse/nodeclipse-1/issues/72) in older JDK 6. Get latest JDK 7 from
-<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a> 
-Read news on home page before upgrading.
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
+[Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
 [home page](/) (news, site navigation)
 
@@ -50,9 +50,13 @@ MoreUnit (assists in writing more unit tests, many programming languages) [mp](h
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
 
 ## Node.js & JavaScript Development
-
+<!-- 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
 [Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
+-->
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
+[Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
 [GitHub Flavored Markdown (GFM) Viewer](https://github.com/satyagraha/gfm_viewer),
  [Marketplace](http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site)

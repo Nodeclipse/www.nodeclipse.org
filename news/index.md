@@ -8,6 +8,14 @@ title: Nodeclipse -- News
 <p></p>
 
 <p>
+	2013-09-12<br/>
+	<a href="/enide/studio/">Enide Studio</a> 0.5 for Windows x64 is published on 
+	<a href="https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/">SourceForge</a>.
+	It is based on <a href="http://www.eclipse.org/kepler/">Eclipse Kepler</a> Java/DSL
+	and includes Nodeclipse 0.5 and other plugins for Node.js, JavaScript,
+	Java and Eclipse development with git and GitHub.
+</p>
+<p>
 	2013-09-11<br/>
 	ATTENTION: There was reported issue of 
 	<a href="https://github.com/Nodeclipse/nodeclipse-1/issues/72">"#72 All nodejs apps fail to run after upgrade to 0.5"</a>.
