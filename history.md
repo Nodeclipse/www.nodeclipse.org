@@ -12,7 +12,7 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
 ### Version 0.6, 2013-10-06
 
 - Option to launch Node debug without -brk (disable interruption of Node.js app on the first line).
- Check Help (<kbd>F1</kbd>) Debug page on debug-brk option.
+ Check Help (<kbd>F1</kbd>) Debug page on -debug-brk option.
 - [Extended Help with examples and links](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents#intro). 
  Ready for contribution: just edit online with GitHub.
 - [#61](https://github.com/Nodeclipse/nodeclipse-1/issues/61) set debugging port in Preferences.

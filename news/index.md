@@ -9,7 +9,7 @@ title: Nodeclipse -- News
 
 <p>
 	2013-09-12<br/>
-	<a href="/enide/studio/">Enide Studio</a> 0.5 for Windows x64 is published on 
+	<a href="/enide/studio/">Enide Studio</a> 0.5 for Windows x64 and x32 is published on 
 	<a href="https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/">SourceForge</a>.
 	It is based on <a href="http://www.eclipse.org/kepler/">Eclipse Kepler</a> Java/DSL
 	and includes Nodeclipse 0.5 and other plugins for Node.js, JavaScript,
