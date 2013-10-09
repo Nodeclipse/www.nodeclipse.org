@@ -39,11 +39,9 @@ title: Nodeclipse, Enide
                     <li><a href="http://www.nodeclipse.org/share.html" class="docs">SHARE</a></li>
                     <li><a href="http://www.nodeclipse.org/artworks.html" class="logos">Logos</a></li>
                     <li><a href="http://www.nodeclipse.org/updates/" class="download">Download</a></li>
-                    <li><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
-                     title="Drag and drop into a running Eclipse to install Nodeclipse">
-			  			<img src="/img/installbutton.png"/>
-			  			</a></li>
+                    <li>{% nodeclipse_install_button.html %}</li>
                     <li><a href="/enide" class="download">Enide</a></li>
+                    <li><a href="/enide/studio" class="download">Enide Stduio</a></li>
                     <li><a href="/nts/" class="download">NTS</a></li>
                     <li><a href="http://nodeclipse.github.io/" class="blog">Developing</a></li>
                     <li><a href="https://github.com/Nodeclipse/nodeclipse-blog#blog" class="blog">Blog</a></li>
@@ -98,18 +96,14 @@ title: Nodeclipse, Enide
 			<p>	
 				2013-10-06<br/>
 				Nodeclipse & Enide version 0.6 released. New update site is 
-				<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.6.0/</pre>
-				<!-- -->
-				<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101"
-                     title="Drag and drop into a running Eclipse to install Nodeclipse & Enide">
-			  			<img src="/img/installbutton.png"/>
-			  			</a>  
+				<pre>{% include nodeclipse_update_site.html %}</pre>
+				{% nodeclipse_install_button.html %}
 			  			<br/>
 				Check <a href="/history">What's new</a>.
 	        </p>
 			<p>
         		2013-09-12<br/>
-				<a href="/enide/studio/">Enide Studio</a> 0.5 for Windows x64 is published on 
+				<a href="/enide/studio/">Enide Studio</a> 0.5 for Windows x64 & x32 is published on 
 				<a href="https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/">SourceForge</a>.
 				It is based on <a href="http://www.eclipse.org/kepler/">Eclipse Kepler</a> Java/DSL
 				and includes Nodeclipse 0.5 and other plugins for Node.js, JavaScript,
@@ -168,20 +162,15 @@ title: Nodeclipse, Enide
 				</p>
 
 				<p>
-		        Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
-		         title="Drag and drop into a running Eclipse to install Nodeclipse">
-		         <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
-		         </a> into a running Eclipse to install Nodeclipse.</br>
-		         Or use update site:
-
-          		<pre>Update Site: http://dl.bintray.com/nodeclipse/nodeclipse/0.6.0/</pre>
+		        Drag and drop {% nodeclipse_install_button.html %} into a running Eclipse to install Nodeclipse.</br>
+		        Or use update site:
+          		<pre>{% include nodeclipse_update_site.html %}</pre>
 				</p>
-				<!-- <a href="http://www.nodeclipse.org/updates/">http://www.nodeclipse.org/updates/</a>-->
-				
+				<!--  
 				<p>
 				You may want to install JSHint integration for Eclipse.<br/>
 				Update site: <a href="http://github.eclipsesource.com/jshint-eclipse/updates/">http://github.eclipsesource.com/jshint-eclipse/updates/</a></li>
-				</p>
+				</p>-->
 				
 				<h3>Features</h3>
 				<ul>
@@ -191,7 +180,7 @@ title: Nodeclipse, Enide
 					<li>NPM support</li>
 					<li>Debugging - Breakpoint, Trace, etc... via Eclipse debugger plugin for V8</li>
 					<li>Generating Express project</li>
-					<li>Setting project properties for <a href="http://github.eclipsesource.com/jshint-eclipse/">jshint-eclipse</a> automatically</li>
+					<li>Setting project properties for <a href="http://github.eclipsesource.com/jshint-eclipse/">JSHint-Eclipse</a> automatically</li>
 					<li>Passing arguments to Node application and Node.js</li>
 					<li>Running CoffeeScript *.coffee files</li>
 					<li>Support for Eclipse Juno, Kepler</li>
@@ -211,7 +200,8 @@ title: Nodeclipse, Enide
 					<li>Open the JavaScript source files that you want to set breakpoints.</li>
 					<li>Double-click on the ruler at the left end of the line you want to set a breakpoint.</li>
 					<li>If you want to remove a breakpoint, double-click on the ruler again.</li>
-					<li>Select the main source file of Node Application on the Project Explorer, open the context menu by right-clicking, select the [Debug As]-[Node Application] menu.</li>
+					<li>Select the main source file of Node Application on the Project Explorer, open the context menu by right-clicking,
+					 select the [Debug As]-[Node Application] menu.</li>
 					</ol>
 					</p>
 
