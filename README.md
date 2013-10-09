@@ -1,6 +1,20 @@
 
 # Nodeclipse website
 
+Hosted on GitHuh-pages
+Uses [jekyll](http://jekyllrb.com/) <https://help.github.com/articles/using-jekyll-with-pages>
+
+[GitHub pages Help](https://help.github.com/categories/20/articles)
+[Ruby installer for WIndows](http://rubyinstaller.org/downloads/)
+
+https://github.com/github/markup is used when rendering any README.md
+
+GitHub Pages Ruby Gem - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
+https://github.com/github/pages-gem
+
+	gem install github-pages
+	
+	 you can build your site using jekyll build, or preview your site using jekyll serve.
 
 
 # Nodeclipse - Node.js support in Eclipse IDE
