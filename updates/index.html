@@ -29,10 +29,7 @@
                     <li><a href="/share.html" class="docs">SHARE</a></li>
                     <li><a href="/artworks.html" class="logos">Logos</a></li>
                     <li><a href="/updates/" class="download current">Download</a></li>
-                    <li><a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
-                     title="Drag and drop into a running Eclipse to install Nodeclipse">
-					   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
-					   </a></li>
+                    <li>{% nodeclipse_install_button.html %}</li>
                     <li><a href="/enide" class="download">Enide</a></li>
                     <li><a href="/nts/" class="download">NTS</a></li>
                     <li><a href="http://nodeclipse.github.io/" class="blog external">Developing</a></li>
@@ -83,10 +80,7 @@
             	
 		        <h4>a) Recommended way (Marketplace)</h4>
 				<pre>1.  Start Eclipse.</pre>
-				<p>2.  Drag and drop <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
-		         title="Drag and drop into a running Eclipse to install Nodeclipse">
-		         <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
-		         </a> into a running Eclipse (menu area) to install Nodeclipse.</p>
+				<p>2.  Drag and drop {% nodeclipse_install_button.html %} into a running Eclipse (menu area) to install Nodeclipse.</p>
 				<pre>2.  Review the features that you are about to install. Click Next.</pre>
 				<pre>3.  Read the license agreements,</pre>
 				<pre>    and then select I accept the terms of the license agreements. Click Finish.</pre>
