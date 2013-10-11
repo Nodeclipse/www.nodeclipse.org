@@ -2,12 +2,6 @@
 layout: nil
 ---
 
-### Nodeclipse 0.6 released. 
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
-[Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
- StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
-
 [home page](/) (news, site navigation)
 
 # Nodeclipse Plugins List
@@ -18,10 +12,22 @@ Just drag-and-drop such ![InstallLink][1]
 
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
 
+## News and updates
+
+#### Nodeclipse & Enide are 0.6 released. 
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
+[Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+ 
+#### EGIt 3.1 released. 
+
 ## General
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
-Nodeclipse Plugins List plugin (access this list with one click from Eclipse)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+Even though EGit is perfect GUI, you may still want to use command line `git`.
+ [Msysgit](http://msysgit.github.io/) is nice distribution for Windows, that includes bash.
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
 [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
@@ -52,6 +58,7 @@ MoreUnit (assists in writing more unit tests, many programming languages) [mp](h
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
 
 ## Node.js & JavaScript Development
+
 <!-- 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
 [Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
@@ -80,7 +87,7 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 [Vrapper](https://marketplace.eclipse.org/content/vrapper) acts as a wrapper for Eclipse text editors
  to provide a Vim-like input scheme for moving around and editing text.
 
-## Eclipse Development
+## Eclipse Plugin/RCP Development
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311838)
 Eclipse 4 Tools: Application Model Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-application-model-editor)
@@ -90,6 +97,8 @@ Eclipse 4 Tools: CSS Spy [mp](https://marketplace.eclipse.org/content/eclipse-4-
 Eclipse 4 Tools: Lightweight CSS Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-lightweight-css-editor)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=164352)
 [Selection Explorer Eclipse Plug-in](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer) [mp](http://marketplace.eclipse.org/content/selection-explorer-eclipse-plug)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=820580)
+Tycho Build Tools [mp](http://marketplace.eclipse.org/content/tycho-build-tools), [site](http://code.google.com/a/eclipselabs.org/p/tycho-build-tools/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277)
 Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator),
  see [overview](http://javatime.no/blog/inplace-activator-overview/), [issues](https://github.com/inclipse/issues/issues), [wiki](https://github.com/inclipse/issues/wiki)
@@ -115,6 +124,8 @@ GitHub Mylyn Connector
 
 ## Other lists
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
+Nodeclipse Plugins List plugin (access this list with one click from Eclipse; Included in Nodeclipse Enide)
 - Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work in Kepler.
 - <https://code.google.com/p/sandipchitaleseclipseplugins/> by [Sandip Chitale](http://marketplace.eclipse.org/user/1047/listings)
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
