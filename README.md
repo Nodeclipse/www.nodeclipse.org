@@ -5,7 +5,7 @@ Hosted on GitHuh-pages
 Uses [jekyll](http://jekyllrb.com/) <https://help.github.com/articles/using-jekyll-with-pages>
 
 [GitHub pages Help](https://help.github.com/categories/20/articles)
-[Ruby installer for WIndows](http://rubyinstaller.org/downloads/)
+[Ruby installer for Windows](http://rubyinstaller.org/downloads/)
 
 https://github.com/github/markup is used when rendering any README.md
 
@@ -14,14 +14,12 @@ https://github.com/github/pages-gem
 
 	gem install github-pages
 	
-	 you can build your site using jekyll build, or preview your site using jekyll serve.
+> you can build your site using `jekyll build`, or preview your site using `jekyll serve`.
 
 
 # Nodeclipse - Node.js support in Eclipse IDE
 
 ![nodeclipse-logo](img/Nodeclipse_logo_light.png)
-
-We have released version 0.3. Enjoy!
 
 Moved from [https://github.com/tomotaro1065/nodeclipse](https://github.com/tomotaro1065/nodeclipse)
  to [https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1) .
@@ -79,11 +77,6 @@ We use [Semantic Versioning](http://semver.org/). Version is MAJOR.MINOR.PATCH, 
 - MAJOR indicates substantially new release, possibly with API change
 - MINOR indicates updates, that are fully backward-compatible
 - PATCH indicates that is bug-fix
-
-
-### 0.5 (TBD)
-
-- Eclipse 4.3 Kepler support
 
 ### Ideas, proposals, work-in-progress etc.
 - Improving Code Assist
