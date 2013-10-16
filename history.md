@@ -20,7 +20,7 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
 - [#49](https://github.com/Nodeclipse/nodeclipse-1/issues/49) support black background color schemes
  for Chromium JS Editor (used in debug mode). That is good for Aptana users where default theme is dark.
  Also now Chromium JS Editor has Outline support.
-- TODO: 2 items below have ran into problem <http://stackoverflow.com/questions/19157302/eclipse-plugin-development-saved-launchconfiguration-overrides-launchtype> ,
+- TODO: 2 items below have run into problem <http://stackoverflow.com/questions/19157302/eclipse-plugin-development-saved-launchconfiguration-overrides-launchtype> ,
  that limits their usability (also warning in Help). Decision was made not to postpone release of features above
  and have more frequent releases
 	- more support for [CoffeeScript][1] (launch `coffee` util in RUN or DEBUG mode) & [TypeScript][2] (`tsc` compiler).
