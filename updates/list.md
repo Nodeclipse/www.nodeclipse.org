@@ -131,5 +131,5 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse; In
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
 Let [us](/community) know [more by editing this list on GitHub](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
-(With GitHub you can adit online and send pull request event without getting whole project on local device.)
+(With GitHub you can edit online and send pull request event without getting whole project on local device.)
 
