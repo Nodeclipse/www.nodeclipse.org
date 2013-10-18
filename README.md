@@ -17,6 +17,26 @@ https://github.com/github/pages-gem
 > you can build your site using `jekyll build`, or preview your site using `jekyll serve`.
 
 
+https://help.github.com/articles/using-jekyll-with-pages
+
+	ruby --version
+(	install Ruby and Development-Kit
+https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+run “ruby dk.rb init” and “ruby dk.rb install”
+)
+	
+	gem install github-pages
+
+or {
+	gem install bundler
+
+Gemfile with 
+	source 'https://rubygems.org'
+	gem 'github-pages'
+	
+	bundle install
+}
+
 # Nodeclipse - Node.js support in Eclipse IDE
 
 ![nodeclipse-logo](img/Nodeclipse_logo_light.png)
