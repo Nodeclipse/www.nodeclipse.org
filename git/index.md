@@ -5,6 +5,8 @@ title: Nodeclipse -- Git/EGit Notes
 
 # Git/EGit Notes
 
+<p></p>
+
 It is nice that Eclipse goes now with [EGit](http://eclipse.org/egit/)
  (git client on top of [JGit Java implementation of Git](http://www.eclipse.org/jgit/)).
 This means that for basic operations you don't need `git` command line tool

@@ -11,10 +11,15 @@ NOTE: This is [open-source article, that you can extend](https://github.com/Node
 
 ### Basic
 
-1. Insert Addon CD images Devices -> Install Guest Additons ...
+1. Insert Addon CD images Devices -> Install Guest Additions ...
 2. Launch installer for your OS
 
-This however fails on CentOS, so below are additonal steps needed.
+In CentOS 6.2 popup will come to enter root password and confirm installation. Worked like charm. Just reboot... 
+and the screen can be any size and mouse smoothly intaract with any OS's applications.
+
+![](../Pictures/CentOS_62_in_VirtualBox_with_Guest_Additions.png)
+
+This however failed on CentOS 5.4, so below are additional steps needed.
 
 CheatSheet based on <http://www.processworks.de/blog/2009/09/install-virtualbox-guest-additions-in-centos-redhat-linux-client/>
 
