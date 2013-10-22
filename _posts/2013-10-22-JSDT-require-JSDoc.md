@@ -40,3 +40,8 @@ In this line `var MongoClient = require('mongodb').MongoClient, format = require
 	 */  
 ```
 ![](../Pictures/JSDT-feature-supports-JSDoc.PNG)
+
+
+Check also <http://www.nodeclipse.org/2013/06/12/javascript-annotations.html>
+
+And MongoDBNodeProject project <https://github.com/Nodeclipse/org.nodeclipse.examples/tree/master/MongoDBNodeProject>

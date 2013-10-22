@@ -6,11 +6,13 @@ title: JavaScript Annotations
 {{ page.title }}
 ================
 
+<p></p>
+
 <p class="meta">12 June 2013</p>
 
 ## Improving Code Assist
 
-https://github.com/Nodeclipse/nodeclipse-1/issues/7 
+<https://github.com/Nodeclipse/nodeclipse-1/issues/7> 
 
 You know, [one of the](https://github.com/Nodeclipse/nodeclipse-1/issues) big problem we have in Nodeclipse
  is #7 Improving Code Assist. But this is actually problem of JavaScript language itself.
