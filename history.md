@@ -88,7 +88,7 @@ and `*.litcoffee` files,
 - Update template for new project
 	* Add README.md template
 	* Add hello-world-server.js
-	* Add package.json (This is good practice)
+	* Add package.json [(This is good practice)](http://blog.nodejitsu.com/package-dependencies-done-right)
 * [Publish](http://marketplace.eclipse.org/quickstart) on Eclipse marketplace
 * [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)
 	You can pass arguments to application and node.js setting on [Debug configration...]-[Node Application]-[&ltyour configration name&gt]-[Arguments].<br/>
