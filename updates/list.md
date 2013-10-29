@@ -118,6 +118,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 ## Mylyn Connectors
 
 - https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector
+ [some screenshots](http://www.eclipse.org/mylyn/new/new-3.5.html)
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
 GitHub Mylyn Connector
