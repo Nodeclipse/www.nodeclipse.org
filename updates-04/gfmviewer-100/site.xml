@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/code.satyagraha.gfm.viewer.feature_1.0.0.201306070257.jar" id="code.satyagraha.gfm.viewer.feature" version="1.0.0.201306070257">
-      <category name="Viewers"/>
-   </feature>
-   <category-def name="Viewers" label="Viewers"/>
-</site>
