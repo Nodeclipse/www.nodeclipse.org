@@ -117,6 +117,8 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 ## Mylyn Connectors
 
+- https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
 GitHub Mylyn Connector
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
@@ -131,5 +133,5 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse; In
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
 Let [us](/community) know [more by editing this list on GitHub](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
-(With GitHub you can edit online and send pull request event without getting whole project on local device.)
+(With GitHub you can edit online and send Pull Request even without getting whole project on local device.)
 
