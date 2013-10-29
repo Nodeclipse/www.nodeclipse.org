@@ -8,18 +8,33 @@ title: Nodeclipse -- Version History
 <p></p>
 
 Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
-	
+
+### Version 0.7, 2013-11-??
+
+- allow many Node.js application running, and Debug View in Node perspective to check and terminate processes
+- optional support for [PhantomJS][8] and [Nashorn JJS][9]
+- optional support for [MongoDB][13] Shell (running scripts)
+- disable JSDT validation; enable JSHint validation for `*.json, *.njs, *.pjs, *.jjs`, *.mjs, *.jshintrc files
+- Help content with tutorials, links and examples, that you can
+ [edit online with GitHub][10]
+ 
+  [8]: http://phantomjs.org/
+  [9]: https://blogs.oracle.com/nashorn/
+  [13]: http://www.mongodb.org/
+
 ### Version 0.6, 2013-10-06
 
 - Option to launch Node debug without -brk (disable interruption of Node.js app on the first line).
  Check Help (<kbd>F1</kbd>) Debug page on -debug-brk option.
-- [Extended Help with examples and links](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents#intro). 
+- [Extended Help with examples and links][10]. 
  Ready for contribution: just edit online with GitHub.
 - [#61](https://github.com/Nodeclipse/nodeclipse-1/issues/61) set debugging port in Preferences.
  Now you can debug several Node.js apps in the same time (but in different Eclipse instances).
-- [#49](https://github.com/Nodeclipse/nodeclipse-1/issues/49) support black background color schemes
+- Chromium JS Editor now has Outline support as Node Editor
+<!--
+[#49](https://github.com/Nodeclipse/nodeclipse-1/issues/49) support black background color schemes
  for Chromium JS Editor (used in debug mode). That is good for Aptana users where default theme is dark.
- Also now Chromium JS Editor has Outline support.
+-->
 - TODO: 2 items below have run into problem <http://stackoverflow.com/questions/19157302/eclipse-plugin-development-saved-launchconfiguration-overrides-launchtype> ,
  that limits their usability (also warning in Help). Decision was made not to postpone release of features above
  and have more frequent releases
@@ -38,6 +53,7 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
   [4]: http://basti1302.github.io/startexplorer/
   [6]: http://www.nodeclipse.org/git/addon/
   [7]: https://marketplace.eclipse.org/content/nodeclipse-plugins-list
+  [10]: https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents#intro
   [12]: https://github.com/Nodeclipse/nodeclipse-1/issues/12
   
    
@@ -49,7 +65,7 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
 and `*.litcoffee` files,
  associate `*.litcoffee` ( [Literate CoffeeScript](http://coffeescript.org/#literate) ) with Markdown Editor.
  Check for [letarate programming](http://www.google.com.hk/search?q=letarate+programming).
- -->
+-->
 - [#17](https://github.com/Nodeclipse/nodeclipse-1/issues/17) bundle [Express](http://expressjs.org/) and CoffeeScript into jar files.
  This lets you install them even if you don't have admin permission on computer that you use, or if you want play quickly with Node.js 
  and don't remember how to do `npm install express -g`. Note this bundle is of current Express/CoffeeScript versions, and doesn't
