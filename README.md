@@ -37,6 +37,29 @@ Gemfile with
 	bundle install
 }
 
+###  invalid byte sequence in GBK (etc)
+
+http://www.cnblogs.com/aleda/articles/Jekyll-in-Windows-following-Chinese-encoding-problem-solutions.html
+
+change C:\Ruby200\lib\ruby\gems\2.0.0\gems\jekyll-1.2.0\lib\jekyll line
+
+	self.content = File.read(File.join(base, name))
+
+into
+
+	self.content = File.read(File.join(base, name),:encoding=>"utf-8")
+
+Solution 2 would be [#201](https://github.com/mojombo/jekyll/issues/201)
+
+try `chcp 65001` before `jekyll` command
+
+
+
+
+
+
+
+
 # Nodeclipse - Node.js support in Eclipse IDE
 
 ![nodeclipse-logo](img/Nodeclipse_logo_light.png)
