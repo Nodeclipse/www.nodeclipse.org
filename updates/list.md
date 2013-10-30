@@ -20,7 +20,7 @@ Just drag-and-drop such ![InstallLink][1]
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
  
-#### EGIt 3.1 released. 
+#### EGit 3.1 released. 
 
 ## General
 
@@ -44,8 +44,6 @@ Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell
 Terminal Plug-in [mp](http://marketplace.eclipse.org/content/terminal-plug)
 - local terminal incubator project can be found among Genaral purpose tools
  (depends on Eclipse C/C++ development platform) 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
-[HTML Editor (standard) 3.5.0 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1198679)
@@ -111,6 +109,8 @@ Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/i
 
 ## XML, HTML
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
+[HTML Editor (standard) 3.5.1 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=697)
 Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content/rinzo-xml-editor),[sources](https://github.com/ccancinos/rinzo-xml-editor)
 - [Amateras Eclipse HTML Editor](http://amateras.sourceforge.jp/cgi-bin/fswiki_en/wiki.cgi?page=EclipseHTMLEditor)
@@ -119,7 +119,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 - https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector
  [some screenshots](http://www.eclipse.org/mylyn/new/new-3.5.html)
-
+- Mylyn WikiText (wikitext, textile and other format support) [mp](http://marketplace.eclipse.org/content/mylyn-wikitext)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
 GitHub Mylyn Connector
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
