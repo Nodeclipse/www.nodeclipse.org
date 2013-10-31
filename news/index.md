@@ -7,6 +7,21 @@ title: Nodeclipse -- News
 
 <p></p>
 
+<p>	
+	2013-10-31<br/>
+	Welcome to organize and give a talk on Software Development 
+	<a href="http://demodays.github.io/">DemoDays</a>
+	and <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013">Eclipse DemoCamps</a>
+	around the world in November.
+</p>
+<p>	
+	2013-10-06<br/>
+	Nodeclipse & Enide version 0.6 released. New update site is 
+	<pre>{% include nodeclipse_update_site.html %}</pre>
+	{% include nodeclipse_install_button.html %}
+  			<br/>
+	Check <a href="/history">What's new</a>.
+</p>
 <p>
 	2013-09-12<br/>
 	<a href="/enide/studio/">Enide Studio</a> 0.5 for Windows x64 and x32 is published on 
