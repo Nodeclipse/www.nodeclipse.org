@@ -25,6 +25,16 @@ try it from sources
   [9]: https://blogs.oracle.com/nashorn/
   [13]: http://www.mongodb.org/
   [14]: https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/common-templates/.jshintrc
+  
+<!-- 
+- Update [Github Flavored Markdown Viewer][3] by Satyagraha, [StartExplorer][4] by Bastian Krol,
+ Nodeclipse [Git Addon][6] by Paul Verest,   
+ [JSHint][15] integration for Eclipse, [developed by Ralf Stenberg at EclipseSource][16]
+- Add [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/) 2.4.0 as `*.png` Editor by Jabier Martinez, 
+ PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools),[sources](https://github.com/jeeeyul/pde-tools) by Jeeeyul, 
+ Regular Expression [Eclipse Regexp](http://marketplace.eclipse.org/content/eclipse-regexp) [github](https://github.com/zapletnev/eclipse-regexp) by Igor Zapletnev,
+ MonjaDB (MongoDB GUI) by Kanatoko Anvil [sources](https://github.com/Kanatoko/MonjaDB), [mp](http://marketplace.eclipse.org/content/monjadb)
+-->  
 
 ### Version 0.6, 2013-10-06
 
@@ -100,7 +110,7 @@ and `*.litcoffee` files,
 
 ### Version ver 0.3, 2013-04
 
-- Add support for [JSHint](http://www.jshint.com/) integration for Eclipse, [developed by EclipseSource](https://github.com/eclipsesource/jshint-eclipse)  
+- Add support for [JSHint][15] integration for Eclipse, [developed by Ralf Stenberg at EclipseSource][16]  
 	You had to set project property for JSHint for each project creating. It was boring task.<br/>
 	Nodeclipse 0.3 will set them automatically when generating Node project and Express project.<br/>
 	You should install JSHint integration for Eclipse.<br/>
@@ -119,6 +129,9 @@ and `*.litcoffee` files,
 * [#6 Add Express Project in main menu under File -> New (in Node perspective)](https://github.com/Nodeclipse/nodeclipse-1/issues/6)<br/>
 	If [Node Express Project] menu does not appear under File->New, reset [Node] perspective by right-clicking on the [Node] button, which is located perspective switching area.<br/>
 	![ResetPerspective](img/ResetPerspective.png)
+
+  [15]: http://www.jshint.com/
+  [16]: https://github.com/eclipsesource/jshint-eclipse
 	
 ### Version ver 0.2
 
