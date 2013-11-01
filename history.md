@@ -7,34 +7,36 @@ title: Nodeclipse -- Version History
 
 <p></p>
 
-Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>.
+Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>
+or raise an [issue](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
-### Version 0.7.0.DEV, 2013-11-??
-
+<!--
 try it from sources
+-->
+
+### Version 0.7, 2013-11-01
 
 - allow many Node.js application running, and Debug View in Node perspective to check and terminate processes
 - optional support for [PhantomJS][8] (run)
 - optional support for [Nashorn JJS][9] (run)
 - optional support for [MongoDB][13] Shell (running scripts)
 - disable JSDT validation; enable JSHint validation for `*.json, *.njs, *.pjs, *.jjs, *.mjs, *.jshintrc` files
-- add [`.jshintrc` template][14]
+- add the most strict [`.jshintrc` template][14]
 - Help content with tutorials, links and examples, that you can [edit online with GitHub][10]
+- Update [Github Flavored Markdown Viewer][3] by Satyagraha, [StartExplorer][4] by Bastian Krol,
+ Nodeclipse [Git Addon][6] by Paul Verest,   
+ [JSHint][15] integration for Eclipse, [developed by Ralf Stenberg at EclipseSource][16]
+- Add [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/) 2.4.0 as `*.png` Editor by Jabier Martinez (requires org.eclipse.draw2d), 
+ PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools),[sources](https://github.com/jeeeyul/pde-tools) by Jeeeyul, 
+ Regular Expression [Eclipse Regexp](http://marketplace.eclipse.org/content/eclipse-regexp) [github](https://github.com/zapletnev/eclipse-regexp) by Igor Zapletnev,
+ MonjaDB (MongoDB GUI) by Kanatoko Anvil [sources](https://github.com/Kanatoko/MonjaDB), [mp](http://marketplace.eclipse.org/content/monjadb)
+- Known issues: [gfm_viewer#39](https://github.com/satyagraha/gfm_viewer/issues/39) NPE while debugging (GFM View in Node, not Debug perspective).
+ Just close GFM View when about to debug. (Recommended is keep an eye on errors in Error Log View).
  
   [8]: http://phantomjs.org/
   [9]: https://blogs.oracle.com/nashorn/
   [13]: http://www.mongodb.org/
   [14]: https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/common-templates/.jshintrc
-  
-<!-- 
-- Update [Github Flavored Markdown Viewer][3] by Satyagraha, [StartExplorer][4] by Bastian Krol,
- Nodeclipse [Git Addon][6] by Paul Verest,   
- [JSHint][15] integration for Eclipse, [developed by Ralf Stenberg at EclipseSource][16]
-- Add [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/) 2.4.0 as `*.png` Editor by Jabier Martinez, 
- PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools),[sources](https://github.com/jeeeyul/pde-tools) by Jeeeyul, 
- Regular Expression [Eclipse Regexp](http://marketplace.eclipse.org/content/eclipse-regexp) [github](https://github.com/zapletnev/eclipse-regexp) by Igor Zapletnev,
- MonjaDB (MongoDB GUI) by Kanatoko Anvil [sources](https://github.com/Kanatoko/MonjaDB), [mp](http://marketplace.eclipse.org/content/monjadb)
--->  
 
 ### Version 0.6, 2013-10-06
 
