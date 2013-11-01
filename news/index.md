@@ -8,6 +8,14 @@ title: Nodeclipse -- News
 <p></p>
 
 <p>	
+	2013-11-01<br/>
+	Nodeclipse & Enide version 0.7 are released. New update site is 
+	<pre>{% include nodeclipse_update_site.html %}</pre>
+	{% include nodeclipse_install_button.html %}
+  			<br/>
+	Check <a href="/history">What's new</a>.
+</p>
+<p>	
 	2013-10-31<br/>
 	Welcome to organize and give a talk on Software Development 
 	<a href="http://demodays.github.io/">DemoDays</a>
@@ -17,7 +25,7 @@ title: Nodeclipse -- News
 <p>	
 	2013-10-06<br/>
 	Nodeclipse & Enide version 0.6 released. New update site is 
-	<pre>{% include nodeclipse_update_site.html %}</pre>
+	<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.6.0/</pre>
 	{% include nodeclipse_install_button.html %}
   			<br/>
 	Check <a href="/history">What's new</a>.

@@ -14,7 +14,7 @@ Just drag-and-drop such ![InstallLink][1]
 
 ## News and updates
 
-#### Nodeclipse & Enide are 0.6 released. 
+#### Nodeclipse & Enide 0.7 are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
