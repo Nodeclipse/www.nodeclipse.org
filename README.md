@@ -54,7 +54,10 @@ Solution 2 would be [#201](https://github.com/mojombo/jekyll/issues/201)
 try `chcp 65001` before `jekyll` command
 
 
+###
 
+removed from `_config.yml`  
+`#permalink: /:page/:categories/:title`
 
 
 

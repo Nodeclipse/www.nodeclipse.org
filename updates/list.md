@@ -55,7 +55,14 @@ MoreUnit (assists in writing more unit tests, many programming languages) [mp](h
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=801)
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
 
-## Node.js & JavaScript Development
+## Languages
+
+- TODO Java, C
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
+[Ruby (DLTK)](http://eclipse.org/dltk/)
+
+
+### Node.js & JavaScript Development
 
 <!-- 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
@@ -123,13 +130,15 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 ## Mylyn Connectors
 
-- https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1274403)
+ [Hudson/Jenkins Mylyn Builds Connector](https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector)
  [some screenshots](http://www.eclipse.org/mylyn/new/new-3.5.html)
-- Mylyn WikiText (wikitext, textile and other format support) [mp](http://marketplace.eclipse.org/content/mylyn-wikitext)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1065)
+ Mylyn WikiText (wikitext, textile and other format support) [mp](http://marketplace.eclipse.org/content/mylyn-wikitext)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
-GitHub Mylyn Connector
+ GitHub Mylyn Connector
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
-[Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
+ [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 
 ## Other lists
 
