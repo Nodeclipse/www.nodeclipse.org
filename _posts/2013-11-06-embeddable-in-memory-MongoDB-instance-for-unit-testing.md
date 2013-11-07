@@ -1,8 +1,8 @@
 ---
 layout: share
-title: Node.js - embeddable in-memory MongoDB instance for unit testing or Node.js mocking for MongoDB 
+title: Question: Node.js - embeddable in-memory MongoDB instance for unit testing or Node.js mocking for MongoDB 
 date: 2013-10-22
-categories: [nodejs, javascript, sources, books]
+categories: [nodejs, mongodb, question]
 ---
 
 # Node.js - embeddable in-memory MongoDB instance for unit testing or Node.js mocking for MongoDB 
