@@ -11,6 +11,10 @@ Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-
 or raise an [issue](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
 <!-- -->
+Reminder: reset perspective after an update for new UI elements to appear.
+
+![ResetPerspective](img/ResetPerspective.png)
+
 
 ### Version 0.8.DEV, ??
 
@@ -29,12 +33,12 @@ ae0aaa5c423a04d6c666119b11da603cbab9c987
 	- SelectionExplorer (PDE) by Sandip Chitales
 
 
-try it from sources
+Try it from Enide sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 
 
-### Version 0.7, 2013-11-01
+### Version 0.7 "run it!", 2013-11-01
 
-- allow many Node.js application running, and Debug View in Node perspective to check and terminate processes
+- allow many Node.js application running, add Debug View in Node perspective to check and terminate processes
 - optional support for [PhantomJS][8] (run)
 - optional support for [Nashorn JJS][9] (run)
 - optional support for [MongoDB][13] Shell (running scripts)
