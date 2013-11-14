@@ -45,3 +45,12 @@ In this line `var MongoClient = require('mongodb').MongoClient, format = require
 Check also <http://www.nodeclipse.org/2013/06/12/javascript-annotations.html>
 
 And MongoDBNodeProject project <https://github.com/Nodeclipse/org.nodeclipse.examples/tree/master/MongoDBNodeProject>
+
+UPDATE 2013-11-14:
+
+This only works with `<nature>org.eclipse.wst.jsdt.core.jsNature</nature>` inside `.project`
+
+otherwise there is error dialog when trying to click-though.
+
+![JSDT-Resource-is-not-on-the-include-path.png](/Pictures/JSDT-Resource-is-not-on-the-include-path.png)
+
