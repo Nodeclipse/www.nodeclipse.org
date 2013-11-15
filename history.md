@@ -158,8 +158,9 @@ and `*.litcoffee` files,
   [16]: https://github.com/eclipsesource/jshint-eclipse
 	
 ### Version ver 0.2
+by Tomoyuki Inagaki 
 
-- Integrating Chromium Development Tools & Debugger.
+- Integrating Chromium Development Tools & Debugger ([historical link](http://stackoverflow.com/questions/8159238/eclpse-and-node-js-debug)).
 
 ### Version ver 0.1
 
