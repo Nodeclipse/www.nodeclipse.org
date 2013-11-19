@@ -16,13 +16,14 @@ Reminder: reset perspective after an update for new UI elements to appear.
 ![ResetPerspective](img/ResetPerspective.png)
 
 
-### Version 0.8.DEV, ??
+### Version 0.8.DEV "wizards",  2013-12-??
 
 - jshtml and hogan.js template engines in [Express Wizard](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/src/org/nodeclipse/ui/wizards/ExpressProjectWizardPage.java#L215-L225)
 0e1813ccc2d84adbcd0dff0b308aab0a9e501df9
 - Styleshhet engines selection in Express Wizard (however correct generated command line executon gives css only)
 ae0aaa5c423a04d6c666119b11da603cbab9c987
 - PhantomJS wizard
+- Nashorn wizard
 - less strict [JSHint defaults][14]
 - update [GFMV][3] to 1.6
 - add less known Other Optional Tools:
