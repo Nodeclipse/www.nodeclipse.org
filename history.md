@@ -28,10 +28,10 @@ ae0aaa5c423a04d6c666119b11da603cbab9c987
 - update [GFMV][3] to 1.6
 - add less known Other Optional Tools:
 
-	- Glance by Xored (Highlight anywhere, Ctrl+Alt+F)
-	- PracticallyMacro by Ernest Pasour (Macros for Editors using BeanShell.org) http://sourceforge.net/projects/practicalmacro/ 
-	- EclipseRunner by Lukasz Wachowicz and Bartosz Roznowski (Runner View) http://code.google.com/p/eclipserunnerplugin/
-	- SelectionExplorer (PDE) by Sandip Chitales
+	- [Glance by Xored](http://ystrot.github.io/glance/) (Highlight anywhere, Ctrl+Alt+F; lets you search almost every place in Eclipse you can imagine)
+	- [PracticallyMacro by Ernest Pasour](http://sourceforge.net/projects/practicalmacro/) (Macros for Editors using [BeanShell.org](http://www.beanshell.org/))  
+	- [EclipseRunner by Lukasz Wachowicz and Bartosz Roznowski (Runner View)](http://code.google.com/p/eclipserunnerplugin/)
+	- [SelectionExplorer (PDE) by Sandip Chitales](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer)
 
 
 Try it from Enide sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
