@@ -188,7 +188,7 @@ title: Nodeclipse, Enide
 					<li>Support for Eclipse Juno, Kepler, Luna M3</li>
 				</ul>
 
-				<h3>Usage</h3>
+				<h3><a name="usage" class="anchor" href="#usage"></a>Usage</h3>
 			        <p>
 				 	See 1366x768 introduction video at <a href="/video">/video page</a> or see lower resolution on Youtube.
 				 	</p>
@@ -198,15 +198,29 @@ title: Nodeclipse, Enide
 				 	<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help/contents#intro">Online Help</a>.
 			        </p>
 
+				<h4>First steps</h4>
+					<p>
+					<ol>
+					<li>In Eclipse switch to Node perspective Window -> Open perspective -> Other... -> Node</li>
+					<li>Select File -> New -> Node Project.</li>
+					<li>Enter [Project name], press [Finish].</li>
+					<li>Locate <code>hello-world-server.js</code> in newly created project. Right-click and select Run As -> Node Application.</li>
+					<li>Navigate to <code>http://127.0.0.1:1337/</code> in your browser.</li>
+					<li>Press red icon "Terminate" inside Console View to stop current application.</li>
+					<li>Double click on <code>hello-world-server.js</code> to open Editor. Right-click inside Editor to Run or Debug your code.</li>
+					</ol>
+					</p>
+
 		        <h4>Generating of Express project</h4>
 					<p>
 					<ol>
-					<li>Select the [File]-[New]-[Node Express Project], and push [Next] button.</li>
+					<li>Select File -> New -> Node Express Project.</li>
 					<li>Enter [Project name], select prefered Template Engine, and press [Finish] button.</li>
+					<li>Wait for <code>npm</code> to finish dowloading dependencies. Press <kbd>F5</kbd>(refresh) for <code>node_modules</code> folder to appear. </li>
 					</ol>
 					</p>
 				
-				<h4>Debugging</h4>
+				<h4>Debugging and breakpoints</h4>
 					<p>
 					<ol>
 					<li>Open the JavaScript source files that you want to set breakpoints.</li>
