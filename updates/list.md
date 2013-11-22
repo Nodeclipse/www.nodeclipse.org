@@ -95,10 +95,10 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1157104)
 [JSHint integration for the Eclipse IDE](http://github.eclipsesource.com/jshint-eclipse/) by Ralf Sternberg, EclipseSource [mp](http://marketplace.eclipse.org/content/jshint-eclipse)
 
-
-- [Eclipse plugin for JavaScript with Closure Compiler, Closure Library and Closure Linter by Vincent Simonet](http://www.normalesup.org/~simonet/soft/ow/eclipse-closure-javascript.en.html)
-- [Eclipse plugin for Closure Templates](http://www.normalesup.org/~simonet/soft/ow/eclipse-closure-templates.en.html)
-- TODO http://marketplace.eclipse.org/content/jsdt-closure & LESS 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1316084)
+ [Eclipse plugin for JavaScript with Closure Compiler, Closure Library and Closure Linter by Vincent Simonet](http://www.normalesup.org/~simonet/soft/ow/eclipse-closure-javascript.en.html)
+, [Eclipse plugin for Closure Templates](http://www.normalesup.org/~simonet/soft/ow/eclipse-closure-templates.en.html)
+ and LESS [mp](- TODO http://marketplace.eclipse.org/content/jsdt-closure) 
  
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=881)
 [Vrapper](https://marketplace.eclipse.org/content/vrapper) acts as a wrapper for Eclipse text editors
