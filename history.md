@@ -10,6 +10,8 @@ title: Nodeclipse -- Version History
 Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>
 or raise an [issue](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
+[10 ways to support free software you love, 9 won’t cost you a dime](/support-us)
+
 <!-- -->
 Reminder: reset perspective after an update for new UI elements to appear.
 
