@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Nodeclipse -- Version History
+title: Nodeclipse -- Support Us
 ---
 
 
@@ -9,7 +9,7 @@ title: Nodeclipse -- Version History
 <p></p>
 
 <!-- 
-just like musician
+we are just like musician
 http://lifeasmusic.com/2011/06/19/10-ways-to-support-musicians-you-love/
 
 -->
