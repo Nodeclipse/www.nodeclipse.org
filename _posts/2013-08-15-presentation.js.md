@@ -16,12 +16,12 @@ Some previous reviews:
 
 What I think is worth attention now is:
 
-- Deck.js <http://imakewebthings.com/deck.js/> 3600 stars (not updated for 7 months)
-- Impress.js <http://bartaz.github.io/impress.js> 17000 stars
-- Reveal.js <http://lab.hakim.se/reveal-js/>, [code](https://github.com/hakimel/reveal.js) 9500 stars
+- Deck.js <http://imakewebthings.com/deck.js/> 3600 stars [sources](https://github.com/imakewebthings/deck.js)
+- Impress.js <http://bartaz.github.io/impress.js> 17000 stars [sources](https://github.com/bartaz/impress.js/)
+- Reveal.js <http://lab.hakim.se/reveal-js/> 9500 stars [sources](https://github.com/hakimel/reveal.js)
 
 I tried authoring tools for Impress.js called Strut <http://strut.io/dist/index.html>.
-Looks nice, but it is not creating HTML5 presentation, but creating presentation.
+Looks nice, but it is not authoring HTML5, but for creating presentation.
 Dissatisfied. Well, the project is in active development, see what future will bring.  
 
 Personally I would like to have HTML Editor where I can drag-and-drop picture, and that would add needed HTML tags. Then markdown support.
