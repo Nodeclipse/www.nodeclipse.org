@@ -35,15 +35,6 @@ Even though EGit is perfect GUI, you may still want to use command line `git`.
  ([has some bugs in standard perspectives](/enide/studio/README#warning))
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512)
 [Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse) press Ctrl+Shift+L
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
-[Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
-Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
- [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
-Terminal Plug-in [mp](http://marketplace.eclipse.org/content/terminal-plug)
-- local terminal incubator project can be found among Genaral purpose tools
- (depends on Eclipse C/C++ development platform) 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1198679)
@@ -54,6 +45,25 @@ Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-e
 MoreUnit (assists in writing more unit tests, many programming languages) [mp](http://marketplace.eclipse.org/content/moreunit)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=801)
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
+
+### Shells, Terminals
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
+RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
+[mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
+[Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
+MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
+ is actually local Shell opened in Editor area, that is you can have many shells running in tabs.
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
+Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
+ [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
+Terminal Plug-in [mp](http://marketplace.eclipse.org/content/terminal-plug)
+- local terminal incubator project can be found among Genaral purpose tools
+ (depends on Eclipse C/C++ development platform) 
+
 
 ## Languages
 
