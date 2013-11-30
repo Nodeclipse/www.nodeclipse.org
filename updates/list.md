@@ -55,7 +55,7 @@ RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
 MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
- is actually local Shell opened in Editor area, that is you can have many shells running in tabs.
+ is actually local Shell opened in Editor area, that lets you have many shells running in tabs.
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
 Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
  [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
