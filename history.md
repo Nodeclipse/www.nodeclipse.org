@@ -12,32 +12,28 @@ or raise an [issue](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
 [10 ways to support free software you love, 9 won’t cost you a dime](/support-us)
 
-<!-- -->
+<!-- 
+Try it from Enide sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
+-->
 Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
 
-### Version 0.8.DEV "wizards",  2013-12-??
+### Version 0.8 "wizards",  2013-12-02
 
 - jshtml and hogan.js template engines in [Express Wizard](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/src/org/nodeclipse/ui/wizards/ExpressProjectWizardPage.java#L215-L225)
-0e1813ccc2d84adbcd0dff0b308aab0a9e501df9
-- Styleshhet engines selection in Express Wizard (however correct generated command line executon gives css only)
-ae0aaa5c423a04d6c666119b11da603cbab9c987
+- Styleshhet engines selection in Express Wizard (however correctly generated command line executon gives css only on Windows)
 - PhantomJS wizard
 - Nashorn wizard
 - less strict [JSHint defaults][14]
-- update [GFMV][3] to 1.6
+- update [GFMV][3] to 1.7
 - add less known Other Optional Tools:
 
 	- [Glance by Xored](http://ystrot.github.io/glance/) (Highlight anywhere, Ctrl+Alt+F; lets you search almost every place in Eclipse you can imagine)
 	- [PracticallyMacro by Ernest Pasour](http://sourceforge.net/projects/practicalmacro/) (Macros for Editors using [BeanShell.org](http://www.beanshell.org/))  
 	- [EclipseRunner by Lukasz Wachowicz and Bartosz Roznowski (Runner View)](http://code.google.com/p/eclipserunnerplugin/)
 	- [SelectionExplorer (PDE) by Sandip Chitales](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer)
-
-
-Try it from Enide sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
-
 
 ### Version 0.7 "run it!", 2013-11-01
 
@@ -118,7 +114,8 @@ and `*.litcoffee` files,
 - [#40](https://github.com/Nodeclipse/nodeclipse-1/issues/40) [maven](http://maven.apache.org/) build.
  Building Nodeclipse is now the easiest `mvn package` from command line. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 
-<h3>Version 0.4, 2013-05-19</h3>
+### Version 0.4, 2013-05-19
+
 <ul>
 <li>Integration with JSDT (Code Assist and Outline)<br/>
 <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/11">#11 [Feature request] Outlines and other things for class-y structure?</a><br/>

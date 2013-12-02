@@ -8,9 +8,27 @@ title: Nodeclipse -- News
 <p></p>
 
 <p>	
+	2013-12-02<br/>
+	Welcome to DemoDays Beijing on December 14th 2pm</br>
+	Free event in English/Chinese on Java, JavaScript, MongoDB, Eclipse topics.
+	Welcome to share and present, just contact via 
+	<a href="callto://pverest">Skype</a> or QQ 908781544. 
+	Guests are to <a href="https://yoopay.cn/event/76967677">register and check updates</a>.
+	Let your friends know. 
+</p>
+<p>	
+	2013-12-02<br/>
+	Enide & Nodeclipse version 0.8 are released. New update site is 
+	<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.8.0/</pre>
+	{% include nodeclipse_install_button.html %}</br>
+	There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse/files">SourceForge</a>.
+  			<br/>
+	Check <a href="/history">What's new</a>.
+</p>
+<p>	
 	2013-11-01<br/>
 	Nodeclipse & Enide version 0.7 are released. New update site is 
-	<pre>{% include nodeclipse_update_site.html %}</pre>
+	<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.7.0/</pre>
 	{% include nodeclipse_install_button.html %}
   			<br/>
 	Check <a href="/history">What's new</a>.

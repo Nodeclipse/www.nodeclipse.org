@@ -14,14 +14,12 @@ Just drag-and-drop such ![InstallLink][1]
 
 ## News and updates
 
-#### Nodeclipse & Enide 0.7 are released. 
+#### Enide & Nodeclipse 0.8 "wizards" are released. 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
  
-#### EGit 3.1 released. 
-
 ## General
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
@@ -55,12 +53,18 @@ RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
 MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
- is actually local Shell opened in Editor area, that lets you have many shells running in tabs.
+// is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
+Review: OK for long running scripts (e.g. mvn) Not supporting interaction 
+(for tools like `npm init` or `bower init` impossibly to enter from keyboard),
+line editing is awefull (new letters always in the end)  
+Impossible to terminate running process, closing Tab causes Eclipse freeze. 
+ 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
 Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
  [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
-Terminal Plug-in [mp](http://marketplace.eclipse.org/content/terminal-plug)
+Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
+// is actually CLI Shell
 - local terminal incubator project can be found among Genaral purpose tools
  (depends on Eclipse C/C++ development platform) 
 
@@ -75,18 +79,21 @@ Terminal Plug-in [mp](http://marketplace.eclipse.org/content/terminal-plug)
 ### Node.js & JavaScript Development
 
 <!-- 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
-[Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
--->
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+-->
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
+[Enide & Nodeclipse (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
+[Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255462)
 Nodeclipse PhantomJS
-
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255479)
 Nodeclipse Java 8 Nashorn JJS
-
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
 [GitHub Flavored Markdown (GFM) Viewer](https://github.com/satyagraha/gfm_viewer),
  [Marketplace](http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site)
