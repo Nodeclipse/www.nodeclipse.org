@@ -19,6 +19,9 @@ Just drag-and-drop such ![InstallLink][1]
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+
+or use update site
+<pre>{% include nodeclipse_update_site.html %}</pre> 
  
 ## General
 
@@ -62,12 +65,13 @@ Impossible to terminate running process, closing Tab causes Eclipse freeze.
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
 Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
  [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
+// have trouble downloading 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
 Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
-// is actually CLI Shell
-- local terminal incubator project can be found among Genaral purpose tools
+// is actually CLI Shell, Linux/MacOS only
+- local terminal incubator project can be found among General purpose tools
  (depends on Eclipse C/C++ development platform) 
-
+// could not find way to open after installation
 
 ## Languages
 

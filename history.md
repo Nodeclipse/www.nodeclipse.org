@@ -35,6 +35,9 @@ Reminder: reset perspective after an update for new UI elements to appear.
 	- [EclipseRunner by Lukasz Wachowicz and Bartosz Roznowski (Runner View)](http://code.google.com/p/eclipserunnerplugin/)
 	- [SelectionExplorer (PDE) by Sandip Chitales](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer)
 
+- Known issues: markdown.editor.feature is missing inside 0.8.0 update repository.
+ Check for Markdown Editor inside [Nodeclipse Plugins List](http://www.nodeclipse.org/updates/list)
+
 ### Version 0.7 "run it!", 2013-11-01
 
 - allow many Node.js application running, add Debug View in Node perspective to check and terminate processes
