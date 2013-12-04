@@ -37,6 +37,9 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 - Known issues: markdown.editor.feature is missing inside 0.8.0 update repository.
  Check for Markdown Editor inside [Nodeclipse Plugins List](http://www.nodeclipse.org/updates/list)
+ or use update site
+<pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre> 
+ 
 
 ### Version 0.7 "run it!", 2013-11-01
 
