@@ -4,7 +4,7 @@ title: Nodeclipse -- Support Us
 ---
 
 
-# 10 ways to support free software you love, 9 won’t cost you a dime.
+# 10 ways to support free software you love, 9 won't cost you a dime.
 
 <p></p>
 
@@ -12,6 +12,8 @@ title: Nodeclipse -- Support Us
 we are just like musician
 http://lifeasmusic.com/2011/06/19/10-ways-to-support-musicians-you-love/
 
+TODO use
+https://pledgie.com
 -->
 
 All things need support to survive and free software is no exception. To create and bring you the tools you love, developers need your support. Few people can give money to every project they like so here are ten easy ways to support your favorite tools regardless of your financial status.
