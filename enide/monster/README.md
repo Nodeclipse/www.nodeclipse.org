@@ -6,7 +6,16 @@ layout: studio
 
 see <http://www.nodeclipse.org/enide/monster/README>
 
-This is [Enide Studio](http://www.nodeclipse.org/enide/studio) with [Aptana Studio](http://aptana.com/) together.
+Enide-Monstr is based on Eclipse DSL, has CoffeeScript Editor & TypeScriptEditor.
+
+(Story: This was to be [Enide Studio](http://www.nodeclipse.org/enide/studio) with [Aptana Studio](http://aptana.com/) together.
+However when installing Aptana into Eclipse (as of November 2013) the whole Eclipse was not so stable, quite a lot of tiny bugs.
+Even after disabling Aptana git GUI implementation, the whole experience was not so good.
+Aptana though has better highlight in CoffeeScript Editor, and nice built-in Terminal(CLI shell).
+Apart from that, if you don't need what they work on (Web IDE with Ruby, PHP, Python), 
+it has little to give. Though nice to know & have.
+Aptana has evolved a bit away from from standard Eclipse, so some Aptana Preferences are not in line with Eclipse.
+So I just wrapped Enide Studio with Coffee TypeScript Editors, leaving making above idea better for unknown future.)   
 
 Check for updates and news on [Marketplace entry](http://marketplace.eclipse.org/content/enide-monster)
 and [solution page](http://www.nodeclipse.org/enide/monster).
