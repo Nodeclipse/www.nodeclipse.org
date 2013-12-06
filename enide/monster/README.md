@@ -9,6 +9,7 @@ see <http://www.nodeclipse.org/enide/monster/README>
 Enide-Monstr is based on Eclipse DSL, has CoffeeScript Editor & TypeScriptEditor.
 
 (Story: This was to be [Enide Studio](http://www.nodeclipse.org/enide/studio) with [Aptana Studio](http://aptana.com/) together.
+(naming: When I [Paul Verest] tried the idea, I thought "What a monster!". Then just went alone with the name.)
 However when installing Aptana into Eclipse (as of November 2013) the whole Eclipse was not so stable, quite a lot of tiny bugs.
 Even after disabling Aptana git GUI implementation, the whole experience was not so good.
 Aptana though has better highlight in CoffeeScript Editor, and nice built-in Terminal(CLI shell).
