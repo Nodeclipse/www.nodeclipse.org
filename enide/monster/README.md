@@ -19,6 +19,7 @@ and [solution page](http://www.nodeclipse.org/enide/monster).
 
  <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
  For example "Java Platform (JDK) 7u40"
+ No need to also install JRE as installer suggests.
 
 2. [Download Enide Studio for your operating system (currently Windows x64 & x32, Linux x64)](https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/)
 
@@ -40,13 +41,21 @@ and [solution page](http://www.nodeclipse.org/enide/monster).
  To change it to more suitable place, e.g. <code>D:\Workspaces\Enide-Studio-05-workspace</code>,
  copy provided workspace <code>ws</code> as template, or follow [configuration instructions](https://github.com/Nodeclipse/eclipse-node-ide#configuration).
  
+7. If you launch a Node.js app and it blinks and terminates momentarily, check what JRE is actually in use 
+WIndow -> Preferences -> Java -Installed JREs
+
+Edit 'eclipse.ini' in eclipse folder, add exact location of JDK to use, e.g.
+
+	-vm
+	C:\Program Files (x86)\Java\jdk1.7.0_40\bin\javaw.exe
+   
+just before `-vmargs`
+ 
 ### Warning
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236) (has some bugs in standard perspectives)
-
 If you debug a lot, it is recommended to uninstall it, as it causes a lot of Errors and Warnings ([issue #13](https://code.google.com/p/sandipchitaleseclipseplugins/issues/detail?id=13)).
-
 To uninstall any plugin in Eclipse go to Help -> About Eclipse -> Installation details, select plugin, then press <kbd>Uninstall..</kbd> button
 
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
