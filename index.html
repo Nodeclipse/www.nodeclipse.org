@@ -92,6 +92,20 @@ title: Nodeclipse, Enide
 			<p><a href="community/newsletter">Subscribe for newsletter.</a></p>
 			
 			<p>
+        		2013-12-11<br/>
+				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">Nodeclipse CLI</a> is published with npm  
+				<a href="https://npmjs.org/package/nodeclipse">registry</a>.
+				Install it with <pre>$ npm install -g nodeclipse</pre>
+				Now create new project in any way, then <pre>$ nodeclipse -p</pre> to make it Eclipse project ready for import
+				<code>File -> Import -> General / Existing Projects into Workspace</code>.
+				CLI also allows to create new Node.js projects like <pre>$ nodeclipse -c project1 -u hellow-world</pre>.
+				And that is great because it uses 
+				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">the same templates as Nodeclipse plugin</a>.
+				So if you have an idea for new wizard, propose your additions with pull request as new_folder,
+				then it will be immediately available as <pre>$ nodeclipse -c new_project1 -u new_folder</pre>,
+				and after a while as Wizard option in Eclipse/Enide. 
+			</p>
+			<p>
         		2013-12-06<br/>
 				<a href="/enide/monster/">Enide Monstr</a> 0.8.1 for Windows x32 is published on 
 				<a href="https://sourceforge.net/projects/nodeclipse/files/Enide-Monstr/">SourceForge</a>.
@@ -174,11 +188,12 @@ title: Nodeclipse, Enide
 		        <p>
 				If you have not installed <a href="http://www.nodejs.org/">Node.js</a> yet,
 				please <a href="http://www.nodejs.org/download/">install</a> it first.<br/>
-				Then, please install Express as follows.
+				Then, please install Nodeclipse CLI and Express as follows.
 				<!-- for Windows
 				<pre>$ npm install -g express</pre><br/>
 				-->
-				<pre>$sudo npm install -g express</pre><br/>
+				<pre>$npm install -g nodeclipse</pre><br/>
+				<pre>$npm install -g express</pre><br/>
 				</p>
 
 				<p>
@@ -186,6 +201,7 @@ title: Nodeclipse, Enide
 		        Or use update site:
           		<pre>{% include nodeclipse_update_site.html %}</pre>
 				</p>
+				<p>Check <a href="/updates/">download page</a> for more details.</p>
 				<!--  
 				<p>
 				You may want to install JSHint integration for Eclipse.<br/>
@@ -203,19 +219,19 @@ title: Nodeclipse, Enide
 					<li>Refactoring within one file (<kbd>Alt+Shift+R</kbd>)</li>
 					<li>JSON files highlight and validation</li>
 					<li>NPM support</li>
-					<li>Debugging - Breakpoint, Trace, Variables, Expressions, etc... via Eclipse debugger plugin for V8</li>
+					<li>Debugging - Breakpoint, Trace, Variables, Expressions, etc... via modified Eclipse debugger plugin for V8</li>
 					<li>Setting project properties for <a href="http://github.eclipsesource.com/jshint-eclipse/">JSHint-Eclipse</a> automatically;
 						<a href="http://www.jshint.com/">JSHint</a> 
-						settings <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/common-templates/.jshintrc">template</a> </li>
+						settings <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/templates/common-templates/.jshintrc">template</a> </li>
 					<li>Passing arguments to Node application and Node.js, specifying environment variables values to use</li>
 					<li>Running CoffeeScript *.coffee files</li>
 					<li>Running *.js files with PhantomJS, MongoDB Shell or Java 8 Nashorn <code>jjs</code> util</li>
 					<li>Bundled together with Markdown Editor, GitHub Flavored Markdown, StartExplorer (for system explorer and shell),
-						RegEx, Icon Editor, MongoDB, RestClient Tool
+						RegEx, Icon Editor, MongoDB GUI, RestClient Tool
 						and other plugins (20+ in total, check update site and 
 						<a href="http://www.nodeclipse.org/updates/list">Nodeclispe Plugin List</a>)
 						</li>
-					<li>Support for Eclipse Juno, Kepler, Luna M3</li>
+					<li>Support for Eclipse Juno, Kepler, Luna M3 (3.7, 3.8, 4.2, 4.3, 4.4)</li>
 				</ul>
 
 				<h3><a name="usage" class="anchor" href="#usage"></a>Usage</h3>
@@ -276,7 +292,7 @@ title: Nodeclipse, Enide
 					<p>
 					In Project Explorer press trianle to call drop down menu Cutomize View... -> Filter -> uncheck *.resources.
 					Now you see all files:
-					.project, .jshnt.rc and .settings folder. Take time to explore content.
+					.project, .jshnt.rc and .settings folder. Take time to explore files content, it is all under your control.
 					</p>
 
 				<h3><a name="support" class="anchor" href="#support"></a>Support</h3>
@@ -290,10 +306,10 @@ title: Nodeclipse, Enide
 					<li>I got this error, why? -- <a href="http://stackoverflow.com/questions/tagged/nodeclipse">StackOverflow</a>! *1</li>
 					<li>I got this error and I'm sure it's a bug -- raise an <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">issue</a>!</li>
 				<p>
-				Should you report a bug, please include the following:
+				Should you <a name="report-a-bug" class="anchor" href="#report-a-bug"></a>report a bug, please include the following:
 				<ol>
-					<li>Nodeclipse version number (like 0.5 or 0.6)</li>
-					<li>Eclipse version number (like 4.2.2 or 3.8.0)</li>
+					<li>Nodeclipse version number (like 0.4 or 0.8)</li>
+					<li>Eclipse version number (like 4.3.1 Kepler or 4.4.0)</li>
 					<li>Eclipse distribution (e.g. Eclipse for JEE Developers)</li>
 					<li>A detailed description of the steps necessary to reproduce the problem.</li>
 					<li>Screenshot and stack trace, that you can get from Eclipse Error Log View (Window -> Show View ...)
@@ -320,7 +336,9 @@ title: Nodeclipse, Enide
 				<p>Then build with</p>
 				<pre>$ mvn package</pre>
 				
-				<p><a href="https://github.com/Nodeclipse/nodeclipse-1#maven-build">Check README</a></p>
+				<p>First time <a href="http://maven.apache.org/">maven</a> needs download a lots!
+				<a href="https://github.com/Nodeclipse/nodeclipse-1#maven-build">Check README</a>.</p>
+				
 				
 				<h3>Hepling</h3>
 				<p>Start by raising an <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">issue</a>

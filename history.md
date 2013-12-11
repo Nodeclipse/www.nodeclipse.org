@@ -63,7 +63,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
   [8]: http://phantomjs.org/
   [9]: https://blogs.oracle.com/nashorn/
   [13]: http://www.mongodb.org/
-  [14]: https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/common-templates/.jshintrc
+  [14]: https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/templates/common-templates/.jshintrc
 
 ### Version 0.6, 2013-10-06
 

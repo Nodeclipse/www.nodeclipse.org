@@ -14,7 +14,7 @@ However when installing Aptana into Eclipse (as of November 2013) the whole Ecli
 Even after disabling Aptana git GUI implementation, the whole experience was not so good.
 Aptana though has better highlight in CoffeeScript Editor, and nice built-in Terminal(CLI shell).
 Apart from that, if you don't need what they work on (Web IDE with Ruby, PHP, Python), 
-it has little to give. Though nice to know & have.
+it has little to give. Though some times nice to know & have.
 Aptana has evolved a bit away from from standard Eclipse, so some Aptana Preferences are not in line with Eclipse.
 So I just wrapped Enide Studio with Coffee TypeScript Editors, leaving making above idea better for unknown future.)   
 
