@@ -19,6 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
+<!-- --> 
 ### Version 0.9.DEV,  2014-01-??
 
 - [#97](https://github.com/Nodeclipse/nodeclipse-1/issues/97) set NODE_JUST_NODE on Windows only;
@@ -26,6 +27,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 - in Node.js project Wizard select what template to use. (The same list as for 
  [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates) `npm i -g nodeclipse` )
 - other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
+
 
 ### Version 0.8 "wizards",  2013-12-02
 

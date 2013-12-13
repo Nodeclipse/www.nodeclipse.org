@@ -23,9 +23,14 @@ HTML5 Canvas libraries:
 Looked at IE demo
 
 - <http://moonbear.animalsasia.org/ie/> ([Description in Chinese](http://www.wpdang.com/archives/125103.html))  
-uses: 
-	- Three.js (<http://threejs.org/>)
-	- PreloadJS (<http://www.createjs.com/#!/PreloadJS>)
+<a href="http://www.wpdang.com/archives/125103.html">
+<img alt="screen-from-article-1" src="http://www.wpdang.com/wp-content/uploads/2013/12/WPDang_ie11-2.png" width="350" height="200" /></a>            	
+
+uses:  
+	- Three.js (<http://threejs.org/>)  
+<a href="http://www.wpdang.com/archives/125103.html">
+<img alt="screen-from-article-2" src="http://www.wpdang.com/wp-content/uploads/2013/12/WPDang_ie11-3.png" width="350" height="200" /></a>            	
+	- PreloadJS (<http://www.createjs.com/#!/PreloadJS>)  
 	- [hammer.js](http://eightmedia.github.io/hammer.js/)  library for multi-touch, ([github](http://eightmedia.github.io/hammer.js/))	
 
 then searched for other browsers labs:
