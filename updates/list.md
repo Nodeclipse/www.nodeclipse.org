@@ -2,6 +2,10 @@
 layout: nil
 ---
 
+<style type="text/css">
+a img {border: none; } 
+</style>
+
 [home page](/) (news, site navigation)
 
 # Nodeclipse Plugins List
