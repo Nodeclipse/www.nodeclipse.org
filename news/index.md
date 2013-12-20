@@ -8,6 +8,30 @@ title: Nodeclipse -- News
 <p></p>
 
 <p>
+	2013-12-20<br/>
+	Nodeclipse is #1 in Eclipse
+	<a href="http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php">Top 10 NEW Plugins for 2013</a>,
+	together with <a href="/enide/tools/startexplorer">StartExplorer</a>, GitHub Flavored Markdown viewer plugin.
+	<a href="/enide">Enide - Eclipse Node.JS IDE</a> also made into Top 10 NEW. There may be general confusion 
+	as Enide is set/collection of plugins including Nodeclipse available in the same 
+	<a href="http://www.nodeclipse.org/updates/">update site</a>
+	or via <a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">.p2f file</a>.
+</p>
+<p>
+	2013-12-11<br/>
+	<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">Nodeclipse CLI</a> is published with npm  
+	<a href="https://npmjs.org/package/nodeclipse">registry</a>.
+	Install it with <pre>$ npm install -g nodeclipse</pre>
+	Now create new project in any way, then <pre>$ nodeclipse -p</pre> to make it Eclipse project ready for import
+	via <code>File -> Import -> General / Existing Projects into Workspace</code>.</br>
+	CLI util also allows to create new Node.js projects like <pre>$ nodeclipse -c project1 -u hellow-world</pre>.
+	And that is great because it uses 
+	<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">the same templates as Nodeclipse plugin</a>.
+	So if you have an idea for new wizard, propose your additions with pull request as new_folder,
+	then it will be immediately available as <pre>$ nodeclipse -c new_project1 -u new_folder</pre>,
+	and after a while as Wizard option in Eclipse/Enide. 
+</p>
+<p>
 	2013-12-06<br/>
 	<a href="/enide/monster/">Enide Monstr</a> 0.8.1 for Windows x32 is published on 
 	<a href="https://sourceforge.net/projects/nodeclipse/files/Enide-Monstr/">SourceForge</a>.
