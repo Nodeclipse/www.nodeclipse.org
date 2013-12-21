@@ -26,6 +26,8 @@ Reminder: reset perspective after an update for new UI elements to appear.
  so that new users on other OSes, check preferences first.
 - in Node.js project Wizard select what template to use. (The same list as for 
  [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates) `npm i -g nodeclipse` )
+- new hello-html, hello-coffee, hello-typescript templates
+- workspace-wide NODE_OPTIONS (set in Preferences). (You still can set Node arguments in Run/Debug Launch Configuration)
 - other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
 
