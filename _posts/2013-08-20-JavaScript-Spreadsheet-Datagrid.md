@@ -250,4 +250,4 @@ Nice commercial widgets based on jQuery. http://www.jqwidgets.com/
 
 There are a lot of commercial tools with varying degree of quality.  
 Popular free open-source grids jqGrid, Flexigrid, SlickGrid, DataTables are all dependent on jQuery.  
-I am going to try open-source SlimGrid first, as it is the newest that is best on ideas for performance optimization, more closer to Excel experience.
+I am going to try open-source SlimGrid first. It is the newest projetc with ideas for performance optimization from the very beginning, and more closer to Excel experience.
