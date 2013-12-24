@@ -36,6 +36,13 @@ And convinient OS CLI shell (press <kbd>Ctrl+O<kbd>).
 5. [GIMP](http://www.gimp.org/) is professional image manipulation software, that is free and  
  has a lot of extensions.
 
+6. [WinDirStat](http://windirstat.info/) util to show disk usage (there is also Lunix version KDirStat)
+
+<!-- ![](/img/WinDirStat-G.png) -->
+<a href="http://windirstat.info/">
+<img alt="" src="http://windirstat.info/images/windirstat.jpg" width="350" height="200" /></a>            	
+
+
 	
 Share what you use!
 	

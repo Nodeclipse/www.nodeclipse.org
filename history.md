@@ -27,7 +27,9 @@ Reminder: reset perspective after an update for new UI elements to appear.
 - in Node.js project Wizard select what template to use. (The same list as for 
  [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates) `npm i -g nodeclipse` )
 - new hello-html, hello-coffee, hello-typescript templates
-- workspace-wide NODE_OPTIONS (set in Preferences). (You still can set Node arguments in Run/Debug Launch Configuration)
+- workspace-wide NODE_OPTIONS (set in Preferences).
+This lets you run node(1) with the `--harmony` flag that is needed to enable __generators__ support (since __node 0.11.9__).
+And yes, you still can set Node arguments in Run/Debug Launch Configuration per every file you launch.
 - automatically link to Node.js sources `lib` directory, that is actually quick & lazy implementation
  just by adding LinkedFolder into `.project` like 
 
