@@ -39,7 +39,9 @@ Reminder: reset perspective after an update for new UI elements to appear.
 		    </link>
 		</linkedResources>
 
-(`.settings/com.eclipsesource.jshint.ui.prefs` file was updated to exclude `node_lib` from JSHint processing)
+(`.settings/com.eclipsesource.jshint.ui.prefs` file was updated to exclude `node_lib` from JSHint processing).  
+Note that linked JavaScript is not read-only, so if you references git clone of Node.js sources, 
+you are ready to develop Node.js runtime)
 
 - other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
