@@ -28,6 +28,19 @@ Reminder: reset perspective after an update for new UI elements to appear.
  [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates) `npm i -g nodeclipse` )
 - new hello-html, hello-coffee, hello-typescript templates
 - workspace-wide NODE_OPTIONS (set in Preferences). (You still can set Node arguments in Run/Debug Launch Configuration)
+- automatically link to Node.js sources `lib` directory, that is actually quick & lazy implementation
+ just by adding LinkedFolder into `.project` like 
+
+		<linkedResources>
+		    <link>
+		        <name>node_lib</name>
+		        <type>2</type>
+		        <location>D:/Nodejs/sources/node-v0.10.22/lib</location>
+		    </link>
+		</linkedResources>
+
+(`.settings/com.eclipsesource.jshint.ui.prefs` file was updated to exclude `node_lib` from JSHint processing)
+
 - other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
 
