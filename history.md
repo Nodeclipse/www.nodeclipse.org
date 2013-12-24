@@ -30,7 +30,8 @@ Reminder: reset perspective after an update for new UI elements to appear.
 - workspace-wide NODE_OPTIONS (set in Preferences).
 This lets you run node(1) with the `--harmony` flag that is needed to enable __generators__ support (since __node 0.11.9__).
 And yes, you still can set Node arguments in Run/Debug Launch Configuration per every file you launch.
-- automatically link to Node.js sources `lib` directory, that is actually quick & lazy implementation
+- ref [#95](https://github.com/Nodeclipse/nodeclipse-1/issues/95)
+ automatically link to Node.js sources `lib` directory, that is actually quick & lazy implementation
  just by adding LinkedFolder into `.project` like 
 
 		<linkedResources>
