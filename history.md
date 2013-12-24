@@ -46,6 +46,10 @@ And yes, you still can set Node arguments in Run/Debug Launch Configuration per 
 Note that linked JavaScript is not read-only, so if you references git clone of Node.js sources, 
 you are ready to develop Node.js runtime)
 
+- as work in progress (for Nodeclipse Node.js Editor associated by default with `*.njs` files)
+ code completion for base Node.js modules,
+show [APIs](http://www.nodejs.org/api/) ([sources](https://github.com/joyent/node/tree/master/doc/api))
+
 - other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
 
