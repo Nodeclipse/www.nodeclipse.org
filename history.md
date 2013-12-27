@@ -20,7 +20,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 ![ResetPerspective](img/ResetPerspective.png)
 
 <!-- --> 
-### Version 0.9.DEV,  2014-01-??
+### Version 0.9.DEV "code completion",  2014-01-??
 
 - [#97](https://github.com/Nodeclipse/nodeclipse-1/issues/97) set NODE_JUST_NODE on Windows only;
  so that new users on other OSes, check preferences first.
@@ -29,9 +29,10 @@ Reminder: reset perspective after an update for new UI elements to appear.
 - new hello-html, hello-coffee, hello-typescript templates
 - workspace-wide NODE_OPTIONS (set in Preferences).
 This lets you run node(1) with the `--harmony` flag that is needed to enable __generators__ support (since __node 0.11.9__).
-And yes, you still can set Node arguments in Run/Debug Launch Configuration per every file you launch.
+And yes, you still can set Node arguments in __Node.js Application__ Run/Debug LaunchConfiguration per every file you launch.
 - ref [#95](https://github.com/Nodeclipse/nodeclipse-1/issues/95)
- automatically link to Node.js sources `lib` directory, that is actually quick & lazy implementation
+ (when Node.js sources directory is selected in Preferences)
+ automatically link to Node.js sources `lib` directory. It is actually quick & lazy implementation
  just by adding LinkedFolder into `.project` like 
 
 		<linkedResources>
@@ -47,8 +48,22 @@ Note that linked JavaScript is not read-only, so if you references git clone of 
 you are ready to develop Node.js runtime)
 
 - as work in progress (for Nodeclipse Node.js Editor associated by default with `*.njs` files)
- code completion for base Node.js modules,
-show [APIs](http://www.nodejs.org/api/) ([sources](https://github.com/joyent/node/tree/master/doc/api))
+ code completion for base Node.js modules
+ shows [APIs](http://www.nodejs.org/api/) ([sources](https://github.com/joyent/node/tree/master/doc/api)).
+- and [completion proposals](https://github.com/Enide/nodeclipse-1/blob/master/org.nodeclipse.ui/src/org/nodeclipse/ui/contentassist/completions.json).
+ Point in Preferences to local `completion.json` to define your own, or to empty file like snippet below to disable it:
+ 
+	{
+	    "completions": [
+	        {
+	            "trigger": "ArrayBuffer();"
+	        },
+	        {
+	            "trigger": "Int8Array();"
+	        }
+		]
+	}	
+ 
 
 - other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
