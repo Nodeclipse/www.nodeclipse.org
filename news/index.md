@@ -8,6 +8,25 @@ title: Nodeclipse -- News
 <p></p>
 
 <p>
+	2013-12-27<br/>
+	Finally 
+	<a href="https://github.com/satyagraha/gfm_viewer/issues/47">GFMV#47</a>				
+	with <a href="/enide/tools/gfmv">GitHub Flavored Markdown Viewer plugin</a> 1.8 
+	( <code>Update p2 repository: http://dl.bintray.com/satyagraha/generic/1.8.0</code> )
+	you are  able to right-click 
+	<code>node_modules</code> folder <code>Generate Markdown Preview</code>					
+	and after that open any .md file with <code>Show in GFM View</code> instantly, any time, 
+	even when offline, and it will look exactly like on GitHub.
+	( HTMLs are saved into <code>.*.md.html</code> filenames.
+	They will not be commited when project
+	<code>.gitignore</code> file has <code>.*.md.html</code>.
+	.* files are hidden in Eclipse by default, but see "No miracles, just files" <a href="/#usage">below</a>. )
+</p>
+<p>
+	2013-12-20<br/>
+	<a href="/demos/navigation">Navigation Demo</a>.
+</p>
+<p>
 	2013-12-20<br/>
 	Nodeclipse is #1 in Eclipse
 	<a href="http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php">Top 10 NEW Plugins for 2013</a>,
