@@ -1,0 +1,14 @@
+
+Don't miss posts on [Node.js blog](http://blog.nodejs.org/):
+
+- [DoS Vulnerability (fixed in Node v0.8.26 and v0.10.21)](http://blog.nodejs.org/2013/10/22/cve-2013-4450-http-server-pipeline-flood-dos/)
+ if you are using 0.8 or 0.10 servers in production, update to the latest on that branch is critical.
+ 
+- [Keeping The npm Registry Awesome](http://blog.nodejs.org/2013/11/26/npm-post-mortem/) 
+ After several downtime in November (npm usage grew 10x in 2013), technical work is in progress.
+ ALso donation campaign was launched at <https://scalenpm.org/>.
+ 
+ 
+Node package server as proxy or cache.
+https://github.com/Nodeclipse/npm-proxy/blob/master/README.md
+ 
