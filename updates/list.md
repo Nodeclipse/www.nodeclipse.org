@@ -79,9 +79,19 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
 
 ## Languages
 
-- TODO Java, C
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1373403)
+[Eclipse CDT (C/C++ Development Tooling)](http://eclipse.org/cdt/) [mp](http://marketplace.eclipse.org/content/eclipse-cdt-cc-development-tooling)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=725770)
+ [Groovy (with Groovy/Grails Tool Suite (GGTS) for Eclipse Kepler (4.3) )](http://grails.org/products/ggts) [mp](http://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse-kepler-43)
+- TODO Java
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1010)
+ [PHP (with PTI - PHP Tool Integration)](http://marketplace.eclipse.org/content/pti-php-tool-integration)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
+ [Python (with PyDev - Python IDE for Eclipse)](http://marketplace.eclipse.org/content/pydev-python-ide-eclipse)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
 [Ruby (DLTK)](http://eclipse.org/dltk/)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
+ [Scala](http://marketplace.eclipse.org/content/scala-ide-eclipse)
 
 
 ### Node.js & JavaScript Development
