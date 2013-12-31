@@ -92,7 +92,7 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
 [Ruby (DLTK)](http://eclipse.org/dltk/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
  [Scala](http://marketplace.eclipse.org/content/scala-ide-eclipse)
-
+also you can find Perl, Lua, ...
 
 ### Node.js & JavaScript Development
 
