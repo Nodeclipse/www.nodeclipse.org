@@ -29,12 +29,12 @@ And convinient OS CLI shell (press <kbd>Ctrl+O<kbd>).
 3. [Freemake Video Converter](http://www.freemake.com/) 
 
 4. [Free Download Manager](http://www.freedownloadmanager.org/)	can pause and resume downloads,
- also can download file's different section simultaneously sometimes giving n times boost.
+ also can download file's different section simultaneously, sometimes giving n times boost.
  But the best is that you need to start download only one time, and it will keep trying until file is ready
  no matter what could happen with network in between.
  
 5. [GIMP](http://www.gimp.org/) is professional image manipulation software, that is free and  
- has a lot of extensions.
+ has a lot of extensions. (The software actually came from Linux world.)
 
 6. [WinDirStat](http://windirstat.info/) util to show disk usage (there is also Lunix version KDirStat)
 
