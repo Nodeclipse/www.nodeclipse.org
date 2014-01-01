@@ -12,3 +12,18 @@ Don't miss posts on [Node.js blog](http://blog.nodejs.org/):
 Node package server as proxy or cache.
 https://github.com/Nodeclipse/npm-proxy/blob/master/README.md
  
+ 
+2) 
+ 
+http://stackoverflow.com/questions/1911015/how-to-debug-node-js-applications
+
+There is new open-source Nodeclipse project http://www.nodeclipse.org/ ( as Eclipse plugin or Enide Studio http://sourceforge.net/projects/nodeclipse/files/)
+
+![](http://www.nodeclipse.org/img/Nodeclipse-1-debugging.png)
+
+Nodeclipse became #1 in [Eclipse Top 10 NEW Plugins for 2013](http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php)
+
+It uses modified V8 debugger (Chrome Developer Tools).
+	 
+	 
+3) Enide Studio (with old 0.5 Nodeclipse got 5k downloads on SourceForge)	 
