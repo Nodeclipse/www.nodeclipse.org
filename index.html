@@ -74,12 +74,14 @@ title: Nodeclipse, Enide
 		        </p>
 		     -->    
 			
-			<h3>Vision</h3>
+			<h3>About</h3>
 		        <p>
 						One-stop [work]shop for <a href="http://www.nodejs.org/">Node.JS</a> tools.
 
 						We can't develop everything at once, but we let you know what are the best things around for
 						Node.js development with <a href="http://www.eclipse.org/">Eclipse</a>.
+						<br/>
+						Nodeclipse is free open-source software released at the start of every month.
 						<br/><br/>
 						<a href="/#features">Features</a>.
 						<a href="/#usage">Usage</a>.
@@ -101,7 +103,7 @@ title: Nodeclipse, Enide
         			<li>Frohes Neues Jahr!</li>
         			<li>¡Feliz Año Nuevo!</li>
         		</ul>
-        		<p>Successful & interesting project in new year! Have fun!        		
+        		<p>More successful & interesting projects in new year! Have fun!        		
 			</p>
 			<p>
         		2013-12-27<br/>
@@ -114,13 +116,12 @@ title: Nodeclipse, Enide
 				and after that open any .md file with <code>Show in GFM View</code> instantly, any time, 
 				even when offline, and it will look exactly like on GitHub.
 				( HTMLs are saved into <code>.*.md.html</code> filenames.
-				They will not be commited when project
-				<code>.gitignore</code> file has <code>.*.md.html</code>.
-				.* files are hidden in Eclipse by default, but see "No miracles, just files" <a href="/#usage">below</a>. )
+				They will not be committed when project's <code>.gitignore</code> file has <code>.*.md.html</code>.
+				The .* files are hidden in Eclipse by default, but see "No miracles, just files" <a href="/#usage">below</a>. )
 			</p>
 			<p>
         		2013-12-20<br/>
-        		<a href="/demos/navigation">Navigation Demo</a>.
+        		Site <a href="/demos/navigation">Navigation Demo</a>.
 			</p>
 			<p>
         		2013-12-20<br/>
@@ -137,7 +138,7 @@ title: Nodeclipse, Enide
 				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">Nodeclipse CLI</a> is published with npm  
 				<a href="https://npmjs.org/package/nodeclipse">registry</a>.
 				Install it with <pre>$ npm install -g nodeclipse</pre>
-				Now create new project in any way, then <pre>$ nodeclipse -p</pre> to make it Eclipse project ready for import
+				Now create new project in any way, then <pre>$ nodeclipse -p</pre> to make the project ready for import
 				via <code>File -> Import -> General / Existing Projects into Workspace</code>.</br>
 				CLI util also allows to create new Node.js projects like <pre>$ nodeclipse -c project1 -u hellow-world</pre>.
 				And that is great because it uses 
@@ -224,13 +225,15 @@ title: Nodeclipse, Enide
 					<li>Refactoring within one file (<kbd>Alt+Shift+R</kbd>)</li>
 					<li>JSON files highlight and validation</li>
 					<li>NPM support</li>
-					<li>Debugging - Breakpoint, Trace, Variables, Expressions, etc... via modified Eclipse debugger plugin for V8</li>
+					<li>Debugging - Breakpoint, Trace, Variables, Expressions, etc... via modified Eclipse debugger plugin for V8 (Chromium Tools)</li>
 					<li>Setting project properties for <a href="http://github.eclipsesource.com/jshint-eclipse/">JSHint-Eclipse</a> automatically;
 						<a href="http://www.jshint.com/">JSHint</a> 
 						settings <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/templates/common-templates/.jshintrc">template</a> </li>
-					<li>Passing arguments to Node application and Node.js, specifying environment variables values to use</li>
+					<li>Specifying passed arguments to <code>node</code> and Node application (per every file and per whole workspace)</li>
+					<li>Specifying environment variables values to use (per every file)</li>
 					<li>Running CoffeeScript *.coffee files</li>
-					<li>Running *.js files with PhantomJS, MongoDB Shell or Java 8 Nashorn <code>jjs</code> util</li>
+					<li>Running *.js files with PhantomJS, MongoDB Shell or Java 8 Nashorn <code>jjs</code> util.</li>
+					<li>Supporting <code>*.njs, *.pjs, *.mjs</code> and <code>*.jjs</code> file extentions.</li>
 					<li>Bundled together with
 						<a href="http://marketplace.eclipse.org/content/markdown-text-editor/click">Markdown Editor</a>, 
 						<a href="http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin/click">GitHub Flavored Markdown</a>, 
@@ -259,7 +262,7 @@ title: Nodeclipse, Enide
 				<h4>First steps</h4>
 					<p>
 					<ol>
-					<li>In Eclipse switch to Node perspective <code>Window -> Open perspective -> Other... -> Node</code></li>
+					<li>In Eclipse switch to Node perspective <code>Window -> Open Perspective -> Other... -> Node</code></li>
 					<li>Select <code>File -> New -> Node Project</code>.</li>
 					<li>Select "Hello world" template.</li>
 					<li>Enter [Project name], press [Finish].</li>
@@ -293,7 +296,7 @@ title: Nodeclipse, Enide
 					<li>Press <kbd>Ctrl+Alt+D</kbd> to open Shell (<a href="/enide/tools/startexplorer">StartExplorer</a>)</li>
 					<li>Press <kbd>Ctrl+Alt+A</kbd> to open with default app (e.g. Node.js for .js files) (<a href="/enide/tools/startexplorer">StartExplorer</a>)</li>
 					<li>Press <kbd>Ctrl+Alt+C</kbd> to copy resource path to clipboard (<a href="/enide/tools/startexplorer">StartExplorer</a>)</li>
-					<li>Press <kbd>Ctrl+Alt+F</kbd> to search/highlight everywhere n Eclipse (<a href="/enide/tools/glance">Glance</a>)</li>
+					<li>Press <kbd>Ctrl+Alt+F</kbd> to search/highlight everywhere in Eclipse (<a href="/enide/tools/glance">Glance</a>)</li>
 					<li>Press <kbd>Ctrl+3</kbd>, type <kbd>rest</kbd> to open Rest Client (<a href="/restclient-tool/">REST client tool</a>). </li>
 					</ul>
 					</p>
