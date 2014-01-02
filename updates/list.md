@@ -182,6 +182,12 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
  [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 
+## Other
+
+TODO
+
+- http://marketplace.eclipse.org/content/cucumber-jvm-eclipse-plugin
+
 ## Other lists
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
