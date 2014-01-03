@@ -7,6 +7,33 @@ title: Nodeclipse -- News
 
 <p></p>
 
+<p>	
+	2013-01-03<br/>
+</p>
+Don't miss posts on [Node.js blog](http://blog.nodejs.org/):
+
+- [DoS Vulnerability (fixed in Node v0.8.26 and v0.10.21)](http://blog.nodejs.org/2013/10/22/cve-2013-4450-http-server-pipeline-flood-dos/)
+ if you are using 0.8 or 0.10 servers in production, update to the latest on that branch is critical.
+ 
+- [Keeping The npm Registry Awesome](http://blog.nodejs.org/2013/11/26/npm-post-mortem/) 
+ After several downtime in November (npm usage grew 10x in 2013), technical work is in progress.
+ ALso donation campaign was launched at <https://scalenpm.org/>.
+ 
+ 
+Node package server as proxy or cache.
+<https://github.com/Nodeclipse/npm-proxy/blob/master/README.md>
+
+
+<p>	
+	2013-01-03<br/>
+	Enide & Nodeclipse version 0.9.0 are released. New update site is 
+	<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.9.0/</pre>
+	{% include nodeclipse_install_button.html %}</br>
+	There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>
+	Check <a href="/history">What's new</a>.
+	<a href="/enide/tools/markdowneditor">Markdonw Editor</a> can be installed from
+	<pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre>
+</p>
 <p>
 	2013-12-27<br/>
 	Finally 

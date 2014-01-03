@@ -19,8 +19,12 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
+### Version 2014-02-??
+
+- features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
+
 <!-- --> 
-### Version 0.9.DEV "code completion",  2014-01-??
+### Version 0.9.0 "completions",  2014-01-03
 
 - [#97](https://github.com/Nodeclipse/nodeclipse-1/issues/97) set NODE_JUST_NODE on Windows only;
  so that new users on other OSes, check preferences first.
@@ -30,6 +34,8 @@ Reminder: reset perspective after an update for new UI elements to appear.
 - workspace-wide NODE_OPTIONS (set in Preferences).
 This lets you run node(1) with the `--harmony` flag that is needed to enable __generators__ support (since __node 0.11.9__).
 And yes, you still can set Node arguments in __Node.js Application__ Run/Debug LaunchConfiguration per every file you launch.
+- workspace-wide NODE_APPLICATION_ARGUMENTS (set in Preferences). Similarly, arguments from Preferences
+ and from arguments from LaunchConfiguration are all applied.
 - ref [#95](https://github.com/Nodeclipse/nodeclipse-1/issues/95)
  (when Node.js sources directory is selected in Preferences)
  automatically link to Node.js sources `lib` directory. It is actually quick & lazy implementation
@@ -64,8 +70,9 @@ you are ready to develop Node.js runtime)
 		]
 	}	
  
-
-- other features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
+- there sprint goal was to make Node specific content assist in Node JSDT-based Editor,
+ however I [Paul Verest] ran into problem that can't be solved quickly:  
+ [Content assist with javaCompletionProposalComputer for Eclipse JSDT gives no proposal](http://stackoverflow.com/questions/20779899/content-assist-with-javacompletionproposalcomputer-for-eclipse-jsdt-gives-no-pro)    
 
 
 ### Version 0.8 "wizards",  2013-12-02
