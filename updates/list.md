@@ -18,7 +18,12 @@ Just drag-and-drop such ![InstallLink][1]
 
 ## News and updates
 
-#### Enide & Nodeclipse 0.8 "wizards" are released. 
+#### EGit 3.2.0 released
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+
+#### Enide & Nodeclipse 0.9.0 "complitions" are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
