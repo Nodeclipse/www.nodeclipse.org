@@ -23,7 +23,7 @@ Just drag-and-drop such ![InstallLink][1]
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 
-#### Enide & Nodeclipse 0.9.0 "complitions" are released. 
+#### Enide & Nodeclipse 0.9.0 "completions" are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
@@ -88,7 +88,7 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
 [Eclipse CDT (C/C++ Development Tooling)](http://eclipse.org/cdt/) [mp](http://marketplace.eclipse.org/content/eclipse-cdt-cc-development-tooling)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=725770)
  [Groovy (with Groovy/Grails Tool Suite (GGTS) for Eclipse Kepler (4.3) )](http://grails.org/products/ggts) [mp](http://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse-kepler-43)
-- TODO Java
+- [Eclipse JDT Java 8 Early Access BETA](https://marketplace.eclipse.org/content/eclipse-jdt-early-access)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1010)
  [PHP (with PTI - PHP Tool Integration)](http://marketplace.eclipse.org/content/pti-php-tool-integration)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
