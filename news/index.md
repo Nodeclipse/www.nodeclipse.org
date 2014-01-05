@@ -8,6 +8,16 @@ title: Nodeclipse -- News
 <p></p>
 
 <p>	
+	2014-01-05<br/>
+	Enide & Nodeclipse version 0.9.0 are released. New update site is 
+	<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.9.05/</pre>
+	{% include nodeclipse_install_button.html %}</br>
+	There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>
+	Check <a href="/history">What's new</a>.
+	<a href="/enide/tools/markdowneditor">Markdonw Editor</a> can be installed from
+	<pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre>
+</p>
+<p>	
 	2014-01-03<br/>
 </p>
 Don't miss posts on [Node.js blog](http://blog.nodejs.org/):
@@ -24,16 +34,6 @@ Node package server as proxy or cache.
 <https://github.com/Nodeclipse/npm-proxy/blob/master/README.md>
 
 
-<p>	
-	2014-01-03<br/>
-	Enide & Nodeclipse version 0.9.0 are released. New update site is 
-	<pre>http://dl.bintray.com/nodeclipse/nodeclipse/0.9.0/</pre>
-	{% include nodeclipse_install_button.html %}</br>
-	There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>
-	Check <a href="/history">What's new</a>.
-	<a href="/enide/tools/markdowneditor">Markdonw Editor</a> can be installed from
-	<pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre>
-</p>
 <p>
 	2013-12-27<br/>
 	Finally 
