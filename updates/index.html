@@ -97,25 +97,8 @@ title: Nodeclipse, Enide - Updates
             
             	<h3>Installation Instructions</h3>
             	
-				<h4><a name="update-site" class="anchor" href="#update-site"></a>
-				1) update site (Recommended way: bigger choice )</h4>
-				<pre>1.  Start Eclipse, then select Help > Install New Software...</pre>
-				<pre>2.  Enter the update site URL into the Work with text box:</pre>
-				<pre>    {% include nodeclipse_update_site.html %}</pre>
-				<pre><b>3.  Uncheck "Contact all updates site during install to find required software"</b> to make installation quicker.</pre>
-				<pre>    Press the Enter key or <kbd>Next<kbd/> button.</pre>
-				<pre>4.  You should see the center box filled with Nodeclipse plugins.</pre>
-				<pre>    Select with checkbox what you want to install.</pre>
-				<pre>    Click Next.</pre>
-				<pre>5.  Review the features that you are about to install. Click Next.</pre>
-				<pre>6.  Read the license agreements,</pre>
-				<pre>    and then select I accept the terms of the license agreements. Click Finish.</pre>
-				<pre>7.  You will then be asked if you would like to restart Eclipse. Click Restart Now.</pre>
-				<pre><b>8.  Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node).</b></pre>
-				<pre>9.  Now you are ready to develop Node.js applications with Nodeclipse!</pre>
-				
 		        <h4><a name="marketplace" class="anchor" href="#marketplace"></a>
-		        b) Marketplace (a bit quicker)</h4>
+		        a) Marketplace (a bit quicker)</h4>
 				<pre>1.  Start Eclipse.</pre>
 				<p>2.  Drag and drop {% include nodeclipse_install_button.html %} into a running Eclipse (menu area) to install Nodeclipse.</p>
 				<pre>2.  Review the features that you are about to install. Click Next.</pre>
@@ -128,13 +111,31 @@ title: Nodeclipse, Enide - Updates
 				<script type="text/javascript">url_site = 'http://marketplace.eclipse.org/node/759140';</script>
 				<script src="http://marketplace.eclipse.org/sites/all/modules/custom/eclipse_drigg_external/js/button.js" type="text/javascript"></script>
 				
+				<h4><a name="update-site" class="anchor" href="#update-site"></a>
+				b) update site (Recommended way: bigger choice )</h4>
+				<pre>1.  Start Eclipse, then select Help > Install New Software...</pre>
+				<pre>2.  Enter the update site URL into the Work with text box:</pre>
+				<pre>    {% include nodeclipse_update_site.html %}</pre>
+				<pre><b>3.  Uncheck "Contact all updates site during install to find required software"</b> to make installation quicker.</pre>
+				<pre>    Press the Enter key or <kbd>Next<kbd/> button.</pre>
+				<pre>4.  You should see the center box filled with Nodeclipse plugins.</pre>
+				<pre>    Select with checkbox what you want to install. ("The more, the better" does not apply here. Take note of features names.)</pre>
+				<pre>    Click Next.</pre>
+				<pre>5.  Review the features that you are about to install. Click Next.</pre>
+				<pre>6.  Read the license agreements,</pre>
+				<pre>    and then select I accept the terms of the license agreements. Click Finish.</pre>
+				<pre>7.  You will then be asked if you would like to restart Eclipse. Click Restart Now.</pre>
+				<pre><b>8.  Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node).</b></pre>
+				<pre>9.  Now you are ready to develop Node.js applications with Nodeclipse!</pre>
+				
 				<h4><a name="archive" class="anchor" href="#archive"></a>
 		        c) Archive (when Internet is slow, not stable or installing many times)</h4>
+		        <p>zip archive has content identical to update p2 site</p>
 		        <pre>0.  Download zip from <a href="https://sourceforge.net/projects/nodeclipse/files/update-site-archive/">SourceForge</a>.</pre>
 				<pre>1.  Start Eclipse.</pre>
 				<pre>2.  Help -> Install New Software -> Add -> Archive.</pre>
 				
-				<!-- Also this cool way of copying p2 repo with eclipse, but won't zip be better? 
+				<!-- Also this cool way of copying p2 repo with eclipse, but won't getting zip be better? 
 				// http://wiki.eclipse.org/Equinox_p2_Repository_Mirroring
 				eclipse.exe -nosplash -verbose -application org.eclipse.equinox.p2.artifact.repository.mirrorApplication -source http://dl.bintray.com/nodeclipse/nodeclipse/0.9.0/ -destination C:\temp\p2mirror				
 				 -->								
