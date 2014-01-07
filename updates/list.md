@@ -23,7 +23,7 @@ Just drag-and-drop such ![InstallLink][1]
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 
-#### Enide & Nodeclipse 0.9.0 "completions" are released. 
+#### Enide & Nodeclipse 0.9.0 "completions 1/2" are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
@@ -31,6 +31,7 @@ EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-te
 
 or use update site
 <pre>{% include nodeclipse_update_site.html %}</pre> 
+[how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %})
  
 ## General
 

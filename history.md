@@ -24,7 +24,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 - features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
 <!-- --> 
-### Version 0.9.0 "completions",  2014-01-03
+### Version 0.9.0 "completions 1/2",  2014-01-03
 
 - [#97](https://github.com/Nodeclipse/nodeclipse-1/issues/97) set NODE_JUST_NODE on Windows only;
  so that new users on other OSes, check preferences first.
