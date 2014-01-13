@@ -19,7 +19,26 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
-### Version 2014-02-??
+### Version 0.10.0 "ten" 2014-02-??
+
+- code completion for base Node.js modules in JSDT-based Editor (see in 0.9.0) 
+- bundle with additional plugins:
+	- YEdit (YAML)
+	- InstaSearch
+	- [Eclipse Color Theme](](/enide/tools/eclipse-color-theme)) (for Editor)
+	- [Chrome Theme](/enide/tools/eclipse-4-chrome-theme) (actually several, recommended)
+	
+<a href="/enide/tools/eclipse-4-chrome-theme">
+<img alt="Moonrise Ubuntu" src="https://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.resource/screen-shot-2.png" width="350" height="200" /></a>            	
+	
+	- [Moonrise UI Theme](/enide/tools/moonrise-ui-theme) (black)
+	
+<a href="/enide/tools/moonrise-ui-theme">
+<img alt="Moonrise Ubuntu" src="https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.plugin/screenshot/screenshot-ubuntu_v0.8.2.png" width="350" height="200" /></a>            	
+
+<a href="/enide/tools/moonrise-ui-theme">
+<img alt="Moonrise Windows" src="https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.plugin/screenshot/screenshot-windows_v0.8.2.png" width="350" height="200" /></a>            	
+	
 
 - features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
