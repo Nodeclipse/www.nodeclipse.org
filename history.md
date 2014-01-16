@@ -21,6 +21,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ### Version 0.10.0 "ten" 2014-02-??
 
+- update Launch icons (using great [Icons Editor](\enide\tools\eclipse-icons-editor) by Jabier Martinez)
 - code completion for base Node.js modules in JSDT-based Editor (see in 0.9.0) 
 - bundle with additional plugins:
 	- YEdit (YAML)
