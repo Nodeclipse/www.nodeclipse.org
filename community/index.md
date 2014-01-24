@@ -2,7 +2,17 @@
 layout: community
 ---
 
-# Nodeclipse community pages
+## Events
+
+Let us know about Node.js and Eclipse events by raising issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
+
+[Node.js meet-ups](http://node-js.meetup.com/)
+
+Click on the banner below to go to the event detail. 
+
+[![](/img/eclipsecon-logo-600px-x-96px.jpg)](http://www.eclipsecon.org/na2014)
+
+## Nodeclipse community pages
 
 [Nodeclipse Google Group (English)](https://groups.google.com/forum/#!forum/nodeclipse)
 
