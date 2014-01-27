@@ -18,21 +18,38 @@ Just drag-and-drop such ![InstallLink][1]
 
 ## News and updates
 
-#### EGit 3.2.0 released
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
-EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
-
-#### Enide & Nodeclipse 0.9.0 "completions 1/2" are released. 
+#### Enide & Nodeclipse 0.10.0 "ten" are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
-or use update site
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %}) )  
 <pre>{% include nodeclipse_update_site.html %}</pre> 
-[how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %})
+
+#### EGit 3.2.0 released
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+
  
+## Languages
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1373403)
+[Eclipse CDT (C/C++ Development Tooling)](http://eclipse.org/cdt/) [mp](http://marketplace.eclipse.org/content/eclipse-cdt-cc-development-tooling)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=725770)
+ [Groovy (with Groovy/Grails Tool Suite (GGTS) for Eclipse Kepler (4.3) )](http://grails.org/products/ggts) [mp](http://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse-kepler-43)
+- [Eclipse JDT Java 8 Early Access BETA](https://marketplace.eclipse.org/content/eclipse-jdt-early-access)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1010)
+ [PHP (with PTI - PHP Tool Integration)](http://marketplace.eclipse.org/content/pti-php-tool-integration)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
+ [Python (with PyDev - Python IDE for Eclipse)](http://marketplace.eclipse.org/content/pydev-python-ide-eclipse)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
+[Ruby (DLTK)](http://eclipse.org/dltk/)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
+ [Scala](http://marketplace.eclipse.org/content/scala-ide-eclipse)
+- also you can find Perl, Lua, ...
+
 ## General
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
@@ -82,23 +99,6 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
 - local terminal incubator project can be found among General purpose tools
  (depends on Eclipse C/C++ development platform) 
 // could not find way to open after installation
-
-## Languages
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1373403)
-[Eclipse CDT (C/C++ Development Tooling)](http://eclipse.org/cdt/) [mp](http://marketplace.eclipse.org/content/eclipse-cdt-cc-development-tooling)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=725770)
- [Groovy (with Groovy/Grails Tool Suite (GGTS) for Eclipse Kepler (4.3) )](http://grails.org/products/ggts) [mp](http://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse-kepler-43)
-- [Eclipse JDT Java 8 Early Access BETA](https://marketplace.eclipse.org/content/eclipse-jdt-early-access)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1010)
- [PHP (with PTI - PHP Tool Integration)](http://marketplace.eclipse.org/content/pti-php-tool-integration)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
- [Python (with PyDev - Python IDE for Eclipse)](http://marketplace.eclipse.org/content/pydev-python-ide-eclipse)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
-[Ruby (DLTK)](http://eclipse.org/dltk/)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
- [Scala](http://marketplace.eclipse.org/content/scala-ide-eclipse)
-also you can find Perl, Lua, ...
 
 ### Node.js & JavaScript Development
 
@@ -190,9 +190,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 ## Other
 
-TODO
-
-- http://marketplace.eclipse.org/content/cucumber-jvm-eclipse-plugin
+- <http://marketplace.eclipse.org/content/cucumber-jvm-eclipse-plugin>
 
 ## Other lists
 

@@ -19,20 +19,25 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
-### Version 0.10.0 "ten" 2014-02-??
+- features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
 
+### Version 0.10.0 "ten" 2014-01-27
+
+- code completion for base Node.js modules in JSDT-based Editor (read in 0.9.0 ).
+ For any issues check [#119][119] first. 
 - update Launch icons (using great [Icons Editor](\enide\tools\eclipse-icons-editor) by Jabier Martinez)
-- code completion for base Node.js modules in JSDT-based Editor (see in 0.9.0) 
-- bundle with additional plugins:
-	- YEdit (YAML)
-	- InstaSearch
-	- [Eclipse Color Theme](](/enide/tools/eclipse-color-theme)) (for Editor)
+- fix filter for `npm` launch (Personally prefer <kbd>Ctrl+Alt+D<kbd> to launch shell.)
+- bundle with additional 5 plugins:
+
+	- [YEdit (YAML)](/enide/tools/yedit)
+	- [InstaSearch](/enide/tools/instasearch)
+	- [Eclipse Color Theme](/enide/tools/eclipse-color-theme) (huge number of color themes for Editor; not recommended as some users report major issues)
 	- [Chrome Theme](/enide/tools/eclipse-4-chrome-theme) (actually several, recommended)
 	
 <a href="/enide/tools/eclipse-4-chrome-theme">
 <img alt="Moonrise Ubuntu" src="https://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.resource/screen-shot-2.png" width="350" height="200" /></a>            	
 	
-	- [Moonrise UI Theme](/enide/tools/moonrise-ui-theme) (black)
+	- [Moonrise UI Theme](/enide/tools/moonrise-ui-theme) (black; awesome, but yet not recommended as there is still issue [#49][49])
 	
 <a href="/enide/tools/moonrise-ui-theme">
 <img alt="Moonrise Ubuntu" src="https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.plugin/screenshot/screenshot-ubuntu_v0.8.2.png" width="350" height="200" /></a>            	
@@ -40,10 +45,19 @@ Reminder: reset perspective after an update for new UI elements to appear.
 <a href="/enide/tools/moonrise-ui-theme">
 <img alt="Moonrise Windows" src="https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.plugin/screenshot/screenshot-windows_v0.8.2.png" width="350" height="200" /></a>            	
 	
+- [#100][100] [Enide repository](https://github.com/Enide/eclipse-p2-composite-repository) will contain ALL needed plugins.
+- [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven) ([#117][117])
+ lets you launch maven build by right-clicking on `pom.xml`.
+- Nodeclipse CLI ([#91][91]) 0.10 now includes Maven and Gradle templates
+* Node.js run/debug function tested in Juno (ADT-BUndle), Kepler, Luna 4.4.M4 with JDK 7 on Windows 7.
+ Raise an [issue](/#support) if you have or had issue on other version.
 
-- features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
+  [49]: https://github.com/Nodeclipse/nodeclipse-1/issues/49
+  [91]: https://github.com/Nodeclipse/nodeclipse-1/issues/91
+  [100]: https://github.com/Nodeclipse/nodeclipse-1/issues/100
+  [117]: https://github.com/Nodeclipse/nodeclipse-1/issues/117
+  [119]: https://github.com/Nodeclipse/nodeclipse-1/issues/119
 
-<!-- --> 
 ### Version 0.9.0 "completions 1/2",  2014-01-03
 
 - [#97](https://github.com/Nodeclipse/nodeclipse-1/issues/97) set NODE_JUST_NODE on Windows only;

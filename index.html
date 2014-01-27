@@ -101,15 +101,38 @@ title: Nodeclipse, Enide
 			<p>See <a href="news/">all previous news at one page</a>.</p>
 			
 			<!-- 
-			<img src="/img/Number_10_Messi_FC_Barcelona.jpg"/>
-			<img src="/img/Completion-for-base-Node.js-modules.PNG"/>
-			 -->
-			
 			<p>
 				<a href="/community/">
 				<img src="./img/eclipsecon-logo-600px-x-96px.jpg"/></a>
 			</p>
+			 -->
 			 
+			<p>	
+				2014-01-27 ten<br/>
+				<img src="/img/Number_10_Messi_FC_Barcelona.jpg"/></br>
+				Enide & Nodeclipse version 0.10.0 are released. New update site is 
+				<pre>{% include nodeclipse_update_site.html %}</pre>
+				{% include nodeclipse_install_button.html %}</br>
+				or use Enide repository <code>https://raw.github.com/Enide/eclipse-p2-composite-repository/master/</code> .
+				There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>			  			
+				Checking <a href="/history">What's new</a> is nessasary.</br>
+				<a href="/history"><img src="/img/Completion-for-base-Node.js-modules.PNG"/></a>
+	        </p>
+			<p>
+        		2014-01-26 Nodeclipse CLI<br/>
+				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">Nodeclipse CLI 0.10.0</a>
+				 is published with npm <a href="https://npmjs.org/package/nodeclipse">registry</a>.
+				Install it with <pre>$ npm install -g nodeclipse</pre>
+				Now create new project in any way, then <pre>$ nodeclipse -p</pre> to make the project ready for import
+				via <code>File -> Import -> General / Existing Projects into Workspace</code>.</br>
+				CLI util also allows to create new Node.js projects like <pre>$ nodeclipse -c project1 -u hellow-world</pre>.
+				And that is great because it uses 
+				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">the same templates as Nodeclipse plugin</a>.
+				So if you have an idea for new wizard, propose your additions with pull request as new_folder,
+				then it will be immediately available as <pre>$ nodeclipse -c new_project1 -u new_folder</pre>,
+				and after a while as Wizard option in Eclipse/Enide.</br>
+				Check README for what's new. 
+			</p>
 			<p>
         		2014-01-21 Enide repository<br/>
 				Finally found a way to have constant update site URL for all Nodeclipse versions,
@@ -135,16 +158,6 @@ title: Nodeclipse, Enide
 				They will not be committed when project's <code>.gitignore</code> file has <code>.*.md.html</code>.
 				The .* files are hidden in Eclipse by default, but see "No miracles, just files" <a href="/#usage">below</a>. )
 			</p>
-			<p>	
-				2014-01-05<br/>
-				Enide & Nodeclipse version 0.9.0 are released. New update site is 
-				<pre>{% include nodeclipse_update_site.html %}</pre>
-				{% include nodeclipse_install_button.html %}</br>
-				There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>			  			
-				Check <a href="/history">What's new</a>.<br/>
-				<a href="/enide/tools/markdowneditor">Markdonw Editor</a> can be installed from
-				<pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre>
-	        </p>
 			<p></p>
         		<h4>Happy New Year!</h4>
         		<ul>
@@ -154,7 +167,7 @@ title: Nodeclipse, Enide
         			<li>Frohes Neues Jahr!</li>
         			<li>¡Feliz Año Nuevo!</li>
         		</ul>
-        		<p>More successful & interesting projects in new year! Have fun!        		
+        		<p>More successful & interesting projects in the new year! Have fun!        		
 			</p>
 			<p>
         		2013-12-20<br/>
@@ -169,20 +182,6 @@ title: Nodeclipse, Enide
 				as Enide is set/collection of plugins including Nodeclipse available in the same 
 				<a href="http://www.nodeclipse.org/updates/">update site</a>
 				or via <a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">.p2f file</a>.
-			</p>
-			<p>
-        		2013-12-11<br/>
-				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">Nodeclipse CLI</a> is published with npm  
-				<a href="https://npmjs.org/package/nodeclipse">registry</a>.
-				Install it with <pre>$ npm install -g nodeclipse</pre>
-				Now create new project in any way, then <pre>$ nodeclipse -p</pre> to make the project ready for import
-				via <code>File -> Import -> General / Existing Projects into Workspace</code>.</br>
-				CLI util also allows to create new Node.js projects like <pre>$ nodeclipse -c project1 -u hellow-world</pre>.
-				And that is great because it uses 
-				<a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">the same templates as Nodeclipse plugin</a>.
-				So if you have an idea for new wizard, propose your additions with pull request as new_folder,
-				then it will be immediately available as <pre>$ nodeclipse -c new_project1 -u new_folder</pre>,
-				and after a while as Wizard option in Eclipse/Enide. 
 			</p>
 			<p>
         		2013-12-06<br/>
@@ -240,7 +239,8 @@ title: Nodeclipse, Enide
 					<li>Generating Express project with Wizard</li>
 					<li>JavaScript Syntax highlighting</li>
 					<li>Bracket matching and marking selection occurences with background color</li>
-					<li>Content Assistant within one file</li>
+					<li>Content Assistant within one file (JSDT)</li>
+					<li>Code completion for base Node.js modules</li>
 					<li>Go to definition with <kbd>Ctrl</kbd>+click when <a href="http://usejsdoc.org/">JSDoc is used</a></li>
 					<li>Refactoring within one file (<kbd>Alt+Shift+R</kbd>)</li>
 					<li>JSON files highlight and validation</li>
