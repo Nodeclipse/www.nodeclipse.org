@@ -40,12 +40,11 @@ Reminder: reset perspective after an update for new UI elements to appear.
 	- [YEdit (YAML)](/enide/tools/yedit)
 	- [InstaSearch](/enide/tools/instasearch)
 	- [Eclipse Color Theme](/enide/tools/eclipse-color-theme) (huge number of color themes for Editor; not recommended as some users report major issues)
-	- [Chrome Theme](/enide/tools/eclipse-4-chrome-theme) (actually several, recommended)
+	- [Chrome Theme](/enide/tools/eclipse-4-chrome-theme) (1 slide below; but actually has several themes, recommended)
+	- [Moonrise UI Theme](/enide/tools/moonrise-ui-theme) (black; awesome, but yet not recommended as there is still issue [#49][49])
 	
 <a href="/enide/tools/eclipse-4-chrome-theme">
 <img alt="Moonrise Ubuntu" src="https://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.resource/screen-shot-2.png" width="350" height="200" /></a>            	
-	
-	- [Moonrise UI Theme](/enide/tools/moonrise-ui-theme) (black; awesome, but yet not recommended as there is still issue [#49][49])
 	
 <a href="/enide/tools/moonrise-ui-theme">
 <img alt="Moonrise Ubuntu" src="https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.plugin/screenshot/screenshot-ubuntu_v0.8.2.png" width="350" height="200" /></a>            	
