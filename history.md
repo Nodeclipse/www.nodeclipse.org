@@ -22,7 +22,8 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ### Version 0.11.0 "do it yourself" 2014-?-?
 
-- features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1) 
+- features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
+- [How can you speed up Eclipse?](http://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse)
 - [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
 	- Windows
 ![](http://www.avajava.com/tutorials/eclipse/how-do-i-open-a-windows-command-prompt-in-my-console/how-do-i-open-a-windows-command-prompt-in-my-console-05.gif)
