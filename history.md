@@ -22,7 +22,26 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ### Version 0.11.0 "do it yourself" 2014-?-?
 
-- features contributed via [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
+- [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
+- Code completions for other Node.js modules:  
+ Since Nodeclipse 0.9.0 there is code completion for base Node.js modules. What about others?  
+ Just create JSON file like:
+ 
+	{
+	    "completions": [
+	        {
+	            "trigger": "mymodule.doit();",
+	            "type": "method", // maybe also "event", "class" or "property"
+	            "name": "mymodule.doit",
+	            "desc": "the only method in some imaginary module"
+	        }
+		]
+	}
+	
+Select it in Nodeclipse Preferences in "Alternative completion.json" path to give a try. (Only `trigger` is required for an entry)  
+Got result that 'd like to share?  
+Raise an issue and paste. Next version will have it shipped.		
+ 
 - [How can you speed up Eclipse?](http://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse)
 - [External Tools](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/external-tools.md#external-tools)
 - [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
@@ -30,6 +49,14 @@ Reminder: reset perspective after an update for new UI elements to appear.
 ![](http://www.avajava.com/tutorials/eclipse/how-do-i-open-a-windows-command-prompt-in-my-console/how-do-i-open-a-windows-command-prompt-in-my-console-05.gif)
 	- Linux, MacOS
 ![](http://alexruiz.developerblogs.com/files/2012/07/terminal21.png)
+- [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
+ From that list [Js-test-driver](http://code.google.com/p/js-test-driver/) is the one that has Eclipse plugin.
+ There are also JUnit wrappers for JavaScript, not yet tried.
+
+
+<!--
+http://benjiweber.co.uk/blog/2013/01/27/javascript-tests-with-junit/
+-->
 
 ### Version 0.10.0 "ten" 2014-01-27
 
