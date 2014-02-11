@@ -15,22 +15,38 @@ Just drag-and-drop such ![InstallLink][1]
  button for the plugin that you need to Eclipse menu bar above ([see tip how](list-tip-how)).
 
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
+  
+Also plugin marked with `code formating` can be installed using
+ [Nodeclipse CLI Installer](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates)
+ like `nodeclipse install alias`  
 
 ## News and updates
+
+#### Moonrise 0.8.7
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
+ [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
+ [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
+ 
+#### Maven 0.10.0 
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
+ [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
+ is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
 
 #### Enide & Nodeclipse 0.10.0 "ten" are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
-[Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
 or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %}) )  
-<pre>{% include nodeclipse_update_site.html %}</pre> 
+<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
 
 #### EGit 3.2.0 released
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
-EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 
  
 ## Languages
@@ -53,18 +69,18 @@ EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-te
 ## General
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
-EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 Even though EGit is perfect GUI, you may still want to use command line `git`.
  [Msysgit](http://msysgit.github.io/) is nice distribution for Windows, that includes bash.
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
-[Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
+`git` [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
  ([has some bugs in standard perspectives](/enide/studio/README#warning))
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512)
 [Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse) press Ctrl+Shift+L
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
-Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
+`markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1198679)
 [Eclipse Regexp](http://marketplace.eclipse.org/content/eclipse-regexp) [github](https://github.com/zapletnev/eclipse-regexp)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=907)
@@ -80,7 +96,7 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 [mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
-[Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
+`startexplorer` [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
 MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
 // is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
@@ -108,21 +124,21 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 -->
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
-[Enide & Nodeclipse (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ [Enide & Nodeclipse (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
-[Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
+`nodejs` [Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255462)
-Nodeclipse PhantomJS
+`phantomjs` Nodeclipse PhantomJS
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255479)
-Nodeclipse Java 8 Nashorn JJS
+`jjs` Nodeclipse Java 8 Nashorn JJS
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
-[GitHub Flavored Markdown (GFM) Viewer](https://github.com/satyagraha/gfm_viewer),
+`gfm` [GitHub Flavored Markdown (GFM) Viewer](https://github.com/satyagraha/gfm_viewer),
  [Marketplace](http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=339851)
-Eclipse 4.x Chrome Theme
+`themes` Eclipse 4.x Chrome Theme
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=58952)
 JSDT jQuery Integration
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=894671)
@@ -182,7 +198,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
  [Hudson/Jenkins Mylyn Builds Connector](https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector)
  [some screenshots](http://www.eclipse.org/mylyn/new/new-3.5.html)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1065)
- Mylyn WikiText (wikitext, textile and other format support) [mp](http://marketplace.eclipse.org/content/mylyn-wikitext)
+`wikitext` Mylyn WikiText (wikitext, textile and other format support) [mp](http://marketplace.eclipse.org/content/mylyn-wikitext)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
  GitHub Mylyn Connector
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
@@ -196,7 +212,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
 Nodeclipse Plugins List plugin (access this list with one click from Eclipse; Included in Nodeclipse Enide)
-- Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work in Kepler.
+- Even more plugins are listed in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide), but group install won't work quick in Kepler.
 - <https://code.google.com/p/sandipchitaleseclipseplugins/> by [Sandip Chitale](http://marketplace.eclipse.org/user/1047/listings)
 - [Favorites for Paul Verest](https://marketplace.eclipse.org/user/26370/favorites)
 
