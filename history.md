@@ -22,6 +22,8 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ### Version 0.11.0 "do it yourself" 2014-?-?
 
+Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgreenman Ian Greenhoe for research on #81.  
+
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 - Code completions for other Node.js modules:  
  Since Nodeclipse 0.9.0 there is code completion for base Node.js modules. What about others?  
@@ -53,6 +55,15 @@ Raise an issue and paste. Next version will have it shipped.
  From that list [Js-test-driver](http://code.google.com/p/js-test-driver/) is the one that has Eclipse plugin.
  There are also JUnit wrappers for JavaScript, not yet tried.
 
+- fix for [#81][81] "Node.js app with cluster does not execute inside Nodeclipse"
+ (and [#92][92] "code with exec fails when running inside Eclipse on Windows" as it had the same remedy)
+ Both were not technically bugs: `node` failed to execute because of missing environment variables,
+ as @ihgreenman Ian Greenhoe has found out what "Unknown system errno 203" was.  
+ Now minimal set of env variables are passed automatically.   
+
+  [81]: https://github.com/Nodeclipse/nodeclipse-1/issues/81
+  [92]: https://github.com/Nodeclipse/nodeclipse-1/issues/92
+  [122]: https://github.com/Nodeclipse/nodeclipse-1/issues/122
 
 <!--
 http://benjiweber.co.uk/blog/2013/01/27/javascript-tests-with-junit/
