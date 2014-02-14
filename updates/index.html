@@ -60,8 +60,11 @@ title: Nodeclipse, Enide - Updates
             	<p>
 				</p>
 				<ol>
-			    <li>If you don't have, get latest Node.js 
-			    <a href="http://www.nodejs.org/download/">http://www.nodejs.org/download/</a></li>
+			    <li><img src="http://nodejs.org/images/logo.png" width="50" height="20" />
+			    If you don't have, get latest Node.js 
+			    <a href="http://www.nodejs.org/download/">http://www.nodejs.org/download/</a>
+			    
+			    </li>
 			    
 			    <li>Then, please install Nodeclipse CLI and Express as follows.
 				<pre>$ npm install -g nodeclipse</pre><br/>
@@ -71,11 +74,22 @@ title: Nodeclipse, Enide - Updates
 				<pre>$ npm install -g coffee-script</pre><br/>
 				</li>			    
 			
-			    <li>If you don't have, download & install latest JDK. For example "Java Platform (JDK) 7u40".
-			    x32 bit JDK would be good enough for using IDE. x32 bit is also recommended because of 
-			    <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/71">issue #71</a>
-			    If you choose x64 bit JDK, then all software stack should be x64 bit (download Eclipse 64 bit).
-				<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a>
+			    <li><img src="http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1612441.gif" width="50" height="50" />
+			    If you don't have, download & install JDK 7 from 
+			    <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Oracle Java SE Downloads</a>.
+			    For example "Java Platform (JDK) 7u51".</br>
+			    
+			    </br>			    
+			    x32 bit stack is recommended because of 
+			    <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/71">issue #71</a>.
+			    (x32 bit JDK would be good enough for using IDE.) 
+			    You can use x64 bit JDK, if you are OK with #71. Anyway Java software stack should be of the same bit length x64 or x32 
+			    (e.g. Windows x64, JDK x64, Eclipse x64; or Windows x64, JDK x32, Eclipse x32).
+				</br></br>
+				(Warning: there is critical <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/72">issue #72</a> with JDK 6.)</br>
+				If you don't know what version is used by Eclipse, check Preferences -> Nodeclipse.</br>
+				The Eclipse <a href="https://wiki.eclipse.org/FAQ_How_do_I_run_Eclipse%3F">most recommended way</a>
+				to configure what JDK to use is to configure in <code>eclipse.ini</code>.
 				</li>
 				
 				<li>For Windows there is <a href="/enide/studio/">Enide Studio (Eclipse 4.3 Kepler distribution with Nodeclipse plugins pre-installed)</a>.
@@ -101,6 +115,7 @@ title: Nodeclipse, Enide - Updates
 		        a) Marketplace (a bit quicker)</h4>
 				<pre>1.  Start Eclipse.</pre>
 				<p>2.  Drag and drop {% include nodeclipse_install_button.html %} into a running Eclipse (menu area) to install Nodeclipse.</p>
+				<pre>    <a href="list-tip-how">See tip how</a></pre>
 				<pre>2.  Review the features that you are about to install. Click Next.</pre>
 				<pre>3.  Read the license agreements,</pre>
 				<pre>    and then select I accept the terms of the license agreements. Click Finish.</pre>
@@ -115,18 +130,27 @@ title: Nodeclipse, Enide - Updates
 				b) update site (Recommended way: bigger choice )</h4>
 				<pre>1.  Start Eclipse, then select Help > Install New Software...</pre>
 				<pre>2.  Enter the update site URL into the Work with text box:</pre>
+				<pre>    http://www.nodeclipse.org/updates/</pre>
+				<pre>    or the one that is quicker but changes every release</pre>
 				<pre>    {% include nodeclipse_update_site.html %}</pre>
-				<pre><b>3.  Uncheck "Contact all updates site during install to find required software"</b> to make installation quicker.</pre>
+				<pre>    Select with checkbox what you want to install.</pre>
+				<pre>    ("The more, the better" does not apply here.</pre>
+				<pre>    Take note of what features names you are installing.)</pre>
+				<pre>    Below is Enide-Recommended-Set-for-Nodejs for example.</pre>				
+				<img src="../img/Nodeclipse-Updates-Enide-Recommended-Set-for-Nodejs.png"/>
+				<pre><b>3.  Uncheck "Contact all updates site during install to find required software"</b></pre> 
+				<pre>    to make installation quicker.</pre>
+				<pre>    Note that different Eclipse version have different behaviour for that checkbox.</pre>
 				<pre>    Press the Enter key or <kbd>Next<kbd/> button.</pre>
-				<pre>4.  You should see the center box filled with Nodeclipse plugins.</pre>
-				<pre>    Select with checkbox what you want to install. ("The more, the better" does not apply here. Take note of features names.)</pre>
+				<pre>4.  After a while depending of what you had and what you selected,</pre>
+				<pre>    you should see the center box filled with Eclipse plugins to install.</pre>
 				<pre>    Click Next.</pre>
 				<pre>5.  Review the features that you are about to install. Click Next.</pre>
 				<pre>6.  Read the license agreements,</pre>
 				<pre>    and then select I accept the terms of the license agreements. Click Finish.</pre>
 				<pre>7.  You will then be asked if you would like to restart Eclipse. Click Restart Now.</pre>
 				<pre><b>8.  Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node).</b></pre>
-				<pre>9.  Now you are ready to develop Node.js applications with Nodeclipse!</pre>
+				<pre>9.  Now you are ready to develop Node.js applications with Nodeclipse and great tools!</pre>
 				
 				<!-- http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %} -->
 				
@@ -137,8 +161,18 @@ title: Nodeclipse, Enide - Updates
 				<pre>1.  Start Eclipse.</pre>
 				<pre>2.  Help -> Install New Software -> Add -> Archive.</pre>
 				
-				<p>Hint: keep the file name the same when updating, or remove old path and URLs as Eclipse keeps checking them.</p>
+				<p>Hint for b) & c): keep the file name the same when updating, or remove old path and URLs as Eclipse keeps checking them.</p>
 				
+				<h4><a name="nodeclipse-installer" class="anchor" href="#nodeclipse-installer"></a>
+				d) Enide p2f file</h4>
+				<pre>0.  Read more at <a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">Marketplace page</a>.</pre>
+
+				<h4><a name="nodeclipse-installer" class="anchor" href="#nodeclipse-installer"></a>
+				e) Nodeclipse CLI Installer</h4>
+		        <pre>0.  Read more at <a href="https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates">GitHup page</a>.</pre>
+				<pre>1.  <code>cd path/to/eclipse<code></pre>
+				<pre>2.  <code>nodeclipse install nodejs markdown gfm startexplorer<code></pre>
+				<pre>3.  Start Eclipse.</pre>
 				
 				<!-- Also this cool way of copying p2 repo with eclipse, but won't getting zip be better? 
 				// http://wiki.eclipse.org/Equinox_p2_Repository_Mirroring
@@ -147,9 +181,12 @@ title: Nodeclipse, Enide - Updates
 
 				<h3>Updating</h3>
 				
-				<p>Currently every new version is relased in new update p2 site (or zip archive), so Eclipse "Check for updates" won't work.
-					(Also you will need to clean up old update sites in Preferences -> Update/Install -> Available Software Sites.)
-					Check this site home page for announces.</p>
+				<p>If you used <code>{% include nodeclipse_update_site.html %}</code> like URL or update site zip archive,
+					you will just need to install with any above option.
+					(Also you will need to clean up old update sites in Preferences -> Update/Install -> Available Software Sites.)</br>
+					Otherwise Eclipse "Help -> Check for updates" should work. 
+					You will be notified about updates if you have "Automatic Updates" enabled in Preferences.
+					Check this site <a href="/">home page</a> for announces and news about new plugins and workflow.</p>
 				
 				<p> Reset perspective after an update for new UI elements to appear:
 				<img src="../img/ResetPerspective.png" alt="ResetPerspective" />
