@@ -3,7 +3,11 @@ layout: community
 title: Nodeclipse - Community - Q & A
 ---
 
-# FAQ
+# Eclipse FAQ
+
+- [How do I run Eclipse?](https://wiki.eclipse.org/FAQ_How_do_I_run_Eclipse%3F)
+
+# Nodeclipse FAQ
 
 (Check also <http://www.nodeclipse.org/community/q-and-a>)
 
