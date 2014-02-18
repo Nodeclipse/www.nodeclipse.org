@@ -22,6 +22,16 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- http://marketplace.eclipse.org/content/jtd-spelling
+- http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment
+- http://marketplace.eclipse.org/content/multiproperties
+- http://marketplace.eclipse.org/content/pde-tools
+- [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236)
+- http://marketplace.eclipse.org/content/eclipse-ckeditor
+- http://marketplace.eclipse.org/content/mybatipse
+- http://marketplace.eclipse.org/content/arduino-eclipse-ide
+- http://marketplace.eclipse.org/content/json-tools 
+
 #### Moonrise 0.8.7
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
