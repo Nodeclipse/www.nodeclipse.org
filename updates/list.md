@@ -11,7 +11,7 @@ a img {border: none; }
 # Nodeclipse Plugins List
 
 The list below is for convenient and quick way to install Eclipse plugins.  
-Just drag-and-drop such ![InstallLink][1]
+Just drag-and-drop such [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
  button for the plugin that you need to Eclipse menu bar above ([see tip how](list-tip-how)).
 
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
@@ -26,7 +26,7 @@ Also plugin marked with `code formating` can be installed using
 - http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment
 - http://marketplace.eclipse.org/content/multiproperties
 - http://marketplace.eclipse.org/content/pde-tools
-- [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236)
+- [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
 - http://marketplace.eclipse.org/content/eclipse-ckeditor
 - http://marketplace.eclipse.org/content/mybatipse
 - http://marketplace.eclipse.org/content/arduino-eclipse-ide
