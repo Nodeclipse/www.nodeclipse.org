@@ -22,6 +22,7 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- http://marketplace.eclipse.org/content/synthclipse (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
 - http://marketplace.eclipse.org/content/jtd-spelling
 - http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment
 - http://marketplace.eclipse.org/content/multiproperties
