@@ -20,7 +20,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 ![ResetPerspective](img/ResetPerspective.png)
 
 
-### Version 0.11.0 "do it yourself" 2014-?-?
+### Version 0.11.0 "do it yourself" 2014-?-? (not yet released)
 
 Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgreenman Ian Greenhoe for research on #81.  
 
@@ -63,6 +63,10 @@ Raise an issue and paste. Next version will have it shipped.
  as @ihgreenman Ian Greenhoe has found out what "Unknown system errno 203" was.  
  Now minimal set of env variables are passed automatically.
  [#122][122] is raised about Env variables Tab in Launch configuration.    
+- Maven (Eclipse plugin) is updated to build Nodeclipse-1 tycho. 
+Now I can launch project build without launching ugly Windows console.
+Instead of switcing windows I use Eclipse Workbench to show/hide View and build again.
+![](img/run-maven-build.png) 
 
   [81]: https://github.com/Nodeclipse/nodeclipse-1/issues/81
   [92]: https://github.com/Nodeclipse/nodeclipse-1/issues/92

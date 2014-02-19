@@ -22,16 +22,16 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
-- http://marketplace.eclipse.org/content/synthclipse (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
-- http://marketplace.eclipse.org/content/jtd-spelling
-- http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment
-- http://marketplace.eclipse.org/content/multiproperties
-- http://marketplace.eclipse.org/content/pde-tools
+- Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
+- JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
+- Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
+- Multiproperties [mp](http://marketplace.eclipse.org/content/multiproperties)
+- PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools)
 - [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
-- http://marketplace.eclipse.org/content/eclipse-ckeditor
-- http://marketplace.eclipse.org/content/mybatipse
-- http://marketplace.eclipse.org/content/arduino-eclipse-ide
-- http://marketplace.eclipse.org/content/json-tools 
+- CKEditor for HTML [mp](http://marketplace.eclipse.org/content/eclipse-ckeditor)
+- MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
+- Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
+- JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
 
 #### Moonrise 0.8.7
 
