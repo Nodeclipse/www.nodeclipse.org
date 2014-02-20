@@ -108,21 +108,21 @@ RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 [mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
 `startexplorer` [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
+Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
+// is actually CLI Shell, Linux/MacOS only
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
 MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
 // is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
 Review: OK for long running scripts (e.g. mvn) Not supporting interaction 
 (for tools like `npm init` or `bower init` impossibly to enter from keyboard),
 line editing is awefull (new letters always in the end)  
-Impossible to terminate running process, closing Tab causes Eclipse freeze. 
+Impossible to terminate running process, closing Tab causes Eclipse freeze. Is causing errors in Eclipse. 
  
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
 Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
  [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
 // have trouble downloading 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
-Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
-// is actually CLI Shell, Linux/MacOS only
 - local terminal incubator project can be found among General purpose tools
  (depends on Eclipse C/C++ development platform) 
 // could not find way to open after installation
