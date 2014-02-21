@@ -12,13 +12,11 @@ or raise an [issue](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
 [10 ways to support free software you love, 9 won’t cost you a dime](/support-us)
 
-<!-- 
-Try it from Enide sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
--->
 Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
+Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
 ### Version 0.11.0 "do it yourself" 2014-?-? (not yet released)
@@ -27,6 +25,12 @@ Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgre
 
 - Make eclipse yourself with Nodeclispe CLI Installer `nodeclipse new from luna to d:/progs/eclipse-diy-luna/`.
  Depending of your Internet connection speed, it may be long time, e.g. `Operation completed in 942398 ms.`
+
+<!-- 
+<a href="http://scraphacker.com/party-shoe-diy/">
+<img alt="Moonrise Ubuntu" src="http://media.scraphacker.com/2012/03/diy-neon-yellow.jpeg" width="250" height="250" /></a>            	
+-->
+ 
 - Code completions for other Node.js modules:  
  Since Nodeclipse 0.9.0 there is code completion for base Node.js modules. What about others?  
  Just create JSON file like:
@@ -60,7 +64,7 @@ Raise an issue and paste. Next version will have it shipped.
  There are also JUnit wrappers for JavaScript, not yet tried.
 
 - fix for [#81][81] "Node.js app with cluster does not execute inside Nodeclipse"
- (and [#92][92] "code with exec fails when running inside Eclipse on Windows" as it had the same remedy)
+ (and [#92][92] "code with exec fails when running inside Eclipse on Windows" as it had the same remedy).
  Both were not technically bugs: `node` failed to execute because of missing environment variables,
  as @ihgreenman Ian Greenhoe has found out what "Unknown system errno 203" was.  
  Now minimal set of env variables are passed automatically.
@@ -77,8 +81,11 @@ Instead of switching windows use Eclipse Workbench to show/hide View and build a
 
 ### Version 0.10.0 "ten" 2014-01-27
 
-- code completion for base Node.js modules in JSDT-based Editor (read in 0.9.0 ).
+- code completion for base Node.js modules in JSDT-based Editor (read in 0.9.0 for TextEditor-based Editor ).
  For any issues check [#119][119] first. 
+
+![](img/Completion-for-base-Node.js-modules.PNG) 
+ 
 - update Launch icons (using great [Icons Editor](\enide\tools\eclipse-icons-editor) by Jabier Martinez)
 - fix filter for `npm` launch (Personally prefer <kbd>Ctrl+Alt+D<kbd> to launch shell.)
 - bundle with additional 5 plugins:
