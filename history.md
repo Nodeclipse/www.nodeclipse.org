@@ -19,12 +19,14 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 ![ResetPerspective](img/ResetPerspective.png)
 
+- [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
 ### Version 0.11.0 "do it yourself" 2014-?-? (not yet released)
 
 Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgreenman Ian Greenhoe for research on #81.  
 
-- [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
+- Make eclipse yourself with Nodeclispe CLI Installer `nodeclipse new from luna to d:/progs/eclipse-diy-luna/`.
+ Depending of your Internet connection speed, it may be long time, e.g. `Operation completed in 942398 ms.`
 - Code completions for other Node.js modules:  
  Since Nodeclipse 0.9.0 there is code completion for base Node.js modules. What about others?  
  Just create JSON file like:
@@ -63,18 +65,15 @@ Raise an issue and paste. Next version will have it shipped.
  as @ihgreenman Ian Greenhoe has found out what "Unknown system errno 203" was.  
  Now minimal set of env variables are passed automatically.
  [#122][122] is raised about Env variables Tab in Launch configuration.    
-- Maven (Eclipse plugin) is updated to build Nodeclipse-1 tycho. 
-Now I can launch project build without launching ugly Windows console.
-Instead of switcing windows I use Eclipse Workbench to show/hide View and build again.
+- [#120][120] Maven (Eclipse plugin) is updated to build Nodeclipse-1.   
+ Now you can launch project maven build without launching ugly Windows console.
+Instead of switching windows use Eclipse Workbench to show/hide View and build again.
 ![](img/run-maven-build.png) 
 
   [81]: https://github.com/Nodeclipse/nodeclipse-1/issues/81
   [92]: https://github.com/Nodeclipse/nodeclipse-1/issues/92
+  [120]: https://github.com/Nodeclipse/nodeclipse-1/issues/120
   [122]: https://github.com/Nodeclipse/nodeclipse-1/issues/122
-
-<!--
-http://benjiweber.co.uk/blog/2013/01/27/javascript-tests-with-junit/
--->
 
 ### Version 0.10.0 "ten" 2014-01-27
 
