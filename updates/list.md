@@ -194,6 +194,10 @@ Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/i
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=678)
 [Bytecode Visualizer](https://marketplace.eclipse.org/content/bytecode-visualizer) is a tool used for visualizing and debugging Java byte code.
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1508744)
+ [PDE Incubator Dependency Visualization](http://www.eclipse.org/pde/incubator/dependency-visualization/) v0.5.0.200904151517
+ [mp](https://marketplace.eclipse.org/content/pde-incubator-dependency-visualization)
+
 ## XML, HTML
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
