@@ -22,6 +22,9 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
+`markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
+
 - Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
 - JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
 - Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
