@@ -20,3 +20,23 @@ If you don't have it, just install it from Kepler update site `http://download.e
 mpc before 4.3.1 had no dependencies, now it seems to have JDT dependency.
 It is possible to install the latest mpc on any Eclipse version. 
 
+## Using Nodeclipse CLI Installer
+
+Make your own Eclipse! Start from folder with older Eclipse,
+then with Nodeclipse CLI (<code>npm i nodeclipse -g</code>) specify new folder to put Eclipse in:
+<pre>
+nodeclipse new from luna to your/destination/folder
+</pre>
+This can take a while. Then when Noclipse CLI Installer finished, cd to folder and run Eclipse:
+<pre>
+cd your/destination/folder
+eclipse
+</pre>
+You can continue installing plugins. (Even if Eclipse is running, but you will need to restart afterwards):
+<pre>
+nodeclipse install egit
+nodeclipse install markdown gfm startexplorer jshint
+</pre>
+Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) is not yet possible, so use GUI.
+ 
+<a href="https://github.com/Nodeclipse/nodeclipse-1/issues/new">Wanna ask?</a>
