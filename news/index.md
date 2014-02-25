@@ -33,6 +33,17 @@ Don't miss posts on [Node.js blog](http://blog.nodejs.org/):
 Node package server as proxy or cache.
 <https://github.com/Nodeclipse/npm-proxy/blob/master/README.md>
 
+<p></p>
+	<h4>Happy New Year!</h4>
+	<ul>
+		<li>明けましておめでとうございます！</li>
+		<li>新年快乐！</li>
+		<li>С новым годом!</li>
+		<li>Frohes Neues Jahr!</li>
+		<li>¡Feliz Año Nuevo!</li>
+	</ul>
+	<p>More successful & interesting projects in the new year! Have fun!        		
+</p>
 
 <p>
 	2013-12-27<br/>

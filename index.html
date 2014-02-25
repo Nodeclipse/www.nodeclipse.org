@@ -87,26 +87,62 @@ title: Nodeclipse, Enide
 						Nodeclipse is driven by developers like you, who devoted some time to make and improve Node.js tooling,
 						learn better Node.js and Eclipse.
 						<br/>
-						Nodeclipse is free open-source software released at the start of every month.						 
+						Nodeclipse is free open-source software released every month.
+						Nodeclipse became #1 in Eclipse
+						<a href="http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php">Top 10 NEW Plugins for 2013</a>.						 
 						<br/><br/>
+						<a href="/demos/navigation">Navigation Demo</a>.
 						<a href="/#features">Features</a>.
 						<a href="/#usage">Usage</a>.
 						<a href="/#support">Support</a>.
 						<a href="/support-us">Support us</a>.
 		        </p>
 
+
 			<h3>Announcements</h3><a class="anchor" id="news"></a>
 			
 			<p><a href="community/newsletter">Subscribe for newsletter.</a></p>
 			<p>See <a href="news/">all previous news at one page</a>.</p>
 			
-			<!-- 
+			<!--  
 			<p>
 				<a href="/community/">
 				<img src="./img/eclipsecon-logo-600px-x-96px.jpg"/></a>
 			</p>
 			 -->
-			 
+			
+			<p>	
+				2014-02-25 0.11 "Do It Yourself"<br/> 
+				Enide & Nodeclipse version 0.11 are released. New update site is old 
+				<pre>http://www.nodeclipse.org/updates/</pre>
+				{% include nodeclipse_install_button.html %}</br>
+				Also available in <pre>{% include nodeclipse_update_site.html %}</pre> 
+				and enide-repository <code>https://raw.github.com/Enide/eclipse-p2-composite-repository/master/</code> .
+				There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>			  			
+				#81, #92, #120 are resolved. Check <a href="/history">What's new</a> to learn more.
+				</br>
+				<img src="http://media.scraphacker.com/2012/03/diy-neon-yellow.jpeg" width="250" height="250"/>
+				<a href="http://scraphacker.com/party-shoe-diy/">source</a>
+				</br>
+				Make your own Eclipse! Start from folder with older Eclipse,
+				then with Nodeclipse CLI (<code>npm i nodeclipse -g</code>) specify new folder to put Eclipse in:
+<pre>
+nodeclipse new from luna to your/destination/folder
+</pre>
+This can take a while. Then when Noclipse CLI Installer finished, cd to folder and run Eclipse:
+<pre>
+cd your/destination/folder
+eclipse
+</pre>
+You can continue installing plugins. (Even if Eclipse is running, but you will need to restart afterwards):
+<pre>
+nodeclipse install egit
+nodeclipse install markdown gfm startexplorer jshint
+</pre>
+Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) is not yet possible, so use GUI. 
+				<a href="https://github.com/Nodeclipse/nodeclipse-1/issues/new">Wanna ask?</a></br>
+				</br>
+	        </p>
 			<p>	
 				2014-02-15 Host npm registry in your LAN!<br/>
 				As you may know (even if you missed) there were 
@@ -173,47 +209,6 @@ title: Nodeclipse, Enide
 				( HTMLs are saved into <code>.*.md.html</code> filenames.
 				They will not be committed when project's <code>.gitignore</code> file has <code>.*.md.html</code>.
 				The .* files are hidden in Eclipse by default, but see "No miracles, just files" <a href="/#usage">below</a>. )
-			</p>
-			<p></p>
-        		<h4>Happy New Year!</h4>
-        		<ul>
-        			<li>明けましておめでとうございます！</li>
-        			<li>新年快乐！</li>
-        			<li>С новым годом!</li>
-        			<li>Frohes Neues Jahr!</li>
-        			<li>¡Feliz Año Nuevo!</li>
-        		</ul>
-        		<p>More successful & interesting projects in the new year! Have fun!        		
-			</p>
-			<p>
-        		2013-12-20<br/>
-        		Site <a href="/demos/navigation">Navigation Demo</a>.
-			</p>
-			<p>
-        		2013-12-20<br/>
-        		Nodeclipse is #1 in Eclipse
-				<a href="http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php">Top 10 NEW Plugins for 2013</a>,
-				together with <a href="/enide/tools/startexplorer">StartExplorer</a>, <a href="/enide/tools/gfmv">GitHub Flavored Markdown Viewer plugin</a>.
-				<a href="/enide">Enide - Eclipse Node.JS IDE</a> also made into Top 10 NEW. There may be general confusion 
-				as Enide is set/collection of plugins including Nodeclipse available in the same 
-				<a href="http://www.nodeclipse.org/updates/">update site</a>
-				or via <a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">.p2f file</a>.
-			</p>
-			<p>
-        		2013-12-06<br/>
-				<a href="/enide/monster/">Enide Monstr</a> 0.8.1 for Windows x32 is published on 
-				<a href="https://sourceforge.net/projects/nodeclipse/files/Enide-Monstr/">SourceForge</a>.
-				It is based on <a href="/enide/studio/">Enide Studio</a> (Java/DSL)
-				and includes Nodeclipse 0.8.1, CoffeeScript 0.3, TypeScript and other plugins for Node.js, JavaScript,
-				Java and Eclipse development with git and GitHub.<br/>
-				<br/>
-				32bit stack (JDK+Eclipse) is recommended now as <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/71">issue #71</a>
-				seems to appear on 64bit stack only. Contribute for other OSes by creating new
-				<a href="https://github.com/Nodeclipse/nodeclipse-1/issues">issue</a>. 
-				A community feedback is needed to analyze why
-				some known (and unknown) bugs appear in different environments, so be talky, when you notice bad things. 
-				For me Windows 7 with JDK7_40 32bit seems to be the best combination for now. 
-				Stay tuned and updated.
 			</p>
 			<p>See <a href="news/">all previous news at one page</a>.</p>
 			

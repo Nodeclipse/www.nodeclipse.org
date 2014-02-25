@@ -19,19 +19,14 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.11.0 "do it yourself" 2014-?-? (not yet released)
+### Version 0.11 "Do It Yourself" 2014-02-25
 
+Congratulations to Ukrainian people!  
 Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgreenman Ian Greenhoe for research on #81.  
 
 - Make eclipse yourself with Nodeclispe CLI Installer `nodeclipse new from luna to d:/progs/eclipse-diy-luna/`.
  Depending of your Internet connection speed, it may be long time, e.g. `Operation completed in 942398 ms.`
-
-<!-- 
-<a href="http://scraphacker.com/party-shoe-diy/">
-<img alt="Moonrise Ubuntu" src="http://media.scraphacker.com/2012/03/diy-neon-yellow.jpeg" width="250" height="250" /></a>            	
--->
- 
-- Code completions for other Node.js modules:  
+- DIY: Code completions for other Node.js modules:  
  Since Nodeclipse 0.9.0 there is code completion for base Node.js modules. What about others?  
  Just create JSON file like:
  
@@ -52,9 +47,9 @@ Select it in Nodeclipse Preferences in "Alternative completion.json" path to giv
 Got result that 'd like to share?  
 Raise an issue and paste. Next version will have it shipped.		
  
-- [How can you speed up Eclipse?](http://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse)
-- [External Tools](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/external-tools.md#external-tools)
-- [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
+- DIY: [How can you speed up Eclipse?](http://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse)
+- DIY: [External Tools](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/external-tools.md#external-tools)
+- DIY: [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
 	- Windows
 ![](http://www.avajava.com/tutorials/eclipse/how-do-i-open-a-windows-command-prompt-in-my-console/how-do-i-open-a-windows-command-prompt-in-my-console-05.gif)
 	- Linux, MacOS
