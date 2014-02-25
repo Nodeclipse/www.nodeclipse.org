@@ -28,7 +28,7 @@ Also plugin marked with `code formating` can be installed using
  [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
-or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %}) )  
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
 <pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
 
 #### Maven 0.11 
