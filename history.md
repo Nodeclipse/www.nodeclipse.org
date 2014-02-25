@@ -24,7 +24,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 Congratulations to Ukrainian people!  
 Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgreenman Ian Greenhoe for research on #81.  
 
-- Make eclipse yourself with Nodeclispe CLI Installer `nodeclipse new from luna to d:/progs/eclipse-diy-luna/`.
+- DIY: Make Eclipse yourself with Nodeclispe CLI Installer `nodeclipse new from luna to d:/progs/eclipse-diy-luna/`.
  Depending of your Internet connection speed, it may be long time, e.g. `Operation completed in 942398 ms.`
 - DIY: Code completions for other Node.js modules:  
  Since Nodeclipse 0.9.0 there is code completion for base Node.js modules. What about others?  
@@ -54,7 +54,7 @@ Raise an issue and paste. Next version will have it shipped.
 ![](http://www.avajava.com/tutorials/eclipse/how-do-i-open-a-windows-command-prompt-in-my-console/how-do-i-open-a-windows-command-prompt-in-my-console-05.gif)
 	- Linux, MacOS
 ![](http://alexruiz.developerblogs.com/files/2012/07/terminal21.png)
-- [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
+- DIY: [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
  From that list [Js-test-driver](http://code.google.com/p/js-test-driver/) is the one that has Eclipse plugin.
  There are also JUnit wrappers for JavaScript, not yet tried.
 
