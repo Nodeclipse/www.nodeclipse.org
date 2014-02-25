@@ -22,6 +22,31 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+#### Enide & Nodeclipse 0.11 "Do It Yourself" are released. 
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
+ [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %}) )  
+<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
+
+#### Maven 0.11 
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
+ [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
+ is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
+
+#### Moonrise 0.8.8
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
+ [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
+ [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
+ 
+
+- http://marketplace.eclipse.org/content/refresh-project [github](https://github.com/hanks/Refresh_this_project_plugin_for_eclipse)
+- https://sourceforge.net/projects/classfilebrowser/ [sourceforge](https://sourceforge.net/projects/classfilebrowser/)
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
@@ -36,26 +61,6 @@ Also plugin marked with `code formating` can be installed using
 - Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
 - JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
 
-#### Moonrise 0.8.7
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
- [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
- [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
- 
-#### Maven 0.10.0 
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
- [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
- is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
-
-#### Enide & Nodeclipse 0.10.0 "ten" are released. 
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
- [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
- StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
-
-or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url={% include nodeclipse_update_site.html %}) )  
-<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
 
 #### EGit 3.2.0 released
 
@@ -222,7 +227,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
  [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 
-## Other
+## Other, not categorized
 
 - <http://marketplace.eclipse.org/content/cucumber-jvm-eclipse-plugin>
 
