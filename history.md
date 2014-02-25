@@ -32,15 +32,19 @@ Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgre
  
 <pre><code> 
 {
-    "completions": [
+    "module_completions": [
         {
-            "trigger": "mymodule.doit();",
+            "trigger": "MongoClient.connect(connectionString, function(err, db)",
+            "name": "MongoClient.connect",
             "type": "method", // maybe also "event", "class" or "property"
-            "name": "mymodule.doit",
-            "desc": "the only method in some imaginary module"
-        }
+            "desc": "MongoClient or how to connect in a new and better way http://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html 
+<div class="section" id="the-url-connection-format">
+<h2>The URL connection format<a class="headerlink" href="#the-url-connection-format" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-python"><pre>mongodb://[username:password@]host1[:port1][,host2[:port2],...[,hostN[:portN]]][/[database][?options]]</pre>
+</div>"
+		}
 	]
-}
+}	
 </code></pre>
 	
 Select it in Nodeclipse Preferences in "Alternative completion.json" path to give a try. (Only `trigger` is required for an entry)  
