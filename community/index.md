@@ -10,7 +10,12 @@ Let us know about Node.js and Eclipse events by raising issue at <https://github
 
 Click on the banner below to go to the event detail. 
 
-[![](/img/eclipsecon-logo-600px-x-96px.jpg)](http://www.eclipsecon.org/na2014)
+<p>
+	<a href="http://www.joyent.com/noderoad">
+	<img src="../img/roadshow-promo.png" width="500" height="70"/></a>
+</p>
+
+[![](../img/eclipsecon-logo-600px-x-96px.jpg)](http://www.eclipsecon.org/na2014)
 
 ## Nodeclipse community pages
 
