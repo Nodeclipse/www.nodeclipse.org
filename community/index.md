@@ -6,7 +6,8 @@ layout: community
 
 Let us know about Node.js and Eclipse events by raising issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
 
-[Node.js meet-ups](http://node-js.meetup.com/)
+- [Node.js meet-ups](http://node-js.meetup.com/)
+- [Eclipse Events](http://events.eclipse.org/)
 
 Click on the banner below to go to the event detail. 
 
