@@ -22,6 +22,20 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+#### Gradle 0.11 
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
+ [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
+ is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
+ [mp](http://marketplace.eclipse.org/content/gradle)
+
+#### Vert.x 0.11 
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
+ [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
+ is initial support for Eclipse vert.x projects.
+ [mp](http://marketplace.eclipse.org/content/vertx)
+
 #### Enide & Nodeclipse 0.11 "Do It Yourself" are released. 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
