@@ -12,7 +12,7 @@ Click on the banner below to go to the event detail.
 
 <p>
 	<a href="http://www.joyent.com/noderoad">
-	<img src="../img/roadshow-promo.png" width="500" height="70"/></a>
+	<img src="../img/roadshow-promo.png" width="600" height="70"/></a>
 </p>
 
 [![](../img/eclipsecon-logo-600px-x-96px.jpg)](http://www.eclipsecon.org/na2014)
