@@ -16,7 +16,7 @@ Check for updates and news on [Marketplace entry](http://marketplace.eclipse.org
 
 0. If you don't have, get latest Node.js <http://www.nodejs.org/download/>
 
-1. If you don't have, download & install latest JDK
+1. If you don't have, download & install latest JDK 7
 
  <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
  For example "Java Platform (JDK) 7u40"
