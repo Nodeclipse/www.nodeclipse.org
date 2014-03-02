@@ -28,7 +28,6 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.11 "Do It Yourself" 2014-02-25
 
-Congratulations to Ukrainian people!  
 Thanks to @nodeleaf Patrick Perroud for being the most active user and to @ihgreenman Ian Greenhoe for research on #81.  
 
 - DIY: Make Eclipse yourself with Nodeclispe CLI Installer `nodeclipse new from luna to d:/progs/eclipse-diy-luna/`.
