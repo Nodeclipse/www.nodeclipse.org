@@ -22,6 +22,11 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+#### Enide Studio 2014
+
+Includes all Nodeclipse and Enide plugins.
+{% include enide-studio-2014-downloads.html %}
+
 #### Gradle 0.11 
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
