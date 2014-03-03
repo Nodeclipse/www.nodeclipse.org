@@ -24,6 +24,7 @@ Also plugin marked with `code formating` can be installed using
 
 #### Enide Studio 2014
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
 Includes all Nodeclipse and Enide plugins.
 {% include enide-studio-2014-downloads.html %}
 
