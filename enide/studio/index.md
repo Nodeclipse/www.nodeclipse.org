@@ -17,7 +17,9 @@ layout: studio
 
 [Download Enide Studio for Windows x64/x32](https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/)
 
-<p>Latest version is shown on <a href="http://marketplace.eclipse.org/content/enide-studio">Marketplace</a>.</p>
+<p><a href="http://marketplace.eclipse.org/content/enide-studio">Marketplace</a>.</p>
+
+Check newer [Enide Studio 2014](2014)
             	
 ## History
 
