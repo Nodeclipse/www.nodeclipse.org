@@ -35,9 +35,9 @@ from <http://www.bluestacks.com/technology.html>
 
 Yes, second day I finally managed to get distribution from official site, not from a row of of unknown Chinese companies
  that budle it together with their soft and advertisements. 
-I am in China, so links like http://bit.ly/bstkdnldpage are blocked (along with Youtube, Facebook, Twitter, and occasionally Google).
+I am in China, so links like <http://bit.ly/bstkdnldpage> are blocked (along with Youtube, Facebook, Twitter, and occasionally Google).
 
-Direct link: http://cdn.bluestacks.com/public/beta-1/China/BlueStacks_HD_AppPlayerICS_setup.msi
+Direct link: <http://cdn.bluestacks.com/public/beta-1/China/BlueStacks_HD_AppPlayerICS_setup.msi>
 
 Very mature software. But it is only game oriented. And [self-opinionated](http://dictionary.cambridge.org/dictionary/british/self-opinionated).
 The first day it started self-update without asking me, and freezed for 30+ minutes. (Meanwhile I continued looking around.)
@@ -51,7 +51,7 @@ Quote:
 
 ### Android-x86
 
-http://www.android-x86.org/
+<http://www.android-x86.org/>
 
 Popular open source project. 40k weekly downloads from [Sourceforge](https://sourceforge.net/projects/android-x86).
 
@@ -61,7 +61,7 @@ Download is `.iso`  image and you need virtual machine supervisor like VirtualBo
 
 ### Windroy
 
-http://windroy.com/
+<http://windroy.com/>
 
 Very rough, not open source, support seems to be only through Chinese forum.
 Setting resolution is half year old feature. 
