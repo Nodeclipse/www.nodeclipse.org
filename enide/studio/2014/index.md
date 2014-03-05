@@ -4,17 +4,17 @@ layout: studio
 
 # Enide Studio 2014
 
-<a href="/img/Nodeclipse-NTS-Hello-world.png">
+<a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
 <img alt="Enide-Studio-2014-File-New" src="/img/enide-studio/Enide-Studio-2014-File-New.png" width="350" height="200" /></a>            	
 
 <a href="/img/Nodeclipse-NTS-Hello-world.png">
-<img alt="Nodeclipse 0.4.10 overview" src="/img/Nodeclipse-NTS-Hello-world.png" width="350" height="200" /></a>            	
+<img alt="Nodeclipse Hello World" src="/img/Nodeclipse-NTS-Hello-world.png" width="350" height="200" /></a>            	
             	
 <a href="/img/Nodeclipse-NTS-0410-overview.png">
-<img alt="Nodeclipse 0.4.10 overview" src="/img/Nodeclipse-NTS-0410-overview.png" width="350" height="200" /></a>            	
+<img alt="Nodeclipse overview" src="/img/Nodeclipse-NTS-0410-overview.png" width="350" height="200" /></a>            	
 
 <a href="/img/Nodeclipse-1-debugging.png">
-<img alt="Nodeclipse 0.4.10 overview" src="/img/Nodeclipse-1-debugging.png" width="350" height="200" /></a>            	
+<img alt="Nodeclipse debugging" src="/img/Nodeclipse-1-debugging.png" width="350" height="200" /></a>            	
 
 [README](README)
 
