@@ -19,7 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.12 (unreleased)
+### Version 0.12 "?" (2014-03-?? unreleased)
 
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app"
 - [#127][127] fix for "null" value for TMP (Thanks to @pchuong Patrick for raising issue)

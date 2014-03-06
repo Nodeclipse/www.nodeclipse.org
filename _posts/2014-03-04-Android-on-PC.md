@@ -18,10 +18,10 @@ I could not install App Player, and as researched further I looked for alternati
 
 <http://alternativeto.net/software/bluestacks--alpha-/>
 
+- Android SDK
 - Android-x86, read on the site
 - Windroy, tried
-- AndroVM
-- Genymotion
+- [AndroVM](http://androvm.org) and [Genymotion](http://www.genymotion.com/) seems to be related.
 - YouWave, read on the site (not free, 15-20$)
 
 <http://www.makeuseof.com/tag/emulate-android-on-your-desktop-using-windroy/>  
@@ -40,14 +40,21 @@ I am in China, so links like <http://bit.ly/bstkdnldpage> are blocked (along wit
 Direct link: <http://cdn.bluestacks.com/public/beta-1/China/BlueStacks_HD_AppPlayerICS_setup.msi>
 
 Very mature software. But it is only game oriented. And [self-opinionated](http://dictionary.cambridge.org/dictionary/british/self-opinionated).
-The first day it started self-update without asking me, and freezed for 30+ minutes. (Meanwhile I continued looking around.)
+The first day it started self-update without asking me, and froze for 30+ minutes. (Meanwhile I continued looking around.)
 I needed to restart, but then the same. On other PC it required to update Intel driver, which failed to install.
 
 C'est la vie, very popular software (they already have 12 millions downloads) commands you, does not listen to you.
-No configurations. All Anroid files in some [for me] unknown formats: `.elf`, `.fs`.
+No configurations. All Android files in some [for me] unknown formats: `.elf`, `.fs`.
 
 Quote:
 > Download App Player for free while it remains in beta.
+
+### Android SDK
+
+<http://developer.android.com/sdk/index.html>
+
+Is used by developers by maybe a little sophisticated task to install for QA engineer
+ (e.g. installing JDK and Apache Ant)
 
 ### Android-x86
 
@@ -76,3 +83,7 @@ copy .apk to `windroy_root\system\app`
 	set WINDROY_RESOLUTION=800x1000
 	android.exe
 	android-stop.exe
+
+### AndroVM & Genymotion
+
+Latest news from  June 18, 2013 by Dan asks you to download 	
