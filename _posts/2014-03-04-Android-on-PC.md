@@ -20,8 +20,8 @@ I could not install App Player, and as researched further I looked for alternati
 
 - Android SDK
 - Android-x86, read on the site
+- [AndroVM](http://androvm.org) and [Genymotion](http://www.genymotion.com/) are related.
 - Windroy, tried
-- [AndroVM](http://androvm.org) and [Genymotion](http://www.genymotion.com/) seems to be related.
 - YouWave, read on the site (not free, 15-20$)
 
 <http://www.makeuseof.com/tag/emulate-android-on-your-desktop-using-windroy/>  
@@ -66,6 +66,30 @@ Latest version Android-x86 4.4-RC1 (KitKat-x86)   2014/02/14
 
 Download is `.iso`  image and you need virtual machine supervisor like VirtualBox, VMware, or install on real PC/notebook.
 
+### AndroVM
+
+<http://androvm.org>
+
+Latest news (from  June 18, 2013 by Dan) asks you to download from genymotion.com
+Sources are not available anymore, just [empty repositories](https://github.com/androvm).
+
+### Genymotion
+
+<http://www.genymotion.com/> is part of <http://www.genymobile.com/en/> offerings.
+
+> Genymotion is the next generation of the AndroVM open source project, already trusted by 900,000 developers.
+Free, 99 €, 299 €. requires registration.
+
+Requires VirtualBox or comes with it bundled. 
+
+User must register to download Genymotion software,
+Within Genymotion must to login to see images.
+
+There is Eclipse plugin, that I could not install. (network time outs)
+
+<a href="/img/android/genymotion-overview.PNG">
+<img src="/img/android/genymotion-overview.PNG" width="700" height="400" /></a>            	
+
 ### Windroy
 
 <http://windroy.com/>
@@ -75,7 +99,10 @@ Setting resolution is half year old feature.
 
 However your apk become Windows exe process. It is not emulation. It is execution.
 
-#### Usage
+<a href="/img/android/windroy-overview.PNG">
+<img src="/img/android/windroy-overview.PNG" width="700" height="400" /></a>            	
+
+**Windroy Usage**
 
 copy .apk to `windroy_root\system\app` 
 	
@@ -84,6 +111,4 @@ copy .apk to `windroy_root\system\app`
 	android.exe
 	android-stop.exe
 
-### AndroVM & Genymotion
-
-Latest news from  June 18, 2013 by Dan asks you to download 	
+  	
