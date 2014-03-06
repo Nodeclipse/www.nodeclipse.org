@@ -12,7 +12,7 @@ categories: [android,windows,pc,run,test]
 
 
 Blue stack was the first to make software to run Android apps on Windows.
-Now they have grown big, have partner like Intel, big investors, 
+Now they have grown big, have partner like Intel, big investors.
 
 I could not install App Player, and as researched further I looked for alternatives:
 
@@ -71,7 +71,7 @@ Download is `.iso`  image and you need virtual machine supervisor like VirtualBo
 <http://androvm.org>
 
 Latest news (from  June 18, 2013 by Dan) asks you to download from genymotion.com
-Sources are not available anymore, just [empty repositories](https://github.com/androvm).
+Sources are at <https://github.com/androvm> (check brenches other than `master`).
 
 ### Genymotion
 
@@ -83,12 +83,13 @@ Free, 99 €, 299 €. requires registration.
 Requires VirtualBox or comes with it bundled. 
 
 User must register to download Genymotion software,
-Within Genymotion must to login to see images.
+Within Genymotion must to login to see images (it took me 1 hour
+ to [download](https://cloud.genymotion.com/page/launchpad/download/) 200MB image in China).
 
-There is Eclipse plugin, that I could not install. (network time outs)
+There is Eclipse plugin, that I could not install (network time-outs).
 
 <a href="/img/android/genymotion-overview.PNG">
-<img src="/img/android/genymotion-overview.PNG" width="700" height="400" /></a>            	
+<img src="/img/android/genymotion-overview.PNG" width="700" height="600" /></a>            	
 
 ### Windroy
 
@@ -100,7 +101,7 @@ Setting resolution is half year old feature.
 However your apk become Windows exe process. It is not emulation. It is execution.
 
 <a href="/img/android/windroy-overview.PNG">
-<img src="/img/android/windroy-overview.PNG" width="700" height="400" /></a>            	
+<img src="/img/android/windroy-overview.PNG" width="700" height="300" /></a>            	
 
 **Windroy Usage**
 
