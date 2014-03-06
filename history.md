@@ -22,8 +22,10 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 ### Version 0.12 (unreleased)
 
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app"
+- [#127][127] fix for "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
 
   [124]: https://github.com/Nodeclipse/nodeclipse-1/issues/124
+  [127]: https://github.com/Nodeclipse/nodeclipse-1/issues/127
 
 
 ### Version 0.11 "Do It Yourself" 2014-02-25
