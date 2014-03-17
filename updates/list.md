@@ -22,6 +22,11 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+#### EGit 3.3.0 released
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+
 #### Enide Studio 2014
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
@@ -83,12 +88,6 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 - JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
 
 
-#### EGit 3.2.0 released
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
-`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
-
- 
 ## Languages
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1373403)
