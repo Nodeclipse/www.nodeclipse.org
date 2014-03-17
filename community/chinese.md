@@ -18,6 +18,7 @@ http://zhiyongv.iteye.com/blog/1739267
 - [Eclipse中国](http://eclipse-china.github.io/)
 - [Node.js中国](http://cnodejs.org/)
 - [[置顶] Eclipse下Nodejs项目配置步骤](http://blog.csdn.net/ygh_0912/article/details/9108541)
+- [eclipse开发nodejs介绍](zhongwen/eclipse%E5%BC%80%E5%8F%91nodejs%E4%BB%8B%E7%BB%8D.htm) by 姚荣飞
 
 ### 别人说 
 
