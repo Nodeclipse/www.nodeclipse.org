@@ -22,10 +22,18 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 ### Version 0.12 "?" (2014-03-?? unreleased)
 
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app"
-- [#127][127] fix for "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
+- fix [#125][125] Gradle GUI for Android - "Could not create plugin of type 'AppPlugin'
+- fix [#127][127] "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
+- [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
+- [#130][130] Gradle Android - install to AVD
+- [#131][131]Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
 
   [124]: https://github.com/Nodeclipse/nodeclipse-1/issues/124
+  [125]: https://github.com/Nodeclipse/nodeclipse-1/issues/125
   [127]: https://github.com/Nodeclipse/nodeclipse-1/issues/127
+  [129]: https://github.com/Nodeclipse/nodeclipse-1/issues/129
+  [130]: https://github.com/Nodeclipse/nodeclipse-1/issues/130
+  [131]: https://github.com/Nodeclipse/nodeclipse-1/issues/131
 
 
 ### Version 0.11 "Do It Yourself" 2014-02-25
