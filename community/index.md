@@ -4,12 +4,19 @@ layout: community
 
 ## Events
 
-Let us know about Node.js and Eclipse events by raising issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
+Let us know about Node.js and Eclipse events by raising an issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
 
 - [Node.js meet-ups](http://node-js.meetup.com/)
 - [Eclipse Events](http://events.eclipse.org/)
 
 Click on the banner below to go to the event detail. 
+
+## Future
+
+See AnIDE at  
+[![](../img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
+
+## Past
 
 <p>
 	<a href="http://www.joyent.com/noderoad">
