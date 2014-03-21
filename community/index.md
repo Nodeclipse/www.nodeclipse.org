@@ -33,6 +33,11 @@ See AnIDE at
 
 [Q&A](q-and-a) based on [StackOverflow](http://stackoverflow.com/tags/nodeclipse) and [issues](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
+## Links
+
+[Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/)
+ by Ali Shirzad, techprd.com
+
 ## In other languages
 
 Translate and add content that you like,  
