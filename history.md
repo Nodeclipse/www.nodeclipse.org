@@ -27,6 +27,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
 - [#130][130] Gradle Android - install to AVD
 - [#131][131]Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
+- add New TypeScript File wizard
 
   [124]: https://github.com/Nodeclipse/nodeclipse-1/issues/124
   [125]: https://github.com/Nodeclipse/nodeclipse-1/issues/125
