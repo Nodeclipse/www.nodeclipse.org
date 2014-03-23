@@ -53,5 +53,5 @@ More detailed and more recent features are at [history page](history).
 <img src="img/logos/100px-Android_robot.svg.png"/>
 <img src="img/logos/gradle-icon-128x128.png"/>
 
-- Lightweight Maven (run Jetty, Tomcat) 
-- Lightweight Gradle plugins (run Jetty, JettyEclipse, Android)
+- Lightweight Maven plugin (run Jetty, Tomcat) 
+- Lightweight Gradle and Minimalist Gradle Editor plugins (run Jetty, JettyEclipse, Android)
