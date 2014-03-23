@@ -112,4 +112,6 @@ Now you see all files:
 <a href="http://shortcutworld.com/en/win/Eclipse.html">93 time-saving Keyboard Shortcuts for Eclipse</a> (2013)
 </p>
 </div>
+
+Continue reading on [home page](/).
 	

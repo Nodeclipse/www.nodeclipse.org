@@ -55,3 +55,5 @@ More detailed and more recent features are at [history page](history).
 
 - Lightweight Maven plugin (run Jetty, Tomcat; build any project with `pom.xml` from Eclipse/Enide Studio) 
 - Lightweight Gradle and Minimalist Gradle Editor plugins (run Jetty, JettyEclipse, Android; build any project with `build.gradle` from Eclipse/Enide Studio) 
+
+Continue reading on [usage page](usage).
