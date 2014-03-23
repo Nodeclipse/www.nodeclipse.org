@@ -1,9 +1,11 @@
 ---
 layout: home
-title: Nodeclipse -- Features
+title: Nodeclipse & Enide -- Features
 ---
 
-# Features
+# Nodeclipse & Enide Features
+
+More detailed and more recent features are at [history page](history).
 
 ## Node.js and JavaScript Features
 
@@ -46,12 +48,10 @@ title: Nodeclipse -- Features
 	<li>Support for Eclipse Juno, Kepler, Luna M3 (3.7, 3.8, 4.2, 4.3, 4.4)</li>
 </ul>
 
-## Java Features
+## Java Features (as Enide)
 
 <img src="img/logos/100px-Android_robot.svg.png"/>
 <img src="img/logos/gradle-icon-128x128.png"/>
 
 - Lightweight Maven (run Jetty, Tomcat) 
 - Lightweight Gradle plugins (run Jetty, JettyEclipse, Android)
-
-![]()
