@@ -5,11 +5,11 @@ title: Nodeclipse & Enide -- Features
 
 # Nodeclipse & Enide Features
 
+<p></p>
 More detailed and more recent features are at [history page](history).
 
 ## Node.js and JavaScript Features
 
-<p></p>
 
 <img src="img/logos/Node-JS-logo.png"/>
 
@@ -53,5 +53,5 @@ More detailed and more recent features are at [history page](history).
 <img src="img/logos/100px-Android_robot.svg.png"/>
 <img src="img/logos/gradle-icon-128x128.png"/>
 
-- Lightweight Maven plugin (run Jetty, Tomcat) 
-- Lightweight Gradle and Minimalist Gradle Editor plugins (run Jetty, JettyEclipse, Android)
+- Lightweight Maven plugin (run Jetty, Tomcat; build any project with `pom.xml` from Eclipse/Enide Studio) 
+- Lightweight Gradle and Minimalist Gradle Editor plugins (run Jetty, JettyEclipse, Android; build any project with `build.gradle` from Eclipse/Enide Studio) 
