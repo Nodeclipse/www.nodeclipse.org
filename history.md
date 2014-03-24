@@ -79,12 +79,12 @@ Raise an issue and paste. Next version will have it shipped.
  
 - DIY: [How can you speed up Eclipse?](http://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse)
 - DIY: [External Tools](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/external-tools.md#external-tools)
-- DIY: ref [#23](23) [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
+- ref [#23][23] DIY: [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
 	- Windows
 ![](http://www.avajava.com/tutorials/eclipse/how-do-i-open-a-windows-command-prompt-in-my-console/how-do-i-open-a-windows-command-prompt-in-my-console-05.gif)
 	- Linux, MacOS
 ![](http://alexruiz.developerblogs.com/files/2012/07/terminal21.png)
-- DIY: ref [#34](34) [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
+- ref [#34][34] DIY: [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
  From that list [Js-test-driver](http://code.google.com/p/js-test-driver/) is the one that has Eclipse plugin.
  There are also JUnit wrappers for JavaScript, not yet tried.
 
