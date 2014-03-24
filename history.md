@@ -26,8 +26,10 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - fix [#127][127] "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
 - [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
 - [#130][130] Gradle Android - install to AVD
-- [#131][131]Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
+- [#131][131] Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
 - add New TypeScript File wizard
+- [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
+ and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig
 
   [124]: https://github.com/Nodeclipse/nodeclipse-1/issues/124
   [125]: https://github.com/Nodeclipse/nodeclipse-1/issues/125
@@ -35,6 +37,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
   [129]: https://github.com/Nodeclipse/nodeclipse-1/issues/129
   [130]: https://github.com/Nodeclipse/nodeclipse-1/issues/130
   [131]: https://github.com/Nodeclipse/nodeclipse-1/issues/131
+  [132]: https://github.com/Nodeclipse/nodeclipse-1/issues/132
 
 
 ### Version 0.11 "Do It Yourself" 2014-02-25
