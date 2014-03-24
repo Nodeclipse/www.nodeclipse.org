@@ -21,6 +21,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.12 "?" (2014-03-?? unreleased)
 
+- close [#7][1007] Improving Code Assist - it was generic issue opened a year ago, no more new options came in the last 10 months
+- close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
+- close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app"
 - fix [#125][125] Gradle GUI for Android - "Could not create plugin of type 'AppPlugin'
 - fix [#127][127] "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
@@ -31,6 +34,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
  and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig
 
+  [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
+  [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
+  [117]: https://github.com/Nodeclipse/nodeclipse-1/issues/117
   [124]: https://github.com/Nodeclipse/nodeclipse-1/issues/124
   [125]: https://github.com/Nodeclipse/nodeclipse-1/issues/125
   [127]: https://github.com/Nodeclipse/nodeclipse-1/issues/127
@@ -73,12 +79,12 @@ Raise an issue and paste. Next version will have it shipped.
  
 - DIY: [How can you speed up Eclipse?](http://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse)
 - DIY: [External Tools](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/external-tools.md#external-tools)
-- DIY: [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
+- DIY: ref [#23](23) [Is there an Eclipse plugin to run system shell in the Console?](http://stackoverflow.com/questions/1562600/is-there-an-eclipse-plugin-to-run-system-shell-in-the-console)
 	- Windows
 ![](http://www.avajava.com/tutorials/eclipse/how-do-i-open-a-windows-command-prompt-in-my-console/how-do-i-open-a-windows-command-prompt-in-my-console-05.gif)
 	- Linux, MacOS
 ![](http://alexruiz.developerblogs.com/files/2012/07/terminal21.png)
-- DIY: [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
+- DIY: ref [#34](34) [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
  From that list [Js-test-driver](http://code.google.com/p/js-test-driver/) is the one that has Eclipse plugin.
  There are also JUnit wrappers for JavaScript, not yet tried.
 
@@ -93,6 +99,8 @@ Raise an issue and paste. Next version will have it shipped.
 Instead of switching windows use Eclipse Workbench to show/hide View and build again.
 ![](img/run-maven-build.png) 
 
+  [23]: https://github.com/Nodeclipse/nodeclipse-1/issues/23
+  [34]: https://github.com/Nodeclipse/nodeclipse-1/issues/34
   [81]: https://github.com/Nodeclipse/nodeclipse-1/issues/81
   [92]: https://github.com/Nodeclipse/nodeclipse-1/issues/92
   [120]: https://github.com/Nodeclipse/nodeclipse-1/issues/120
