@@ -24,7 +24,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - close [#7][1007] Improving Code Assist - it was generic issue opened a year ago, no more new options came in the last 10 months
 - close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
 - close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before
-- [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app"
+- [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app" (for Node.js, Maven, Gradle)
 - fix [#125][125] Gradle GUI for Android - "Could not create plugin of type 'AppPlugin'
 - fix [#127][127] "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
 - [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
