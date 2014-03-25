@@ -32,7 +32,8 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [#131][131] Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
 - add New TypeScript File wizard
 - [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
- and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig
+ and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig.  
+ Try `console.log("Hello \u001b[1;31mred\u001b[0m world!");` and check [colors](https://www.npmjs.org/package/colors) node package.
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
   [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
