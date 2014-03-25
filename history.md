@@ -25,7 +25,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
 - close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app" (for Node.js, Maven, Gradle)
-- fix [#125][125] Gradle GUI for Android - "Could not create plugin of type 'AppPlugin'
+- fix [#125][125] Gradle GUI for Android - "Could not create plugin of type 'AppPlugin';
+ update [Nodeclipse/Enide build.gradle template](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
+ to 0.9.+	
 - fix [#127][127] "null" value for TMP (Thanks to @pchuong Patrick for raising issue)
 - [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
 - [#130][130] Gradle Android - install to AVD
