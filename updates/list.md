@@ -22,7 +22,7 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
-#### EGit 3.3.0 released
+#### EGit 3.3.1 released
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
