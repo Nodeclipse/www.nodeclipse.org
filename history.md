@@ -32,10 +32,11 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
 - [#130][130] Gradle Android - install to AVD
 - [#131][131] Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
-- add New TypeScript File wizard
+- add New TypeScript File wizard; add [TypEcs is TypeScript IDE for Eclipse](http://typecsdev.com/) by Axmor
 - [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
  and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig.  
  Try `console.log("Hello \u001b[1;31mred\u001b[0m world!");` and check [colors](https://www.npmjs.org/package/colors) node package.
+- add [EditBox](https://github.com/Nodeclipse/EditBox) by Piotr Metel - highlight code blocks using background colors themes.
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
   [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
