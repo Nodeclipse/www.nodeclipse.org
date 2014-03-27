@@ -21,6 +21,8 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.12 "Android friendly color" (2014-03-?? unreleased)
 
+Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
+
 - close [#7][1007] Improving Code Assist - it was generic issue opened a year ago, no more new options came in the last 10 months
 - close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
 - close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before
