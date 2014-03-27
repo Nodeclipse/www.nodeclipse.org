@@ -24,6 +24,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
 
 - close [#7][1007] Improving Code Assist - it was generic issue opened a year ago, no more new options came in the last 10 months
+- close [#52](52) Improving Code Assist with VJET ANVIL (typelibs) - Eclipse VJET has not graduated from Eclipse incubator for during 10 months.
 - close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
 - close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app" (for Node.js, Maven, Gradle)
@@ -43,6 +44,7 @@ Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
 - [#134][134] Minimalist Jade Editor
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
+  [52]: https://github.com/Nodeclipse/nodeclipse-1/issues/52
   [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
   [117]: https://github.com/Nodeclipse/nodeclipse-1/issues/117
   [124]: https://github.com/Nodeclipse/nodeclipse-1/issues/124
