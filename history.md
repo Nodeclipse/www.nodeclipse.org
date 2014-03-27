@@ -36,7 +36,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
  and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig.  
  Try `console.log("Hello \u001b[1;31mred\u001b[0m world!");` and check [colors](https://www.npmjs.org/package/colors) node package.
-- add [EditBox](https://github.com/Nodeclipse/EditBox) by Piotr Metel - highlight code blocks using background colors themes.
+- add updated [Nodeclipse EditBox](https://github.com/Nodeclipse/EditBox) (created in 2009-2011 by Piotr Metel) - highlight code blocks using background colors themes.
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
   [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
