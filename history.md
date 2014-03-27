@@ -38,6 +38,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  Try `console.log("Hello \u001b[1;31mred\u001b[0m world!");` and check [colors](https://www.npmjs.org/package/colors) node package.
 - add updated [Nodeclipse EditBox](https://github.com/Nodeclipse/EditBox) (created in 2009-2011 by Piotr Metel) - highlight code blocks using background colors themes.  
 ![](img/enide-studio/EditBox-plugin-coffee-and-preferences.PNG)
+- [#134][134] Minimalist Jade Editor
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
   [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
@@ -49,6 +50,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
   [130]: https://github.com/Nodeclipse/nodeclipse-1/issues/130
   [131]: https://github.com/Nodeclipse/nodeclipse-1/issues/131
   [132]: https://github.com/Nodeclipse/nodeclipse-1/issues/132
+  [134]: https://github.com/Nodeclipse/nodeclipse-1/issues/134
 
 
 ### Version 0.11 "Do It Yourself" 2014-02-25
