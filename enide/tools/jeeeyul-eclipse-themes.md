@@ -4,7 +4,9 @@ layout: enide
 
 
 
-## Eclipse 4 Chrome Theme
+## Jeeeyul Eclipse Themes
+
+former Eclipse 4 Chrome Theme
 
 "Make your eclipse more beautiful!" by Jeeeyul Lee
 
