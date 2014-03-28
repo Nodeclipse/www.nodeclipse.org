@@ -10,47 +10,60 @@ a img {border: none; }
 
 # Nodeclipse Plugins List
 
-The list below is for convenient and quick way to install Eclipse plugins.  
+The list below is for convenient and quick way to install Eclipse plugins. ([See tip how](list-tip-how)).  
 Just drag-and-drop such [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
- button for the plugin that you need to Eclipse menu bar above ([see tip how](list-tip-how)).
+ button for the plugin that you need to Eclipse menu bar above. 
 
-  [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
+Prefix [**Up**][2] indicates that this plugin is available from Nodeclipse updates site `http://www.nodeclipse.org/updates/` .
   
 Also plugin marked with `code formating` can be installed using
  [Nodeclipse CLI Installer](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates)
  like `nodeclipse install alias`  
 
+  [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
+  [2]: http://www.nodeclipse.org/updates/
+
+
 ## News and updates
+
+Ad: see us in action at
+[![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792?ref=pluginslist)
+
+#### Nodeclispe EditBox
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+[**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
+is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
 
 #### EGit 3.3.1 released
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 
 #### Enide Studio 2014
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
 Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
 Includes all Nodeclipse and Enide plugins.
 {% include enide-studio-2014-downloads.html %}
 
 #### Gradle 0.11 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
  [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
  is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
  [mp](http://marketplace.eclipse.org/content/gradle)
 
 #### Vert.x 0.11 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
  [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
  is initial support for Eclipse vert.x projects.
  [mp](http://marketplace.eclipse.org/content/vertx)
 
 #### Enide & Nodeclipse 0.11 "Do It Yourself" are released. 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
  [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
@@ -59,7 +72,7 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 
 #### Maven 0.11 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
  [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
  is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
 
@@ -237,14 +250,14 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 ## Mylyn Connectors
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1274403)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1274403)
  [Hudson/Jenkins Mylyn Builds Connector](https://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector)
  [some screenshots](http://www.eclipse.org/mylyn/new/new-3.5.html)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1065)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1065)
 `wikitext` Mylyn WikiText (wikitext, textile and other format support) [mp](http://marketplace.eclipse.org/content/mylyn-wikitext)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147)
  GitHub Mylyn Connector
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=950)
  [Atlassian Mylyn Connector](http://marketplace.eclipse.org/content/atlassian-connector-eclipse)
 
 ## Other, not categorized
