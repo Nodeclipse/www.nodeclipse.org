@@ -23,7 +23,6 @@ Also plugin marked with `code formating` can be installed using
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
   [2]: http://www.nodeclipse.org/updates/
 
-
 ## News and updates
 
 Ad: see us in action at
@@ -31,7 +30,7 @@ Ad: see us in action at
 
 #### Nodeclispe EditBox
 
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
 [**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
 is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
 
@@ -180,28 +179,28 @@ Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140)
 `nodejs` [Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)](http://www.nodeclipse.org)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255462)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255462)
 `phantomjs` Nodeclipse PhantomJS
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255479)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255479)
 `jjs` Nodeclipse Java 8 Nashorn JJS
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
 `gfm` [GitHub Flavored Markdown (GFM) Viewer](https://github.com/satyagraha/gfm_viewer),
  [Marketplace](http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=339851)
-`themes` Eclipse 4.x Chrome Theme
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=339851)
+`themes` Jeeejul Eclipse Themes (former Eclipse 4.x Chrome Theme)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=58952)
 JSDT jQuery Integration
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=894671)
 [ExtJS JSDT Integration](http://zulus.github.io/extjs-eclipse/)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945)
 JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522)
 [TypeSctipt Editor](https://github.com/palantir/eclipse-typescript) -only for Eclipse 4.3 on Java 6+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343)
 [Nodeclipse CoffeeScript Editor](/coffeescript)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1157104)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1157104)
 [JSHint integration for the Eclipse IDE](http://github.eclipsesource.com/jshint-eclipse/) by Ralf Sternberg, EclipseSource [mp](http://marketplace.eclipse.org/content/jshint-eclipse)
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1316084)
@@ -228,7 +227,7 @@ Tycho Build Tools [mp](http://marketplace.eclipse.org/content/tycho-build-tools)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=485277)
 Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/inplace-bundle-activator),
  see [overview](http://javatime.no/blog/inplace-activator-overview/), [issues](https://github.com/inclipse/issues/issues), [wiki](https://github.com/inclipse/issues/wiki)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=322221)
 [Icons Editor](http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=246)
 [JAutodoch](ttps://marketplace.eclipse.org/content/jautodoc) is an Eclipse Plugin for automatically adding Javadoc and file headers to your source code
