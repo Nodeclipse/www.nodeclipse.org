@@ -432,17 +432,24 @@ Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) 
           		<h3>Fork me on <a href="https://github.com/Nodeclipse">GitHub</a></h3>
           		<p>
           			You can also clone the <a href="https://github.com/Nodeclipse/nodeclipse-1">nodeclipse-1 project</a>
-          			 with <a href="http://git-scm.com">Git</a> by running:
+          			 with <a href="http://git-scm.com">git</a> and prepare for import as General project by running:
 				</p>
 				<pre>$ git clone git://github.com/Nodeclipse/nodeclipse-1.git</pre>
+				<pre>$ cd nodeclipse-1</pre>
+				<pre>$ nodeclipse -g</pre>
 				<!--
 				<pre><s>$ git clone git://github.com/tomotaro1065/nodeclipse.git</s></pre>
 				<pre><s>$ git clone git://github.com/Nodeclipse/nodeclipse.git</s></pre>
 				<pre><s>$ git clone git://github.com/lambgao/nodeclipse</s></pre>
 				-->
 				<p>Play with code</p>
+				<img src="img/enide-studio/nodeclipse-1-project-sources.png"/></a>
+				<!-- Import existing Eclipse project in Eclipse with PDE (e.g. Enide Studio). Select some, `org.nodeclipse.ui` is good start. -->
 				<ol>
-					<li>Import existing Eclipse project in Eclipse with PDE (e.g. Eclipse Standard). Select some, `org.nodeclipse.ui` is good start.</li>
+					<li>Select project folder, e.g. org.nodeclipse.enide.editors.jade or org.nodeclipse.enide.gradle</li>
+					<li>Ctrl+Alt+C (or StartExplorer Copy Resource PAth to ClipBoard)</li>
+					<li>File -> Import -> Existing Project into Workspace</li>
+					<li>Ctr+V into directory</li>
 					<li>open `plugins.xml`</li>
 					<li>click `Launch an Eclipse application in Debug mode`</li>
 					<li>Now you can change code and instantly see how IDE behaves now in second Eclipse</li>
@@ -451,7 +458,7 @@ Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) 
 				<p>Then build all with</p>
 				<pre>$ mvn package</pre>
 				
-				<p>First time <a href="http://maven.apache.org/">maven</a> needs download a lots!
+				<p>First time <a href="http://maven.apache.org/">maven</a> needs download all plugins and used packages.
 				<a href="https://github.com/Nodeclipse/nodeclipse-1#maven-build">Check README</a>.</p>
 				
 				
