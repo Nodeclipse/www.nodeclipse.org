@@ -24,9 +24,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
 
 - close [#7][1007] Improving Code Assist - it was generic issue opened a year ago, no more new options came in the last 10 months
-- close [#52](52) Improving Code Assist with VJET ANVIL (typelibs) - Eclipse VJET has not graduated from Eclipse incubator for during 10 months.
+- close [#52](52) Improving Code Assist with VJET ANVIL (typelibs) - Eclipse VJET has not graduated from Eclipse incubator during 10 months.
 - close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
-- close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before
+- close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before in 0.11
 - [#124][124] Preference option to "pass all environment variables of Eclipse to launched Node.js app" (for Node.js, Maven, Gradle)
 - fix [#125][125] Gradle GUI for Android - "Could not create plugin of type 'AppPlugin';
  update [Nodeclipse/Enide build.gradle template](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
@@ -35,13 +35,20 @@ Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
 - [#129][129] (experimental) Gradle Android - EnvVar to pass signingConfigs params
 - [#130][130] Gradle Android - install to AVD
 - [#131][131] Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
-- add New TypeScript File wizard; add [TypEcs is TypeScript IDE for Eclipse](http://typecsdev.com/) by Axmor
+- add New TypeScript File wizard; add [TypEcs TypeScript IDE for Eclipse](http://typecsdev.com/) by Axmor
 - [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
  and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig.  
  Try `console.log("Hello \u001b[1;31mred\u001b[0m world!");` and check [colors](https://www.npmjs.org/package/colors) node package.
 - add updated [Nodeclipse EditBox](https://github.com/Nodeclipse/EditBox) (created in 2009-2011 by Piotr Metel) - highlight code blocks using background colors themes.  
 ![](img/enide-studio/EditBox-plugin-coffee-and-preferences.PNG)
-- [#134][134] Minimalist Jade Editor
+- [#134][134] [Minimalist Jade Editor](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.editors.jade)
+ idea is to define HTML tags and JavaScript keywords as words for highlight [in Word.java](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.jade/src/org/nodeclipse/enide/editors/jade/highlight/Words.java)
+ and then use it together with EditBox
+- experimental content assist from [Orion](http://www.eclipse.org/orion/) IndexFiles
+ for [amqp](https://www.npmjs.org/package/amqp), express, [mongodb](https://www.npmjs.org/package/mongodb),
+  [mysql](https://www.npmjs.org/package/mysql), postgres and [redis](https://www.npmjs.org/package/mongodb) node packages.
+- make 3 type of content assist optional and enabled by default (change
+require restart as checking preferences each time assist is called would add delay)
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
   [52]: https://github.com/Nodeclipse/nodeclipse-1/issues/52
