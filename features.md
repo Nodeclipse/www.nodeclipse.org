@@ -20,6 +20,7 @@ More detailed and more recent features are at [history page](history).
 	<li>Bracket matching and marking selection occurences with background color</li>
 	<li>Content Assistant within one file (JSDT)</li>
 	<li>Code completion for base Node.js modules</li>
+	<li>experimental content assist from Orion IndexFiles for amqp, express, mongodb, mysql, postgres and redis node packages</li>
 	<li>Go to definition with <kbd>Ctrl</kbd>+click when <a href="http://usejsdoc.org/">JSDoc is used</a></li>
 	<li>Refactoring within one file (<kbd>Alt+Shift+R</kbd>)</li>
 	<li>JSON files highlight and validation</li>

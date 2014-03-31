@@ -24,6 +24,8 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
 
 - close [#7][1007] Improving Code Assist - it was generic issue opened a year ago, no more new options came in the last 10 months
+- close [#16][16] Improving Code Assist with JSDT and NJSDoc
+- close [#27][27] Improving Code Assist with SublimeText-Nodejs
 - close [#52](52) Improving Code Assist with VJET ANVIL (typelibs) - Eclipse VJET has not graduated from Eclipse incubator during 10 months.
 - close [#54](54) Improving Code Assist with Marijnh Haverbeke's Tern project, now it is [tern.java project](https://github.com/angelozerr/tern.java)
 - close [#117][117] Run Maven, Gradle or other batch-based script from Java (and then Eclipse) - actually done before in 0.11
@@ -49,8 +51,14 @@ Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
   [mysql](https://www.npmjs.org/package/mysql), postgres and [redis](https://www.npmjs.org/package/mongodb) node packages.
 - make 3 type of content assist optional and enabled by default (change
 require restart as checking preferences each time assist is called would add delay)
+- add Nodeclipse CoffeeScript Editor 0.4.0 to Nodeclipse update site, be aware of [#19](https://github.com/Nodeclipse/coffeescript-eclipse/issues/19)
+("XtextReconcilerJob" has encountered a problem in 4.3.1 onwards)
+![](coffeescript/csep-with-editbox.PNG)
+
 
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
+  [16]: https://github.com/Nodeclipse/nodeclipse-1/issues/16
+  [27]: https://github.com/Nodeclipse/nodeclipse-1/issues/27
   [52]: https://github.com/Nodeclipse/nodeclipse-1/issues/52
   [54]: https://github.com/Nodeclipse/nodeclipse-1/issues/54
   [117]: https://github.com/Nodeclipse/nodeclipse-1/issues/117
