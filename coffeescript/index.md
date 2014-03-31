@@ -18,6 +18,8 @@ CoffeeScript Editor is general editor for Node.js or web-projects.
 
 ![](https://github.com/Nodeclipse/eclipse-node-ide/raw/master/Pictures/CoffeeScriptEditor.png)
 
+![](csep-with-editbox.PNG)
+
 ### Hints
 
 Just run your `.coffee` file to check if it can compile, 
