@@ -3,18 +3,19 @@
 <repository name='&quot;Enide repository with Nodeclipse updates&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303060'/>
+    <property name='p2.timestamp' value='1393303062'/>
   </properties>
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
 	<child location='http://download.eclipse.org/mylyn/releases/latest'/>
-	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.11/'/>
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.12/'/>
 	<!-- already included: 	
 	<child location='http://dl.bintray.com/satyagraha/generic/1.8.1/'/>
 	<child location='http://dl.bintray.com/enide/Markdown/1.0.0/'/> --><!-- Markdown Editor -->
-	<!-- <child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>  disable for speed -->
+	<!-- <child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>  disable for speed
 	<child location='http://eclipse.jeeeyul.net/update/'/>
 	<child location='http://dl.bintray.com/nodeclipse/EditBox/0.50.0/'/>
+	 -->
   </children>
 </repository>
  

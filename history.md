@@ -19,7 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.12 "Android friendly color" (2014-03-?? unreleased)
+### Version 0.12 "Android friendly color" 2014-03-31
 
 Thanks and hello to Ryan Knell, John McCarthy, @Vexatos and Piotr Metel
 
