@@ -59,10 +59,10 @@ More detailed and more recent features are at [history page](history).
 - Lightweight Maven plugin (run Jetty, Tomcat; build any project with `pom.xml` from Eclipse/Enide Studio)  
 <!-- ![](img/enide-studio/EditBox-plugin-maven-example.PNG) --> 
 <a href="img/enide-studio/EditBox-plugin-maven-example.PNG">
-<img src="img/enide-studio/EditBox-plugin-maven-example.PNG" width="350" height="360" />
+<img src="img/enide-studio/EditBox-plugin-maven-example.PNG" width="350" height="360" /><br/>
 - Lightweight Gradle and Minimalist Gradle Editor plugins (run Jetty, JettyEclipse, Android; build any project with `build.gradle` from Eclipse/Enide Studio)  
 <!-- ![](img/enide-studio/EditBox-plugin-gradle-example.PNG) -->
 <a href="img/enide-studio/EditBox-plugin-gradle-example.PNG">
-<img src="img/enide-studio/EditBox-plugin-gradle-example.PNG" width="350" height="350" />
+<img src="img/enide-studio/EditBox-plugin-gradle-example.PNG" width="350" height="350" /><br/>
 
 Continue reading on [usage page](usage).
