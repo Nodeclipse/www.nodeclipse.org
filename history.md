@@ -22,7 +22,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.15 "no name yet" 2014-04-??
 
-- [#137][137] Gradle - specify what JAVA_HOME to use
+- [#137][137] Gradle, Maven - specify what JAVA_HOME to use
 
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
 
@@ -47,10 +47,12 @@ Thanks and hello to Ryan Knell for [logo](/artworks.html), John McCarthy, @Vexat
 - [#131][131] Include [Json Tools by Denis Mirochnik](https://bitbucket.org/denmiroch/jsontools); disable JShint validation for .json files
 - add New TypeScript File wizard; add [TypEcs TypeScript IDE for Eclipse](http://typecsdev.com/) by Axmor
 - [#132][132] Include [Ansi Console](http://www.mihai-nita.net/eclipse) by Mihai Nita
- and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig.  
+ and [Grep Console](http://marian.schedenig.name/projects/grep-console/) by Marian Schedenig.
+ ![](http://mihai-nita.net/wp-content/uploads/2013/06/AECSample.jpg)  
  Try `console.log("Hello \u001b[1;31mred\u001b[0m world!");` and check [colors](https://www.npmjs.org/package/colors) node package.
 - add updated [Nodeclipse EditBox](https://github.com/Nodeclipse/EditBox) (created in 2009-2011 by Piotr Metel) - highlight code blocks using background colors themes.  
-![](img/enide-studio/EditBox-plugin-coffee-and-preferences.PNG)
+![](img/enide-studio/EditBox-plugin-coffee-and-preferences.PNG)  
+![](img/enide-studio/EditBox-plugin-maven-example.PNG)
 - [#134][134] [Minimalist Jade Editor](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.editors.jade)
  idea is to define HTML tags and JavaScript keywords as words for highlight [in Word.java](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.jade/src/org/nodeclipse/enide/editors/jade/highlight/Words.java)
  and then use it together with EditBox
