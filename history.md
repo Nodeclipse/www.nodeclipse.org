@@ -65,7 +65,6 @@ require restart as checking preferences each time assist is called would add del
 ("XtextReconcilerJob" has encountered a problem in 4.3.1 onwards)
 ![](coffeescript/csep-with-editbox.PNG)
 
-
   [1007]: https://github.com/Nodeclipse/nodeclipse-1/issues/7
   [16]: https://github.com/Nodeclipse/nodeclipse-1/issues/16
   [27]: https://github.com/Nodeclipse/nodeclipse-1/issues/27
@@ -81,6 +80,9 @@ require restart as checking preferences each time assist is called would add del
   [132]: https://github.com/Nodeclipse/nodeclipse-1/issues/132
   [134]: https://github.com/Nodeclipse/nodeclipse-1/issues/134
 
+Known issues:   
+[repository](http://www.nodeclipse.org/updates/#update-site) includes <a href="http://marketplace.eclipse.org/content/eclipse-plugin-less">Eclipse plugin for LESS</a>
+that can't be installed.
 
 ### Version 0.11 "Do It Yourself" 2014-02-25
 
@@ -247,7 +249,7 @@ you are ready to develop Node.js runtime)
 	- [EclipseRunner by Lukasz Wachowicz and Bartosz Roznowski (Runner View)](http://code.google.com/p/eclipserunnerplugin/)
 	- [SelectionExplorer (PDE) by Sandip Chitales](http://code.google.com/p/sandipchitaleseclipseplugins/#Selection_Explorer)
 
-- Known issues: markdown.editor.feature is missing inside 0.8.0 update repository.
+Known issues: markdown.editor.feature is missing inside 0.8.0 update repository.
  Check for Markdown Editor inside [Nodeclipse Plugins List](http://www.nodeclipse.org/updates/list)
  or use update site
 <pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre> 

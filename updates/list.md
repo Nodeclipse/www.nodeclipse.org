@@ -21,12 +21,48 @@ Also plugin marked with `code formating` can be installed using
  like `nodeclipse install alias`  
 
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
-  [2]: http://www.nodeclipse.org/updates/
+  [2]: http://www.nodeclipse.org/updates/#update-site
 
 ## News and updates
 
 Ad: see us in action at
 [![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792?ref=pluginslist)
+
+#### Enide Studio 2014 0.12
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
+Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
+Includes all Nodeclipse and Enide plugins. Note download package are of 0.11 version and needs update to 0.12.
+{% include enide-studio-2014-downloads.html %}
+
+#### Maven 0.12 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
+ [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
+ is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
+
+#### Gradle 0.12 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
+ [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
+ is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
+ [mp](http://marketplace.eclipse.org/content/gradle)
+
+#### Enide & Nodeclipse 0.12 "Android friendly color" are released. 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
+ [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
+<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
+
+#### Vert.x 0.12 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
+ [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
+ is initial support for Eclipse vert.x projects.
+ [mp](http://marketplace.eclipse.org/content/vertx)
 
 #### Nodeclispe EditBox
 
@@ -38,42 +74,6 @@ is using background colors themes to highlight code blocks for C++, Java, JavaSc
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
-
-#### Enide Studio 2014
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
-Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
-Includes all Nodeclipse and Enide plugins.
-{% include enide-studio-2014-downloads.html %}
-
-#### Gradle 0.11 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
- [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
- is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
- [mp](http://marketplace.eclipse.org/content/gradle)
-
-#### Vert.x 0.11 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
- [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
- is initial support for Eclipse vert.x projects.
- [mp](http://marketplace.eclipse.org/content/vertx)
-
-#### Enide & Nodeclipse 0.11 "Do It Yourself" are released. 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
- [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
- StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
-
-or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
-<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
-
-#### Maven 0.11 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
- [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
- is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
 
 #### Moonrise 0.8.8
 

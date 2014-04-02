@@ -90,25 +90,28 @@ title: Nodeclipse, Enide
 						Nodeclipse became #1 in Eclipse
 						<a href="http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php">Top 10 NEW Plugins for 2013</a>.<br/>						 
 						<br/>
+						Nodeclipse holds not only Node.js (with debugger, code completion, see <a href="/features">features</a>), 
+						but also simple tools for 
+						<a href="http://phantomjs.org/">PhantomJS</a>,
+						<a href="http://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/">Nashorn</a>, 
+						<a href="http://vertx.io/">Vert.x</a> 
+						for JavaScript,<br/>
+						<a href="http://marketplace.eclipse.org/content/maven">Maven</a>, 
+						<a href="http://marketplace.eclipse.org/content/gradle">Gradle (including Android)</a> for Java,<br/>
+						and some general tools like REST-Client, <a href="https://github.com/Nodeclipse/EditBox">EditBox background color themes</a>
+						and <a href="/enide/tools">others</a>.<br/>
+						<br/> 
 						Nodeclipse is &uuml;ber Open Source Software &Uuml;BOSS.<br />
 						While somewhere else you need a hour to figure out how things work and make a change, 
 						it will take less than 10 minutes to get sources in 
 						<a href="/enide/studio/2014">Enide Studio</a>, change and see your changes. 
 						Raise an <a href="https://github.com/Nodeclipse/nodeclipse-1/issues">issue</a>
 						if you need to ask somehting.<br />
+						Examples: <a href="https://github.com/Nodeclipse/EditBox/commit/b7ceed8f1c391b691f39ee7f45b5613651ab91ca">1) Add EditBox Blue Light Theme</a>,
+						<a href="https://github.com/Nodeclipse/nodeclipse-1/commit/270a9923288729b36ea5a31d1d153cd9c9b8c55d">2) Gradle - specify what JAVA_HOME to use </a><br/>
+						See more <a href="/#code">below</a>.<br/>						
 						<br/>
-						Nodeclipse holds not only Node.js (with debugger, code completion, see <a href="/features">features</a>), 
-						but also simple tools for 
-						<a href="http://phantomjs.org/">PhantomJS</a>,
-						<a href="http://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/">Nashorn</a>, 
-						<a href="http://vertx.io/">Vert.x</a>, 
-						for JavaScript,<br/>
-						<a href="http://marketplace.eclipse.org/content/maven">Maven</a>, 
-						<a href="http://marketplace.eclipse.org/content/gradle">Gradle (including Android)</a> for Java,<br/>
-						and some general tools like REST-Client, <a href="https://github.com/Nodeclipse/EditBox">EditBox background color themes</a>
-						and <a href="/enide/tools">others</a>. 
 						
-						<br/><br/>
 						<a href="/demos/navigation">Navigation Demo</a>.
 						<a href="/features">Features</a>.
 						<a href="/history">History</a>.
@@ -461,7 +464,7 @@ Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) 
 					<li>When will you? -- <a href="https://groups.google.com/forum/#!forum/nodeclipse">Nodeclipse forum(Mailing list)</a>!</li>
 				 -->
 
-          		<h3>Fork me on <a href="https://github.com/Nodeclipse">GitHub</a></h3>
+          		<h3><a name="code" class="anchor" href="#code">Fork code on <a href="https://github.com/Nodeclipse">GitHub</a></h3>
           		<p>
           			You can also clone the <a href="https://github.com/Nodeclipse/nodeclipse-1">nodeclipse-1 project</a>
           			 with <a href="http://git-scm.com">git</a> and prepare for import as General project by running:
@@ -479,7 +482,7 @@ Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) 
 				<!-- Import existing Eclipse project in Eclipse with PDE (e.g. Enide Studio). Select some, `org.nodeclipse.ui` is good start. -->
 				<ol>
 					<li>Select project folder, e.g. org.nodeclipse.enide.editors.jade or org.nodeclipse.enide.gradle</li>
-					<li>Ctrl+Alt+C (or StartExplorer Copy Resource PAth to ClipBoard)</li>
+					<li>Ctrl+Alt+C (or StartExplorer Copy Resource Path to ClipBoard)</li>
 					<li>File -> Import -> Existing Project into Workspace</li>
 					<li>Ctr+V into directory</li>
 					<li>open `plugins.xml`</li>
