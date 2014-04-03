@@ -6,7 +6,9 @@ layout: nil
 a img {border: none; } 
 </style>
 
-[home page](/) (news, site navigation)
+[home page](/) (news, site navigation) |
+ Feeds: [Stackoverfow](http://stackoverflow.com/feeds/tag?tagnames=nodeclipse&sort=newest),
+ [SourceForge](http://sourceforge.net/p/nodeclipse/activity/feed)
 
 # Nodeclipse Plugins List
 
