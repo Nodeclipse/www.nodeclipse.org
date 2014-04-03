@@ -32,7 +32,7 @@ Ad: see us in action at
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
 Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
-Includes all Nodeclipse and Enide plugins. Note download package are of 0.11 version and needs update to 0.12.
+Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.12.
 {% include enide-studio-2014-downloads.html %}
 
 #### Maven 0.12 
