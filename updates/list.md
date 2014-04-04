@@ -90,17 +90,6 @@ is using background colors themes to highlight code blocks for C++, Java, JavaSc
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
-- Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
-- JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
-- Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
-- Multiproperties [mp](http://marketplace.eclipse.org/content/multiproperties)
-- PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools)
-- [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
-- CKEditor for HTML [mp](http://marketplace.eclipse.org/content/eclipse-ckeditor)
-- MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
-- Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
-- JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
-
 
 ## Languages
 
@@ -264,6 +253,17 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 ## Other, not categorized
 
 - <http://marketplace.eclipse.org/content/cucumber-jvm-eclipse-plugin>
+- Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
+- JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
+- Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
+- Multiproperties [mp](http://marketplace.eclipse.org/content/multiproperties)
+- PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools)
+- [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
+- CKEditor for HTML [mp](http://marketplace.eclipse.org/content/eclipse-ckeditor)
+- MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
+- Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
+- JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
+
 
 ## Other lists
 

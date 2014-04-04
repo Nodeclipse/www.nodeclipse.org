@@ -22,9 +22,12 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.15 "no name yet" 2014-04-??
 
-- [#137][137] Gradle, Maven - specify what JAVA_HOME to use
+- [#137][137] Gradle, Maven - specify what JAVA_HOME to use.
+ Hint: For gradle you also can use `org.gradle.java.home` property. See Chapter 20 The Build Environment.
+- [#137][137] Gradle Deamon (experimental) 
 
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
+  [138]: https://github.com/Nodeclipse/nodeclipse-1/issues/138
 
 
 ### Version 0.12 "Android friendly color" 2014-03-31
