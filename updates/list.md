@@ -30,6 +30,12 @@ Also plugin marked with `code formating` can be installed using
 Ad: see us in action at
 [![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792?ref=pluginslist)
 
+#### Moonrise 0.8.9
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
+ [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
+ [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
+
 #### Enide Studio 2014 0.12
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
@@ -76,16 +82,6 @@ is using background colors themes to highlight code blocks for C++, Java, JavaSc
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
-
-#### Moonrise 0.8.8
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
- [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
- [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
- 
-
-- http://marketplace.eclipse.org/content/refresh-project [github](https://github.com/hanks/Refresh_this_project_plugin_for_eclipse)
-- https://sourceforge.net/projects/classfilebrowser/ [sourceforge](https://sourceforge.net/projects/classfilebrowser/)
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
@@ -263,6 +259,8 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 - MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
 - Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
 - JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
+- http://marketplace.eclipse.org/content/refresh-project [github](https://github.com/hanks/Refresh_this_project_plugin_for_eclipse)
+- https://sourceforge.net/projects/classfilebrowser/ [sourceforge](https://sourceforge.net/projects/classfilebrowser/)
 
 
 ## Other lists
