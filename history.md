@@ -20,7 +20,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
 
-### Version 0.15 "no name yet" 2014-04-??
+### Version 0.15 "Gradly?" 2014-04-??
 
 - [#137][137] Gradle, Maven - specify what JAVA_HOME to use.
  Hint: For gradle you also can use `org.gradle.java.home` property. See Chapter 20 The Build Environment.
@@ -28,10 +28,13 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [#143][143] project config updated to enable JSDoc, TODOs processing (excluding `node_modules`).
  Note that for JavaScript validation JSHint-Eclipse is used, that is capable of EcmaScript 5 validation
  (configured in every project `.jshintrc` file `"es5" : true`)  
+- [#145][145] Gradle - option to use launch with wrapper
 
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
   [138]: https://github.com/Nodeclipse/nodeclipse-1/issues/138
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
+  [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
+  [145]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
 
 ### Version 0.12 "Android friendly color" 2014-03-31
 
