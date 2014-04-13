@@ -29,12 +29,15 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  Note that for JavaScript validation JSHint-Eclipse is used, that is capable of EcmaScript 5 validation
  (configured in every project `.jshintrc` file `"es5" : true`)  
 - [#145][145] Gradle - option to use launch with wrapper
+- [#39][39] [#49][49] color preferences for Gradle and Chromium Debugger Editors
 
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
   [138]: https://github.com/Nodeclipse/nodeclipse-1/issues/138
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [145]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
+  [39]: https://github.com/Nodeclipse/nodeclipse-1/issues/39
+
 
 ### Version 0.12 "Android friendly color" 2014-03-31
 
