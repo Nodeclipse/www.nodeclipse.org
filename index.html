@@ -120,15 +120,24 @@ title: Nodeclipse, Enide
 						<a href="/support-us">Support us</a>.
 		        </p>
 
+			<h3>Shared posts</h3>
+			<ul class="posts">
+			  {% for post in site.posts limit:5 %}
+			    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+			  {% endfor %}
+			</ul>
+			<p>See <a href="/share.html">all shares</a>.</p>
+
 
 			<h3>Announcements</h3><a class="anchor" id="news"></a>
 			
-			
+			<!-- 
 			<p>
 				See AnIDE at<br/> 
 				<a href="https://yoopay.cn/event/58458792?ref=nodeclipse">
 				<img src="img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg"/></a>
 			</p>
+			-->
 			
 			<p><a href="community/newsletter">Subscribe for newsletter.</a></p>
 
@@ -386,14 +395,6 @@ Note that installing this way plugin with dependencies (e.g. Nodeclipse plugin) 
 			</p>
 			<p>See <a href="news/">all previous news at one page</a>.</p>
 			
-			<h3>Shared posts</h3>
-			<ul class="posts">
-			  {% for post in site.posts limit:5 %}
-			    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-			  {% endfor %}
-			</ul>
-			<p>See <a href="/share.html">all shares</a>.</p>
-
 		     <h3>Installing</h3>
 		        <p>
 				If you have not installed <a href="http://www.nodejs.org/">Node.js</a> yet,

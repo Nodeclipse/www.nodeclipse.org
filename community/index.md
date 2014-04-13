@@ -13,10 +13,10 @@ Click on the banner below to go to the event detail.
 
 ## Future
 
-See AnIDE at  
-[![](../img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
 
 ## Past
+
+[![](../img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
 
 <p>
 	<a href="http://www.joyent.com/noderoad">
