@@ -25,4 +25,6 @@ http://zhiyongv.iteye.com/blog/1739267
 nodeclipse拯救世界… 
 虽然nodeclipse比较简陋但还是能用的 不过代码提示就别想了…
 
- 
+### GitHub
+
+[修改这个网页](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/community/chinese.md)
