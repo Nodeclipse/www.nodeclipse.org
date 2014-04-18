@@ -22,6 +22,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.15 "Gradly?" 2014-04-??
 
+- [#39][39] [#49][49] color preferences for Gradle Editor and Chromium Debugger JS Editor
 - [#137][137] Gradle, Maven - specify what JAVA_HOME to use.
  Hint: For gradle you also can use `org.gradle.java.home` property. See Chapter 20 The Build Environment.
 - [#138][138] Gradle Deamon `--deamon` option enabled by default 
@@ -29,7 +30,8 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  Note that for JavaScript validation JSHint-Eclipse is used, that is capable of EcmaScript 5 validation
  (configured in every project `.jshintrc` file `"es5" : true`)  
 - [#145][145] Gradle - option to use launch with wrapper
-- [#39][39] [#49][49] color preferences for Gradle and Chromium Debugger Editors
+- discovered [Emmet](http://emmet.io/) (ex-Zen Coding)
+ [Eclipse plugin](http://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin)
 
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
   [138]: https://github.com/Nodeclipse/nodeclipse-1/issues/138
