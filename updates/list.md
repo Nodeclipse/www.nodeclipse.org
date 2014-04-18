@@ -27,8 +27,9 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
-Ad: see us in action at
-[![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792?ref=pluginslist)
+- [Emmet](http://emmet.io/) (toolkit for web-developers) Eclipse plugin from `http://emmet.io/eclipse/updates/` 
+
+To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <kbd>Tab</kbd>.
 
 #### Moonrise 0.8.9
 
