@@ -29,7 +29,7 @@ Also plugin marked with `code formating` can be installed using
 
 - [Emmet](http://emmet.io/) (toolkit for web-developers) Eclipse plugin from `http://emmet.io/eclipse/updates/` 
 
-To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <kbd>Tab</kbd>.
+To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <kbd>Tab</kbd>. Read [abbreviations](http://docs.emmet.io/abbreviations/)
 
 #### Moonrise 0.8.9
 
