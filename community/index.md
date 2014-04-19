@@ -2,6 +2,10 @@
 layout: community
 ---
 
+## GitHub
+
+[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/community/index.md)
+
 ## Events
 
 Let us know about Node.js and Eclipse events by raising an issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
