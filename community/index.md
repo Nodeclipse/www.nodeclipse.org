@@ -27,6 +27,11 @@ Click on the banner below to go to the event detail.
 
 ## Future
 
+<p>
+	<a href="http://www.joyent.com/noderoad">
+	<img src="../img/roadshow-promo.png" width="600" height="70"/></a>
+</p>
+
 
 ## Past
 
