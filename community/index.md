@@ -6,6 +6,16 @@ layout: community
 
 [Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/community/index.md)
 
+## Links
+
+- [How to install Nodeclipse 0.12 as an Eclipse plugin](http://nodeleaf.net/?p=1) Apr 2014 by Patrick Perroud, nodeleaf.net
+- [How to install Nodeclipse Enide Studio 2014 on MacOSX](http://flummox-engineering.blogspot.com/2014/04/how-to-install-nodeclipse-on-mac-osx.html)
+- [Upgrading Nodeclipse 0.11 to 0.12](http://flummox-engineering.blogspot.com/2014/04/upgrading-nodeclipse-011-to-012-on-mac.html)
+- [Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/) Dec 2013
+ by Ali Shirzad, techprd.com
+- [Step by step tutorial on how to develop a responsive website using Node.js, Express Framework and Twitter Bootstrap](http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/) 
+ by Ali Shirzad, techprd.com
+
 ## Events
 
 Let us know about Node.js and Eclipse events by raising an issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
@@ -36,14 +46,6 @@ Click on the banner below to go to the event detail.
 [Suggest your ideas and vote for ideas](http://nodeclipse.uservoice.com/)
 
 [Q&A](q-and-a) based on [StackOverflow](http://stackoverflow.com/tags/nodeclipse) and [issues](https://github.com/Nodeclipse/nodeclipse-1/issues).
-
-## Links
-
-- [How to install Nodeclipse 0.12 as an Eclipse plugin](http://nodeleaf.net/?p=1) Apr 2014 by Patrick Perroud, nodeleaf.net
-- [Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/) Dec 2013
- by Ali Shirzad, techprd.com
-- [Step by step tutorial on how to develop a responsive website using Node.js, Express Framework and Twitter Bootstrap](http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/) 
- by Ali Shirzad, techprd.com
 
 ## In other languages
 
