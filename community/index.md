@@ -39,11 +39,11 @@ Click on the banner below to go to the event detail.
 
 ## Links
 
-- [Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/)
+- [How to install Nodeclipse 0.12 as an Eclipse plugin](http://nodeleaf.net/?p=1) Apr 2014 by Patrick Perroud, nodeleaf.net
+- [Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/) Dec 2013
  by Ali Shirzad, techprd.com
 - [Step by step tutorial on how to develop a responsive website using Node.js, Express Framework and Twitter Bootstrap](http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/) 
  by Ali Shirzad, techprd.com
- 
 
 ## In other languages
 
