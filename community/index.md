@@ -57,7 +57,8 @@ Click on the banner below to go to the event detail.
 Translate and add content that you like,  
 collect and store knowledge - [Edit here](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/community).
 
-[Chinese 中文](chinese), [German Deutsch](german), [Japanese 日本語](japanese), [Russian русский](russian), [Spanish español](spanish) ...
+[Chinese 中文](chinese), [German Deutsch](german), [Japanese 日本語](japanese), [Portuguese portuguesa](portuguese),
+ [Russian русский](russian), [Spanish español](spanish) ...
 
 ## Feedback
 

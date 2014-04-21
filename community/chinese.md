@@ -2,6 +2,9 @@
 layout: community
 ---
 
+## GitHub
+
+[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/community/chinese.md)
 
 
 中国朋友，你好
