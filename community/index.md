@@ -6,6 +6,16 @@ layout: community
 
 [Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/community/index.md)
 
+## Links
+
+- [How to install Nodeclipse 0.12 as an Eclipse plugin](http://nodeleaf.net/?p=1) Apr 2014 by Patrick Perroud, nodeleaf.net
+- [How to install Nodeclipse Enide Studio 2014 on MacOSX](http://flummox-engineering.blogspot.com/2014/04/how-to-install-nodeclipse-on-mac-osx.html)
+- [Upgrading Nodeclipse 0.11 to 0.12](http://flummox-engineering.blogspot.com/2014/04/upgrading-nodeclipse-011-to-012-on-mac.html)
+- [Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/) Dec 2013
+ by Ali Shirzad, techprd.com
+- [Step by step tutorial on how to develop a responsive website using Node.js, Express Framework and Twitter Bootstrap](http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/) 
+ by Ali Shirzad, techprd.com
+
 ## Events
 
 Let us know about Node.js and Eclipse events by raising an issue at <https://github.com/Nodeclipse/www.nodeclipse.org/issues/>.
@@ -16,6 +26,11 @@ Let us know about Node.js and Eclipse events by raising an issue at <https://git
 Click on the banner below to go to the event detail. 
 
 ## Future
+
+<p>
+	<a href="http://www.joyent.com/noderoad">
+	<img src="../img/roadshow-promo.png" width="600" height="70"/></a>
+</p>
 
 
 ## Past
@@ -37,20 +52,13 @@ Click on the banner below to go to the event detail.
 
 [Q&A](q-and-a) based on [StackOverflow](http://stackoverflow.com/tags/nodeclipse) and [issues](https://github.com/Nodeclipse/nodeclipse-1/issues).
 
-## Links
-
-- [How to install Nodeclipse 0.12 as an Eclipse plugin](http://nodeleaf.net/?p=1) Apr 2014 by Patrick Perroud, nodeleaf.net
-- [Step by step tutorial on how to setup your Node.js project in Eclipse IDE](http://techprd.com/how-to-setup-node-js-project-in-eclipse/) Dec 2013
- by Ali Shirzad, techprd.com
-- [Step by step tutorial on how to develop a responsive website using Node.js, Express Framework and Twitter Bootstrap](http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/) 
- by Ali Shirzad, techprd.com
-
 ## In other languages
 
 Translate and add content that you like,  
 collect and store knowledge - [Edit here](https://github.com/Nodeclipse/www.nodeclipse.org/tree/gh-pages/community).
 
-[Chinese 中文](chinese), [German Deutsch](german), [Japanese 日本語](japanese), [Russian русский](russian), [Spanish español](spanish) ...
+[Chinese 中文](chinese), [German Deutsch](german), [Japanese 日本語](japanese), [Portuguese portuguesa](portuguese),
+ [Russian русский](russian), [Spanish español](spanish) ...
 
 ## Feedback
 
