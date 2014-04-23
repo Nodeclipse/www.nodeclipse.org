@@ -3,7 +3,7 @@
 <repository name='&quot;Nodeclipse updates&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303064'/>
+    <property name='p2.timestamp' value='1393303065'/>
   </properties>
   <children size='1'>
     <child location='http://download.eclipse.org/egit/updates'/>
