@@ -27,8 +27,11 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1633965)
+ LESS Builder [mp](http://marketplace.eclipse.org/content/less-builder)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1631105)
- [Emmet](http://emmet.io/) (toolkit for web-developers) Eclipse plugin from `http://emmet.io/eclipse/updates/` 
+ [Emmet](http://emmet.io/) (toolkit for web-developers) Eclipse plugin from `http://emmet.io/eclipse/updates/`
+ [mp](http://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin)
 
 To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <kbd>Tab</kbd>. Read [abbreviations](http://docs.emmet.io/abbreviations/)
 
