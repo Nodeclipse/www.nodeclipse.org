@@ -7,16 +7,27 @@ title: Nodeclipse/Enide Gradle for Eclipse - build C/C++, Java, Groovy, Android 
 
 <p></p>
 
-GitHub: 
-- Main: <https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.gradle> 
-- Editor: <https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.editors.gradle> 
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180" 
+title="Drag and drop into a running Eclipse/Enide Studio menu area to install/update Nodeclipse/Enide Gradle">
+  <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+</a>
 
 Marketplace: <http://marketplace.eclipse.org/content/gradle>
 
+GitHub: 
+
+- Main: <https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.gradle> 
+- Editor: <https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.editors.gradle> 
+
 Support: <https://github.com/Nodeclipse/nodeclipse-1/issues>
 
-- Minisite <http://www.nodeclipse.org/enide/gradle/>
-( GitHub README has more information )
+Minisite: <http://www.nodeclipse.org/projects/gradle>
+( GitHub README has some more information )
+
+<script type="text/javascript">
+       url_site = 'http://marketplace.eclipse.org/node/1512180';
+</script>
+<script src="http://marketplace.eclipse.org/sites/all/modules/custom/eclipse_drigg_external/js/button.js" type="text/javascript"></script>
 
 ## Note
 
@@ -29,8 +40,9 @@ Both project are included in [Gradle IDE Pack](http://marketplace.eclipse.org/co
 
 Pivotal Gradle IDE uses [Gradle Tooling API, see Chapter 62 of User Guide](http://www.gradle.org/docs/current/userguide/embedding.html).
 This is recommended integration by GradleWare.
-In contrast Enide Gradle launches `gradle` executable similar how you do from command line. (And similar to [Enide Maven](/projects/maven))
-The API is simpler, just as what you see from `gradle -h`, but of course it will not give access to underlying model, as Tooling API
+In contrast Enide Gradle launches `gradle` executable similar how you do from command line. (And like in [Enide Maven](/projects/maven))
+The API is simpler, just as what you see from `gradle -h`, but of course it will not give access to underlying model as with Tooling API.
+
 Since 0.15 `--daemon` option is enabled by default [see Chapter 19. The Gradle Daemon](http://www.gradle.org/docs/current/userguide/gradle_daemon.html).
 And as Tooling API also uses Gradle Deamon, the performance is similar: i.e. a bit longer first run, second run is faster and optimized.
 Read also about [incremental builds](http://forums.gradle.org/gradle/topics/faster_incremental_builds).
