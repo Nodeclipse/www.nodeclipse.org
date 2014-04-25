@@ -47,3 +47,29 @@ Since 0.15 `--daemon` option is enabled by default [see Chapter 19. The Gradle D
 And as Tooling API also uses Gradle Deamon, the performance is similar: i.e. a bit longer first run, second run is faster and optimized.
 Read also about [incremental builds](http://forums.gradle.org/gradle/topics/faster_incremental_builds).
 
+### Using together
+
+With Pivotal Gradle IDE .project file is to have 
+<pre><code>    &lt;nature&gt;org.springsource.ide.eclipse.gradle.core.nature&lt;/nature&gt;
+</code></pre>
+that you get with File -> New -> Project -> Gradle / Gradle Project
+or File -> Import -> Gradle / Gradle Project
+
+With Enide Gradle build.gradle file inside project would be enough.
+It can be created  with Pivotal Gradle IDE; or by adding build.gradle file to other project (e.g. Maven or C/C++) or even outside of Eclipse, e.g. with command line 
+
+<pre><code>    $ gradle eclipse
+</code></pre>
+
+<strong>Hints</strong>:
+When the same Gradle version is configured in Pivotal Gradle IDE, Enide Gradle and/or on system PATH, then daemon is reused. That will make build and task execution faster. <a href="http://stackoverflow.com/questions/23259385/is-there-way-to-connect-to-gradle-daemon-launched-by-gradle-tooling-apis-from-co">Stackoverflow question</a> -> <a href="http://www.gradle.org/docs/current/userguide/gradle_daemon.html#reusing_daemons">Chapter 19</a>.
+
+Example:
+<pre> 
+Preferences ->
+  Gradle ->
+    Gradle distribution - Folder D:\Progs\gradle\gradle-1.11
+  Gradle Enide->
+    Gradle home to use D:\Progs\gradle\gradle-1.11
+</pre>
+
