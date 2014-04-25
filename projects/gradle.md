@@ -49,6 +49,12 @@ title="Drag and drop into a running Eclipse menu area to install/update Gradle I
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
 </a>
 
+Result of using together:
+
+<a href="http://marketplace.eclipse.org/sites/default/files/Gradle-IDE-pack1.png">
+<img alt="Gradle IDE Pack project" src="http://marketplace.eclipse.org/sites/default/files/Gradle-IDE-pack1.png" width="350" height="200" /></a>            	
+
+
 ### Design differences
 
 Pivotal Gradle IDE uses [Gradle Tooling API, see Chapter 62 of User Guide](http://www.gradle.org/docs/current/userguide/embedding.html).
@@ -62,13 +68,13 @@ Read also about [incremental builds](http://forums.gradle.org/gradle/topics/fast
 
 ### Using together
 
-With Pivotal Gradle IDE .project file is to have 
+With Pivotal Gradle IDE `.project` file is to have 
 <pre><code>    &lt;nature&gt;org.springsource.ide.eclipse.gradle.core.nature&lt;/nature&gt;
 </code></pre>
 that you get with File -> New -> Project -> Gradle / Gradle Project
 or File -> Import -> Gradle / Gradle Project
 
-With Enide Gradle build.gradle file inside project would be enough.
+With Enide Gradle `build.gradle` file inside project would be enough.
 It can be created  with Pivotal Gradle IDE; or by adding build.gradle file to other project (e.g. Maven or C/C++) or even outside of Eclipse, e.g. with command line 
 
 	$ gradle eclipse
