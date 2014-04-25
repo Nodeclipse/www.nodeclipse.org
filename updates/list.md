@@ -27,6 +27,8 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1640500)
+Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack) 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1633965)
  LESS Builder [mp](http://marketplace.eclipse.org/content/less-builder)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1631105)
@@ -83,7 +85,7 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 [**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
 is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
 
-#### EGit 3.3.1 released
+#### EGit 3.3.2 released
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
