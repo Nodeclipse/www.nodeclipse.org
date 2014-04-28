@@ -56,4 +56,6 @@ Actually you can get similar result by running [Nodeclipse CLI Installer](http:/
 
 `nci new from luna to /progs/eclipse-diy-luna/`
 
-But with maven build you can get 
+But with maven build you can get more configuration option, e.g. what plugins to be bundled.
+Do your own, or make one more distribution for Nodeclipse/Enide.
+
