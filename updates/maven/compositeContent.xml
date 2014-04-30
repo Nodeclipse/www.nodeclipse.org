@@ -3,21 +3,21 @@
 <repository name='&quot;Nodeclipse Updates Maven Pack&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303070'/><!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
+    <property name='p2.timestamp' value='1393303071'/>
   </properties>
   <children size='1'>
 	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.15.1/'/>
 	<child location='http://download.eclipse.org/technology/m2e/releases/1.4/1.4.0.20130601-0317'/>
-	<child location='http://download.jboss.org/jbosstools/updates/stable/kepler'/><!-- Maven Profiles Management -->
 	<child location='http://download.eclipse.org/m2e-wtp/releases/juno/'/>
+	<child location='http://download.jboss.org/jbosstools/updates/stable/kepler'/><!-- Maven Profiles Management -->
+	<!-- m2e dynamic sources lookup & Maven Development Tools: -->
+	<child location='http://ifedorenko.github.com/m2e-extras/'/>
 	
 	<child location='http://marketplace.eclipse.org/content/android-maven-eclipse'/>
-	<child location='http://ifedorenko.github.com/m2e-extras/'/><!-- Maven Development Tools -->
-						
-			
+	<child location='http://ibh-systems.com/download/tycho-build-tools/'/>
 	
 	<!-- Java™ 8 support for m2e for Eclipse Kepler SR2
 	http://download.eclipse.org/technology/m2e/releases/1.4/1.4.1.20140328-1905/
 	-->
-		  </children>
+  </children>
 </repository>
