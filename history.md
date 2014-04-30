@@ -20,7 +20,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
 
-### Version 0.15 "Gradly?" 2014-04-??
+### Version 0.15.1 "Gradley" 2014-04-30
+
+Thanks to Chris
 
 - [#39][39] [#49][49] color preferences for Gradle Editor and Chromium Debugger JS Editor
 - [#137][137] Gradle, Maven - specify what JAVA_HOME to use.
@@ -33,12 +35,12 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - discovered [Emmet](http://emmet.io/) (ex-Zen Coding)
  [Eclipse plugin](http://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin)
 
+  [39]: https://github.com/Nodeclipse/nodeclipse-1/issues/39
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
   [138]: https://github.com/Nodeclipse/nodeclipse-1/issues/138
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [145]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
-  [39]: https://github.com/Nodeclipse/nodeclipse-1/issues/39
 
 
 ### Version 0.12 "Android friendly color" 2014-03-31

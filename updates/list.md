@@ -6,9 +6,12 @@ layout: nil
 a img {border: none; } 
 </style>
 
-[home page](/) (news, site navigation) |
+{% include navigation-links.html %}
+
+<!-- 
  Feeds: [Stackoverfow](http://stackoverflow.com/feeds/tag?tagnames=nodeclipse&sort=newest),
  [SourceForge](http://sourceforge.net/p/nodeclipse/activity/feed)
+-->
 
 # Nodeclipse Plugins List
 
@@ -27,6 +30,43 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+#### Nodeclispe EditBox 0.55
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
+[**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
+is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
+
+#### Enide Studio 2014 0.15.1
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
+Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
+Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.15.1.
+{% include enide-studio-2014-downloads.html %}
+
+#### Maven 0.15.1 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
+ [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
+ is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
+
+#### Gradle 0.15.1 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
+ [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
+ is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
+ [mp](http://marketplace.eclipse.org/content/gradle)
+
+#### Enide & Nodeclipse 0.15.1 "Gradley" are released. 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
+ [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
+<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
+
+
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1640500)
 Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack) 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1633965)
@@ -43,35 +83,6 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
  [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
  [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
 
-#### Enide Studio 2014 0.12
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
-Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
-Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.12.
-{% include enide-studio-2014-downloads.html %}
-
-#### Maven 0.12 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
- [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
- is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
-
-#### Gradle 0.12 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
- [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
- is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
- [mp](http://marketplace.eclipse.org/content/gradle)
-
-#### Enide & Nodeclipse 0.12 "Android friendly color" are released. 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
- [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
- StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
-
-or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
-<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
-
 #### Vert.x 0.12 
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
@@ -79,11 +90,6 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
  is initial support for Eclipse vert.x projects.
  [mp](http://marketplace.eclipse.org/content/vertx)
 
-#### Nodeclispe EditBox
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
-[**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
-is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
 
 #### EGit 3.3.2 released
 
