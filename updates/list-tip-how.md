@@ -5,7 +5,7 @@ title: Nodeclipse -- Plugin List How To
 
 <p></p>
 
-[home page](/) (news, site navigation)
+{% include navigation-links.html %}
 
 # Plugin List How to
 
