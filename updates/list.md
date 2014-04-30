@@ -67,11 +67,11 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 
 
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1640500)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1640500)
 Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack) 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1633965)
  LESS Builder [mp](http://marketplace.eclipse.org/content/less-builder)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1631105)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1631105)
  [Emmet](http://emmet.io/) (toolkit for web-developers) Eclipse plugin from `http://emmet.io/eclipse/updates/`
  [mp](http://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin)
 
@@ -79,7 +79,7 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 
 #### Moonrise 0.8.9
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
  [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
  [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
 
@@ -96,7 +96,7 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
 
@@ -119,18 +119,18 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 
 ## General
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 Even though EGit is perfect GUI, you may still want to use command line `git`.
  [Msysgit](http://msysgit.github.io/) is nice distribution for Windows, that includes bash.
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
 `git` [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
  ([has some bugs in standard perspectives](/enide/studio/README#warning))
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=993512)
 [Quick Search for Eclipse](http://marketplace.eclipse.org/content/quick-search-eclipse) press Ctrl+Shift+L
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1198679)
 [Eclipse Regexp](http://marketplace.eclipse.org/content/eclipse-regexp) [github](https://github.com/zapletnev/eclipse-regexp)
