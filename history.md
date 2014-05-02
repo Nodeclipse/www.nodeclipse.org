@@ -28,7 +28,7 @@ Thanks to Chris and Teoh Han Hui
 	- [RainbowDrops.epf](https://github.com/guari/eclipse-ui-theme#syntax-highlighting-scheme-optional)
 	 from Moonrise UI theme [is updated](https://github.com/guari/eclipse-ui-theme/pull/60) as well.
 - [#137][137] Gradle, Maven - specify what JAVA_HOME to use.
- Hint: For gradle you also can use `org.gradle.java.home` property. See Chapter 20 The Build Environment.
+ Hint: For gradle you also can use `org.gradle.java.home` property. See [Chapter 20 The Build Environment](http://www.gradle.org/docs/current/userguide/build_environment.html).
 - [#138][138] Gradle Deamon `--deamon` option enabled by default 
 - [#143][143] project config updated to enable JSDoc, TODOs processing (excluding `node_modules`).
  Note that for JavaScript validation JSHint-Eclipse is used, that is capable of EcmaScript 5 validation
