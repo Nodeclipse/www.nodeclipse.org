@@ -22,9 +22,11 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.15.1 "Gradley" 2014-04-30
 
-Thanks to Chris
+Thanks to Chris and Teoh Han Hui
 
-- [#39][39] [#49][49] color preferences for Gradle Editor and Chromium Debugger JS Editor
+- [#39][39] [#49][49] color preferences for Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor
+	- [RainbowDrops.epf](https://github.com/guari/eclipse-ui-theme#syntax-highlighting-scheme-optional)
+	 from Moonrise UI theme [is updated](https://github.com/guari/eclipse-ui-theme/pull/60) as well.
 - [#137][137] Gradle, Maven - specify what JAVA_HOME to use.
  Hint: For gradle you also can use `org.gradle.java.home` property. See Chapter 20 The Build Environment.
 - [#138][138] Gradle Deamon `--deamon` option enabled by default 
