@@ -22,7 +22,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 0.15.1 "Gradley" 2014-04-30
 
-Thanks to Chris and Teoh Han Hui
+Thanks to @gurok, Chris and Teoh Han Hui
 
 - [#39][39] [#49][49] color preferences for Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor
 	- [RainbowDrops.epf](https://github.com/guari/eclipse-ui-theme#syntax-highlighting-scheme-optional)
