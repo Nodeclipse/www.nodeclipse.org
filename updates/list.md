@@ -30,6 +30,10 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
+[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) (currently only View)
+ [mp](http://marketplace.eclipse.org/content/eexplorer)
+
 #### Nodeclispe EditBox 0.55
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
