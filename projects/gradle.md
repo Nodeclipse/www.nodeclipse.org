@@ -29,6 +29,10 @@ Minisite: <http://www.nodeclipse.org/projects/gradle>
 </script>
 <script src="http://marketplace.eclipse.org/sites/all/modules/custom/eclipse_drigg_external/js/button.js" type="text/javascript"></script>
 
+## Gradle Editor
+
+[Editor page](/enide/editors/gradle)
+
 ## Templates/dropins
 
 <strong>Templates</strong> (just add build.gradle file to project):
