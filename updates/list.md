@@ -28,35 +28,15 @@ Also plugin marked with `code formating` can be installed using
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
   [2]: http://www.nodeclipse.org/updates/#update-site
 
-## News and updates
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
-Eclipse Color Theme by Nodeclipse 0.14.0-201405040707 [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
-[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) (currently only View)
- [mp](http://marketplace.eclipse.org/content/eexplorer)
-
-#### Nodeclispe EditBox 0.55
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
-[**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
-is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
-
 #### Enide Studio 2014 0.15.1
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
 Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
 Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.15.1.
 {% include enide-studio-2014-downloads.html %}
-
-#### Maven 0.15.1 
-
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
  [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
  is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
-
-#### Gradle 0.15.1 
-
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
  [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
  is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
@@ -71,8 +51,16 @@ Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 ve
 or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
 <pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
 
+## News and updates
 
-
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
+Eclipse Color Theme by Nodeclipse 0.14.0-201405040707 [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
+[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) (currently only View)
+ [mp](http://marketplace.eclipse.org/content/eexplorer)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
+[**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
+is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1640500)
 Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack) 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1633965)
@@ -80,28 +68,16 @@ Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1631105)
  [Emmet](http://emmet.io/) (toolkit for web-developers) Eclipse plugin from `http://emmet.io/eclipse/updates/`
  [mp](http://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin)
-
 To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <kbd>Tab</kbd>. Read [abbreviations](http://docs.emmet.io/abbreviations/)
-
-#### Moonrise 0.8.9
-
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
  [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
  [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
-
-#### Vert.x 0.12 
-
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
  [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
  is initial support for Eclipse vert.x projects.
  [mp](http://marketplace.eclipse.org/content/vertx)
-
-
-#### EGit 3.3.2 released
-
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
-
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
