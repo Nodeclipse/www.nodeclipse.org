@@ -30,6 +30,8 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
+Eclipse Color Theme by Nodeclipse 0.14.0-201405040707 [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
 [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) (currently only View)
  [mp](http://marketplace.eclipse.org/content/eexplorer)
