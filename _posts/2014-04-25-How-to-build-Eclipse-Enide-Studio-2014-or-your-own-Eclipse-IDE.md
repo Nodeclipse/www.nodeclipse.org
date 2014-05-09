@@ -60,7 +60,7 @@ But with maven build you can get more configuration option, e.g. what plugins to
 Do your own, or make one more distribution for Nodeclipse/Enide.
 
 Note: it is not allowed to distribute Eclipse packages using Eclipse name and/or logo,  
-that's why all companies do not inlcude Eclipse in product names event though,
+that's why all vendors do not include Eclipse in product names event though,
 they are based on Eclipse.
 
 
