@@ -97,6 +97,8 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 [Ruby (DLTK)](http://eclipse.org/dltk/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
  [Scala](http://marketplace.eclipse.org/content/scala-ide-eclipse)
+- D language ([DDT](https://github.com/bruno-medeiros/DDT))
+- Go language ([GoClipse](https://github.com/sesteel/goclipse))
 - also you can find Perl, Lua, ...
 
 ## General
