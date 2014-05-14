@@ -107,5 +107,5 @@ Example 2:
 
 ## Gradle for C/C++
 
-[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/gradle.md)
+[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/gradle/index.md)
 	    
