@@ -15,9 +15,9 @@ a img {border: none; }
 
 # Nodeclipse Plugins List
 
-The list below is for convenient and quick way to install Eclipse plugins. ([See tip how](list-tip-how)).  
+The list below is for convenient and quick way to install Eclipse plugins.   
 Just drag-and-drop such [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
- button for the plugin that you need to Eclipse menu bar above. 
+ button for the plugin that you need to Eclipse menu bar above. ([See tip how](list-tip-how)).
 
 Prefix [**Up**][2] indicates that this plugin is available from Nodeclipse updates site `http://www.nodeclipse.org/updates/` .
   
@@ -131,7 +131,7 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 ### Shells, Terminals
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png)
-TCF Terminals read goog description on [mp](http://marketplace.eclipse.org/content/tcf-terminals)
+TCF Terminals. [read good description on mp](http://marketplace.eclipse.org/content/tcf-terminals)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
 RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 [mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
@@ -230,7 +230,7 @@ Experimental [InPlace Bundle Activator](http://marketplace.eclipse.org/content/i
 ## XML, HTML
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1103239)
-[HTML Editor (standard) 3.5.1 Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
+[HTML Editor (WTP) Kepler](http://marketplace.eclipse.org/content/html-editor-standard)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=697)
 Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content/rinzo-xml-editor),[sources](https://github.com/ccancinos/rinzo-xml-editor)
 - [Amateras Eclipse HTML Editor](http://amateras.sourceforge.jp/cgi-bin/fswiki_en/wiki.cgi?page=EclipseHTMLEditor)
