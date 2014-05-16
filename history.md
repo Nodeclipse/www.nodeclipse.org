@@ -19,6 +19,18 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
+### Version 0.16 2014-05-??
+
+- [#153][153] Debug as NPM says "execvp(): No such file or directory" -> remove Debug As npm launch.  
+ Hint: launch debug for .js files explicitly or Do It Yourself 
+- Eclipse Color Themes [updated to support](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
+ Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor
+- Finally Local terminals for all OSes via [TCF Terminals](http://marketplace.eclipse.org/content/tcf-terminals)
+- Great [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer)
+
+All 3 are Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
+
+  [153]: https://github.com/Nodeclipse/nodeclipse-1/issues/153
 
 ### Version 0.15.1 "Gradley" 2014-04-30
 
@@ -40,7 +52,6 @@ Thanks to @gurok, Chris and Teoh Han Hui
   [39]: https://github.com/Nodeclipse/nodeclipse-1/issues/39
   [137]: https://github.com/Nodeclipse/nodeclipse-1/issues/137
   [138]: https://github.com/Nodeclipse/nodeclipse-1/issues/138
-  [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [145]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
 

@@ -84,6 +84,8 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 
 ## Languages
 
+[TIOBE Index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1373403)
 [Eclipse CDT (C/C++ Development Tooling)](http://eclipse.org/cdt/) [mp](http://marketplace.eclipse.org/content/eclipse-cdt-cc-development-tooling)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=725770)
@@ -94,10 +96,11 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
  [Python (with PyDev - Python IDE for Eclipse)](http://marketplace.eclipse.org/content/pydev-python-ide-eclipse)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255528)
-[Ruby (DLTK)](http://eclipse.org/dltk/)
+ [Ruby (DLTK)](http://eclipse.org/dltk/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
  [Scala](http://marketplace.eclipse.org/content/scala-ide-eclipse)
-- D language ([DDT](https://github.com/bruno-medeiros/DDT))
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=421)
+ D language ([DDT](https://github.com/bruno-medeiros/DDT))
 - Go language ([GoClipse](https://github.com/sesteel/goclipse))
 - also you can find Perl, Lua, ...
 
@@ -127,6 +130,8 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 
 ### Shells, Terminals
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png)
+TCF Terminals read goog description on [mp](http://marketplace.eclipse.org/content/tcf-terminals)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
 RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 [mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
