@@ -22,7 +22,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 ### Version 0.16 2014-05-??
 
 - [#153][153] Debug as NPM says "execvp(): No such file or directory" -> remove Debug As npm launch.  
- Hint: launch debug for .js files explicitly or Do It Yourself 
+ Hint: launch debug for .js files explicitly or [Do It Yourself](http://www.nodeclipse.org/feed.articles.xml) 
 - Eclipse Color Themes [updated to support](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
  Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor
 - Finally Local terminals for all OSes via [TCF Terminals](http://marketplace.eclipse.org/content/tcf-terminals)
