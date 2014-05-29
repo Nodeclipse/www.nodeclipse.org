@@ -28,7 +28,7 @@ without separate step of installing needed plugins.
 
 4. Open `eclipse.exe` from `eclipse` folder, e.g. <code>D:\Progs\Enide-Studio-05-kepler-win64\eclipse\eclipse.exe</code>
 
-5. If you have error messages like
+5.1 If you have error messages like
 
 	....\jre\....
 	
@@ -45,3 +45,4 @@ It should go before `-vmargs`. Examples:
 	-vm
 	C:/Program Files/Java/jdk1.7.0_11/jre/bin/javaw.exe
 		
+5.2 On Linux don't forget to `sudo chmod -R 7555 eclipse` in folder with Enide Studio

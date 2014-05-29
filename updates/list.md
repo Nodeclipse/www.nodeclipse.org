@@ -282,3 +282,11 @@ Nodeclipse Plugins List plugin (access this list with one click from Eclipse; In
 Let [us](/community) know [more by editing this list on GitHub](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md).
 (With GitHub you can edit online and send Pull Request even without getting whole project on local device.)
 
+## Updates sites
+
+`http://www.nodeclipse.org/updates/anide/` for
+
+-    tern.java : https://github.com/angelozerr/tern.java/wiki/Installation-Update-Site
+-    AngularJS Eclipse : https://github.com/angelozerr/angularjs-eclipse/wiki/Installation---Update-Site
+
+`http://www.nodeclipse.org/updates/gradle/` for [Gradle Pack](http://www.nodeclipse.org/projects/gradle/)
