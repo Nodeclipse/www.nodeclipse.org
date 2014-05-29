@@ -19,14 +19,18 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.16 2014-05-??
+### Version 0.16 2014-05/6-??
+
+Thanks to Pei-Tang Huang
 
 - [#153][153] Debug as NPM says "execvp(): No such file or directory" -> remove Debug As npm launch.  
  Hint: launch debug for .js files explicitly or [Do It Yourself](http://www.nodeclipse.org/feed.articles.xml) 
 - Eclipse Color Themes [updated to support](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
- Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor
+ Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor  
+ and then JSON, Properties, Andgular Editors and Solarized Dark/Light themes
 - Finally Local terminals for all OSes via [TCF Terminals](http://marketplace.eclipse.org/content/tcf-terminals)
 - Great [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer)
+- Add [JDT Spelling]() by Stuart Hendren <http://www.stuarthendren.net> into new Java Tools category 
 
 All 3 are Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 

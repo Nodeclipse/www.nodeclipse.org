@@ -106,6 +106,8 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 
 ## General
 
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
+ Eclipse Color Theme by Nodeclipse [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 Even though EGit is perfect GUI, you may still want to use command line `git`.
@@ -128,33 +130,11 @@ MoreUnit (assists in writing more unit tests, many programming languages) [mp](h
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=801)
 WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/wireframesketcher)
 
-### Shells, Terminals
+## Java Tools
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png)
-TCF Terminals. [read good description on mp](http://marketplace.eclipse.org/content/tcf-terminals)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
-RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
-[mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
-`startexplorer` [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
-Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
-// is actually CLI Shell, Linux/MacOS only
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
-MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
-// is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
-Review: OK for long running scripts (e.g. mvn) Not supporting interaction 
-(for tools like `npm init` or `bower init` impossibly to enter from keyboard),
-line editing is awefull (new letters always in the end)  
-Impossible to terminate running process, closing Tab causes Eclipse freeze. Is causing errors in Eclipse. 
- 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
-Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
- [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
-// have trouble downloading 
-- local terminal incubator project can be found among General purpose tools
- (depends on Eclipse C/C++ development platform) 
-// could not find way to open after installation
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1479767)
+ JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
+- MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
 
 ### Node.js & JavaScript Development
 
@@ -185,6 +165,7 @@ JSDT jQuery Integration
 [ExtJS JSDT Integration](http://zulus.github.io/extjs-eclipse/)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=945)
 JSON Editor Plugin (optional for Outline as Node Editor can do as well)
+- JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1060522)
 [TypeSctipt Editor](https://github.com/palantir/eclipse-typescript) -only for Eclipse 4.3 on Java 6+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1097343)
@@ -200,6 +181,34 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=881)
 [Vrapper](https://marketplace.eclipse.org/content/vrapper) acts as a wrapper for Eclipse text editors
  to provide a Vim-like input scheme for moving around and editing text.
+
+### Shells, Terminals
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png)
+TCF Terminals. [read good description on mp](http://marketplace.eclipse.org/content/tcf-terminals)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
+RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
+[mp](http://marketplace.eclipse.org/content/remote-system-explorer-ssh-telnet-ftp-and-dstore-protocols)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
+`startexplorer` [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
+Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
+// is actually CLI Shell, Linux/MacOS only
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
+MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
+// is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
+Review: OK for long running scripts (e.g. mvn) Not supporting interaction 
+(for tools like `npm init` or `bower init` impossibly to enter from keyboard),
+line editing is awefull (new letters always in the end)  
+Impossible to terminate running process, closing Tab causes Eclipse freeze. Is causing errors in Eclipse. 
+ 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
+Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
+ [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
+// have trouble downloading 
+- local terminal incubator project can be found among General purpose tools
+ (depends on Eclipse C/C++ development platform) 
+// could not find way to open after installation
 
 ## Eclipse Plugin/RCP Development
 
@@ -252,15 +261,12 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 
 - <http://marketplace.eclipse.org/content/cucumber-jvm-eclipse-plugin>
 - Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
-- JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
 - Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
 - Multiproperties [mp](http://marketplace.eclipse.org/content/multiproperties)
 - PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools)
 - [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
 - CKEditor for HTML [mp](http://marketplace.eclipse.org/content/eclipse-ckeditor)
-- MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
 - Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
-- JSON Tools [mp](http://marketplace.eclipse.org/content/json-tools)
 - http://marketplace.eclipse.org/content/refresh-project [github](https://github.com/hanks/Refresh_this_project_plugin_for_eclipse)
 - https://sourceforge.net/projects/classfilebrowser/ [sourceforge](https://sourceforge.net/projects/classfilebrowser/)
 
