@@ -27,6 +27,10 @@ Click on the banner below to go to the event detail.
 
 ## Future
 
+[Eclipse DemoCamps](https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014)
+
+Enide Studio session at [DemoCamp Beijing](https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing)
+
 <p>
 	<a href="http://www.joyent.com/noderoad">
 	<img src="../img/roadshow-promo.png" width="600" height="70"/></a>

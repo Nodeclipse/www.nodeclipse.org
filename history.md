@@ -23,16 +23,17 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 Thanks to Pei-Tang Huang
 
-- [#153][153] Debug as NPM says "execvp(): No such file or directory" -> remove Debug As npm launch.  
+- [#153][153] Debug as NPM says "execvp(): No such file or directory"   
+ -> remove Debug As npm launch.  
  Hint: launch debug for .js files explicitly or [Do It Yourself](http://www.nodeclipse.org/feed.articles.xml) 
 - Eclipse Color Themes [updated to support](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
  Gradle Editor, Chromium Debugger JS Editor and Minimalist Jade Editor  
- and then JSON, Properties, Andgular Editors and Solarized Dark/Light themes
+ and then (by Pei-Tang Huang) JSON, Properties, Andgular Editors and Solarized Dark/Light themes
 - Finally Local terminals for all OSes via [TCF Terminals](http://marketplace.eclipse.org/content/tcf-terminals)
 - Great [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer)
 - Add [JDT Spelling]() by Stuart Hendren <http://www.stuarthendren.net> into new Java Tools category 
 
-All 3 are Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
+All 4 are Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 
   [153]: https://github.com/Nodeclipse/nodeclipse-1/issues/153
 
@@ -59,6 +60,9 @@ Thanks to @gurok, Chris and Teoh Han Hui
   [143]: https://github.com/Nodeclipse/nodeclipse-1/issues/143
   [145]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
 
+<!-- 
+http://mikesblog.com/2013/07/as-an-entrepreneur-going-80-is-easy-its-that-last-20.html
+-->
 
 ### Version 0.12 "Android friendly color" 2014-03-31
 
