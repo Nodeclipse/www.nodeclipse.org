@@ -39,6 +39,8 @@ Minisite: <http://www.nodeclipse.org/projects/gradle>
 
 - Naturally <a href="http://marketplace.eclipse.org/content/android-development-tools-eclipse">Android Development Tools for Eclipse</a> are required for Android Development. For the latest <code>build.gradle</code> template for classic Android project check <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle">gh.c/N/n-1/b/m/o.n.e.e.g/docs/android/build.gradle</a>.
 - For the latest <code>build.gradle</code> template for basic Java project check <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/java/basic/build.gradle">gh.c/N/n-1/b/m/o.n.e.e.g/docs/java/basic/build.gradle</a>.
+- [Template for classic Eclipse project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/java/classic/build.gradle)
+ (that you create with File -> New -> Java Project)
 - For the latest <code>build.gradle</code> template for Node.js/Avatar.js project check <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/templates/hello-world/build.gradle">gh.c/N/n-1/b/m/o.n.ui/templates/hello-world/build.gradle</a>.
 
 ## Note Gradle IDE
@@ -52,6 +54,13 @@ Both project are included in [Gradle IDE Pack](http://marketplace.eclipse.org/co
 title="Drag and drop into a running Eclipse menu area to install/update Gradle IDE Pack">
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
 </a>
+
+While Enide Gradle let you execute Gradle build and task from `build.gradle` for any project (Gradle, Maven, C/C++)
+ [mp](http://marketplace.eclipse.org/content/gradle),
+With Pivotal Gradle IDE .project file is to have
+
+    <nature>org.springsource.ide.eclipse.gradle.core.nature</nature>
+
 
 Result of using together:
 
