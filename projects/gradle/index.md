@@ -67,6 +67,10 @@ Result of using together:
 <a href="http://marketplace.eclipse.org/sites/default/files/Gradle-IDE-pack1.png">
 <img alt="Gradle IDE Pack project" src="http://marketplace.eclipse.org/sites/default/files/Gradle-IDE-pack1.png" width="350" height="200" /></a>            	
 
+On the other hand, some prefer the stability and predictability of generating Eclipse settings over having them managed inside Eclipse with a plugin.
+
+<a href="http://marketplace.eclipse.org/sites/default/files/JavaClassicWithGradle.PNG">
+<img alt="Java Classic project with Gradle" src="http://marketplace.eclipse.org/sites/default/files/Gradle-IDE-pack1.png" width="350" height="200" /></a>            	
 
 ### Design differences
 
