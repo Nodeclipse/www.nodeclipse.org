@@ -16,13 +16,17 @@ layout: studio
 <a href="/img/Nodeclipse-1-debugging.png">
 <img alt="Nodeclipse debugging" src="/img/Nodeclipse-1-debugging.png" width="350" height="200" /></a>            	
 
-[README](README)
+read first [README](README)
 
 Enide Studio 2014 is preview release based on Eclipse 4.4M4. 
 While I use it myself daily since January 2014, some bugs in Eclipse newer feature are possible.
 Nodeclipse and Enide plugins are the same released versions.
 
 {% include enide-studio-2014-downloads.html %}
+
+Hint:
+
+Add `-showLocation` to launch shortcut for Enide Studio to display workspace path in window title.
             	
 ## History
 
