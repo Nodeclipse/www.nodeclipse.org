@@ -16,7 +16,7 @@ Taken from <http://stackoverflow.com/questions/16709305/add-dependencies-via-gra
 
 My (@JavaJedi) solution is based off Rafael's above in that it copies dependencies to the libs directory which is only used by Android. However I go further to completely explode the referenced AAR's for use in Eclipse.
 
-#Gradle Build File
+### Gradle Build File
 
 Add the following to the end of your Android projects build.gradle :
 
@@ -74,7 +74,7 @@ Add the following to the end of your Android projects build.gradle :
         }
     }
 
-#Building with Gradle
+### Building with Gradle
 
 Run :
 
@@ -82,7 +82,7 @@ Run :
 
 You should find all dependencies and exploded AARs in your libs directory. This is all Eclipse should need.
 
-# Importing in Eclipse #
+### Importing in Eclipse
 Now this is where the real benefit begins. After you've generated the libs directory from the gradle step above you'll notice there are folders in there too. Those new folders are the exploded AAR dependencies from your build.gradle file. 
 
 Now the cool part is that when you import your existing Android project into Eclipse it will also detect the exploded AAR folders as projects it can import too! 
@@ -101,7 +101,7 @@ Now the cool part is that when you import your existing Android project into Ecl
 **4.** Now you can right-click on your main Android project and **Run as -> Android Application**.
 
 
-#But what does this even mean?
+### But what does this even mean?
 1. Well it means you don't need the source code for any of your Android AAR Gradle dependencies in order to reference both it's classes and resources in Eclipse. 
 
 2. The gradle build script above takes the AAR file and prepares it for use in Eclipse. Once you add it to your workspace you're ready to just focus on your actual main Android project. 
