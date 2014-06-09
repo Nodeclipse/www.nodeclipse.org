@@ -28,11 +28,11 @@ Also plugin marked with `code formating` can be installed using
   [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
   [2]: http://www.nodeclipse.org/updates/#update-site
 
-#### Enide Studio 2014 0.15.1
+#### Enide Studio 2014
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
 Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
-Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.15.1.
+Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.16.
 {% include enide-studio-2014-downloads.html %}
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
  [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
@@ -42,7 +42,7 @@ Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 ve
  is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
  [mp](http://marketplace.eclipse.org/content/gradle)
 
-#### Enide & Nodeclipse 0.15.1 "Gradley" are released. 
+##### Enide & Nodeclipse 
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
  [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
@@ -184,7 +184,7 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 
 ### Shells, Terminals
 
-- [![InstallLink][1]](http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1687099)
 TCF Terminals. [read good description on mp](http://marketplace.eclipse.org/content/tcf-terminals)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
 RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
@@ -284,9 +284,11 @@ Let [us](/community) know [more by editing this list on GitHub](https://github.c
 
 ## Updates sites
 
+`http://www.nodeclipse.org/updates/1/` for [Nodeclipse-1 projects](https://github.com/nodeclipse/nodeclipse-1)
+
 `http://www.nodeclipse.org/updates/anide/` for
 
--    tern.java : https://github.com/angelozerr/tern.java/wiki/Installation-Update-Site
--    AngularJS Eclipse : https://github.com/angelozerr/angularjs-eclipse/wiki/Installation---Update-Site
+-    tern.java : <https://github.com/angelozerr/tern.java/wiki/Installation-Update-Site>
+-    AngularJS Eclipse : <https://github.com/angelozerr/angularjs-eclipse/wiki/Installation---Update-Site>
 
 `http://www.nodeclipse.org/updates/gradle/` for [Gradle Pack](http://www.nodeclipse.org/projects/gradle/)
