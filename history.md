@@ -19,7 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.16 2014-06-11
+### Version 0.16 "ECT" 2014-06-09
 
 Thanks to Pei-Tang Huang
 
@@ -31,7 +31,7 @@ Thanks to Pei-Tang Huang
  and then (by Pei-Tang Huang) JSON, Properties, Angular Editors and Solarized Dark/Light themes
 - Finally Local terminals for all OSes via [TCF Terminals](http://marketplace.eclipse.org/content/tcf-terminals)
 - Great [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer)
-- Add [JDT Spelling]() by Stuart Hendren <http://www.stuarthendren.net> into new Java Tools category 
+- Add [JDT Spelling](https://github.com/hendrens/jdt.spelling) by Stuart Hendren <http://www.stuarthendren.net> into new Java Tools category 
 
 All 4 are Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 

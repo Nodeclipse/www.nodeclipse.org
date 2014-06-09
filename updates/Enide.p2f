@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  
+Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) within Nodeclipse http://www.nodeclipse.org
+You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
+
+[Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
+v0.16 move file to nodeclipse.org; update Nodeclipse plugins
+v0.16.0 JSDT for Closure, Closure Templates, LESS; GFMV 1.8.0;
+	InstaSearch 1.5.5; Eclipse 4 Moonrise UI Theme 0.8.8;
+	Jeeeyul Themes up to 1.7.10; 
+	review all; Json Tools; Nodeclipse 0.12; up Git Addon; Coffee 0.4.0;
+	Nodeclipse/Enide 0.16.0; remove 3 color plugins, see http://www.nodeclipse.org/updates repository
+
+
+Usage: Save to local folder (Ctrl+S in most browsers)
+ Make sure file extension is .p2f
+ Start your Eclipse distribution
+ File -> Import \ Install Software Items from File, select this file location on your device.
+ If it fails, try later and|or with less items (1 at a time for example)
+ Share this file with friends or colleagues.
+ Check http://www.nodeclipse.org for news and updates.
+
+WARNING: Not so good in Kepler:
+	There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not quick/comfortable.
+	Please help to get Kepler bugs fixed by voting on these 2 bugs (you should be registered on eclipse.org and logged in).
+		 -	Bug 409685 - [Remediation] Eclipse 4.3 Kepler - Installation Remediation fails; no opt-out
+		 	https://bugs.eclipse.org/bugs/show_bug.cgi?id=409685
+		 -	Bug 409802 - [import/export] Installation Remediation DOES NOT respect selected item in File-> Import .. -> Install Software Items from File "Import Software Configuration" Dialog
+		 	https://bugs.eclipse.org/bugs/show_bug.cgi?id=409802
+	Please vote on Eclipse bugs, see below.
+	 
+	Any way you can 
+	1) use this file as information source for update site values, and use Help -> Install New Software... 
+	2) or use Nodeclipse Plugins List plugin for drag-and-drop installation ( http://www.nodeclipse.org/updates/pluginslist/ ).
+	3) Download Eclipse with plugins included or update site archive from
+	http://sourceforge.net/projects/nodeclipse/files/
+	3) Use Nodeclipse CLI Installer
+	npm install nodeclipse -g
+	cd path/to/eclipse
+	nodeclipse instal egit
+	nodeclipse help install 
+
+ 
+See also: 
+- Configuration	https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/configuration.md#configuration
+- Marketplace	http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide
+- Solution page	http://www.nodeclipse.org/enide 
+- Support		http://www.nodeclipse.org/#support
+- Issues		https://github.com/Nodeclipse/eclipse-node-ide/issues/
+- Downloads		http://sourceforge.net/projects/nodeclipse/files/
+
+Please use the #nodeclipse #enide tags to tweet about.
+
+Say Thanks to Nodeclipse & Enide
+Donate to keep the project evolving
+https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
+
+-->
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='34'>
+    <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='0 Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.epp.mpc.feature.group' name='0 Marketplace Client' version='1.2.0.v20130612-1900'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.feature.group' name='1 Nodeclipse Core and Node.js' version='0.16.0.201406090411'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.jjs.feature.feature.group' name='Nodeclipse Java 8 Nashorn JJS' version='0.16.0.201406090411'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.phantomjs.feature.feature.group' name='Nodeclipse PhantomJS' version='0.16.0.201406090411'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.mongodb.feature.feature.group' name='Nodeclipse MongoDB Shell Integration' version='0.16.0.201406090411'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='org.chromium.sdk.feature.group' name='1 Nodeclipse ChromeDevTools SDK (required)' version='0.3.9.201406090411'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='org.chromium.debug.feature.group' name='1 Nodeclipse Chromium JavaScript Remote Debugger (required)' version='0.3.9.201406090411'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='it.unibz.instasearch.feature.indigo.feature.group' name='InstaSearch' version='1.5.5'>
+      <repositories size='1'>
+        <repository location='http://code.inf.unibz.it/instasearch/downloads/'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.commons.quicksearch.feature.feature.group' name='Eclipse Quicksearch (Ctrl+Shift+L)' version='3.4.0.201310051510-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/release/TOOLS/update/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='1 JSDT (JavaScript Development Tools) - Indigo' version='1.3.2.v201201112313-7G78FZvFC7sRekSz-g-nAlz'>
+	    <repositories size='1'>
+	      <repository location='http://download.eclipse.org/releases/indigo/'/>
+	    </repositories>
+    </iu>
+    <!-- TODO
+    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='1 JSDT (JavaScript Development Tools) - Juno' version='1.4.0'>
+	    <repositories size='1'>
+	      <repository location='http://download.eclipse.org/releases/juno/'/>
+	    </repositories>
+    </iu>
+     -->
+    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='1 JSDT (JavaScript Development Tools) - Kepler' version='1.5.0.v201301022000-7H7DFhZFC7sReqSz-frflXk'>
+	    <repositories size='1'>
+	      <repository location='http://download.eclipse.org/releases/kepler/'/>
+	    </repositories>
+    </iu>
+    <iu id='org.eclipselabs.jsdt.jquery_feature.feature.group' name='JSDT jQuery Integration (Optional)' version='1.6.0'>
+      <repositories size='1'>
+        <repository location='https://svn.codespot.com/a/eclipselabs.org/jsdt-jquery/updatesite/'/>
+      </repositories>
+    </iu>
+    <iu id='com.eclipsesource.jshint.feature.feature.group' name='1 JSHint Eclipse Integration (needed)' version='0.9.9.20131029-1050'>
+      <repositories size='1'>
+        <repository location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='markdown.editor.feature.feature.group' name='2 Markdown Editor (required)' version='1.1.0.201402240523'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/enide/Markdown/1.0.0/'/>
+      </repositories>
+    </iu>
+    <iu id='code.satyagraha.gfm.viewer.feature.feature.group' name='2 GitHub Flavored Markdown (GFM) Viewer (needed)' version='1.8.3'>
+	    <repositories size='1'>
+	      <repository location='http://dl.bintray.com/satyagraha/generic/1.8.0/'/>
+	    </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='1 NJSDT (JSDT alternative when JSDT is not installed)' version='1.5.1.201309181633'>
+      <repositories size='1'>
+        <repository location='http://devtools.nexj.com/updatesite/'/>
+      </repositories>
+    </iu>
+    <iu id='com.nexj.njsdoc.feature.feature.group' name='1 NJSDoc library (only with/require for NJSDT)' version='0.0.7.201309171714'>
+      <repositories size='1'>
+        <repository location='http://devtools.nexj.com/updatesite/'/>
+      </repositories>
+    </iu>
+    <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer (Start anything)' version='1.5.1'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.3'>
+	    <repositories size='1'>
+	      <repository location='https://downloads.sourceforge.net/project/shelled/shelled/update'/>
+	    </repositories>
+	  </iu>
+    <iu id='jsonedit-feature.feature.group' name='JSON Editor Plugin (Option 1 for Outline)' version='0.9.7'>
+      <repositories size='1'>
+        <repository location='https://sourceforge.net/projects/eclipsejsonedit/files/update'/>
+      </repositories>
+    </iu>
+    <iu id='org.sweetlemonade.eclipse.json.feature.feature.group' name='Json Tools (better Option 2 for Outline)' version='1.0.3'>
+      <repositories size='1'>
+        <repository location='https://bitbucket.org/denmiroch/jsontools/src/default/JsonSite/'/>
+      </repositories>
+    </iu>
+    <iu id='code.google.restclient.tool.feature.feature.group' name='RestClient Tool (Optional)' version='1.0.3'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='csep.feature.feature.group' name='CoffeeScript Editor (depends on XText, not 4.3.1+ compatible, see #19)' version='0.4.0.201403250304'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor // not the latest' version='1.0.0.v20130802-2232'>
+      <repositories size='1'>
+        <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
+      </repositories>
+    </iu>
+    <iu id='gitaddon.feature.feature.group' name='Nodeclipse Git Addon' version='1.0.0.20140303-0606'>
+      <repositories size='1'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='com.xored.glance.feature.group' name='Glance Core (Highlight anywhere, Ctrl+Alt+F)' version='1.1.1'>
+      <repositories size='1'>
+        <repository location='http://eclipse-glance.googlecode.com/svn/site/'/>
+      </repositories>
+    </iu>
+    <iu id='com.xored.glance.cvs.feature.group' name='Glance CVS' version='1.1.1'>
+      <repositories size='1'>
+        <repository location='http://eclipse-glance.googlecode.com/svn/site/'/>
+      </repositories>
+    </iu>
+    <iu id='com.xored.glance.gef.feature.group' name='Glance GEF' version='1.1.1'>
+      <repositories size='1'>
+        <repository location='http://eclipse-glance.googlecode.com/svn/site/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.regexp.feature.feature.group' name='Regular Expression View' version='0.3.0'>
+      <repositories size='1'>
+        <repository location='http://zapletnev.github.io/eclipse-regexp/repository/'/>
+      </repositories>
+    </iu>
+    <iu id='net.jumperz.app.MMonjaDB.feature.group' name='MongoDB MonjaDBFeature (own perspective)' version='1.0.16'>
+	    <repositories size='1'>
+	      <repository location='http://www.jumperz.net/update/'/>
+	    </repositories>
+	</iu>
+	  <iu id='net.vtst.ow.eclipse.soy.feature.feature.group' name='Closure Templates' version='1.0.9.4'>
+	    <repositories size='1'>
+	      <repository location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
+	    </repositories>
+	  </iu>
+	  <iu id='net.vtst.ow.eclipse.js.closure.feature.feature.group' name='JSDT for Closure' version='0.2.8'>
+	    <repositories size='1'>
+	      <repository location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
+	    </repositories>
+	  </iu>
+	  <iu id='net.vtst.ow.eclipse.less.feature.feature.group' name='LESS' version='1.0.19'>
+	    <repositories size='1'>
+	      <repository location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
+	    </repositories>
+	  </iu>
+  </ius>
+</p2f>
