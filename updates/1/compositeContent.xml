@@ -3,10 +3,10 @@
 <repository name='Nodeclipse Updates - 1'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303074'/><!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
+    <property name='p2.timestamp' value='1402292300'/>
+    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
   </properties>
   <children size='1'>
-	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.15.1/'/>
-	<child location='http://nodeclipse.github.io/updates/eclipse-color-theme/'/>
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
   </children>
 </repository>
