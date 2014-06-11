@@ -4,7 +4,7 @@ Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) withi
 You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
-v0.16.1 put back updated color and themes 2 plugins
+v0.16.1 put back updated color and themes 3 plugins
 v0.16 move file to nodeclipse.org; update Nodeclipse plugins
 v0.15.1 JSDT for Closure, Closure Templates, LESS; GFMV 1.8.0;
 	InstaSearch 1.5.5; Eclipse 4 Moonrise UI Theme 0.8.8;
@@ -72,7 +72,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     </iu>
     <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme (Optional)' version='0.15.0.201405271138'>
 	    <repositories size='1'>
-	      <repository location='http://eclipse-color-theme.github.com/update'/>
+	      <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
 	    </repositories>
     </iu>
     <iu id='net.jeeeyul.eclipse.themes.feature.feature.group' name='Jeeeyul`s Eclipse Themes (Optional)' version='2.1.6'>
