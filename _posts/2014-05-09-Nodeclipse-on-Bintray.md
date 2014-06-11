@@ -12,7 +12,7 @@ categories: [nodeclipse,binaries,bintray]
 
 Hi All, 
 
-*This is work in progress. Content will be changed*
+~This is work in progress. Content may be changed~
 
 [Nodeclipse](http://www.nodeclipse.org/) started in 2012 as effort to make tools for [Node.js](http://www.nodejs.org/)
  development in [Eclipse](http://www.eclipse.org/).
@@ -26,6 +26,8 @@ Hi All,
 
 All that was enabled by [Bintray](https://bintray.com/) reliable binaries distribution service.
 Once we started using Bintray, we got that updates issues solved. (And started caring more about other things.)
+
+![](/img/bintray-nodeclipse-stats-month-to-20140419-680x350.png)
  
 Initially in [@Nodeclipse](https://github.com/nodeclipse/) we had binaries just together
  with site content of <http://www.nodeclipse.org>,
