@@ -4,6 +4,7 @@ Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) withi
 You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
+v0.16.2 add eExplorer 
 v0.16.1 put back updated color and themes 3 plugins
 v0.16 move file to nodeclipse.org; update Nodeclipse plugins
 v0.15.1 JSDT for Closure, Closure Templates, LESS; GFMV 1.8.0;
@@ -21,8 +22,8 @@ Usage: Save to local folder (Ctrl+S in most browsers)
  Share this file with friends or colleagues.
  Check http://www.nodeclipse.org for news and updates.
 
-WARNING: Not so good in Kepler:
-	There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not quick/comfortable.
+WARNING: Not so good in Kepler+:
+	There are 2 bug since Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not quick/comfortable.
 	Please help to get Kepler bugs fixed by voting on these 2 bugs (you should be registered on eclipse.org and logged in).
 		 -	Bug 409685 - [Remediation] Eclipse 4.3 Kepler - Installation Remediation fails; no opt-out
 		 	https://bugs.eclipse.org/bugs/show_bug.cgi?id=409685
@@ -38,8 +39,8 @@ WARNING: Not so good in Kepler:
 	3) Use Nodeclipse CLI Installer
 	npm install nodeclipse -g
 	cd path/to/eclipse
-	nodeclipse instal egit
-	nodeclipse help install 
+	nci instal egit
+	nci help install 
 
  
 See also: 
@@ -59,7 +60,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='37'>
+  <ius size='38'>
     <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='0 Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
       <repositories size='1'>
         <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
@@ -130,7 +131,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
 	      <repository location='http://download.eclipse.org/releases/indigo/'/>
 	    </repositories>
     </iu>
-    <!-- TODO
+    <!-- TODO Juno
     <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='1 JSDT (JavaScript Development Tools) - Juno' version='1.4.0'>
 	    <repositories size='1'>
 	      <repository location='http://download.eclipse.org/releases/juno/'/>
@@ -148,12 +149,14 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
       </repositories>
     </iu>
     <iu id='com.eclipsesource.jshint.feature.feature.group' name='1 JSHint Eclipse Integration (needed)' version='0.9.9.20131029-1050'>
-      <repositories size='1'>
+      <repositories size='2'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
         <repository location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>
       </repositories>
     </iu>
     <iu id='markdown.editor.feature.feature.group' name='2 Markdown Editor (required)' version='1.1.0.201402240523'>
-      <repositories size='1'>
+      <repositories size='2'>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
         <repository location='http://dl.bintray.com/enide/Markdown/1.0.0/'/>
       </repositories>
     </iu>
@@ -175,6 +178,11 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer (Start anything)' version='1.5.1'>
       <repositories size='1'>
         <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.culmat.eexplorer.feature.feature.group' name='eExplorer (embedded Windows Explore)' version='1.0.0.201406101853'>
+      <repositories size='1'>
+        <repository location='http://culmat.github.io/eExplorer/updatesite/'/>
       </repositories>
     </iu>
     <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.3'>
