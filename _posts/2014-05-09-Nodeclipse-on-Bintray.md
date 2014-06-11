@@ -27,7 +27,7 @@ Hi All,
 All that was enabled by [Bintray](https://bintray.com/) reliable binaries distribution service.
 Once we started using Bintray, we got that updates issues solved. (And started caring more about other things.)
 
-![](/img/bintray-nodeclipse-stats-month-to-20140419-680x350.png)
+[![](/img/bintray-nodeclipse-stats-month-to-20140419-680x350.png)](https://bintray.com/nodeclipse/nodeclipse/nodeclipse-1/view/statistics)
  
 Initially in [@Nodeclipse](https://github.com/nodeclipse/) we had binaries just together
  with site content of <http://www.nodeclipse.org>,
@@ -46,14 +46,14 @@ The speed. I am currently in China where Internet is different: there is no Goog
 and they are often time-outed; there are no Facebook and Twitter as well), but most importantly for software development topics
 is that 
 
-1. SourceForge http://sourceforge.net/ is very slow, some projects can't be even open (guess they are phisically on different servers),
+1. SourceForge <http://sourceforge.net/> is very slow, some projects can't be even opened (guess they are phisically on different servers),
 the speed can be 0 to 6KB/s  
-2. GitHub http://github.com/ is quicker ~10KB/s, very rarely unavailable, but there is problem with big file.
+2. GitHub <http://github.com/> is quicker ~10KB/s, very rarely unavailable, but there is problem with big file.
 [GitHub Flavored Markdown Viewer](https://github.com/satyagraha/gfm_viewer) has 6MB file which download was almost always lost,
 Eclipse seems to be able to continue install, but it can't resume file download.
 (From very early GitHub have been saying that they  are optimized for small files. And for 2-3 years
 they had their binary download service just closed)
-3. Bintray https://bintray.com/ is 15-30KB/s, that is almost 3 times quicker than GitHub 
+3. Bintray <https://bintray.com/> is 15-30KB/s, that is almost 3 times quicker than GitHub 
 
 I would be glad to get other numbers from other regions,
  but nobody from Nodeclipse users have yet complained about speed or shared download speed numbers.
