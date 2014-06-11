@@ -4,8 +4,9 @@ Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) withi
 You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
+v0.16.1 put back updated color and themes 2 plugins
 v0.16 move file to nodeclipse.org; update Nodeclipse plugins
-v0.16.0 JSDT for Closure, Closure Templates, LESS; GFMV 1.8.0;
+v0.15.1 JSDT for Closure, Closure Templates, LESS; GFMV 1.8.0;
 	InstaSearch 1.5.5; Eclipse 4 Moonrise UI Theme 0.8.8;
 	Jeeeyul Themes up to 1.7.10; 
 	review all; Json Tools; Nodeclipse 0.12; up Git Addon; Coffee 0.4.0;
@@ -58,7 +59,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='34'>
+  <ius size='37'>
     <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='0 Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
       <repositories size='1'>
         <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
@@ -69,6 +70,21 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
         <repository location='http://download.eclipse.org/releases/kepler'/>
       </repositories>
     </iu>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme (Optional)' version='0.15.0.201405271138'>
+	    <repositories size='1'>
+	      <repository location='http://eclipse-color-theme.github.com/update'/>
+	    </repositories>
+    </iu>
+    <iu id='net.jeeeyul.eclipse.themes.feature.feature.group' name='Jeeeyul`s Eclipse Themes (Optional)' version='2.1.6'>
+      <repositories size='1'>
+        <repository location='http://eclipse.jeeeyul.net/update/'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.eclipseuitheme.themes.feature.feature.group' name='Eclipse Moonrise UI Theme (Optional)' version='0.8.9.201404052318'>
+	    <repositories size='1'>
+	      <repository location='https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite'/>
+	    </repositories>
+	  </iu>
     <iu id='org.nodeclipse.feature.group' name='1 Nodeclipse Core and Node.js' version='0.16.0.201406090411'>
       <repositories size='1'>
         <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
