@@ -9,6 +9,7 @@ title: Nodeclipse/Enide Maven for Eclipse - launch build for that `pom.xml`
 
 GitHub: <https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.maven> 
 
+Read description on  
 Marketplace: <http://marketplace.eclipse.org/content/maven>
 
 Support: <https://github.com/Nodeclipse/nodeclipse-1/issues>
@@ -22,7 +23,7 @@ TODO: Tomcat, Jetty configuration example, see GitHub README for links
 ## Android with Maven build
 
 1. Make sure you have Maven 3.1.1+ `mvn -v`
-2. and Android SDK is installed.
+2. and Android SDK is installed. (`android` should launch SDK Manager.)
 3. add following pom.xml, change `groupId`, `artifactId`
 
 	<?xml version="1.0" encoding="UTF-8"?>
@@ -83,17 +84,19 @@ TODO: Tomcat, Jetty configuration example, see GitHub README for links
 4. Right-click pom.xml, select Run As -> mvn package  
 or run `mvn package` from command line
 5. If build fails over missing android.jar
- 
-	git clone https://github.com/mosabua/maven-android-sdk-deployer.git
-	mvn install -P 4.4
+
+``` 
+git clone https://github.com/mosabua/maven-android-sdk-deployer.git
+mvn install -P 4.4
+```
 
 Need to change `<groupId>com.google.android</groupId>` into `<groupId>android</groupId>`  
 read more at <https://github.com/mosabua/maven-android-sdk-deployer>
 
 ### Links
 
-1. https://code.google.com/p/maven-android-plugin/wiki/GettingStarted
-2. http://www.vogella.com/tutorials/AndroidBuildMaven/article.html
-3. http://books.sonatype.com/mvnref-book/reference/android-dev.html
+1. <https://code.google.com/p/maven-android-plugin/wiki/GettingStarted>
+2. <http://www.vogella.com/tutorials/AndroidBuildMaven/article.html>
+3. <http://books.sonatype.com/mvnref-book/reference/android-dev.html>
 
 [Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/maven.md)
