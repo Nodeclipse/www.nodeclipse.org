@@ -12,6 +12,9 @@ title="Drag and drop into a running Eclipse/Enide Studio menu area to install/up
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
 </a>
 
+Minisite: <http://www.nodeclipse.org/projects/gradle>
+( GitHub READMEs and Marketplace entries have some additional information. )
+
 Marketplace: <http://marketplace.eclipse.org/content/gradle>
 
 GitHub: 
@@ -21,8 +24,7 @@ GitHub:
 
 Support: <https://github.com/Nodeclipse/nodeclipse-1/issues>
 
-Minisite: <http://www.nodeclipse.org/projects/gradle>
-( GitHub README has some more information )
+Gradle lives at <http://www.gradle.org/>
 
 <script type="text/javascript">
        url_site = 'http://marketplace.eclipse.org/node/1512180';
@@ -55,6 +57,8 @@ Minisite: <http://www.nodeclipse.org/projects/gradle>
 
 Do not confuse with
 <a href="http://marketplace.eclipse.org/content/gradle-integration-eclipse">Gradle Integration for Eclipse by Pivotal (feature name is Gradle IDE)</a>.
+( [Sources on GitHub](https://github.com/spring-projects/eclipse-integration-gradle),
+[JIRA tickets for GRADLE component](https://issuetracker.springsource.com/issues/?jql=project+%3D+STS+AND+resolution+%3D+Unresolved+AND+component+%3D+GRADLE+ORDER+BY+priority+DESC) )
 
 Both project are included in [Gradle IDE Pack](http://marketplace.eclipse.org/content/gradle-ide-pack).
 
