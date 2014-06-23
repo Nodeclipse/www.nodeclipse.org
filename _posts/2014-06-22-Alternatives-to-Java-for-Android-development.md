@@ -1,7 +1,7 @@
 ---
 layout: share
 title: Alternative to Java for Android development
-date: 2014-05-09
+date: 2014-06-22
 categories: [android,java,swift,xtend,groovy]
 ---
 
