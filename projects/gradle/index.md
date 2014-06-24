@@ -35,6 +35,10 @@ Gradle lives at <http://www.gradle.org/>
 
 [Editor page](/enide/editors/gradle)
 
+## Style
+
+[Style](style)
+
 ## Android
 
 [Android page](android)
