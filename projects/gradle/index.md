@@ -134,6 +134,14 @@ Example 2:
 	  Gradle Enide->
 	    v use wrapper if `gradlew[.bat]` is present (appears after `gradle wrapper`)
 
+In Android Studio <kbd>Ctrl+Alt+Shift+S</kbd> or File -> Project Structure,  
+on Project tab check/edit Gradle version. (Yes, of cause Android Studio is using daemon/Tooling API too)
+
+From command line use `--daemon` option
+```
+gradle build --daemon
+```
+
 ## Gradle for C/C++
 
 [Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/gradle/index.md)
