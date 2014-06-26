@@ -6,8 +6,8 @@
     <property name='p2.timestamp' value='1393303064'/>
   </properties>
   <children size='1'>
-	<child location='http://oss.opensagres.fr/angularjs-eclipse/0.2.0/'/>
-	<child location='http://oss.opensagres.fr/tern.repository/0.2.0/'/>
+	<child location='http://oss.opensagres.fr/angularjs-eclipse/0.3.0/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/0.3.0/'/>
   </children>
 </repository>
  
