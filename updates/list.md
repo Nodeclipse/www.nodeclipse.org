@@ -54,10 +54,7 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 ## News and updates
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
-Eclipse Color Theme by Nodeclipse 0.14.0-201405040707 [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
-[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) (currently only View)
- [mp](http://marketplace.eclipse.org/content/eexplorer)
+Eclipse Color Theme by Nodeclipse [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
 [**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
 is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
@@ -184,6 +181,9 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 
 ### Shells, Terminals
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
+[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) 
+ [mp](http://marketplace.eclipse.org/content/eexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1687099)
 TCF Terminals. [read good description on mp](http://marketplace.eclipse.org/content/tcf-terminals)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1267725)
