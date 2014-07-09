@@ -181,6 +181,8 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 
 ### Shells, Terminals
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1760305)
+Eclipse Zip Editor [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
 [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) 
  [mp](http://marketplace.eclipse.org/content/eexplorer)
@@ -193,7 +195,10 @@ RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 `startexplorer` [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
 Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
-// is actually CLI Shell, Linux/MacOS only
+// is actually CLI Shell, Linux/MacOS only; see related TCF Terminals that have all OSes support 
+
+### Not recommended 
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
 MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
 // is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
