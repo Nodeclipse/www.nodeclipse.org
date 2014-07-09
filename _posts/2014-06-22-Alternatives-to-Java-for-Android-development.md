@@ -34,11 +34,11 @@ But much interesting results happens when old language is applied to do new thin
 
 ## C++
 
-C++ has been long ago. It is just not Java/JVM based.
+C++ has been long ago via [NDK](https://developer.android.com/tools/sdk/ndk/). It is just not Java/JVM based.
 
 ## Xtend
 
-Xtend is naturally goes well with Eclipse IDE and maven, there are:
+[Xtend][2] is naturally goes well with Eclipse IDE and maven, also there are:
 
  - <https://github.com/oehme/xtend-gradle-plugin>
  - <https://github.com/svenlange/intellij-xtend-plugin>
@@ -50,7 +50,7 @@ Xtend is naturally goes well with Eclipse IDE and maven, there are:
   
 ## Groovy
 
-Groovy on Android 
+[Groovy](http://groovy.codehaus.org/) on Android 
 presentation by Cédric Champeau
 <https://speakerdeck.com/melix/groovy-on-android>  
 [PDF](https://speakerd.s3.amazonaws.com/presentations/e8e58fc0cdee0131f20616308848c4b8/Groovy_on_Android.pdf)
@@ -65,7 +65,12 @@ GitHub: <https://github.com/melix/groovy-android-gradle-plugin>
 Quotes from blog:  
 "Some people are already asking for a {swift} alternative for Android."
 
+## Scala
+
+[Scala](http://www.scala-lang.org/) was mentioned in comment.
+
 ## Final word
 
 Note that final word will be by Google. (Just like it was for Maven vs Gradle).  
+It has now deep pockets with [Go](http://golang.org/) and [Dart](https://www.dartlang.org/), and actually Java 8 would give different taste to Android evelopment.
  
