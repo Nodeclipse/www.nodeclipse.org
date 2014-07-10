@@ -19,6 +19,13 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
+### Meanwhile
+
+- made with love, excellent [Eclipse Zip (and Jar) Editor](http://sourceforge.net/projects/zipeditor/)
+ [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor) by Uwe Voigt.
+
+Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
+
 ### Version 0.16 "ECT" 2014-06-09
 
 Thanks to Pei-Tang Huang
