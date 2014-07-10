@@ -3,7 +3,7 @@
 <repository name='Nodeclipse Updates'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1402292300'/>
+    <property name='p2.timestamp' value='1402292315'/>
     <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
   </properties>
   <children size='1'>
@@ -19,6 +19,6 @@
 	<child location='http://dl.bintray.com/nodeclipse/EditBox/0.50.0/'/>
 	-->
 	<child location='http://dist.springsource.com/release/TOOLS/gradle/'/>
-	<child location='http://download.eclipse.org/technology/m2e/releases/1.4/1.4.0.20130601-0317'/>
+	<child location='http://download.eclipse.org/technology/m2e/releases/'/>
   </children>
 </repository>

@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='&quot;Nodeclipse Updates Maven Pack&quot;'
+<repository name='Nodeclipse Updates Maven Pack'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303071'/>
+    <property name='p2.timestamp' value='1402292315'/>
   </properties>
   <children size='1'>
-	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.15.1/'/>
-	<child location='http://download.eclipse.org/technology/m2e/releases/1.4/1.4.0.20130601-0317'/>
-	<child location='http://download.eclipse.org/m2e-wtp/releases/juno/'/>
-	<child location='http://download.jboss.org/jbosstools/updates/stable/kepler'/><!-- Maven Profiles Management -->
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+	<child location='http://download.eclipse.org/technology/m2e/releases/'/>
+	<child location='http://download.eclipse.org/m2e-wtp/releases/luna/'/>
 	<!-- m2e dynamic sources lookup & Maven Development Tools: -->
 	<child location='http://ifedorenko.github.com/m2e-extras/'/>
 	

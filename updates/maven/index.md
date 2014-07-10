@@ -6,16 +6,16 @@ Status: seems to be too slow solution.
 
 This is [Eclipse update site](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/maven/)
 
-For current Eclipse version, i.e. 4.3.x Kepler
+For current Eclipse version, i.e. 4.4.x Luna
 
 Don't grab everything too fast (may be too heavy) especially with Android ADT.
 
 ## Includes:
 
 - [Enide Maven](http://marketplace.eclipse.org/content/maven)
-- [Maven Integration for Eclipse (Juno and newer)](http://marketplace.eclipse.org/content/maven-integration-eclipse-juno-and-newer) aka *m2e*
-- [Maven Integration for Eclipse WTP (Juno)](http://marketplace.eclipse.org/content/maven-integration-eclipse-wtp-juno-0) aka *m2e-wtp*
-- [Maven Profiles Management](http://marketplace.eclipse.org/content/maven-profiles-management)
+- [Maven Integration for Eclipse (Luna)](http://marketplace.eclipse.org/content/maven-integration-eclipse-luna) aka *m2e*
+- [Maven Integration for Eclipse WTP (Luna)](http://marketplace.eclipse.org/content/maven-integration-eclipse-wtp-juno-0) aka *m2e-wtp*
+- [Maven Profiles Management](http://marketplace.eclipse.org/content/maven-profiles-management) comes with m2e 1.5
 - [m2e dynamic sources lookup](http://marketplace.eclipse.org/content/m2e-dynamic-sources-lookup)
  [GitHub](https://github.com/ifedorenko/com.ifedorenko.m2e.sourcelookup)
 - [Maven Development Tools](http://marketplace.eclipse.org/content/maven-development-tools) (for maven plugins development)
