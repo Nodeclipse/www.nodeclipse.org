@@ -4,7 +4,7 @@ Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) withi
 You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
-v0.16.3 add Zip(and Jar) Editor; TCF Terminlas (Luna)
+v0.16.3 add Zip(and Jar) Editor; TCF Terminals (Luna)
 v0.16.2 add eExplorer 
 v0.16.1 put back updated color and themes 3 plugins
 v0.16 move file to nodeclipse.org; update Nodeclipse plugins
@@ -246,21 +246,21 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
 	      <repository location='http://www.jumperz.net/update/'/>
 	    </repositories>
 	</iu>
-	  <iu id='net.vtst.ow.eclipse.soy.feature.feature.group' name='Closure Templates' version='1.0.9.4'>
+	<iu id='net.vtst.ow.eclipse.soy.feature.feature.group' name='Closure Templates' version='1.0.9.4'>
 	    <repositories size='1'>
 	      <repository location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
 	    </repositories>
-	  </iu>
-	  <iu id='net.vtst.ow.eclipse.js.closure.feature.feature.group' name='JSDT for Closure' version='0.2.8'>
+	</iu>
+	<iu id='net.vtst.ow.eclipse.js.closure.feature.feature.group' name='JSDT for Closure' version='0.2.8'>
 	    <repositories size='1'>
 	      <repository location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
 	    </repositories>
-	  </iu>
-	  <iu id='net.vtst.ow.eclipse.less.feature.feature.group' name='LESS' version='1.0.19'>
+	</iu>
+	<iu id='net.vtst.ow.eclipse.less.feature.feature.group' name='LESS' version='1.0.19'>
 	    <repositories size='1'>
 	      <repository location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
 	    </repositories>
-	  </iu>
+	</iu>
     <iu id='org.eclipse.tcf.te.terminals.feature.feature.group' name='TCF Terminal (Console) View' version='1.2.0.201406042322'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/luna'/>
