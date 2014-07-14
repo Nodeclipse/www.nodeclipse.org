@@ -109,6 +109,8 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 Even though EGit is perfect GUI, you may still want to use command line `git`.
  [Msysgit](http://msysgit.github.io/) is nice distribution for Windows, that includes bash.
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1789454)
+ Gonsole - [Git Console](http://rherrmann.github.io/gonsole/) [mp](https://marketplace.eclipse.org/content/gonsole)  
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
 `git` [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
@@ -131,6 +133,13 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1479767)
  JDT-Spelling [mp](http://marketplace.eclipse.org/content/jtd-spelling)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1789419)
+ [Maven Integration for Eclipse (Luna)](https://www.eclipse.org/m2e/) [mp](http://marketplace.eclipse.org/content/maven-integration-eclipse-luna)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1789419)
+ [Maven (Java EE) Integration for Eclipse WTP (Luna)](https://www.eclipse.org/m2e-wtp/)
+ [mp](http://marketplace.eclipse.org/content/maven-java-ee-integration-eclipse-wtp-luna)
+
+
 - MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
 
 ### Node.js & JavaScript Development
@@ -183,7 +192,7 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1760305)
 [Eclipse Zip Editor](http://sourceforge.net/projects/zipeditor/) [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor)
-(also handles .jar files)
+(also handles .jar and .aar files)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
 [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) 
  [mp](http://marketplace.eclipse.org/content/eexplorer)
@@ -197,21 +206,6 @@ RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
 Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
 // is actually CLI Shell, Linux/MacOS only; see related TCF Terminals that have all OSes support 
-
-### Not recommended 
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=909243)
-MintJams Terminal Plug-in [mp](http://marketplace.eclipse.org/content/mintjams-terminal-plug)
-// is actually local CLI Shell opened in Editor area, that lets you have many shells running in tabs.
-Review: OK for long running scripts (e.g. mvn) Not supporting interaction 
-(for tools like `npm init` or `bower init` impossibly to enter from keyboard),
-line editing is awefull (new letters always in the end)  
-Impossible to terminate running process, closing Tab causes Eclipse freeze. Is causing errors in Eclipse. 
- 
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=215)
-Wicked Shell - A non-evil eclipse plugin providing an integrated [Windows] shell (by Stefan Reichert).
- [mp](http://marketplace.eclipse.org/content/wicked-shell), [site](http://www.wickedshell.net/)
-// have trouble downloading 
 
 ## Eclipse Plugin/RCP Development
 
