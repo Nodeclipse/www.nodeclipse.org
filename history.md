@@ -21,9 +21,14 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Meanwhile
 
+- fix [#158][158] Nodeclipse was throwing Exception when could not find Node executable.
+ That happen on Ubuntu where Node.js was installed with [package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#ubuntu-mint-elementary-os).
+ Note that you are advised get `node` name instead of `nodejs` as answered on [Stackoverflow](http://stackoverflow.com/questions/18130164/nodejs-vs-node-on-ubuntu-12-04).
 - made with love, excellent [Eclipse Zip (and Jar) Editor](http://sourceforge.net/projects/zipeditor/)
  [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor) by Uwe Voigt.
 
+  [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
+  
 Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 
 ### Version 0.16 "ECT" 2014-06-09
