@@ -43,7 +43,7 @@ Comparing to this Eclipse (and [Apache Foundation](http://www.apache.org/)) at l
 - clear criteria and process to retire a project
 
 With [ECT](https://github.com/eclipse-color-theme/eclipse-color-theme) lack of process or agreements
- became issue [#201](https://github.com/eclipse-color-theme/eclipse-color-theme/issues/201#issuecomment-51036576):
+ became issue [#201 Update Color Theme Unsuccessful](https://github.com/eclipse-color-theme/eclipse-color-theme/issues/201#issuecomment-51036576):
 
 Timeline <https://github.com/Nodeclipse/eclipse-color-theme/releases/> , <https://github.com/eclipse-color-theme/eclipse-color-theme/releases>
 also seen in [/history page](/history)
