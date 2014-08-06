@@ -19,7 +19,8 @@ Eclipse process is generally considered to be heavy. That causes Eclipse leaders
 Like any open source project, that grows while there are contributors to it,
  [Eclipse](http://www.apache.org/) is interested in [attracting](https://www.eclipse.org/community/eclipse_newsletter/2014/july/article3.php)
  new [contributors](https://www.eclipse.org/community/eclipse_newsletter/2014/july/article2.php), so are every team leaders.
- Eclipse as organization is promoting openness and [measuring project health](https://www.eclipse.org/community/eclipse_newsletter/2014/july/article1.php).
+ Eclipse as organization is promoting openness, [measuring project health](https://www.eclipse.org/community/eclipse_newsletter/2014/july/article1.php)
+ and [users satisfaction](http://www.i-programmer.info/news/136-open-source/7500-eclipse-community-survey-2014.html).
  
 There are books that teaches how like [Contributing to Eclipse: Principles, Patterns, and Plug-Ins](http://www.amazon.com/Contributing-Eclipse-Principles-Patterns-Plug-Ins/dp/0321205758)
  and [New book: Contributing to the Eclipse project: Principles, Plug-ins and Gerrit Code Review](http://blog.vogella.com/2014/06/05/new-book-contributing-to-the-eclipse-project-principles-plug-ins-and-gerrit-code-review/)
