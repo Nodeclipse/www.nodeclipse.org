@@ -73,6 +73,9 @@ and hope ECT owner will release [new features earlier](https://github.com/eclips
 
 For Nodeclipse users: as ECT 0.14.0 has identical Nodeclipse support as 0.15.0, there is no need for anything.
 
+[![](https://cloud.githubusercontent.com/assets/1614482/3824642/4fdf39ae-1d4a-11e4-96e3-b3a7f8fe1090.PNG)](https://github.com/eclipse-color-theme/eclipse-color-theme/issues/195)
+
+
 
 
 
