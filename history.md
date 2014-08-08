@@ -27,6 +27,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  Note that you are advised get `node` name instead of `nodejs` as answered on [Stackoverflow](http://stackoverflow.com/questions/18130164/nodejs-vs-node-on-ubuntu-12-04).
 - made with love, excellent [Eclipse Zip (and Jar, Aar) Editor](http://sourceforge.net/projects/zipeditor/)
  [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor) by Uwe Voigt.
+- [Tool Discovery at Developer Liberation Front](http://research.csc.ncsu.edu/dlf/?q=node/7) is researching why developers are using and not using tools.
 
   [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
   
