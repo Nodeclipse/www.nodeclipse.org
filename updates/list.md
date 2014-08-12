@@ -55,8 +55,10 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1827835)
 Color IDE Pack - Quickly install 4 plugins to colorize Eclipse (ECT, Moonrise, Jeeeyul, EditBox). [mp](https://marketplace.eclipse.org/content/color-ide-pack) 
+<!--
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
 Eclipse Color Theme by Nodeclipse [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
+-->
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
 [**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
 is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
