@@ -19,17 +19,27 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Meanwhile
+### Version 0.17 Meanwhile summer vacation
 
+<!--
+- [#143][143] make `node_modules` not to appear in Task List by defining `node_modules` as JSDT JavaScript library folder.
+-->
+- [#154][154] hide "Node with Monitor" launcher - While more generic approach was tried (any monitor), this functionality was not finished,
+ neither there were reposts on success or people willing to continue. However this feature was causing a lot of questions. 
+ Recommendation is to use TCF terminals to launch preferred monitor.
 - fix [#158][158] Nodeclipse [PreferenceInitializer was throwing Exception](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/src/org/nodeclipse/ui/preferences/PreferenceInitializer.java#L135-163)
  when could not find Node executable.
  That happened on Ubuntu where Node.js was installed with [package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#ubuntu-mint-elementary-os).
  Note that you are advised get `node` name instead of `nodejs` as answered on [Stackoverflow](http://stackoverflow.com/questions/18130164/nodejs-vs-node-on-ubuntu-12-04).
+- icons in Preferences pages
+- [#160][160] By default add Tern Nature, so that Tern completions will be enabled when Tern.java is installed.
 - made with love, excellent [Eclipse Zip (and Jar, Aar) Editor](http://sourceforge.net/projects/zipeditor/)
  [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor) by Uwe Voigt.
 - [Tool Discovery at Developer Liberation Front](http://research.csc.ncsu.edu/dlf/?q=node/7) is researching why developers are using and not using tools.
 
-  [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/145
+  [154]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
+  [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
+  [160]: https://github.com/Nodeclipse/nodeclipse-1/issues/160
   
 Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 
