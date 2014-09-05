@@ -3,11 +3,11 @@
 <repository name='Nodeclipse Updates - Anide'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1393303065'/>
+    <property name='p2.timestamp' value='1393303066'/>
   </properties>
   <children size='1'>
-	<child location='http://oss.opensagres.fr/angularjs-eclipse/0.4.0/'/>
-	<child location='http://oss.opensagres.fr/tern.repository/0.4.0/'/>
+	<child location='http://oss.opensagres.fr/angularjs-eclipse/0.5.0/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/0.5.0/'/>
   </children>
 </repository>
  
