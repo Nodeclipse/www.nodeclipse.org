@@ -20,6 +20,7 @@
 	 -->
 	<child location='http://dist.springsource.com/release/TOOLS/gradle/'/>
 	<child location='http://download.eclipse.org/technology/m2e/releases/'/>
+	<child location='http://mirur.io/update-site/'/>
   </children>
 </repository>
  
