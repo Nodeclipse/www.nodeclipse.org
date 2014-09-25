@@ -19,7 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.17 Meanwhile summer vacation 2014-?-?
+### Version 0.17 Meanwhile summer vacation / Express 4.x and Tern support 2014-?-?
 
 <!--
 - [#143][143] make `node_modules` not to appear in Task List by defining `node_modules` as JSDT JavaScript library folder.
@@ -33,19 +33,34 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  Note that you are advised get `node` name instead of `nodejs` as answered on [Stackoverflow](http://stackoverflow.com/questions/18130164/nodejs-vs-node-on-ubuntu-12-04).
 - icons in Preferences pages
 - [#160][160] [#165][165] By default add Tern Nature, so that Tern completions will be enabled when Tern.java is installed.
-- made with love, excellent [Eclipse Zip (and Jar, Aar) Editor](http://sourceforge.net/projects/zipeditor/)
- [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor) by Uwe Voigt.
 - [Tool Discovery at Developer Liberation Front](http://research.csc.ncsu.edu/dlf/?q=node/7) is researching why developers are using and not using tools.
+- made with love, excellent [Eclipse Zip (and Jar, Aar) Editor](http://sourceforge.net/projects/zipeditor/)
+ by Uwe Voigt [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor).  
+Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 - [#161][161] Express 4.x support (as discussed by @dwwaddell and @nodeleaf, also [asked on SO](http://stackoverflow.com/questions/26007228/how-to-update-express-js-template-in-nodeclipse)):
 	- associate Editor for `www` file ([See SO](http://stackoverflow.com/questions/26029815/eclipse-development-associate-an-editor-for-files-without-extentions))
-	- stop raising exception when file is without Exception, but assume .js by default 
+	- stop raising exception when file is without Exception, but assume .js by default. So now you can launch `www` in Run and Debug mode
+	By the way, you do without that but copying `www` file into `start.js` in the project root:
 
+```	
+console.log('starting Express server');
+var debug = require('debug')('ProjectName');
+var app = require('./app');
+
+app.set('port', process.env.PORT || 3000);
+
+var server = app.listen(app.get('port'), function() {
+  debug('Express server listening on port ' + server.address().port);
+});
+```	
+	 
 
   [154]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
   [160]: https://github.com/Nodeclipse/nodeclipse-1/issues/160
   [161]: https://github.com/Nodeclipse/nodeclipse-1/issues/161
   [165]: https://github.com/Nodeclipse/nodeclipse-1/issues/165
+    
 
 ### Version 0.16 "ECT" 2014-06-09
 

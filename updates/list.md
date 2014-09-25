@@ -195,8 +195,9 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 ### Shells, Terminals
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1760305)
-[Eclipse Zip Editor](http://sourceforge.net/projects/zipeditor/) [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor)
+[Eclipse Zip Editor](http://sourceforge.net/projects/zipeditor/)
 (also handles .jar and .aar files)
+ [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
 [eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) 
  [mp](http://marketplace.eclipse.org/content/eexplorer)
