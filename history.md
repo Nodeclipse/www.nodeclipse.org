@@ -19,7 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.17 Meanwhile summer vacation
+### Version 0.17 Meanwhile summer vacation 2014-?-?
 
 <!--
 - [#143][143] make `node_modules` not to appear in Task List by defining `node_modules` as JSDT JavaScript library folder.
@@ -32,16 +32,20 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  That happened on Ubuntu where Node.js was installed with [package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#ubuntu-mint-elementary-os).
  Note that you are advised get `node` name instead of `nodejs` as answered on [Stackoverflow](http://stackoverflow.com/questions/18130164/nodejs-vs-node-on-ubuntu-12-04).
 - icons in Preferences pages
-- [#160][160] By default add Tern Nature, so that Tern completions will be enabled when Tern.java is installed.
+- [#160][160] [#165][165] By default add Tern Nature, so that Tern completions will be enabled when Tern.java is installed.
 - made with love, excellent [Eclipse Zip (and Jar, Aar) Editor](http://sourceforge.net/projects/zipeditor/)
  [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor) by Uwe Voigt.
 - [Tool Discovery at Developer Liberation Front](http://research.csc.ncsu.edu/dlf/?q=node/7) is researching why developers are using and not using tools.
+- [#161][161] Express 4.x support (as discussed by @dwwaddell and @nodeleaf, also [asked on SO](http://stackoverflow.com/questions/26007228/how-to-update-express-js-template-in-nodeclipse)):
+	- associate Editor for `www` file ([See SO](http://stackoverflow.com/questions/26029815/eclipse-development-associate-an-editor-for-files-without-extentions))
+	- stop raising exception when file is without Exception, but assume .js by default 
+
 
   [154]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
   [160]: https://github.com/Nodeclipse/nodeclipse-1/issues/160
-  
-Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
+  [161]: https://github.com/Nodeclipse/nodeclipse-1/issues/161
+  [165]: https://github.com/Nodeclipse/nodeclipse-1/issues/165
 
 ### Version 0.16 "ECT" 2014-06-09
 
