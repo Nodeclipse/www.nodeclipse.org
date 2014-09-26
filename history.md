@@ -33,6 +33,7 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
  Note that you are advised get `node` name instead of `nodejs` as answered on [Stackoverflow](http://stackoverflow.com/questions/18130164/nodejs-vs-node-on-ubuntu-12-04).
 - icons in Preferences pages
 - [#160][160] [#165][165] By default add Tern Nature, so that Tern completions will be enabled when Tern.java is installed.
+ You will see doc when mouse over and completions options from `node` module of tern.
 - [Tool Discovery at Developer Liberation Front](http://research.csc.ncsu.edu/dlf/?q=node/7) is researching why developers are using and not using tools.
 - made with love, excellent [Eclipse Zip (and Jar, Aar) Editor](http://sourceforge.net/projects/zipeditor/)
  by Uwe Voigt [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor).  
