@@ -19,7 +19,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 0.17 Meanwhile summer vacation / Express 4.x and Tern support 2014-?-?
+### Version 0.17 Express 4.x and TernIDE support 2014-09-26
 
 <!--
 - [#143][143] make `node_modules` not to appear in Task List by defining `node_modules` as JSDT JavaScript library folder.
@@ -40,8 +40,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 Listed in Help -> [Nodeclipse Plugins List](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md)
 - [#161][161] Express 4.x support (as discussed by @dwwaddell and @nodeleaf, also [asked on SO](http://stackoverflow.com/questions/26007228/how-to-update-express-js-template-in-nodeclipse)):
 	- associate Editor for `www` file ([See SO](http://stackoverflow.com/questions/26029815/eclipse-development-associate-an-editor-for-files-without-extentions))
-	- stop raising exception when file is without Exception, but assume .js by default. So now you can launch `www` in Run and Debug mode
-	By the way, you do without that but copying `www` file into `start.js` in the project root:
+	- stop raising exception when file is without Exception, but assume .js by default. So now you can launch `www` in Run and Debug mode.  
+	By the way, you can do without that but copying `./bin/www` file into `./start.js` in the project root
+	(then you don't need to look into `bin` folder):
 
 ```	
 console.log('starting Express server');
