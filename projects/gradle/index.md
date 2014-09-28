@@ -99,6 +99,17 @@ Since 0.15 `--daemon` option is enabled by default [see Chapter 19. The Gradle D
 And as Tooling API also uses Gradle Deamon, the performance is similar: i.e. a bit longer first run, second run is faster and optimized.
 Read also about [incremental builds](http://forums.gradle.org/gradle/topics/faster_incremental_builds). Daemon can be shared, see below.
 
+Since [Gradle 2.1](http://www.gradle.org/docs/current/release-notes#incremental-java-compilation)
+there is [Incremental Java compilation](http://www.gradle.org/docs/current/userguide/java_plugin.html#sec:incremental_compile)
+that is enabled `options.incremental` (see below). When enabled the first full build will be longer but recompiling should be comparable
+to that of IDE. 
+
+	allprojects {
+	    tasks.withType(JavaCompile) {
+	        options.incremental = true
+	    }
+	}
+
 ### Using together
 
 With Pivotal Gradle IDE `.project` file is to have 
