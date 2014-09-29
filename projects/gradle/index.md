@@ -155,9 +155,9 @@ gradle build --daemon
 
 #### Importing from Android Studio into Eclipse
 
-**This is work in progress, welcome to raise issue on GitHub.**
+**This is work in progress, welcome to raise issue on [GitHub](https://github.com/Nodeclipse/nodeclipse-1/issues).**
 
-First, it easier to create project with Eclipse-ADT, add `build.gradle` and import into Android Studio
+First, it is easier to create project with Eclipse-ADT, add `build.gradle` and import into Android Studio
 by selecting that `build.gradle`, then other way around.
 
 ##### Single-project
@@ -166,7 +166,7 @@ see step 2 below
 
 ##### Multi-project
 
-1. Add `.project` file into root (you can also use Nodeclipse CLI `nodeclipse -g`)
+1. Add `.project` file into root 
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -182,9 +182,10 @@ see step 2 below
 </projectDescription>
 ```
 
-e.g. from C:\Users\username\AndroidStudioProjects\MyApplicationName
+(you can also use [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli-commands) )
+e.g. from froject root `C:\Users\username\AndroidStudioProjects\MyApplicationName` run `nodeclipse -g`
 
-In Android Studio "Copy Path" <kbd>Ctrl+Shift+C</kbd>,  
+Copy that path (e.g. in Android Studio "Copy Path" <kbd>Ctrl+Shift+C</kbd>),  
 in Eclipse File -> Import -> General / Existing Project into workspace
 
 ![](MyApplicationName.PNG)
@@ -198,7 +199,7 @@ Further operation you can do within Eclipse
 
 2.1 Add 2 standard .files for Android project as below
  (you can get them by creating new project with Eclipse-ADT,
- only need to change `kind="src" path="src/main/java"`):
+ only need to change `"src" path="src/main/java"`):
 
 - `.project` :
 
@@ -261,9 +262,9 @@ On Lunix
 	ln -s src/main/res res
 	ln -s src/main/AndroidManifest.xml AndroidManifest.xml
 
-On Windows I don't yet know grace way:
+On Windows I don't yet know grace way that would work always:
 
-http://stackoverflow.com/questions/26081449/symbolic-links-on-windows
+<http://stackoverflow.com/questions/26081449/symbolic-links-on-windows>
 
 	mklink /D res src/main/res
 	mklink AndroidManifest.xml src/main/AndroidManifest.xml
@@ -279,11 +280,15 @@ I discovered that [Git Bash](http://msysgit.github.io/) can execute `ln -s src/m
 
 2.3 Add `gen` folder
 
-2.4 add 
+2.4 add `project.properties`
+
+```
+target=android-15
+```
 
 2.5 Import as existing project
 
-click on `mobile` , <kbd>Ctrl+Alt+C<>  
+click on `mobile` , [<kbd>Ctrl+Alt+C</kbd>](http://www.nodeclipse.org/usage#General-Tools)  
 File -> Import -> General / Existing Project into workspace
 
 ![](MyApplicationName-mobile-symlink-done.PNG)
