@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: gradle
 title: Nodeclipse/Enide Gradle for Eclipse - Android
 ---
 

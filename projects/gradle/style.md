@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: gradle
 title: Gradle Code Style
 ---
 
