@@ -153,7 +153,11 @@ From command line use `--daemon` option
 gradle build --daemon
 ```
 
+<!-- 
 #### Importing from Android Studio into Eclipse
+-->
+<h4><a name="Importing-from-Android-Studio-into-Eclipse" class="anchor" href="#Importing-from-Android-Studio-into-Eclipse"></a>
+Importing from Android Studio into Eclipse</h4>
 
 **This is work in progress, welcome to raise issue on [GitHub](https://github.com/Nodeclipse/nodeclipse-1/issues).**
 
@@ -191,7 +195,7 @@ in Eclipse File -> Import -> General / Existing Project into workspace
 ![](MyApplicationName.PNG)
 
 At this point, you don't really need to have ADT. Eclipse is like Viewer,
- but you already can launch Gradle build and run on Device (when you have defined `run` task)
+ but you already can launch Gradle `build` , `installDebug` or run on Device (when you have defined `run` task)
 
 Further operation you can do within Eclipse
 
@@ -295,10 +299,11 @@ File -> Import -> General / Existing Project into workspace
 
 DONE.
 
-Of course limirations are:
+Of course limitations are:
 
 - Eclipse is still using ADT to build
 - dependencies added via gradle are not visible to ADT (but jars in `libs` folder are shared of course)
+
 
 ## Gradle for C/C++
 
