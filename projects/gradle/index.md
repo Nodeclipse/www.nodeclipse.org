@@ -22,7 +22,9 @@ GitHub:
 - Main: <https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.gradle> 
 - Editor: <https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.editors.gradle> 
 
-Support: <https://github.com/Nodeclipse/nodeclipse-1/issues>
+Support: 
+ - <https://github.com/Nodeclipse/nodeclipse-1/issues>
+ - <http://stackoverflow.com/questions/tagged/android+eclipse+gradle>
 
 Gradle lives at <http://www.gradle.org/>
 
@@ -97,8 +99,9 @@ The API is simpler, just as what you see from `gradle -h`, but of course it will
 
 Since 0.15 `--daemon` option is enabled by default [see Chapter 19. The Gradle Daemon](http://www.gradle.org/docs/current/userguide/gradle_daemon.html).
 And as Tooling API also uses Gradle Deamon, the performance is similar: i.e. a bit longer first run, second run is faster and optimized.
-Read also about [incremental builds](http://forums.gradle.org/gradle/topics/faster_incremental_builds). Daemon can be shared, see below.
+Daemon can be shared, see below.
 
+Read also about [incremental builds](http://forums.gradle.org/gradle/topics/faster_incremental_builds). 
 Since [Gradle 2.1](http://www.gradle.org/docs/current/release-notes#incremental-java-compilation)
 there is [Incremental Java compilation](http://www.gradle.org/docs/current/userguide/java_plugin.html#sec:incremental_compile)
 that is enabled `options.incremental` (see below). When enabled the first full build will be longer but recompiling should be comparable
@@ -301,9 +304,10 @@ DONE.
 
 Of course limitations are:
 
-- Eclipse is still using ADT to build
+- Eclipse is still using ADT to build 
+ (Why not? "To be able to use Gradle-based Android projects in Eclipse, someone will have to write an Eclipse plugin for it, which won't be a trivial task." 
+ [answered by Scott Barta](http://stackoverflow.com/questions/23772343/setup-standard-android-project-using-gradle-in-eclipse))
 - dependencies added via gradle are not visible to ADT (but jars in `libs` folder are shared of course)
-
 
 ## Gradle for C/C++
 
