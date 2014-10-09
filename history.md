@@ -55,13 +55,17 @@ var server = app.listen(app.get('port'), function() {
   debug('Express server listening on port ' + server.address().port);
 });
 ```	
-	 
+
+- [#166][166] [Enide Studio 2014](\enide\studio\2014) to be 
+the most [featureful distribution](http://marketplace.eclipse.org/content/enide-studio-2014-nodejs-javascript-and-java)
+ with AngularJS, TernIDE and TCF Terminals included.	 
 
   [154]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [158]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
   [160]: https://github.com/Nodeclipse/nodeclipse-1/issues/160
   [161]: https://github.com/Nodeclipse/nodeclipse-1/issues/161
   [165]: https://github.com/Nodeclipse/nodeclipse-1/issues/165
+  [166]: https://github.com/Nodeclipse/nodeclipse-1/issues/165
     
 
 ### Version 0.16 "ECT" 2014-06-09

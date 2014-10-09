@@ -4,6 +4,12 @@ layout: studio
 
 # Enide Studio 2014
 
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853" 
+  title="Drag and drop onto a running Eclipse main toolbar to install Enide Studio 2014 plugins: Node.js, JavaScript and Java">
+  <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+</a>
+
+
 <a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
 <img alt="Enide-Studio-2014-File-New" src="/img/enide-studio/Enide-Studio-2014-File-New.png" width="350" height="200" /></a>            	
 
@@ -16,7 +22,22 @@ layout: studio
 <a href="/img/Nodeclipse-1-debugging.png">
 <img alt="Nodeclipse debugging" src="/img/Nodeclipse-1-debugging.png" width="350" height="200" /></a>            	
 
-read first [README](README)
+This is the most feature reach distribution of Nodeclipse.
+
+As [mentioned in Marketplace entry](http://marketplace.eclipse.org/content/enide-studio-2014)
+
+> Enide Studio 2014 was initially released as stand-alone product (version 0.11-preview)
+and this marketplace entries to allow updates.
+
+> Time showed as Windows user, I [Paul] could not also check if there are issues on other platforms, so only plugins distribution will follow. 
+This may change if anyone would join as Linux/OS X co-maintainer.
+
+> You should install plugins in recent Eclipse distribution. Otherwise check individual plugins for there compatibility. 
+E.g. Nodeclipse plugin should work with 3.x and 4.x Eclipse versions.
+
+See also [#166](https://github.com/Nodeclipse/nodeclipse-1/issues/166) 
+
+read [README](README)
 
 Enide Studio 2014 is preview release based on Eclipse 4.4M4. 
 While I use it myself daily since January 2014, some bugs in Eclipse newer feature are possible.
@@ -33,3 +54,7 @@ Add `-showLocation` to launch shortcut for Enide Studio to display workspace pat
 2014-02-28 0.11-preview
 The intention is to let you try this Eclipse package (that has a lot of improvements)
 without separate step of installing needed plugins.
+
+2014-10-09 0.17 to include AnglularJS and TernIDE but not be as stand-alone product 
+[#166](https://github.com/Nodeclipse/nodeclipse-1/issues/166).
+
