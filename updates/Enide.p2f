@@ -4,6 +4,7 @@ Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) withi
 You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
+v0.17 update Nodeclipse to 0.17
 v0.16.3 add Zip(and Jar) Editor; TCF Terminals (Luna)
 v0.16.2 add eExplorer 
 v0.16.1 put back updated color and themes 3 plugins
@@ -54,17 +55,13 @@ See also:
 
 Please use the #nodeclipse #enide tags to tweet about.
 
-Say Thanks to Nodeclipse & Enide
-Donate to keep the project evolving
-https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
-
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
   <ius size='40'>
     <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='0 Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.epp.mpc.feature.group' name='0 Marketplace Client' version='1.2.0.v20130612-1900'>
@@ -74,7 +71,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     </iu>
     <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme (Optional)' version='0.15.0.201405271138'>
 	    <repositories size='1'>
-	      <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+	      <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
 	    </repositories>
     </iu>
     <iu id='net.jeeeyul.eclipse.themes.feature.feature.group' name='Jeeeyul`s Eclipse Themes (Optional)' version='2.1.6'>
@@ -87,34 +84,34 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
 	      <repository location='https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite'/>
 	    </repositories>
 	  </iu>
-    <iu id='org.nodeclipse.feature.group' name='1 Nodeclipse Core and Node.js' version='0.16.0.201406090411'>
+    <iu id='org.nodeclipse.feature.group' name='1 Nodeclipse Core and Node.js' version='0.17.0.201409260936'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
-    <iu id='org.nodeclipse.jjs.feature.feature.group' name='Nodeclipse Java 8 Nashorn JJS' version='0.16.0.201406090411'>
+    <iu id='org.nodeclipse.jjs.feature.feature.group' name='Nodeclipse Java 8 Nashorn JJS' version='0.17.0.201409260936'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
-    <iu id='org.nodeclipse.phantomjs.feature.feature.group' name='Nodeclipse PhantomJS' version='0.16.0.201406090411'>
+    <iu id='org.nodeclipse.phantomjs.feature.feature.group' name='Nodeclipse PhantomJS' version='0.17.0.201409260936'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
-    <iu id='org.nodeclipse.mongodb.feature.feature.group' name='Nodeclipse MongoDB Shell Integration' version='0.16.0.201406090411'>
+    <iu id='org.nodeclipse.mongodb.feature.feature.group' name='Nodeclipse MongoDB Shell Integration' version='0.17.0.201409260936'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='org.chromium.sdk.feature.group' name='1 Nodeclipse ChromeDevTools SDK (required)' version='0.3.9.201406090411'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='org.chromium.debug.feature.group' name='1 Nodeclipse Chromium JavaScript Remote Debugger (required)' version='0.3.9.201406090411'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='it.unibz.instasearch.feature.indigo.feature.group' name='InstaSearch' version='1.5.5'>
@@ -151,13 +148,13 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     </iu>
     <iu id='com.eclipsesource.jshint.feature.feature.group' name='1 JSHint Eclipse Integration (needed)' version='0.9.9.20131029-1050'>
       <repositories size='2'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
         <repository location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>
       </repositories>
     </iu>
     <iu id='markdown.editor.feature.feature.group' name='2 Markdown Editor (required)' version='1.1.0.201402240523'>
       <repositories size='2'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
         <repository location='http://dl.bintray.com/enide/Markdown/1.0.0/'/>
       </repositories>
     </iu>
@@ -178,7 +175,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     </iu>
     <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer (Start anything)' version='1.5.1'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='com.github.culmat.eexplorer.feature.feature.group' name='eExplorer (embedded Windows Explore)' version='1.0.0.201406101853'>
@@ -203,12 +200,12 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     </iu>
     <iu id='code.google.restclient.tool.feature.feature.group' name='RestClient Tool (Optional)' version='1.0.3'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='csep.feature.feature.group' name='CoffeeScript Editor (depends on XText, not 4.3.1+ compatible, see #19)' version='0.4.0.201403250304'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor // not the latest' version='1.0.0.v20130802-2232'>
@@ -218,7 +215,7 @@ https://coinbase.com/checkouts/e9ac3765ff998b0e03b9e91f73152fc1
     </iu>
     <iu id='gitaddon.feature.feature.group' name='Nodeclipse Git Addon' version='1.0.0.20140303-0606'>
       <repositories size='1'>
-        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.16/'/>
+        <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
       </repositories>
     </iu>
     <iu id='com.xored.glance.feature.group' name='Glance Core (Highlight anywhere, Ctrl+Alt+F)' version='1.1.1'>
