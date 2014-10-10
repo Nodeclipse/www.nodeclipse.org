@@ -35,6 +35,9 @@ This may change if anyone would join as Linux/OS X co-maintainer.
 > You should install plugins in recent Eclipse distribution. Otherwise check individual plugins for there compatibility. 
 E.g. Nodeclipse plugin should work with 3.x and 4.x Eclipse versions.
 
+> You can still download and use Enide Studio 2014 0.11-preview but are strongly advised to update
+Eclipse to 4.4 stable and Nodeclipse to the latest (0.17 as of writing).
+
 See also [#166](https://github.com/Nodeclipse/nodeclipse-1/issues/166) 
 
 read [README](README)
