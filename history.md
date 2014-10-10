@@ -56,7 +56,7 @@ var server = app.listen(app.get('port'), function() {
 });
 ```	
 
-- [#166][166] [Enide Studio 2014](\enide\studio\2014) to be 
+- [#166][166] [Enide Studio 2014](/enide/studio/2014) to be 
 the most [featureful distribution](http://marketplace.eclipse.org/content/enide-studio-2014-nodejs-javascript-and-java)
  with AngularJS, TernIDE and TCF Terminals included.	 
 
