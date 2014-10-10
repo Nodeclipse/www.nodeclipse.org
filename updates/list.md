@@ -31,9 +31,12 @@ Also plugin marked with `code formating` can be installed using
 #### Enide Studio 2014
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
-Tool Suite for Node.js, JavaScript, Java and Eclipse plugin Development.  
+Tool Suite for Node.js, JavaScript, Java Development.
+<!--   
 Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.16.
 {% include enide-studio-2014-downloads.html %}
+-->
+
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
  [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
  is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
