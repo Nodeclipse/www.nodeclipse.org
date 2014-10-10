@@ -4,6 +4,8 @@ layout: studio
 
 # Enide Studio 2014
 
+<p></p>
+
 Recommended install via drag-and-drop of install button 
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853" 
   title="Drag and drop onto a running Eclipse main toolbar to install Enide Studio 2014 plugins: Node.js, JavaScript and Java">
