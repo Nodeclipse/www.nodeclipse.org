@@ -20,10 +20,12 @@ get
 <img alt="Enide Studio 2014.17 for Windows x64" src="http://www.nodeclipse.org/img/enide-studio/icon-windows.png" />
 Enide Studio 2014.17 for Windows x64</a>
 
+Screens:
+
 <a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
 <img alt="Enide-Studio-2014-File-New" src="/img/enide-studio/Enide-Studio-2014-File-New.png" width="350" height="200" /></a>            	
 
-<a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
+<a href="/img/enide-studio/Enide-Studio-2014.17-createServer.png">
 <img alt="Enide-Studio-2014.17-createServer.png" src="/img/enide-studio/Enide-Studio-2014.17-createServer.png" width="350" height="200" /></a>            	
 
 <a href="/img/Nodeclipse-NTS-Hello-world.png">
