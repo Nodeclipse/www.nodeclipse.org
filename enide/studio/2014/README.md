@@ -3,6 +3,8 @@ layout: studio
 ---
 
 see <http://www.nodeclipse.org/enide/studio/2014/README>
+and <http://www.nodeclipse.org/enide/studio/2014/README_2014.17>
+
 
 ## Enide Studio 2014 README
 

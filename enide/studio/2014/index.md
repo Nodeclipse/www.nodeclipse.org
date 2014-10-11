@@ -47,15 +47,17 @@ See also [#166](https://github.com/Nodeclipse/nodeclipse-1/issues/166)
 
 read [README](README)
 
-Enide Studio 2014 is preview release based on Eclipse 4.4M4. 
-While I use it myself daily since January 2014, some bugs in Eclipse newer feature are possible.
+See also [Enide Studio 2014.17 for Windows64](README_2014.17)
+
+Enide Studio 2014 0.11 was preview release based on Eclipse 4.4M4. 
+While I used it myself daily since January 2014, some bugs in Eclipse newer feature are possible.
 Nodeclipse and Enide plugins are the same released versions.
 
 {% include enide-studio-2014-downloads.html %}
 
 Hint:
 
-Add `-showLocation` to launch shortcut for Enide Studio to display workspace path in window title.
+Add `-showLocation` to launch shortcut for Enide Studio `eclipse.exe` to display workspace path in window title.
             	
 ## History
 
@@ -66,3 +68,4 @@ without separate step of installing needed plugins.
 2014-10-09 0.17 to include AnglularJS and TernIDE but not be as stand-alone product 
 [#166](https://github.com/Nodeclipse/nodeclipse-1/issues/166).
 
+2014-10-14 2014.17 for Windows64
