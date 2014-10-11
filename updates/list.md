@@ -36,6 +36,10 @@ Tool Suite for Node.js, JavaScript, Java Development (Nodeclipse, Enide, TernIDE
 Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.16.
 {% include enide-studio-2014-downloads.html %}
 -->
+get
+<a href="http://sourceforge.net/projects/nodeclipse/files/Enide-Studio-2014/0.17/Enide-Studio-2014.17-luna-SR1-win64-20141011.zip/download">
+<img alt="Enide Studio 2014.17 for Windows x64" src="http://www.nodeclipse.org/img/enide-studio/icon-windows.png" />
+Enide Studio 2014.17 for Windows x64</a>
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
  [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
