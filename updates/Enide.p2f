@@ -4,6 +4,7 @@ Copyright (C) 2013-2014, by [Paul Verest](http://eclipse-china.github.io/) withi
 You can do whatever you want with this p2f file as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) Node.x (js,coffee,ts)
+v0.17.1 add AngularJS and Tern
 v0.17 update Nodeclipse to 0.17
 v0.16.3 add Zip(and Jar) Editor; TCF Terminals (Luna)
 v0.16.2 add eExplorer 
@@ -58,7 +59,7 @@ Please use the #nodeclipse #enide tags to tweet about.
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='40'>
+  <ius size='44'>
     <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='0 Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
       <repositories size='1'>
         <repository location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
@@ -268,5 +269,26 @@ Please use the #nodeclipse #enide tags to tweet about.
 	      <repository location='http://zipeditor.sourceforge.net/update'/>
 	    </repositories>
 	</iu>
+    <iu id='angularjs-eclipse-feature.feature.group' name='AngularJS Eclipse' version='0.5.0.201409012155'>
+	    <repositories size='1'>
+	      <repository location='http://www.nodeclipse.org/updates/anide/'/>
+	    </repositories>
+	</iu>
+	<iu id='tern-feature.feature.group' name='Tern feature' version='0.5.0.201409012129'>
+	    <repositories size='1'>
+	      <repository location='http://www.nodeclipse.org/updates/anide/'/>
+	    </repositories>
+	</iu>
+	<iu id='tern-jsdt-feature.feature.group' name='Tern JSDT feature' version='0.5.0.201409012129'>
+	    <repositories size='1'>
+	      <repository location='http://www.nodeclipse.org/updates/anide/'/>
+	    </repositories>
+	</iu>
+	<iu id='tern-server-nodejs-feature.feature.group' name='Tern server node.js feature' version='0.5.0.201409012129'>
+	    <repositories size='1'>
+	      <repository location='http://www.nodeclipse.org/updates/anide/'/>
+	    </repositories>
+	</iu>
+	
   </ius>
 </p2f>
