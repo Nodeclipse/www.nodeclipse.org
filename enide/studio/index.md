@@ -4,6 +4,8 @@ layout: studio
 
 # Enide Studio
 
+<p></p>
+
 Check newer [Enide Studio 2014](2014)
 
 <a href="/img/Nodeclipse-NTS-Hello-world.png">
