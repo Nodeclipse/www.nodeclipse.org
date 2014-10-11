@@ -78,4 +78,5 @@ without separate step of installing needed plugins.
 2014-10-09 0.17 to include AnglularJS and TernIDE but not be as stand-alone product 
 [#166](https://github.com/Nodeclipse/nodeclipse-1/issues/166).
 
-2014-10-14 2014.17 for Windows64
+2014-10-11 2014.17 for Windows64
+
