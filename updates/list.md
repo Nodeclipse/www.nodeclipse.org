@@ -31,7 +31,7 @@ Also plugin marked with `code formating` can be installed using
 #### Enide Studio 2014
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
-Tool Suite for Node.js, JavaScript, Java Development.
+Tool Suite for Node.js, JavaScript, Java Development (Nodeclipse, Enide, TernIDE, TCF Terminals and [more](/enide/studio/2014/)).
 <!--   
 Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.16.
 {% include enide-studio-2014-downloads.html %}
