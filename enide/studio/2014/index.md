@@ -15,6 +15,11 @@ on Eclipse main toolbar.
 
 <a href="/updates/list-tip-how">See tip how</a>
 
+get
+<a href="http://sourceforge.net/projects/nodeclipse/files/Enide-Studio-2014/0.17/Enide-Studio-2014.17-luna-SR1-win64-20141011.zip/download">
+<img alt="Enide Studio 2014.17 for Windows x64" src="http://www.nodeclipse.org/img/enide-studio/icon-windows.png" />
+Enide Studio 2014.17 for Windows x64</a>
+
 <a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
 <img alt="Enide-Studio-2014-File-New" src="/img/enide-studio/Enide-Studio-2014-File-New.png" width="350" height="200" /></a>            	
 
