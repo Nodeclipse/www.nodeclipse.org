@@ -23,6 +23,9 @@ Enide Studio 2014.17 for Windows x64</a>
 <a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
 <img alt="Enide-Studio-2014-File-New" src="/img/enide-studio/Enide-Studio-2014-File-New.png" width="350" height="200" /></a>            	
 
+<a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
+<img alt="Enide-Studio-2014.17-createServer.png" src="/img/enide-studio/Enide-Studio-2014.17-createServer.png" width="350" height="200" /></a>            	
+
 <a href="/img/Nodeclipse-NTS-Hello-world.png">
 <img alt="Nodeclipse Hello World" src="/img/Nodeclipse-NTS-Hello-world.png" width="350" height="200" /></a>            	
             	
