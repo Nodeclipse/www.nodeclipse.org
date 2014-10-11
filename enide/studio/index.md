@@ -4,6 +4,8 @@ layout: studio
 
 # Enide Studio
 
+Check newer [Enide Studio 2014](2014)
+
 <a href="/img/Nodeclipse-NTS-Hello-world.png">
 <img alt="Nodeclipse 0.4.10 overview" src="/img/Nodeclipse-NTS-Hello-world.png" width="350" height="200" /></a>            	
             	
@@ -18,8 +20,6 @@ layout: studio
 [Download Enide Studio for Windows x64/x32](https://sourceforge.net/projects/nodeclipse/files/Enide-Studio/)
 
 <p><a href="http://marketplace.eclipse.org/content/enide-studio">Marketplace</a>.</p>
-
-Check newer [Enide Studio 2014](2014)
             	
 ## History
 
