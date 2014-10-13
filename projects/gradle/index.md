@@ -7,6 +7,11 @@ title: Nodeclipse/Enide Gradle for Eclipse - build C/C++, Java, Groovy, Android 
 
 <p></p>
 
+Gradle lives at <http://www.gradle.org/>.
+
+This page introduces to Gradle for Eclipse (Enide Gradle), shows other solutions
+gives help and hints links.
+
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180" 
 title="Drag and drop into a running Eclipse/Enide Studio menu area to install/update Nodeclipse/Enide Gradle">
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
@@ -26,8 +31,6 @@ Support:
  - <https://github.com/Nodeclipse/nodeclipse-1/issues>
  - <http://stackoverflow.com/questions/tagged/android+eclipse+gradle>
 
-Gradle lives at <http://www.gradle.org/>
-
 <script type="text/javascript">
        url_site = 'http://marketplace.eclipse.org/node/1512180';
 </script>
@@ -36,6 +39,9 @@ Gradle lives at <http://www.gradle.org/>
 ## Gradle Editor
 
 [Editor page](/enide/editors/gradle)
+
+<a href="/enide/editors/gradle">
+<img alt="Minimalist Gradle Editor with Nodeclipse EditBx" src="http://marketplace.eclipse.org/sites/default/files/eclipse-color-theme-with-rainbowdrops.png" width="350" height="200" /></a>            	
 
 ## Style
 
