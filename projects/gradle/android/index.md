@@ -7,8 +7,11 @@ title: Nodeclipse/Enide Gradle for Eclipse - Android
 
 <p></p>
 
-[Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
+Pages:
 
+- [Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
+- [Importing from Android Studio into Eclipse](android/Importing-from-Android-Studio-into-Eclipse)
+- see AAR in Eclipse below
 
 ### AAR
 
@@ -76,14 +79,14 @@ Add the following to the end of your Android projects build.gradle :
 
 ### Building with Gradle
 
-Run :
-
-`"gradle clean build"`
+Run `gradle clean build` ( or within Eclipse right-click `build.gradle` Rus As -> Gradle build )
 
 You should find all dependencies and exploded AARs in your libs directory. This is all Eclipse should need.
 
 ### Importing in Eclipse
-Now this is where the real benefit begins. After you've generated the libs directory from the gradle step above you'll notice there are folders in there too. Those new folders are the exploded AAR dependencies from your build.gradle file. 
+
+Now this is where the real benefit begins. After you've generated the libs directory from the gradle step above you'll notice there are folders in there too.
+ Those new folders are the exploded AAR dependencies from your `build.gradle` file. 
 
 Now the cool part is that when you import your existing Android project into Eclipse it will also detect the exploded AAR folders as projects it can import too! 
 
@@ -102,6 +105,7 @@ Now the cool part is that when you import your existing Android project into Ecl
 
 
 ### But what does this even mean?
+
 1. Well it means you don't need the source code for any of your Android AAR Gradle dependencies in order to reference both it's classes and resources in Eclipse. 
 
 2. The gradle build script above takes the AAR file and prepares it for use in Eclipse. Once you add it to your workspace you're ready to just focus on your actual main Android project. 
