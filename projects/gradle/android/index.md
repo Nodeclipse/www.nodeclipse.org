@@ -7,6 +7,8 @@ title: Nodeclipse/Enide Gradle for Eclipse - Android
 
 <p></p>
 
+Back to [Gradle for Eclipse](../) page
+
 Pages:
 
 - [Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
