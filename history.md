@@ -19,6 +19,14 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
+### Version .17.plus 2014-10-13
+
+- [JSH#99 Errors running builder 'JSHint Problem Checker'](https://github.com/eclipsesource/jshint-eclipse/issues/99) 
+ -> make sure to have the latest
+ [JSHint-Eclipse](http://marketplace.eclipse.org/content/jshint-eclipse) v0.9.10.20141011-1730
+- include Tern support in Nodeclipse, Enide.p2f and Enide Studio 2014 marketplace entries
+- stand-alone [Enide Studio 2014 for Windows 64](/enide/studio/2014/README_2014.17)  
+
 ### Version 0.17 Express 4.x and TernIDE support 2014-09-26
 
 <!--

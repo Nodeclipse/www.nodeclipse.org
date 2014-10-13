@@ -4,9 +4,10 @@
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
     <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
-    <property name='p2.timestamp' value='1411733070'/>
+    <property name='p2.timestamp' value='1411733072'/>
   </properties>
   <children size='1'>
+   <child location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>   
 	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
     <child location='http://oss.opensagres.fr/angularjs-eclipse/0.6.0/'/>
 	<child location='http://oss.opensagres.fr/tern.repository/0.6.0/'/>
