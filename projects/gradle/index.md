@@ -10,7 +10,7 @@ title: Nodeclipse/Enide Gradle for Eclipse - build C/C++, Java, Groovy, Android 
 Gradle lives at <http://www.gradle.org/>.
 
 This page introduces to Gradle for Eclipse (Enide Gradle), shows other solutions
-gives help and hints links.
+and gives help and hints links.
 
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180" 
 title="Drag and drop into a running Eclipse/Enide Studio menu area to install/update Nodeclipse/Enide Gradle">
