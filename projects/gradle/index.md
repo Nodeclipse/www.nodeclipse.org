@@ -43,18 +43,18 @@ Support:
 <a href="/enide/editors/gradle">
 <img alt="Minimalist Gradle Editor with Nodeclipse EditBx" src="http://marketplace.eclipse.org/sites/default/files/eclipse-color-theme-with-rainbowdrops.png" width="350" height="200" /></a>            	
 
-## Style
-
-[Style](style)
-
 ## Android
 
 [Android page](android)
 
-<h4><a name="Importing-from-Android-Studio-into-Eclipse" class="anchor" href="#Importing-from-Android-Studio-into-Eclipse"></a>
-Importing from Android Studio into Eclipse</h4>
+<h3><a name="Importing-from-Android-Studio-into-Eclipse" class="anchor" href="#Importing-from-Android-Studio-into-Eclipse"></a>
+Importing from Android Studio into Eclipse</h3>
 
 see dedicated page [Importing from Android Studio into Eclipse](android/Importing-from-Android-Studio-into-Eclipse)
+
+## Style
+
+[Style](style)
 
 ## Templates/dropins
 

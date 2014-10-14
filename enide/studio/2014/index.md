@@ -22,6 +22,8 @@ Enide Studio 2014.17 for Windows x64</a>
 
 Screens:
 
+- Node.js
+
 <a href="/img/enide-studio/Enide-Studio-2014-File-New.png">
 <img alt="Enide-Studio-2014-File-New" src="/img/enide-studio/Enide-Studio-2014-File-New.png" width="350" height="200" /></a>            	
 
@@ -35,7 +37,12 @@ Screens:
 <img alt="Nodeclipse overview" src="/img/Nodeclipse-NTS-0410-overview.png" width="350" height="200" /></a>            	
 
 <a href="/img/Nodeclipse-1-debugging.png">
-<img alt="Nodeclipse debugging" src="/img/Nodeclipse-1-debugging.png" width="350" height="200" /></a>            	
+<img alt="Nodeclipse debugging" src="/img/Nodeclipse-1-debugging.png" width="350" height="200" /></a>
+
+- Gradle & Android            	
+
+<a href="http://www.nodeclipse.org/projects/gradle/">
+<img alt="Minimalist Gradle Editor with Nodeclipse EditBx" src="http://marketplace.eclipse.org/sites/default/files/eclipse-color-theme-with-rainbowdrops.png" width="350" height="200" /></a>            	
 
 This is the most feature reach distribution of Nodeclipse.
 
