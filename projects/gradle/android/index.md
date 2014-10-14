@@ -15,6 +15,12 @@ Pages:
 - [Importing from Android Studio into Eclipse](android/Importing-from-Android-Studio-into-Eclipse)
 - see AAR in Eclipse below
 
+### Download Eclipse ADT
+
+see [developer.android.com - Installing the Eclipse Plugin](https://developer.android.com/sdk/installing/installing-adt.html)
+
+also offline installing from zip archive e.g. [https://dl.google.com/android/ADT-23.0.4.zip](ADT-23.0.4.zip)
+
 ### AAR
 
 Taken from <http://stackoverflow.com/questions/16709305/add-dependencies-via-gradle-to-eclipse-in-android-project?rq=1>
