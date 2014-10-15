@@ -58,6 +58,19 @@ Enide Studio 2014.17 for Windows x64</a>
 or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
 <pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
 
+## Android
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=266274)
+Android Development Tools for Eclipse (Eclipse-ADT) by Google [mp](Android Development Tools for Eclipse)
+or use URL    
+`https://dl-ssl.google.com/android/eclipse/`    
+or use offline [installing]((https://developer.android.com/sdk/installing/installing-adt.html))
+ from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=393519)
+Android ADT extentions by li.jamling@gmail.com [mp](http://marketplace.eclipse.org/content/android-adt-extentions)
+
+
 ## News and updates
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1827835)

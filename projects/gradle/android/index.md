@@ -15,11 +15,23 @@ Pages:
 - [Importing from Android Studio into Eclipse](android/Importing-from-Android-Studio-into-Eclipse)
 - see AAR in Eclipse below
 
+### Command line
+
+Android SDK is enough to create and build Android app. No GUI, just CLI:
+
+	android create project -p AppPAKT -a MainActivity -k com.example.apppaktgv -t android-19
+
+or with new (Maven) layout and gradle files:
+
+	android create project -p AppPAKTGV -a MainActivity -k com.example.apppaktgv -t android-19 -g -v 0.12.+
+
 ### Download Eclipse ADT
 
 see [developer.android.com - Installing the Eclipse Plugin](https://developer.android.com/sdk/installing/installing-adt.html)
 
-also offline installing from zip archive e.g. [https://dl.google.com/android/ADT-23.0.4.zip](ADT-23.0.4.zip)
+use URL  
+`https://dl-ssl.google.com/android/eclipse/`    
+or use offline installing from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
 
 ### AAR
 
@@ -27,7 +39,7 @@ Taken from <http://stackoverflow.com/questions/16709305/add-dependencies-via-gra
 
 My (@JavaJedi) solution is based off Rafael's above in that it copies dependencies to the libs directory which is only used by Android. However I go further to completely explode the referenced AAR's for use in Eclipse.
 
-### Gradle Build File
+#### Gradle Build File
 
 Add the following to the end of your Android projects build.gradle :
 
@@ -85,13 +97,13 @@ Add the following to the end of your Android projects build.gradle :
         }
     }
 
-### Building with Gradle
+#### Building with Gradle
 
 Run `gradle clean build` ( or within Eclipse right-click `build.gradle` Rus As -> Gradle build )
 
 You should find all dependencies and exploded AARs in your libs directory. This is all Eclipse should need.
 
-### Importing in Eclipse
+#### Importing in Eclipse
 
 Now this is where the real benefit begins. After you've generated the libs directory from the gradle step above you'll notice there are folders in there too.
  Those new folders are the exploded AAR dependencies from your `build.gradle` file. 
@@ -112,7 +124,7 @@ Now the cool part is that when you import your existing Android project into Ecl
 **4.** Now you can right-click on your main Android project and **Run as -> Android Application**.
 
 
-### But what does this even mean?
+#### But what does this even mean?
 
 1. Well it means you don't need the source code for any of your Android AAR Gradle dependencies in order to reference both it's classes and resources in Eclipse. 
 
