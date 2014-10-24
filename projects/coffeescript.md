@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Nodeclipse/Enide Gradle for Eclipse - build Android gradle project in Eclipse
+layout: projects
+title: Nodeclipse CoffeeScript Editor
 ---
 
 # Nodeclipse CoffeeScript Editor

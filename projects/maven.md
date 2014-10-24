@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: projects
 title: Nodeclipse/Enide Maven for Eclipse - launch build for that `pom.xml`
 ---
 

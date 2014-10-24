@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: projects
 title: Nodeclipse/Enide Gradle for Eclipse - build C/C++, Java, Groovy, Android projects in Eclipse
 ---
 
