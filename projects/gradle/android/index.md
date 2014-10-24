@@ -15,7 +15,7 @@ Pages:
 - [Importing from Android Studio into Eclipse](android/Importing-from-Android-Studio-into-Eclipse)
 - [Make Android Eclipse project ready for Android Studio](Make-Android-Eclipse-project-ready-for-Android-Studio)
 - [Android Gradle Plugin and Gradle Version Compatibility](version-compatibility)
-- see AAR in Eclipse below
+- see AAR for Eclipse below
 
 ### Command line
 
@@ -35,9 +35,9 @@ use URL
 `https://dl-ssl.google.com/android/eclipse/`    
 or use offline installing from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
 
-### AAR
+### AAR for Eclipse
 
-Taken from <http://stackoverflow.com/questions/16709305/add-dependencies-via-gradle-to-eclipse-in-android-project?rq=1>
+Taken from <http://stackoverflow.com/questions/16709305/add-dependencies-via-gradle-to-eclipse-in-android-project>
 
 My (@JavaJedi) solution is based off Rafael's above in that it copies dependencies to the libs directory which is only used by Android. However I go further to completely explode the referenced AAR's for use in Eclipse.
 
