@@ -29,7 +29,7 @@ Android Gradle Plugin requires certain Gradle version (as of October 2014):
 
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody><tr><td style="text-align:center;width:262px;height:26px">&nbsp;<b>Android Studio</b></td><td style="text-align:center;width:210px;height:26px"><b>&nbsp;Android Gradle Plugin</b></td><td style="text-align:center;width:299px;height:26px"><b>&nbsp;Gradle</b></td></tr>
-<tr><td><i>&nbsp;0.9.+ (still&nbsp;in development)</i></td><td><i>&nbsp;0.14+ (still&nbsp;in development)</i></td><td><i>&nbsp;2.1</i></td></tr>
+<tr><td><i>&nbsp;0.9.+</i></td><td><i>&nbsp;0.14+</i></td><td><i>&nbsp;2.1</i></td></tr>
 <tr><td>&nbsp;<b>0.8.11+</b></td><td><b>&nbsp;0.13+</b></td><td><b>&nbsp;2.1</b></td></tr>
 <tr><td>&nbsp;0.8.0 - 0.8.11+</td><td><b>&nbsp;0.12+</b></td><td><b>&nbsp;1.10 - 1.12</b></td></tr>
 <tr><td style="text-align:left;width:262px;height:19px">&nbsp;0.6.0, 0.6.1+</td><td style="width:210px;height:19px">&nbsp;0.11+</td><td style="width:299px;height:19px">&nbsp;1.10 - 1.12</td></tr>
