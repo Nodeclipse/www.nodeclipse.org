@@ -11,29 +11,12 @@ Back to [Gradle for Eclipse](../) page
 
 Pages:
 
+- [Starting with Android](start)
 - [Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
 - [Importing from Android Studio into Eclipse](android/Importing-from-Android-Studio-into-Eclipse)
 - [Make Android Eclipse project ready for Android Studio](Make-Android-Eclipse-project-ready-for-Android-Studio)
-- [Android Gradle Plugin and Gradle Version Compatibility](version-compatibility)
+- Android Gradle Plugin and Gradle [Version Compatibility](version-compatibility)
 - see AAR for Eclipse below
-
-### Command line
-
-Android SDK is enough to create and build Android app. No GUI, just CLI:
-
-	android create project -p AppPAKT -a MainActivity -k com.example.apppaktgv -t android-19
-
-or with new (Maven) layout and gradle files:
-
-	android create project -p AppPAKTGV -a MainActivity -k com.example.apppaktgv -t android-19 -g -v 0.12.+
-
-### Download Eclipse ADT
-
-see [developer.android.com - Installing the Eclipse Plugin](https://developer.android.com/sdk/installing/installing-adt.html)
-
-use URL  
-`https://dl-ssl.google.com/android/eclipse/`    
-or use offline installing from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
 
 ### AAR for Eclipse
 
@@ -134,4 +117,4 @@ Now the cool part is that when you import your existing Android project into Ecl
 
 3. You can now debug and develop using Eclipse and deploy using ADT with AAR dependencies being properly bundled in the APK. When you need to make some specific builds then you can use gradle.
 
-[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/gradle/android.md)
+[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/gradle/android/)

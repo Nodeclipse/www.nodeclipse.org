@@ -103,6 +103,11 @@ In short: use `src/main/java`.
 	.DS_Store
 	.idea/workspace.xml
 	```
+
+7. In Android Studio File -> Import Project... and select locate `build.gradle` from the project. 
+
+	![](make-ready-7.PNG)
+
 	
 Now you can apply power of Gradle in Eclipse with ADT and/or Android Studio
 
