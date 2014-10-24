@@ -25,36 +25,36 @@ Back to [Android](./) page
 
 5. Way 1: add `build.gradle`, e.g. with such minimal content:
 
-```gradle	
-buildscript {
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:0.12.+'
-    }
-}
-apply plugin: 'android'
-
-dependencies {
-    compile fileTree(dir: 'libs', include: '*.jar')
-}
-
-android {
-    compileSdkVersion 19
-    buildToolsVersion "19.1.0"
-
-    sourceSets {
-        main {
-            manifest.srcFile 'AndroidManifest.xml'
-            res.srcDirs = ['res']
-            assets.srcDirs = ['assets']
-        }
-
-        androidTest.setRoot('tests')
-    }
-}
-```	
+	```gradle	
+	buildscript {
+	    repositories {
+	        mavenCentral()
+	    }
+	    dependencies {
+	        classpath 'com.android.tools.build:gradle:0.12.+'
+	    }
+	}
+	apply plugin: 'android'
+	
+	dependencies {
+	    compile fileTree(dir: 'libs', include: '*.jar')
+	}
+	
+	android {
+	    compileSdkVersion 19
+	    buildToolsVersion "19.1.0"
+	
+	    sourceSets {
+	        main {
+	            manifest.srcFile 'AndroidManifest.xml'
+	            res.srcDirs = ['res']
+	            assets.srcDirs = ['assets']
+	        }
+	
+	        androidTest.setRoot('tests')
+	    }
+	}
+	```	
 
 5. Way 2: Right-click on the project Export... -> Android / Generate Gradle build files.
 
@@ -66,6 +66,7 @@ android {
 	
 	Check/correct that your `sourceSets` section is like below:
 	
+	```gradle	
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
@@ -75,14 +76,17 @@ android {
 
         androidTest.setRoot('tests')
     }
+    ```
 	
 	**Hint 1**: when you Gradle build file becomes long, define some modules and put them into `gradle` folder.
 	then inside `build.gradle` use `apply from: 'gradle/feature-module.gradle'`
 	
-	**Hint 2**:
+	**Hint 2**: For Eclipse project with dependencies `build.gradle` will be added in every of them,
+	and main project will get `settings.gradle`
 	
 6. (optional) If you are using git, add `.gitignore` with content 	
-	 
+	
+	``` 
 	/gen/
 	/bin/
 	/.gradle/
@@ -91,6 +95,7 @@ android {
 	.*.md.html	
 	.DS_Store
 	.idea/workspace.xml
+	```
 	
 Now you can apply power of Gradle in Eclipse with ADT and/or Android Studio
 
