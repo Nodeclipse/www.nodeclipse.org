@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: projects
 title: Nodeclipse/Enide projects
 ---
 

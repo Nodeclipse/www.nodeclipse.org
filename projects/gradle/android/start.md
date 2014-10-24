@@ -13,7 +13,7 @@ Back to [Android](./) page
 
 You can start by downloading Android SDK, but you would be better off by asking your friends who have been developing
 for some years to get Android SDK with all Android images and sources downloaded.
-A full pack will be around 10GB of data, it may be too long and troublesome to get it.  
+A full pack will be around 10GB of data, it may be too long and troublesome to download it.  
 
 ### Command line
 
