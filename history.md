@@ -21,12 +21,21 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version .18 ??
 
-- [#171](171) simple Bower support
+- [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
+don't validate or check for `TODO`s inside `bower_components` folder.  
+Hint: add `"postinstall"` script into `package.json` :
+```js
+    "scripts": {
+        ... ,
+        "postinstall": "bower install"
+    },
+```
+
 - [#172](172) add template hello-angularjs in new Node.js project wizard
 - add `.sublime-project` file into `common-templates`
 
-  [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
+  [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
 
 ### Version .17.plus 2014-10-13
 
