@@ -11,11 +11,16 @@ Back to [Android](./) page
 
 #### Make Android Eclipse project ready for Android Studio, yet keeping it accessible for Eclipse use too
 
+In short: use `src/main/java`.
+
 **Welcome to raise issue on [GitHub](https://github.com/Nodeclipse/nodeclipse-1/issues).**
 
+
+
 1. Create project in Eclipse
-2. In `.classpath` change `src` value into `src/main/java`, that is `<classpathentry kind="src" path="src/main/java"/>`
- (Your project now has red **!**)
+2. In `.classpath` change `src` value into `src/main/java`, that is  
+`<classpathentry kind="src" path="src/main/java"/>`  
+ ( Your project now has red **!** by now)
 3. Create folder `main/java` under `src`
 4. Move source under `src/main/java`, e.g. move `com` from `src` into `src/main/java` 
 
@@ -78,11 +83,13 @@ Back to [Android](./) page
     }
     ```
 	
-	**Hint 1**: when you Gradle build file becomes long, define some modules and put them into `gradle` folder.
-	then inside `build.gradle` use `apply from: 'gradle/feature-module.gradle'`
+	**Hint 1**: when you Gradle build file becomes long, define some modules and put them into `gradle` folder,
+	then inside `build.gradle` use 
+	`apply from: 'gradle/feature-module.gradle'`
 	
 	**Hint 2**: For Eclipse project with dependencies `build.gradle` will be added in every of them,
-	and main project will get `settings.gradle`
+	and main project will get `settings.gradle`. Instead of Android support library
+	add `compile 'com.android.support:appcompat-v7:19.0.+'`
 	
 6. (optional) If you are using git, add `.gitignore` with content 	
 	
@@ -98,6 +105,8 @@ Back to [Android](./) page
 	```
 	
 Now you can apply power of Gradle in Eclipse with ADT and/or Android Studio
+
+Refs: [1](http://developer.android.com/sdk/installing/migrate.html), [2](http://tools.android.com/tech-docs/new-build-system)
 
 <!-- 
 and use feature like 
