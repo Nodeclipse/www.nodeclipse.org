@@ -31,5 +31,8 @@ see [developer.android.com - Installing the Eclipse Plugin](https://developer.an
 
 use URL  
 `https://dl-ssl.google.com/android/eclipse/`    
-or use offline installing from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
+or use offline installing from zip archive 
+ e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
+(or older [ADT-22.6.3.zip](https://dl.google.com/android/ADT-22.6.3.zip))
 
+Refs: [1](https://developer.android.com/sdk/installing/installing-adt.html)

@@ -102,6 +102,7 @@ In short: use `src/main/java`.
 	.*.md.html	
 	.DS_Store
 	.idea/workspace.xml
+	/local.properties
 	```
 
 7. In Android Studio File -> Import Project... and select locate `build.gradle` from the project. 
