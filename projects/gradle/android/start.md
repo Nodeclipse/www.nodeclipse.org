@@ -35,4 +35,15 @@ or use offline installing from zip archive
  e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
 (or older [ADT-22.6.3.zip](https://dl.google.com/android/ADT-22.6.3.zip))
 
+### Understanding
+
+Read books, docs, sources, examples.
+
+Take a look at [Android 1.0 docs](http://www.cs.cmu.edu/~srini/15-446/android/android-sdk-linux_x86-1.0_r2/docs/documentation.html).
+In the beginning it was amazingly simple to grasp.
+
+Copied [what-is-android.html](docs/what-is-android.html) 1.0b 19 Nov 2008
+
+![](docs/what-is-android_files/system-architecture.jpg)
+
 Refs: [1](https://developer.android.com/sdk/installing/installing-adt.html)

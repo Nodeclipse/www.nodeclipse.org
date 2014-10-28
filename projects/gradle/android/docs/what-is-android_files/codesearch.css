@@ -1,0 +1,32 @@
+#cs-searcharea a.unselectable {
+  -moz-user-select: none;
+  -user-select: none;
+}
+
+#cs-recommended {
+  text-align: left; 
+  background-color: #e3effe; 
+  font-style: italic
+}
+
+#cs-searchresults {
+  position: absolute;
+  margin-left: -0.3em;
+  background: #ffffff;
+  line-height: 140%;
+  border: 1px #c9c9c9 solid;
+  cursor: pointer;
+  position: absolute;
+  z-index: 2010;
+  display: none;
+}
+
+#cs-searchresults a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.cs-searchresult {
+  padding: 0.0em;
+  display: block;
+}
