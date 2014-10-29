@@ -3,6 +3,7 @@ layout: home
 title: Nodeclipse -- Support Us
 ---
 
+{% include navigation-links.html %}
 
 # 10 ways to support free software you love, 9 won't cost you a dime.
 

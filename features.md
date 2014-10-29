@@ -3,6 +3,8 @@ layout: home
 title: Nodeclipse & Enide -- Features
 ---
 
+{% include navigation-links.html %}
+
 # Nodeclipse & Enide Features
 
 <p></p>

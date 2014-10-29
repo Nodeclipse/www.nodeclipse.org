@@ -3,6 +3,8 @@ layout: home
 title: Nodeclipse -- Version History
 ---
 
+{% include navigation-links.html %}
+
 # Version History
 
 <p></p>
