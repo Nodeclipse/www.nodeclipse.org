@@ -2,6 +2,8 @@
 layout: studio
 ---
 
+{% include navigation-links.html %}
+
 # Enide Studio 2014
 
 <p></p>
