@@ -20,7 +20,7 @@ In short: use `src/main/java`.
 1. Create project in Eclipse
 2. In `.classpath` change `src` value into `src/main/java`, that is  
 `<classpathentry kind="src" path="src/main/java"/>`  
- ( Your project now has red **!** by now)
+ ( Your project has red **!** by now)
 3. Create folder `main/java` under `src`
 4. Move source under `src/main/java`, e.g. move `com` from `src` into `src/main/java` 
 
@@ -30,7 +30,7 @@ In short: use `src/main/java`.
 
 5. Way 1: add `build.gradle`, e.g. with such minimal content:
 
-	```gradle	
+	```groovy
 	buildscript {
 	    repositories {
 	        mavenCentral()
@@ -71,7 +71,7 @@ In short: use `src/main/java`.
 	
 	Check/correct that your `sourceSets` section is like below:
 	
-	```gradle	
+	```groovy	
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
@@ -84,7 +84,7 @@ In short: use `src/main/java`.
     ```
 	
 	**Hint 1**: when you Gradle build file becomes long, define some modules and put them into `gradle` folder,
-	then inside `build.gradle` use 
+	then inside `build.gradle` use  
 	`apply from: 'gradle/feature-module.gradle'`
 	
 	**Hint 2**: For Eclipse project with dependencies `build.gradle` will be added in every of them,
