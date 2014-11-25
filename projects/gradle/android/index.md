@@ -7,7 +7,8 @@ title: Nodeclipse/Enide Gradle for Eclipse - Android
 
 <p></p>
 
-Back to [Gradle for Eclipse](../) page
+Back to [Gradle for Eclipse](../) page, 
+[Edit this page](https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/projects/gradle/android/index.md)
 
 Pages:
 
@@ -17,6 +18,37 @@ Pages:
 - [Make Android Eclipse project ready for Android Studio](Make-Android-Eclipse-project-ready-for-Android-Studio)
 - Android Gradle Plugin and Gradle [Version Compatibility](version-compatibility)
 - see AAR for Eclipse below
+
+### Support library
+
+`E:\Android\sdk` below is example location specified in you `ANDROID_HOME` enviroment variable.
+
+`sdk\extras\android\support\v7\appcompat` contains template for "appcompat_v7" (<name>android-support-v7-appcompat</name>) project, that is copied into workspaces once you create a project,
+that requires support library, e.g. by setting minSdk to 8.
+
+Adding sources:
+
+`E:\Android\sdk\extras\android\support\v7\appcompat\libs`
+
+add `android-support-v4.jar.properties`
+
+> src=e:\\Android\\sdk\\extras\\android\\support\\v4\\src
+
+and `android-support-v7-appcompat.jar.properties`
+
+> src=e:\\Android\\sources\\platform_frameworks_support\\v7\\appcompat\\src
+
+While v4 lib sources should be once you get "Extra / Android Support Library" via 
+[SDK Manager](https://developer.android.com/tools/support-library/setup.html),
+for v7 sources you should (from e.g. e:\\Android\\sources folder )
+
+    git clone https://github.com/android/platform_frameworks_support.git
+
+For Gradle usage get "Extra / Android Support Repository".
+
+.aar files appear e.g. in `E:\Android\sdk\extras\android\m2repository\com\android\support`
+but again without sources.
+
 
 ### AAR for Eclipse
 
