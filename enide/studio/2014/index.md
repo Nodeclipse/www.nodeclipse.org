@@ -46,7 +46,7 @@ Screens:
 <a href="http://www.nodeclipse.org/projects/gradle/">
 <img alt="Minimalist Gradle Editor with Nodeclipse EditBx" src="http://marketplace.eclipse.org/sites/default/files/eclipse-color-theme-with-rainbowdrops.png" width="350" height="200" /></a>            	
 
-This is the most feature reach distribution of Nodeclipse.
+This is the most feature-rich distribution of Nodeclipse.
 
 As [mentioned in Marketplace entry](http://marketplace.eclipse.org/content/enide-studio-2014)
 
