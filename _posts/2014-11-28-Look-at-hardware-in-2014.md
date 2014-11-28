@@ -1,7 +1,7 @@
 ---
 layout: share
 title: Look at hardware in 2014
-date: 2014-10-14
+date: 2014-11-28
 categories: [hardware,2014]
 ---
 
