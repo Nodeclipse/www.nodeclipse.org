@@ -21,8 +21,10 @@ why not yet:  <http://zoompf.com/blog/2010/01/should-you-use-javascript-library-
 
 Solutions:
 
-<http://css-tricks.com/snippets/jquery/run-javascript-only-after-entire-page-has-loaded/>
+- <http://css-tricks.com/snippets/jquery/run-javascript-only-after-entire-page-has-loaded/>
+- <http://lyncd.com/2009/03/better-google-analytics-javascript/>
 
 Raised issues:
 
+- <https://bugs.eclipse.org/bugs/show_bug.cgi?id=437568>
 - <https://github.com/codenvy/sdk/issues/45>
