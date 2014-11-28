@@ -14,7 +14,7 @@ When time came to update PC, I look at hardware.
 Below is what I found remarkable for this year and trends. 
 
 
-### Intel puts mobile as number 1 priority with Core M
+### Intel puts mobile as top priority with Core M
 
 For newest 14nm process the first processors are Core M branded CPU for mobile devices like
 [2-in-1](http://www.intel.com/content/www/us/en/2-in-1/laptop-tablet.html), 
@@ -85,8 +85,10 @@ The problem: you cannot get it via VGA D-SUB, even HDMI has limit to its refresh
 Some monitors start from $300
 [4](http://www.aocmonitor.com.cn/product/xianshiqi/663)
 
-But do we really need high refresh rate on LCD ?
-It turns out that for video run at 24 Hz. 
+But do we really need high refresh rate on LCD ?  
+It turns out, that most video runs at 24 Hz.
+
+But the wise solution is ... 
 
 ### Display Adaptive Sync
 
@@ -104,18 +106,18 @@ that is now inside CPU.
 
 Currently main-stream CPU socket is LGA 1150.
 
-http://en.wikipedia.org/wiki/List_of_Intel_chipsets#LGA_1150
-http://en.wikipedia.org/wiki/LGA_1150
-http://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#Haswell
-http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29#Desktop_processors
+<http://en.wikipedia.org/wiki/List_of_Intel_chipsets#LGA_1150>
+<http://en.wikipedia.org/wiki/LGA_1150>
+<http://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#Haswell>
+<http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29#Desktop_processors>
 
-http://www.xbitlabs.com/articles/cpu/display/core-i7-4770k.html
+<http://www.xbitlabs.com/articles/cpu/display/core-i7-4770k.html>
 
 
-http://en.wikipedia.org/wiki/Intel_Turbo_Boost is dynamic overclocking
+<http://en.wikipedia.org/wiki/Intel_Turbo_Boost> is dynamic overclocking
 
-http://en.wikipedia.org/wiki/Ivy_Bridge_%28microarchitecture%29#Desktop_processors
-http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29#Desktop_processors
-http://en.wikipedia.org/wiki/List_of_Intel_chipsets#56789SERIES
-http://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#CRYSTALWELL
+<http://en.wikipedia.org/wiki/Ivy_Bridge_%28microarchitecture%29#Desktop_processors>
+<http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29#Desktop_processors>
+<http://en.wikipedia.org/wiki/List_of_Intel_chipsets#56789SERIES>
+<http://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#CRYSTALWELL>
  

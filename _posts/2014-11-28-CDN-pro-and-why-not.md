@@ -18,3 +18,11 @@ That makes non-optimize pages to load 40s, 70, and up to several minutes.
 
 pro ad: <http://www.sitepoint.com/7-reasons-to-use-a-cdn/>
 why not yet:  <http://zoompf.com/blog/2010/01/should-you-use-javascript-library-cdns>
+
+Solutions:
+
+<http://css-tricks.com/snippets/jquery/run-javascript-only-after-entire-page-has-loaded/>
+
+Raised issues:
+
+- <https://github.com/codenvy/sdk/issues/45>
