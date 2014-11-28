@@ -49,7 +49,7 @@ with additional internal USB 3.0 port.
 ### AMD inside XBOX One and Play Station 4 
 
 The PS4 and Xbox One both use an AMD GPU.
-Read more at http://www.trustedreviews.com/opinions/xbox-one-vs-sony-ps4#1wFG5YLzeOpKTRvZ.99
+E.g. read comparison at <http://www.trustedreviews.com/opinions/xbox-one-vs-sony-ps4>
 
 [5](http://en.wikipedia.org/wiki/Xbox)
 [6](http://www.trustedreviews.com/opinions/xbox-one-vs-sony-ps4)
