@@ -91,7 +91,8 @@ In short: use `src/main/java`.
 	and main project will get `settings.gradle`. Instead of Android support library
 	add `compile 'com.android.support:appcompat-v7:19.0.+'`
 	
-6. (optional) If you are using git, add `.gitignore` with content 	
+6. (optional) If you are using git, add `.gitignore` with 
+[content](https://raw.githubusercontent.com/Nodeclipse/nodeclipse-1/master/org.nodeclipse.ui/templates/android-application/.gitignore): 	
 	
 	``` 
 	/gen/
