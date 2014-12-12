@@ -30,13 +30,13 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 - add TCF-Termnals View to Node perspective
 - [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.  
-Hint: add `"postinstall"` script into `package.json` :
-```js
+Hint: add `"postinstall"` script into `package.json` :  
+
     "scripts": {
         ... ,
         "postinstall": "bower install"
     },
-```
+
 
 - [#172](172) add template hello-angularjs in new Node.js project wizard
 - add `.sublime-project` file into `common-templates`
