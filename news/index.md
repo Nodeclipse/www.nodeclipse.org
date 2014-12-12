@@ -1,9 +1,11 @@
 ---
 layout: home
-title: Nodeclipse -- News
+title: Nodeclipse -- News Archive
 ---
 
-# Nodeclipse news
+{% include navigation-links.html %}
+
+# Nodeclipse News Archive
 
 <p></p>
 
