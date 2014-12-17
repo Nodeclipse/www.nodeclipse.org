@@ -64,7 +64,7 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 Android Development Tools for Eclipse (Eclipse-ADT) by Google [mp](Android Development Tools for Eclipse)
 or use URL    
 `https://dl-ssl.google.com/android/eclipse/`    
-or use offline [installing]((https://developer.android.com/sdk/installing/installing-adt.html))
+or use offline [installing](https://developer.android.com/sdk/installing/installing-adt.html)
  from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=393519)
