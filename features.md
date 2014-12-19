@@ -20,10 +20,10 @@ More detailed and more recent features are at [history page](history).
 	<li>Generating Express project with Wizard</li>
 	<li>JavaScript Syntax highlighting</li>
 	<li>Bracket matching and marking selection occurences with background color</li>
-	<li>Content Assistant within one file (JSDT)</li>
-	<li>Code completion for base Node.js modules</li>
-	<li>experimental content assist from Orion IndexFiles for amqp, express, mongodb, mysql, postgres and redis node packages</li>
-	<li>Go to definition with <kbd>Ctrl</kbd>+click when <a href="http://usejsdoc.org/">JSDoc is used</a></li>
+	<li>Content assist (JSDT and/or Tern)</li>
+	<li>Code completion for base Node.js modules, Express, MongoDB driver, Mongoose (create tern plugins for more)</li>
+	<li>Experimental content assist from Orion IndexFiles for amqp, express, mongodb, mysql, postgres and redis node packages</li>
+	<li>Go to definition with <kbd>Ctrl</kbd>+click when <a href="http://usejsdoc.org/">JSDoc is used</a> or Tern is configured</li>
 	<li>Refactoring within one file (<kbd>Alt+Shift+R</kbd>)</li>
 	<li>JSON files highlight and validation</li>
 	<li>NPM support</li>
@@ -31,7 +31,7 @@ More detailed and more recent features are at [history page](history).
 	<li>Setting project properties for <a href="http://github.eclipsesource.com/jshint-eclipse/">JSHint-Eclipse</a> automatically;
 		<a href="http://www.jshint.com/">JSHint</a> 
 		settings <a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/templates/common-templates/.jshintrc">template</a> </li>
-	<li>Specifying passed arguments to <code>node</code> and Node application (per every file and per whole workspace)</li>
+	<li>Passing arguments to <code>node</code> and Node application (per every file and per whole workspace)</li>
 	<li>Specifying environment variables values to use (per every file)</li>
 	<li>Running CoffeeScript *.coffee files</li>
 	<li>Running *.js files with PhantomJS, MongoDB Shell or Java 8 Nashorn <code>jjs</code> util.</li>
