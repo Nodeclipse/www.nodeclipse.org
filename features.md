@@ -20,8 +20,8 @@ More detailed and more recent features are at [history page](history).
 	<li>Generating Express project with Wizard</li>
 	<li>JavaScript Syntax highlighting</li>
 	<li>Bracket matching and marking selection occurences with background color</li>
-	<li>Content assist (JSDT and/or Tern)</li>
-	<li>Code completion for base Node.js modules, Express, MongoDB driver, Mongoose (create tern plugins for more)</li>
+	<li>Code Assist (JSDT and/or Tern)</li>
+	<li>Code Completion for base Node.js modules, Express, MongoDB driver, Mongoose (create tern plugins for more)</li>
 	<li>Experimental content assist from Orion IndexFiles for amqp, express, mongodb, mysql, postgres and redis node packages</li>
 	<li>Go to definition with <kbd>Ctrl</kbd>+click when <a href="http://usejsdoc.org/">JSDoc is used</a> or Tern is configured</li>
 	<li>Refactoring within one file (<kbd>Alt+Shift+R</kbd>)</li>
