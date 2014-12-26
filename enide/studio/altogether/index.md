@@ -12,6 +12,10 @@ All known plugins that are worth and stable.
 
 Java, Gradle, Node.js, AngularJS, Web technologies and general tools.
 
+Because some plugins require Eclipse 4.x APIs, it is only for the latest Eclipse distribution.
+
+Not listing plugins here, just pay attention when installing.
+
 Recommended install via drag-and-drop of install button 
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853" 
   title="Drag and drop onto a running Eclipse main toolbar to install Enide Studio 2014 plugins: Node.js, JavaScript and Java">
@@ -55,7 +59,7 @@ This is ultimately the most feature-rich distribution of Nodeclipse.
 ## No support
 
 This is exactly what I am using daily,  
-but if it does not work for you...
+but if it does not work for you... try support wherever you can.
 
 read [README](README)
 
