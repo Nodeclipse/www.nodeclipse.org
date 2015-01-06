@@ -111,7 +111,27 @@ Step 2. For every module (as `mobile` or `wear`) do
 
 ![](../MyApplicationName-mobile.PNG)
 
-2.2 create OS symbolic links
+2.2 'assets' and `res` folders, `AndroidManifest.xml` file
+
+a) UPDATE: instead of symbolic links
+it is much easier to move `res` folder and `AndroidManifest.xml` file
+into app project folder
+
+
+	```groovy	
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+    }
+    ```
+
+When it is not possible (e.g. other team members have not committed work),
+use older option below: 
+
+b) create OS symbolic links
 
 On Lunix
 

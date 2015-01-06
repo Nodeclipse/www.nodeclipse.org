@@ -78,8 +78,6 @@ In short: use `src/main/java`.
             res.srcDirs = ['res']
             assets.srcDirs = ['assets']
         }
-
-        androidTest.setRoot('tests')
     }
     ```
 	
