@@ -24,7 +24,7 @@ With FTP client:
 <a href="http://farmanager.com/img/thumb/thumb_ftp.png">
 <img alt="" src="http://farmanager.com/img/thumb/thumb_ftp.png" width="350" height="200" /></a>            	
 	
-And convinient OS CLI shell (press <kbd>Ctrl+O<kbd>).
+And convenient OS CLI shell (press <kbd>Ctrl+O<kbd>).
 	
 3. [Freemake Video Converter](http://www.freemake.com/) 
 
