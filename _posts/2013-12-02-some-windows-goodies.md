@@ -7,7 +7,7 @@ categories: [windows]
 
 # Some Windows Goodies
 
-1. Win+R is nice key shortcut to run some command without statinf CMD shell. Example
+1. Win+R is nice key shortcut to run some command without stating CMD shell. Example
 
 	notepad %systemroot%\system32\drivers\etc\hosts.
 	
