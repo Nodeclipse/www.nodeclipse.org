@@ -39,7 +39,7 @@ Hint: add `"postinstall"` script into `package.json` :
 - add `.sublime-project` file into `common-templates`
 - add [Tern-Toolings](https://github.com/angelozerr/tern.java/wiki/Tern-Toolings) wizards to Node perspective 
  [tj#204](https://github.com/angelozerr/tern.java/issues/204)
-- add TCF-Termnals View to Node perspective
+- add TCF-Termnals View as first on Node perspective
 
   [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
