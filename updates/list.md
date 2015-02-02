@@ -17,7 +17,7 @@ a img {border: none; }
 
 The list below is for convenient and quick way to install Eclipse plugins.   
 Just drag-and-drop such [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
- button for the plugin that you need to Eclipse menu bar above. ([See tip how](list-tip-how)).
+ image for the plugin that you need onto Eclipse main toolbar above. ([See tip how](list-tip-how)).
 
 Prefix [**Up**][2] indicates that this plugin is available from Nodeclipse updates site `http://www.nodeclipse.org/updates/` .
   
@@ -25,7 +25,7 @@ Also plugin marked with `code formating` can be installed using
  [Nodeclipse CLI Installer](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates)
  like `nodeclipse install alias`  
 
-  [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
+  [1]: http://www.nodeclipse.org/img/installbutton.png
   [2]: http://www.nodeclipse.org/updates/#update-site
 
 #### Enide Studio 2014
