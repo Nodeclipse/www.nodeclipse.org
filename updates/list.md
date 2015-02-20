@@ -162,6 +162,8 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1789419)
  [Maven (Java EE) Integration for Eclipse WTP (Luna)](https://www.eclipse.org/m2e-wtp/)
  [mp](http://marketplace.eclipse.org/content/maven-java-ee-integration-eclipse-wtp-luna)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1863969)
+ Mirur Visual Debugger [mp](http://mirur.io)
 
 
 - MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
