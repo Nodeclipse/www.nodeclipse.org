@@ -4,7 +4,7 @@
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
     <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->  
-    <property name='p2.timestamp' value='1411733075'/>
+    <property name='p2.timestamp' value='1411733077'/>
   </properties>
   <children size='1'>
    <child location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>   
@@ -12,7 +12,7 @@
     <child location='http://oss.opensagres.fr/angularjs-eclipse/0.8.0/'/>
 	<child location='http://oss.opensagres.fr/tern.repository/0.8.0/'/>
 	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/0.8.0/'/>
-	<child location='http://download.eclipse.org/tools/tcf/terminals_luna'/>
+	<child location='http://download.eclipse.org/tools/tcf/terminals_lunasr2'/>
   </children>
 </repository>
  
