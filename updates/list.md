@@ -137,6 +137,9 @@ Even though EGit is perfect GUI, you may still want to use command line `git`.
  Gonsole - [Git Console](http://rherrmann.github.io/gonsole/) [mp](https://marketplace.eclipse.org/content/gonsole)  
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
 `git` [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=116)
+[QuickImage](http://marketplace.eclipse.org/content/quickimage) .gif .jpg .jpeg .png .bmp .ico images viewer, old and stable
+ [site](http://psnet.nu/eclipse) [GitHub](https://github.com/persal/quickimage)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
 [Overview plugin for Eclipse (code birdview)](http://marketplace.eclipse.org/node/687236)
  ([has some bugs in standard perspectives](/enide/studio/README#warning))
@@ -162,7 +165,8 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1789419)
  [Maven (Java EE) Integration for Eclipse WTP (Luna)](https://www.eclipse.org/m2e-wtp/)
  [mp](http://marketplace.eclipse.org/content/maven-java-ee-integration-eclipse-wtp-luna)
-
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2177882)
+[Eclipse JST Server Adapters and Extentions for Apache Tomcat, JOnAS, J2EE](http://marketplace.eclipse.org/content/eclipse-jst-server-adapters-apache-tomcat-jonas-j2ee)
 
 - MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
 
