@@ -127,6 +127,9 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 
 ## General
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2231050)
+ [Optimizer for Eclipse](http://marketplace.eclipse.org/content/optimizer-eclipse) by [Zeroturnaround](http://zeroturnaround.com/free/optimizer-for-eclipse/)
+ quickly increase heap size and disable class verification to speed-up Eclipse start-up.
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
  Eclipse Color Theme by Nodeclipse [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
