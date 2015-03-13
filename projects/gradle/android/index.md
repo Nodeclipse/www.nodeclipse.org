@@ -13,9 +13,9 @@ Back to [Gradle for Eclipse](../) page,
 Pages:
 
 - [Starting with Android](start)
-- [Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
 - [Importing from Android Studio into Eclipse](Importing-from-Android-Studio-into-Eclipse)
 - [Make Android Eclipse project ready for Android Studio](Make-Android-Eclipse-project-ready-for-Android-Studio)
+- [Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
 - [Version Compatibility](version-compatibility) of Android Gradle Plugin and Gradle 
 - [AAR for Eclipse](aar-for-Eclipse)
 - [Support library](Support-library)
