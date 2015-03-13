@@ -36,18 +36,18 @@ In short: use `src/main/java`.
 	        mavenCentral()
 	    }
 	    dependencies {
-	        classpath 'com.android.tools.build:gradle:0.12.+'
+	        classpath 'com.android.tools.build:gradle:1.1.+'
 	    }
 	}
-	apply plugin: 'android'
+	apply plugin: 'com.android.application'
 	
 	dependencies {
-	    compile fileTree(dir: 'libs', include: '*.jar')
+	    compile fileTree(dir: 'libs', include: '*.jar', exclude: 'android-support-*.jar')
 	}
 	
 	android {
-	    compileSdkVersion 19
-	    buildToolsVersion "19.1.0"
+	    compileSdkVersion 22
+	    buildToolsVersion "22"
 	
 	    sourceSets {
 	        main {
@@ -59,7 +59,11 @@ In short: use `src/main/java`.
 	        androidTest.setRoot('tests')
 	    }
 	}
-	```	
+	```
+
+	Note that with gradle you are to specify `buildToolsVersion`.
+	If you want to specify for Eclipse ADT (e.g. to make them similar)	
+	in `project.properties` add line like `sdk.buildtools=19.1.0`. [ref](http://developer.android.com/tools/revisions/build-tools.html) 
 
 5. Way 2: Right-click on the project Export... -> Android / Generate Gradle build files.
 

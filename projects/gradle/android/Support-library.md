@@ -27,6 +27,32 @@ that requires support library, e.g. by setting minSdk to 8.
 Contrary to m2repository `extras\android\support` contains only one revision of the library.
 So when you upgrade SDK, added "appcompat_v7" project will be copied from newer template.
 
+#### Support library revision conflicts
+
+1. If you have `android-support-v4.jar` in `libs` folder check that in your `dependencies` block 
+`fileTree` has `exclude`:
+
+	compile fileTree(dir: 'libs', include: '*.jar', exclude: 'android-support-*.jar')
+	
+2. Some gradle dependencies may have transitive dependency on support library of other revision 
+(e.g. rev 19 while you using rev 21). Check with `gradle -q dependencies` and add
+`{ exclude module: 'support-v4'}`, for example
+
+	compile('com.company:superlib:1.0.0') { exclude module: 'support-v4'}
+
+See [Multiple dex files define Landroid/support/v4/accessibilityservice/AccessibilityServiceInfoCompat](http://stackoverflow.com/questions/20989317/multiple-dex-files-define-landroid-support-v4-accessibilityservice-accessibility)
+
+Other option is to to use `resolutionStrategy` at root `build.gradle` 
+[ref](http://stackoverflow.com/questions/27965690/gradle-exclude-or-add-reference-for-jar-file-hard-included-inside-library-classe)
+
+	allprojects {
+	    configurations.all((Closure) {
+	        resolutionStrategy {
+	            force 'com.android.support:support-v4:21.0.2' // your version of support library
+	        }
+	    })	
+	} 		
+
 #### Adding sources
 
 ##### for Eclipse
@@ -35,11 +61,11 @@ So when you upgrade SDK, added "appcompat_v7" project will be copied from newer 
 
 add `android-support-v4.jar.properties`
 
-> src=e:\\Android\\sdk\\extras\\android\\support\\v4\\src
+> src=E:\\Android\\sdk\\extras\\android\\support\\v4\\src
 
 and `android-support-v7-appcompat.jar.properties`
 
-> src=e:\\Android\\sources\\platform_frameworks_support\\v7\\appcompat\\src
+> src=E:\\Android\\sources\\platform_frameworks_support\\v7\\appcompat\\src
 
 While v4 lib sources should be once you get "Extra / Android Support Library" via 
 [SDK Manager](https://developer.android.com/tools/support-library/setup.html),
