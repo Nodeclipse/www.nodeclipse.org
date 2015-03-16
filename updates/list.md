@@ -241,6 +241,9 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
 
 ## Eclipse Plugin/RCP Development
 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2234530)
+[Eclipse PDE](https://www.eclipse.org/pde/) (Plug-in Development Environment) [mp](http://marketplace.eclipse.org/content/eclipse-pde-plug-development-environment)
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311838)
 Eclipse 4 Tools: Application Model Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-application-model-editor)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311881)
