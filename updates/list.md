@@ -243,7 +243,8 @@ Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/term
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2234530)
 [Eclipse PDE](https://www.eclipse.org/pde/) (Plug-in Development Environment) [mp](http://marketplace.eclipse.org/content/eclipse-pde-plug-development-environment)
-
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=367947) 
+PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools) [GitHub](https://github.com/jeeeyul/pde-tools)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311838)
 Eclipse 4 Tools: Application Model Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-application-model-editor)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311881)
@@ -295,7 +296,6 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 - Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
 - Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
 - Multiproperties [mp](http://marketplace.eclipse.org/content/multiproperties)
-- PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236) 
  [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
 - CKEditor for HTML [mp](http://marketplace.eclipse.org/content/eclipse-ckeditor)
