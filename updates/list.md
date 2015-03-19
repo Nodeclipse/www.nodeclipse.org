@@ -93,10 +93,6 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
  [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
  [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
- [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
- is initial support for Eclipse vert.x projects.
- [mp](http://marketplace.eclipse.org/content/vertx)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
@@ -191,6 +187,11 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 `phantomjs` Nodeclipse PhantomJS
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1255479)
 `jjs` Nodeclipse Java 8 Nashorn JJS
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512273)
+ [Vert.x](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.vertx)
+ is initial support for Eclipse vert.x projects.
+ [mp](http://marketplace.eclipse.org/content/vertx)
+
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
 `gfm` [GitHub Flavored Markdown (GFM) Viewer](https://github.com/satyagraha/gfm_viewer),
  [Marketplace](http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site)
