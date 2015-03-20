@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='Nodeclipse Updates - Color IDE Pack'
+    type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='1'>
+    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->  
+    <property name='p2.timestamp' value='1411733070'/>
+  </properties>
+  <children size='1'>
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
+	<child location='http://www.nodeclipse.org/coffeescript/repository/'/>
+  </children>
+</repository>
+ 
