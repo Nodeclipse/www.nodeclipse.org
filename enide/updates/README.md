@@ -7,6 +7,9 @@ layout: enide
 
 see <http://www.nodeclipse.org/enide/updates/README>
 
+Currently Angular & Tern are highly recommended 
+(they are inside `org.eclipse.angularjs.category-*.zip`).
+
 Copied from <http://www.nodeclipse.org/updates/>
 
 #### c) Archive (when Internet is slow, not stable or installing many times)
