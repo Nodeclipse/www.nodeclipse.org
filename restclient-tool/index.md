@@ -17,7 +17,8 @@ Sources converted to git are at <https://github.com/Nodeclipse/restclient-tool>.
  
 This plugin in distributed within [Nodeclispe NTS](/nts/), [Enide Studio](/enide/studio) and [Enide Monst(e)r](/enide/monster).
 
-You can install plugin from `http://www.nodeclipse.org/updates/`
+You can install plugin from `http://www.nodeclipse.org/updates/`  
+It is inside "Enide Tools Collection" group.
 
 ### See more in README
 
