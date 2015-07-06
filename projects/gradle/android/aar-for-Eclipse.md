@@ -9,9 +9,11 @@ title: Nodeclipse/Enide Gradle for Eclipse - Android
 
 Back to [Android](./) page
 
-### UPDATE
+### AAR for Eclipse UPDATE-1
 
 Check also newer approach at <https://github.com/ksoichiro/gradle-eclipse-aar-plugin>
+
+![](https://github.com/ksoichiro/gradle-eclipse-aar-plugin/raw/master/image.png)
 
 ### AAR for Eclipse
 
