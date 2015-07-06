@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='Nodeclipse Updates'
+    type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->  
+    <property name='p2.timestamp' value='1435123700'/>
+  </properties>
+  <children size='1'>
+    <child location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>   
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.17/'/>
+    <child location='http://oss.opensagres.fr/angularjs-eclipse/0.10.0/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/0.10.0/'/>
+	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/0.10.0/'/>
+	<child location='http://download.eclipse.org/releases/mars'/>
+	<child location='http://download.eclipse.org/tools/tcf/terminals_lunasr2'/>
+    <child location='http://download.eclipse.org/egit/updates'/>
+	<child location='http://download.eclipse.org/mylyn/releases/latest'/>
+	<child location='http://download.eclipse.org/technology/m2e/releases/'/>
+	<child location='http://dist.springsource.com/release/TOOLS/gradle/'/>
+	<child location='http://eclipse.jeeeyul.net/update/'/>
+  </children>
+</repository>
