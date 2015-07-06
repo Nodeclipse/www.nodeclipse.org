@@ -9,6 +9,10 @@ title: Nodeclipse/Enide Gradle for Eclipse - Android
 
 Back to [Android](./) page
 
+### UPDATE
+
+Check also newer approach at <https://github.com/ksoichiro/gradle-eclipse-aar-plugin>
+
 ### AAR for Eclipse
 
 Taken from <http://stackoverflow.com/questions/16709305/add-dependencies-via-gradle-to-eclipse-in-android-project>
