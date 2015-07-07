@@ -8,6 +8,12 @@ Home page <http://www.nodeclipse.org/enide/2015>
 
 <http://www.nodeclipse.org/enide/2015/README_2015-7>
 
+Check downloaded package sizes:  
+07/06/2015  06:18 PM       384,655,028 Enide-2015-7-linux-gtk-x64-20150706.zip  
+07/06/2015  06:20 PM       384,022,254 Enide-2015-7-macosx-x64-20150706.zip  
+07/06/2015  06:21 PM       382,041,721 Enide-2015-7-windows-x32-20150706.zip  
+07/06/2015  06:23 PM       382,498,769 Enide-2015-7-windows-x64-20150706.zip  
+
 ## Enide 2015-7 README
 
 Enide 2015 is Eclipse-based Java and JavaScript IDE.
