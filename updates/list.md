@@ -8,6 +8,8 @@ a img {border: none; }
 
 {% include navigation-links.html %}
 
+{% include enide-2015-downloads.html %}
+
 <!-- 
  Feeds: [Stackoverfow](http://stackoverflow.com/feeds/tag?tagnames=nodeclipse&sort=newest),
  [SourceForge](http://sourceforge.net/p/nodeclipse/activity/feed)
@@ -27,48 +29,6 @@ Also plugin marked with `code formating` can be installed using
 
   [1]: http://www.nodeclipse.org/img/installbutton.png
   [2]: http://www.nodeclipse.org/updates/#update-site
-
-#### Enide Studio 2014
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
-Tool Suite for Node.js, JavaScript, Java Development (Nodeclipse, Enide, TernIDE, TCF Terminals and [more](/enide/studio/2014/)).
-<!--   
-Includes all Nodeclipse and Enide plugins. Note download packages are of 0.11 version and need update to 0.16.
-{% include enide-studio-2014-downloads.html %}
--->
-get
-<a href="http://sourceforge.net/projects/nodeclipse/files/Enide-Studio-2014/0.17/Enide-Studio-2014.17-luna-SR1-win64-20141011.zip/download">
-<img alt="Enide Studio 2014.17 for Windows x64" src="http://www.nodeclipse.org/img/enide-studio/icon-windows.png" />
-Enide Studio 2014.17 for Windows x64</a>
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
- [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
- is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
- [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
- is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
- [mp](http://marketplace.eclipse.org/content/gradle)
-
-##### Enide & Nodeclipse 
-
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
- [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
- StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
-
-or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
-<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
-
-## Android
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=266274)
-Android Development Tools for Eclipse (Eclipse-ADT) by Google [mp](Android Development Tools for Eclipse)
-or use URL    
-`https://dl-ssl.google.com/android/eclipse/`    
-or use offline [installing](https://developer.android.com/sdk/installing/installing-adt.html)
- from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
-
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=393519)
-Android ADT extentions by li.jamling@gmail.com [mp](http://marketplace.eclipse.org/content/android-adt-extentions)
 
 
 ## News and updates
@@ -97,6 +57,29 @@ To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <k
 `egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
+
+#### Enide Studio 2014
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853)
+Tool Suite for Node.js, JavaScript, Java Development (Nodeclipse, Enide, TernIDE, TCF Terminals and [more](/enide/studio/2014/)).
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1451713)
+ [Enide Maven](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.maven#enide-maven)
+ is alternative and completion to m2e (Maven Eclipse Integration) [mp](http://marketplace.eclipse.org/content/maven)
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1512180)
+ [Enide Gradle](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.gradle)
+ is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
+ [mp](http://marketplace.eclipse.org/content/gradle)
+
+##### Enide & Nodeclipse 
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
+ [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
+ StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
+
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
+<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
+
 
 
 ## Languages
@@ -168,6 +151,18 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 [Eclipse JST Server Adapters and Extentions for Apache Tomcat, JOnAS, J2EE](http://marketplace.eclipse.org/content/eclipse-jst-server-adapters-apache-tomcat-jonas-j2ee)
 
 - MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
+
+## Android
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=266274)
+Android Development Tools for Eclipse (Eclipse-ADT) by Google [mp](Android Development Tools for Eclipse)
+or use URL    
+`https://dl-ssl.google.com/android/eclipse/`    
+or use offline [installing](https://developer.android.com/sdk/installing/installing-adt.html)
+ from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
+
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=393519)
+Android ADT extentions by li.jamling@gmail.com [mp](http://marketplace.eclipse.org/content/android-adt-extentions)
 
 ### Node.js & JavaScript Development
 
