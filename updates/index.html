@@ -83,13 +83,13 @@ title: Nodeclipse, Enide - Updates
             	<p>
 				</p>
             	</br>
-            	In short words, install Node.js with needed packages, Java and Eclipse package like Enide Studio:</br>
+            	In short words, install Node.js with needed packages, Java and Eclipse package like Enide 2015:</br>
             	</br>
 				<ul>
 			    <li>1. <img src="http://nodejs.org/images/logo.png" width="50" height="20" />
-			    If you don't have, get latest Node.js 
-			    <a href="http://www.nodejs.org/download/">http://www.nodejs.org/download/</a>
-			    
+			    If you don't have, get latest Node.js<br> 
+			    <a href="http://www.nodejs.org/download/">http://www.nodejs.org/download/</a><br>
+			    or <a href="https://iojs.org">io.js</a>			    
 			    </li>
 			    
 			    <li>2. Then install Nodeclipse CLI and Express as follows.
@@ -105,13 +105,19 @@ title: Nodeclipse, Enide - Updates
 			    If you don't have, download & install JDK 8 from 
 			    <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Oracle Java SE Downloads</a>.
 			    For example "Java Platform (JDK) 8u45".<br>
+			    There are issues with Java 7 and 6 
+			    <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/71">#71</a>
+			    <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/72">#72</a>
+			    .<br>
 			    <br>			    
-				Note 0: If you don't know what version is used by Eclipse, check Preferences -> Nodeclipse.</br>
+				Note 0: If you don't know what version is used by Eclipse, check in Preferences -> Nodeclipse.</br>
 				The Eclipse <a href="https://wiki.eclipse.org/FAQ_How_do_I_run_Eclipse%3F">most recommended way</a>
 				to configure what JDK to use is to configure in <code>eclipse.ini</code>.<br>
 				<br>
-			    Note 1: <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/71">issue #71</a> may require to use
-			    x32 version for Java 6-7 (But for Java 8 seems OK, more feedback about different OS needed).
+				
+				<!--  
+			    Note 1: <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/71">issue #71 No output from console.log on Java 7</a> may require to use
+			    x32 version for Java 7 (But for Java 8 seems OK, more feedback about different OS needed).
 			    x32 bit JDK would be good enough for using IDE. 
 			    You can use x64 bit JDK, if you are OK with #71.</br> 
 			    Anyway Java software stack should be of the same bit length x64 or x32 
@@ -119,32 +125,34 @@ title: Nodeclipse, Enide - Updates
 				<br><br>
 				Note 2: (Warning: there is critical <a href="https://github.com/Nodeclipse/nodeclipse-1/issues/72">issue #72</a> with JDK 6.)</br>
 				<br>
+				-->
 				</li>
 				
-				<li>4.a Get and update <a href="http://www.nodeclipse.org/enide/studio/2014/" title="Go to Enide Studio 2014 web page">
-				Enide Studio 2014</a> with all Nodeclipse plugins included.</br>
+				<li>4.a Get <a href="http://www.nodeclipse.org/enide/2015/" title="Go to Enide 2015 web page">
+				Enide 2015</a> with all Nodeclipse plugins included.</br>
 				</br>				
-				{% include enide-studio-2014-downloads.html %}</br>
+				{% include enide-2015-downloads.html %}</br>
 				</br>
 				That is enough for Node.js, JavaScript and Java development. You can update to the latest version
 				and install even more from Nodeclipse Updates repository, see "b) update site".</br>
 				</br>
-				For MacOC X there is also download method using
-				<a href="https://github.com/phinze/homebrew-cask" >homebrew-cask</a>, but likely not the latest, 
-				as there is no feedback from MacOS users :
+				For MacOC X there was also download method using
+				<a href="https://github.com/phinze/homebrew-cask" >homebrew-cask</a>. 
 				<ol>
 					<li>Install <a href="http://brew.sh/">homebrew</a> (<code>ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"</code>).</li>
 					<li>Tap cask repo (<code>brew tap phinze/cask</code>).</li>
 					<li>Install Enide Studio 2014 by Nodeclipse (<code>brew cask install nodeclipse</code>).</li>
 				</ol>
+				There was no feedback from MacOS users.
 				To update see 
 				<a href="https://github.com/phinze/homebrew-cask/blob/master/Casks/nodeclipse.rb">Casks/nodeclipse.rb</a>
 				<br>
 				<br>
 				
-				For Windows there is also older <a href="/enide/studio/">Enide Studio 0.5 (Eclipse 4.3 Kepler distribution)</a>
-				 with Nodeclipse plugins pre-installed and configured. 
-				 <a href="https://sourceforge.net/projects/nodeclipse/files">Download it from SourceForge</a>,
+				For Windows there was also older <a href="/enide/studio/2014">Enide Studio 2014 (Eclipse 4.4 Luna distribution)</a>
+				and <a href="/enide/studio/">Enide Studio 0.5 (Eclipse 4.3 Kepler distribution)</a>
+				with Nodeclipse plugins pre-installed and configured. 
+				<a href="https://sourceforge.net/projects/nodeclipse/files">Download it from SourceForge</a>,
 				then update following "Installation Instructions". 
 				(<a href="/projects/coffeescript">CoffeeScript plugin</a> works fine with Eclipse 4.3.0 platform.)
 				</li>
@@ -167,10 +175,10 @@ title: Nodeclipse, Enide - Updates
 				</ul>
             
             	<h3>Installation\Update Instructions</h3>
-            	(for Eclipse or Enide Studio)</br>
+            	(for Eclipse or Enide [Studio])</br>
             	</br>
             	In short words, drag-and-drop {% include nodeclipse_install_button.html %}
-				on Eclipse main toolbar and get <a href="/enide/studio/2014">Enide Studio 2014</a> plugins.
+				on Eclipse main toolbar and get <a href="/enide/2015">Enide 2015</a> plugins.
             	
 		        <h4><a name="marketplace" class="anchor" href="#marketplace"></a>
 		        a) Marketplace (Recommended way: a bit quicker)</h4>

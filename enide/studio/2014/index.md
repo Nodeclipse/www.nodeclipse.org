@@ -8,6 +8,8 @@ layout: studio
 
 <p></p>
 
+Check newer [Enide 2015](../2015)
+
 Recommended install via drag-and-drop of install image 
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1520853" 
   title="Drag and drop onto a running Eclipse main toolbar to install Enide Studio 2014 plugins: Node.js, JavaScript and Java">
