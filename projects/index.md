@@ -31,6 +31,9 @@ by [Jeeeyul Lee](https://github.com/jeeeyul)
 - [Eclipse Themes](https://github.com/jeeeyul/eclipse-themes)
 - [PDE Tools](https://github.com/jeeeyul/pde-tools)
 
+## Other
+
+- https://github.com/ccancinos/rinzo-xml-editor
 
 <a href="http://with-eclipse.github.io/" target="_blank">
 <img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>

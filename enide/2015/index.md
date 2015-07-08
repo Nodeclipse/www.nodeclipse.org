@@ -30,7 +30,7 @@ Java and JavaScript tools
 	- AngularJS
 	- Node.js with debugging
 	- PhantomJS
-	- JSHInt
+	- JSHint
 	- JSON Editor (with nice Outline)
 - Web
 	- HTML Editor with hover and click-through for CSS, .js and images
