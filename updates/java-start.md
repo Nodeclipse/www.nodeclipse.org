@@ -15,7 +15,7 @@ Once you got JDK, you usally need to get Maven and/or Gradle as well as Tomcat s
 
 [Download Gradle](http://gradle.org/) and extract into a folder, e.g. `D:\Progs\gradle\gradle-2.5\`
 
-[Download Tomcat version](http://tomcat.apache.org/whichversion.html) you need. 
+[Download Tomcat version](http://tomcat.apache.org/whichversion.html) you need, e.g. `D:\Progs\tomcat\apache-tomcat-7.0.61\` 
 
 Update environment variables. Create
 
@@ -29,3 +29,6 @@ and mofidy
 `Path` - put somewhere inbetween (e.g. after system tools) `bin` folders for all needed. 
 
 `%JAVA_HOME%\bin;%MAVEN_HOME%\bin;%GRADLE_HOME%\bin;%TOMCAT_HOME%\bin;`
+
+Now you are ready for developing with Java as well as easy way to upgrade JDK, Maven, Gradle or Tomcat
+just by changing value of `*_HOME` environment variable.
