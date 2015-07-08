@@ -38,6 +38,7 @@ Java and JavaScript tools
 	- REST client
 - General
 	- Eclipse Color Theme. <i>Hint:</i> <kbd>Preference -> General -> Appearance -> Color Theme</kbd>
+	- EditBox code clock highlight [![](https://github.com/Nodeclipse/EditBox/raw/master/pm.eclipse.editbox/icons/editbox.png)][2] 
 	- Git (EGit or `git`). <i>Hint:</i> from Project Explorer <kbd>Show in -> Git Bash</kbd>
 	- Github Flavored Markdown (GFM) support 
 	- Hudson/Jenkins Mylyn Builds Connector <i>Hint:</i> Open Builds view. [1]
@@ -53,6 +54,7 @@ I believe with Java and JavaScript one can do everything: server from simple to 
 You can even develop Eclipse plugins with this package, so welcome to check [sources](/projects)	
 
  [1]:http://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector
+ [2]:https://github.com/Nodeclipse/EditBox
 
 read [README_2015-7](README_2015-7)
 
