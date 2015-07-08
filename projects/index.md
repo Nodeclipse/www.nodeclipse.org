@@ -7,7 +7,7 @@ title: Nodeclipse/Enide projects
 
 <p></p>
 
-- [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli--installer)
+- [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli--installer) $ `nodeclipse install eclipse-plugin`
 - [IDE packages](/enide/studio)
 - [Node.js in Eclipse](nodejs)
 - [Maven for Eclipse](maven)
@@ -17,6 +17,8 @@ title: Nodeclipse/Enide projects
 - [EditBox](https://github.com/Nodeclipse/editbox)
 
 # Friendly projects
+
+<p></p>
 
 by [Angelo Zerr](https://github.com/angelozerr/)
 

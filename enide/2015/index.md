@@ -46,6 +46,8 @@ Java and JavaScript tools
 	- Terminal <kbd>Ctrl+Alt+T</kbd>	 	
 	- YAML Editor
 	- Zip Editor
+
+If you want an existing plugin to be added to the next version, raise issue at <https://github.com/Nodeclipse/packages/issues>
 	
 I believe with Java and JavaScript one can do everything: server from simple to complex, web and mobile.
 You can even develop Eclipse plugins with this package, so welcome to check [sources](/projects)	
@@ -80,7 +82,6 @@ Screens:
 
 This is the most feature-rich distribution of Nodeclipse for Java and JavaScript.
 
-If you want an existing plugin to be added to next version, raise issue at <https://github.com/Nodeclipse/packages/issues>
 
 More [images](images)
 
