@@ -17,6 +17,43 @@ Recommended install via downloading package for your OS.
 
 {% include enide-2015-downloads.html %}
 
+## Features
+
+Java and JavaScript tools
+
+- Java
+	- Maven (m2e) <i>Hint:</i> For multi-module projects try in Project Explorer menu <kbd>Project Presentation -> Hierachical</kbd>
+	- Gradle (Gradle IDE Pack)
+	- Java names spelling check
+	- Tomcat Server feature
+- JavaScript
+	- AngularJS
+	- Node.js with debugging
+	- PhantomJS
+	- JSHInt
+	- JSON Editor (with nice Outline)
+- Web
+	- HTML Editor with hover and click-through for CSS, .js and images
+	- Icon/images Editor <i>Warning:</i> not for big images
+	- REST client
+- General
+	- Eclipse Color Theme. <i>Hint:</i> <kbd>Preference -> General -> Appearance -> Color Theme</kbd>
+	- Git (EGit or `git`). <i>Hint:</i> from Project Explorer <kbd>Show in -> Git Bash</kbd>
+	- Github Flavored Markdown (GFM) support 
+	- Hudson/Jenkins Mylyn Builds Connector <i>Hint:</i> Open Builds view. [1]
+	- Start shell, command line or default app <kbd>Ctrl+Alt+E</kbd>, <kbd>Ctrl+Alt+D</kbd>, <kbd>Ctrl+Alt+A</kbd>
+	- Shell Editor
+	- Terminal <kbd>Ctrl+Alt+T</kbd>	 	
+	- YAML Editor
+	- Zip Editor
+	
+I believe with Java and JavaScript one can do everything: server from simple to complex, web and mobile.
+You can even develop Eclipse plugins with this package, so welcome to check [sources](/projects)	
+
+ [1]:http://marketplace.eclipse.org/content/hudsonjenkins-mylyn-builds-connector
+
+read [README_2015-7](README_2015-7)
+
 Screens:
 
 - Node.js
@@ -43,9 +80,9 @@ Screens:
 
 This is the most feature-rich distribution of Nodeclipse for Java and JavaScript.
 
-read [README](README)
-
 If you want an existing plugin to be added to next version, raise issue at <https://github.com/Nodeclipse/packages/issues>
+
+More [images](images)
 
 ## History
 
