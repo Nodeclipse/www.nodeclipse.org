@@ -8,7 +8,7 @@ layout: studio
 
 <p></p>
 
-Check newer [Enide Studio 2014](2014)
+Check newer [Enide Studio 2014](2014) and [Enide 2015](../2015)
 
 <a href="/img/Nodeclipse-NTS-Hello-world.png">
 <img alt="Nodeclipse 0.4.10 overview" src="/img/Nodeclipse-NTS-Hello-world.png" width="350" height="200" /></a>            	
