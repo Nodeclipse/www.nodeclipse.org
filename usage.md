@@ -88,6 +88,13 @@ Read also <a href="https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hi
 </ol>
 </p>
 
+#### Importing
+
+For existing Node.js project you can run <code>nodeclipse -p</code> to add project files and then import as existing project.<br>
+For any project or folder you can run <code>nodeclipse -g</code> and then import as existing project
+(this will add only 1 <code>.project</code> file).<br>
+
+
 #### No miracles, just files
 
 <p>

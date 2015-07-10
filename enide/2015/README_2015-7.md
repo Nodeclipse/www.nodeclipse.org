@@ -40,10 +40,10 @@ and save you some time.
 
 0. If you don't have, get latest Node.js <http://www.nodejs.org/download/>
 
-1. If you don't have, download & install latest JDK 7/8
+1. If you don't have, download & install latest JDK 8
 
  <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
- For example "Java Platform (JDK) 7u40"
+ For example "Java Platform (JDK) 8u45"
 
 2. [Download Enide 2015 for your operating system](https://sourceforge.net/projects/nodeclipse/files/Enide-2015/)
 
