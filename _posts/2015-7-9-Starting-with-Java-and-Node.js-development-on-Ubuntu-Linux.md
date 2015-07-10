@@ -42,16 +42,16 @@ Based on <http://ubuntuhandbook.org/index.php/2014/06/install-latest-eclipse-ubu
 1. Download Enide for Linux, e.g. [Enide-2015-7](http://sourceforge.net/projects/nodeclipse/files/Enide-2015/7/Enide-2015-7-linux-gtk-x64-20150706.zip/download).
 2. Extract to e.g. `/opt/Eclipses/Enide-2015-7-linux-gtk-x64-20150706/`
 
-	sudo nautilus ~/Downloads
-	sudo nautilus /opt
+	`sudo nautilus ~/Downloads`
+	`sudo nautilus /opt`
 
 3. Allow `eclipse` to be executable. From the `/opt/Eclipses/Enide-2015-7-linux-gtk-x64-20150706/eclipse/` folder
 
-	sudo chmod -R 7555 eclipse
+	`sudo chmod -R 7555 eclipse`
 	
 4. Create shortcut
 
-	sudo gedit /usr/share/applications/enide-2015-7.desktop
+	`sudo gedit /usr/share/applications/enide-2015-7.desktop`
 	
 paste
 
