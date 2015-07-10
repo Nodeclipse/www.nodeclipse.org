@@ -66,6 +66,8 @@ paste
 	Categories=Development;IDE;
 	Name[en]=Enide-2015-7
 
+See also <http://askubuntu.com/questions/337281/installing-eclipse-kepler>
+
 #### Installing Node.js
 
 <https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager>
