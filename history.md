@@ -25,6 +25,16 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version .18 2015-??-??
 
+<!--
+- by default enable [JSDoc](http://usejsdoc.org/) type checking
+
+![](http://i.stack.imgur.com/KruI7.png)
+
+See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wiki/Validation-JSDoc)
+-->
+
+
+
 - [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.  
 Hint: add `"postinstall"` script into `package.json` :  
@@ -36,7 +46,9 @@ Hint: add `"postinstall"` script into `package.json` :
 
 
 - [#172](172) add template hello-angularjs in new Node.js project wizard
+<!--
 - add `.sublime-project` file into `common-templates`
+-->
 - add [Tern-Toolings](https://github.com/angelozerr/tern.java/wiki/Tern-Toolings) wizards to Node perspective 
  [tj#204](https://github.com/angelozerr/tern.java/issues/204)
 - add TCF-Termnals View as first on Node perspective
