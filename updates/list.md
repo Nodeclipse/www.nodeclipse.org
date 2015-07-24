@@ -149,8 +149,9 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
  [mp](http://marketplace.eclipse.org/content/maven-java-ee-integration-eclipse-wtp-luna)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2177882)
 [Eclipse JST Server Adapters and Extentions for Apache Tomcat, JOnAS, J2EE](http://marketplace.eclipse.org/content/eclipse-jst-server-adapters-apache-tomcat-jonas-j2ee)
-
 - MyBatipse [mp](http://marketplace.eclipse.org/content/mybatipse)
++- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1863969)
++ [Mirur Visual Debugger](http://mirur.io) - visualize you arrays and other data as carts as you debug.
 
 ## Android
 
