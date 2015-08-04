@@ -2,7 +2,7 @@
 layout: nil
 ---
 
-Status: seems to be too slow solution.
+Status: Old, see Maven-IDE-Pack
 
 This is [Eclipse update site](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/maven/)
 
