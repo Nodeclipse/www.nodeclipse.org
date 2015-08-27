@@ -7,9 +7,37 @@ title: Nodeclipse/Enide projects
 
 <p></p>
 
+- [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli--installer) $ `nodeclipse install eclipse-plugin`
+- [IDE packages](/enide/studio)
 - [Node.js in Eclipse](nodejs)
-- [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli--installer)
 - [Maven for Eclipse](maven)
 - [Gradle for Eclipse](gradle)
+- [Android for Eclipse](gradle/android)
 - [CoffeScript](coffeescript)
 - [EditBox](https://github.com/Nodeclipse/editbox)
+
+# Friendly projects
+
+<p></p>
+
+by [Angelo Zerr](https://github.com/angelozerr/)
+
+- AngularJS Eclipse
+- tern.java
+- eclipse-wtp-webresources
+
+by [Jeeeyul Lee](https://github.com/jeeeyul)
+
+- [Eclipse Themes](https://github.com/jeeeyul/eclipse-themes)
+- [PDE Tools](https://github.com/jeeeyul/pde-tools)
+
+## Other
+
+- <https://github.com/ccancinos/rinzo-xml-editor>
+
+<a href="http://with-eclipse.github.io/" target="_blank">
+<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
+
+see also <http://with-eclipse.github.io/>
+
+add yours

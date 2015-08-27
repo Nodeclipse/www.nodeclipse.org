@@ -12,18 +12,12 @@
     <child location='http://oss.opensagres.fr/angularjs-eclipse/0.10.0/'/>
 	<child location='http://oss.opensagres.fr/tern.repository/0.10.0/'/>
 	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/0.10.0/'/>
+	<child location='http://download.eclipse.org/releases/mars'/>
 	<child location='http://download.eclipse.org/tools/tcf/terminals_lunasr2'/>
     <child location='http://download.eclipse.org/egit/updates'/>
 	<child location='http://download.eclipse.org/mylyn/releases/latest'/>
 	<child location='http://download.eclipse.org/technology/m2e/releases/'/>
 	<child location='http://dist.springsource.com/release/TOOLS/gradle/'/>
 	<child location='http://eclipse.jeeeyul.net/update/'/>
-	<!-- already included: 	
-	<child location='http://nodeclipse.github.io/updates/eclipse-color-theme/'/>
-	<child location='http://dl.bintray.com/satyagraha/generic/1.8.1/'/>
-	<child location='http://dl.bintray.com/enide/Markdown/1.0.0/'/> --><!-- Markdown Editor -->
-	<!-- <child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>  disable for speed 
-	<child location='http://dl.bintray.com/nodeclipse/EditBox/0.50.0/'/>
-	-->
   </children>
 </repository>
