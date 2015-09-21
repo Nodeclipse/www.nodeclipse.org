@@ -10,8 +10,10 @@ categories: [ide,tech,java,nodejs,2015]
 
 <p class="meta">{{ page.date }}</p> by Paul Verest
 
+Java is again #1 on [TIOBE index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html).
+
 Average Node.js developer earns more than average Java Developer according to 
-[Stack Overflow 2015 Developer Survey](http://stackoverflow.com/research/developer-survey-2015#work-complang)
+[Stack Overflow 2015 Developer Survey](http://stackoverflow.com/research/developer-survey-2015#work-complang).
 
 Could not find newer, but as of 2014 June  
 
