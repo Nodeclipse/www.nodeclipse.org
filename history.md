@@ -34,7 +34,7 @@ See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wi
 -->
 
 
-
+- disable JSDT by default over ES5 [#70](70), Bug 442049 [#159](159) ES6 [#194](194)
 - [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.  
 Hint: add `"postinstall"` script into `package.json` :  
@@ -53,8 +53,11 @@ Hint: add `"postinstall"` script into `package.json` :
  [tj#204](https://github.com/angelozerr/tern.java/issues/204)
 - add TCF-Termnals View as first on Node perspective
 
+  [194]: https://github.com/Nodeclipse/nodeclipse-1/issues/160
   [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
+  [159]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
+  [70]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
 
 ### Version .17.plus 2014-10-13
 
