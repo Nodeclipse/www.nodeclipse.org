@@ -34,7 +34,7 @@ See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wi
 -->
 
 
-- disable JSDT by default over ES5 [#70](70), Bug 442049 [#159](159) ES6 [#194](194)
+- disable JSDT by default over ES5 [#70](70), Bug 442049 [#159](159), ES6 [#194](194)
 - [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.  
 Hint: add `"postinstall"` script into `package.json` :  
