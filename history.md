@@ -23,7 +23,7 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version .18 2015-??-??
+### Version 1.0 2015-??-??
 
 <!--
 - by default enable [JSDoc](http://usejsdoc.org/) type checking
