@@ -36,7 +36,7 @@ See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wi
 - add Tern Explorer (alt Outline) view to the Node perspective 
  [atj#289](https://github.com/angelozerr/tern.java/issues/289)
 - enable Tern Outline, ES6 by default in new Node.js project
-- disable JSDT by default over ES5 [#70](70), Bug 442049 [#159](159), ES6 [#194](194)
+- disable JSDT nature by default over ES5 [#70](70), Bug 442049 [#159](159), ES6 [#194](194)
 - [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.  
 Hint: add `"postinstall"` script into `package.json` :  
