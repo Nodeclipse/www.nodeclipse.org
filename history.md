@@ -31,6 +31,8 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 ![](http://i.stack.imgur.com/KruI7.png)
 
 See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wiki/Validation-JSDoc)
+
+- add `.sublime-project` file into `common-templates`
 -->
 
 - add Tern Explorer (alt Outline) view to the Node perspective 
@@ -47,22 +49,19 @@ Hint: add `"postinstall"` script into `package.json` :
         "postinstall": "bower install"
     },
 
-
 - [#172](172) add template hello-angularjs in new Node.js project wizard
-<!--
-- add `.sublime-project` file into `common-templates`
--->
 - add [Tern-Toolings](https://github.com/angelozerr/tern.java/wiki/Tern-Toolings) wizards to Node perspective 
  [atj#204](https://github.com/angelozerr/tern.java/issues/204)
 - add TCF-Termnals View as first on the Node perspective
-- [#3](3) associate `._js` files with Editors
+- [#3](1003) associate `._js` files with Editors
 
+  [194]: https://github.com/Nodeclipse/nodeclipse-1/issues/194
   [177]: https://github.com/Nodeclipse/nodeclipse-1/issues/177
   [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [159]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
   [70]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
-  [3]: https://github.com/Nodeclipse/nodeclipse-1/issues/3
+  [1003]: https://github.com/Nodeclipse/nodeclipse-1/issues/3
 
 ### Version .17.plus 2014-10-13
 
