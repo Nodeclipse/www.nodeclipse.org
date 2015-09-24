@@ -31,6 +31,9 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wiki/Validation-JSDoc)
 
+- add TCF-Termnals View as first on the Node perspective, 
+blocked by [Bug 478249 - [terminal][regression] 13s or more freeze](https://bugs.eclipse.org/bugs/show_bug.cgi?id=478249)
+
 <!--
 - add `.sublime-project` file into `common-templates`
 -->
@@ -54,7 +57,6 @@ Hint: add `"postinstall"` script into `package.json` :
 - [#172][172] add template hello-angularjs in new Node.js project wizard
 - add [Tern-Toolings](https://github.com/angelozerr/tern.java/wiki/Tern-Toolings) wizards to Node perspective 
  [atj#204](https://github.com/angelozerr/tern.java/issues/204)
-- add TCF-Termnals View as first on the Node perspective
 - [#3][1003] associate `._js` files with Editors
 
   [1003]: https://github.com/Nodeclipse/nodeclipse-1/issues/3
