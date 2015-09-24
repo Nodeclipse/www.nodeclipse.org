@@ -55,12 +55,14 @@ Hint: add `"postinstall"` script into `package.json` :
 - add [Tern-Toolings](https://github.com/angelozerr/tern.java/wiki/Tern-Toolings) wizards to Node perspective 
  [atj#204](https://github.com/angelozerr/tern.java/issues/204)
 - add TCF-Termnals View as first on the Node perspective
+- [#3](3) associate `._js` files with Editors
 
   [177]: https://github.com/Nodeclipse/nodeclipse-1/issues/177
   [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [159]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
   [70]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
+  [3]: https://github.com/Nodeclipse/nodeclipse-1/issues/3
 
 ### Version .17.plus 2014-10-13
 
