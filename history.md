@@ -38,7 +38,7 @@ blocked by [Bug 478249 - [terminal][regression] 13s or more freeze](https://bugs
 - add `.sublime-project` file into `common-templates`
 -->
 
-### Version 1.0 2015-09-2? (pending)
+### Version 1.0 2015-09-24 (released)
 
 - add Tern Explorer (alt Outline) view to the Node perspective 
  [atj#289](https://github.com/angelozerr/tern.java/issues/289)
