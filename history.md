@@ -5,7 +5,7 @@ title: Nodeclipse -- Version History
 
 {% include navigation-links.html %}
 
-# Version History
+# Version History & Roadmap
 
 <p></p>
 
@@ -23,24 +23,26 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 1.0 2015-??-??
+### Version 1.1 2015-1?-?? (planned)
 
-<!--
 - by default enable [JSDoc](http://usejsdoc.org/) type checking
 
 ![](http://i.stack.imgur.com/KruI7.png)
 
 See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wiki/Validation-JSDoc)
 
+<!--
 - add `.sublime-project` file into `common-templates`
 -->
+
+### Version 1.0 2015-09-2? (pending)
 
 - add Tern Explorer (alt Outline) view to the Node perspective 
  [atj#289](https://github.com/angelozerr/tern.java/issues/289)
 - enable Tern Outline, ES6 by default in new Node.js project
-- disable JSDT nature by default over ES5 [#70](70), Bug 442049 [#159](159), ES6 [#194](194)
-- pass environment variables to launched npm similar to Node debugging [#177](177)
-- [#171](171) simple Bower support: Editor `bower.json` and `.bowerrc`,
+- disable JSDT nature by default over ES5 [#70][70], Bug 442049 [#159][159], ES6 [#194][194]
+- pass environment variables to launched npm similar to Node debugging [#177][177]
+- [#171][171] simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.  
 Hint: add `"postinstall"` script into `package.json` :  
 
@@ -49,19 +51,19 @@ Hint: add `"postinstall"` script into `package.json` :
         "postinstall": "bower install"
     },
 
-- [#172](172) add template hello-angularjs in new Node.js project wizard
+- [#172][172] add template hello-angularjs in new Node.js project wizard
 - add [Tern-Toolings](https://github.com/angelozerr/tern.java/wiki/Tern-Toolings) wizards to Node perspective 
  [atj#204](https://github.com/angelozerr/tern.java/issues/204)
 - add TCF-Termnals View as first on the Node perspective
-- [#3](1003) associate `._js` files with Editors
+- [#3][1003] associate `._js` files with Editors
 
-  [194]: https://github.com/Nodeclipse/nodeclipse-1/issues/194
-  [177]: https://github.com/Nodeclipse/nodeclipse-1/issues/177
-  [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
-  [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
-  [159]: https://github.com/Nodeclipse/nodeclipse-1/issues/158
-  [70]: https://github.com/Nodeclipse/nodeclipse-1/issues/154
   [1003]: https://github.com/Nodeclipse/nodeclipse-1/issues/3
+  [70]: https://github.com/Nodeclipse/nodeclipse-1/issues/70
+  [159]: https://github.com/Nodeclipse/nodeclipse-1/issues/159
+  [171]: https://github.com/Nodeclipse/nodeclipse-1/issues/171
+  [172]: https://github.com/Nodeclipse/nodeclipse-1/issues/172
+  [177]: https://github.com/Nodeclipse/nodeclipse-1/issues/177
+  [194]: https://github.com/Nodeclipse/nodeclipse-1/issues/194
 
 ### Version .17.plus 2014-10-13
 
