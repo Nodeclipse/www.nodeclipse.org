@@ -1,13 +1,16 @@
+---
+layout: nil
+---
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='Nodeclipse Updates - Color IDE Pack'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->  
-    <property name='p2.timestamp' value='1443080000'/>
+    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
+    <property name='p2.timestamp' value='1443080002'/>
   </properties>
   <children size='1'>
-	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/1.0.1/'/>
+	<child location='{% include nodeclipse_update_site.html %}'/>
 	<child location='http://eclipse.jeeeyul.net/update/'/>
   </children>
 </repository>

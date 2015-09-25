@@ -1,13 +1,16 @@
+---
+layout: nil
+---
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='Nodeclipse Updates'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->  
-    <property name='p2.timestamp' value='1443080000'/>
+    <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
+    <property name='p2.timestamp' value='1443080002'/>
   </properties>
   <children size='1'>
-	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/1.0.1/'/>
+	<child location='{% include nodeclipse_update_site.html %}'/>
     <child location='http://oss.opensagres.fr/angularjs-eclipse/1.0.0/'/>
 	<child location=' http://oss.opensagres.fr/tern.repository/1.0.0/'/>
 	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/1.0.0/'/>
@@ -17,11 +20,11 @@
 	<child location='http://download.eclipse.org/technology/m2e/releases/'/>
 	<child location='http://dist.springsource.com/release/TOOLS/gradle/'/>
 	<child location='http://eclipse.jeeeyul.net/update/'/>
-	<!-- already included: 	
+	<!-- already included:
 	<child location='http://nodeclipse.github.io/updates/eclipse-color-theme/'/>
 	<child location='http://dl.bintray.com/satyagraha/generic/1.8.1/'/>
 	<child location='http://dl.bintray.com/enide/Markdown/1.0.0/'/> --><!-- Markdown Editor -->
-	<!-- <child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>  disable for speed 
+	<!-- <child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>  disable for speed
 	<child location='http://dl.bintray.com/nodeclipse/EditBox/0.50.0/'/>
 	-->
   </children>
