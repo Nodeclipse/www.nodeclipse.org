@@ -25,7 +25,8 @@ Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#m
 
 ### Version 1.1 2015-1?-?? (pending)
 
-- preference to add JSDT nature (default false)
+- preference to add JSDT nature
+- disable JSDT nature by default over ES5 [#70][70], Bug 442049 [#159][159], ES6 [#194][194]
 - hot key for wizards (press letter after <kbd>Alt+Shift+N</kbd>)
 
 TODO
@@ -47,7 +48,6 @@ blocked by [Bug 478249 - [terminal][regression] 13s or more freeze](https://bugs
 
 ### Version 1.0 2015-09-24 (released)
 
-- disable JSDT nature by default over ES5 [#70][70], Bug 442049 [#159][159], ES6 [#194][194]
 - add Tern Explorer (alt Outline) view to the Node perspective
  [atj#289](https://github.com/angelozerr/tern.java/issues/289)
 - enable Tern Outline, ES6 by default in new Node.js project
