@@ -23,9 +23,13 @@ Reminder: reset perspective after an update for new UI elements to appear.
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
 
-### Version 1.1 2015-1?-?? (planned)
+### Version 1.1 2015-1?-?? (pending)
 
+- preference to add JSDT nature (default false)
 - hot key for wizards (press letter after <kbd>Alt+Shift+N</kbd>)
+
+TODO
+
 - by default enable [JSDoc](http://usejsdoc.org/) type checking
 
 ![](http://i.stack.imgur.com/KruI7.png)
@@ -39,12 +43,14 @@ blocked by [Bug 478249 - [terminal][regression] 13s or more freeze](https://bugs
 - add `.sublime-project` file into `common-templates`
 -->
 
+### Version 1.0.2 fix 2015-09-25 (released)
+
 ### Version 1.0 2015-09-24 (released)
 
+- disable JSDT nature by default over ES5 [#70][70], Bug 442049 [#159][159], ES6 [#194][194]
 - add Tern Explorer (alt Outline) view to the Node perspective
  [atj#289](https://github.com/angelozerr/tern.java/issues/289)
 - enable Tern Outline, ES6 by default in new Node.js project
-- disable JSDT nature by default over ES5 [#70][70], Bug 442049 [#159][159], ES6 [#194][194]
 - pass environment variables to launched npm similar to Node debugging [#177][177]
 - [#171][171] simple Bower support: Editor `bower.json` and `.bowerrc`,
 don't validate or check for `TODO`s inside `bower_components` folder.
@@ -122,7 +128,7 @@ the most [featureful distribution](http://marketplace.eclipse.org/content/enide-
   [160]: https://github.com/Nodeclipse/nodeclipse-1/issues/160
   [161]: https://github.com/Nodeclipse/nodeclipse-1/issues/161
   [165]: https://github.com/Nodeclipse/nodeclipse-1/issues/165
-  [166]: https://github.com/Nodeclipse/nodeclipse-1/issues/165
+  [166]: https://github.com/Nodeclipse/nodeclipse-1/issues/166
 
 
 ### Version 0.16 "ECT" 2014-06-09
