@@ -6,7 +6,7 @@ layout: nil
 <repository name='Nodeclipse Updates - 1'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1443080002'/>
+    <property name='p2.timestamp' value='{% include p2.timestamp.txt %}'/>
     <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
   </properties>
   <children size='1'>
