@@ -35,7 +35,7 @@ Also plugin marked with `code formating` can be installed using
 
 #### 2015
 
-- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2588223)
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2588223)
 [Clean Sheet – an Ergonomic Eclipse Theme for Windows 10](http://www.codeaffine.com/2015/11/04/clean-sheet-an-ergonomic-eclipse-theme-for-windows-10/)
 
 #### Enide Studio 2015
