@@ -11,9 +11,9 @@ layout: nil
   </properties>
   <children size='1'>
 	<child location='{% include nodeclipse_update_site.html %}'/>
-    <child location='http://oss.opensagres.fr/angularjs-eclipse/1.0.0/'/>
-	<child location=' http://oss.opensagres.fr/tern.repository/1.0.0/'/>
-	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/1.0.0/'/>
+    <child location='http://oss.opensagres.fr/angularjs-eclipse/1.1.0/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/1.1.0/'/>
+	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/1.1.0/'/>
 	<child location='http://download.eclipse.org/tools/tcf/terminals_lunasr2'/>
     <child location='http://download.eclipse.org/egit/updates'/>
 	<child location='http://download.eclipse.org/mylyn/releases/latest'/>

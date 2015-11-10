@@ -7,13 +7,13 @@ layout: nil
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
     <!-- http://www.epochconverter.com/ or http://www.onlineconversion.com/unix_time.htm -->
-    <property name='p2.timestamp' value='1443080002'/>
+	<property name='p2.timestamp' value='{% include p2.timestamp.txt %}'/>
   </properties>
   <children size='1'>
 	<child location='{% include nodeclipse_update_site.html %}'/>
-    <child location='http://oss.opensagres.fr/angularjs-eclipse/1.0.0/'/>
-	<child location=' http://oss.opensagres.fr/tern.repository/1.0.0/'/>
-	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/1.0.0/'/>
+    <child location='http://oss.opensagres.fr/angularjs-eclipse/1.1.0/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/1.1.0/'/>
+	<child location='http://oss.opensagres.fr/eclipse-wtp-webresources/1.1.0/'/>
 	<child location='http://download.eclipse.org/tools/tcf/terminals_lunasr2'/>
   </children>
 </repository>
