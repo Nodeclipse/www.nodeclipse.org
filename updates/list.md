@@ -3,29 +3,29 @@ layout: nil
 ---
 
 <style type="text/css">
-a img {border: none; } 
+a img {border: none; }
 </style>
 
 {% include navigation-links.html %}
 
 {% include enide-2015-downloads.html %}
 
-<!-- 
+<!--
  Feeds: [Stackoverfow](http://stackoverflow.com/feeds/tag?tagnames=nodeclipse&sort=newest),
  [SourceForge](http://sourceforge.net/p/nodeclipse/activity/feed)
 -->
 
 # Nodeclipse Plugins List
 
-The list below is for convenient and quick way to install Eclipse plugins.   
+The list below is for convenient and quick way to install Eclipse plugins.
 Just drag-and-drop such [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
  image for the plugin that you need onto Eclipse main toolbar above. ([See tip how](list-tip-how)).
 
 Prefix [**Up**][2] indicates that this plugin is available from Nodeclipse updates site `http://www.nodeclipse.org/updates/` .
-  
+
 Also plugin marked with `code formating` can be installed using
  [Nodeclipse CLI Installer](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates)
- like `nodeclipse install alias`  
+ like `nodeclipse install alias`
 
   [1]: http://www.nodeclipse.org/img/installbutton.png
   [2]: http://www.nodeclipse.org/updates/#update-site
@@ -33,17 +33,29 @@ Also plugin marked with `code formating` can be installed using
 
 ## News and updates
 
+#### 2015
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2588223)
+[Clean Sheet – an Ergonomic Eclipse Theme for Windows 10](http://www.codeaffine.com/2015/11/04/clean-sheet-an-ergonomic-eclipse-theme-for-windows-10/)
+
+#### Enide Studio 2015
+
+- [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2566102)
+Tool Suite for Node.js, JavaScript, Java and Web Development (Nodeclipse, Enide, TernIDE, TCF Terminals, Mirur and [more](/enide/studio/2014/)).
+
+#### 2014
+
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1827835)
-Color IDE Pack - Quickly install 4 plugins to colorize Eclipse (ECT, Moonrise, Jeeeyul, EditBox). [mp](https://marketplace.eclipse.org/content/color-ide-pack) 
+Color IDE Pack - Quickly install 4 plugins to colorize Eclipse (ECT, Moonrise, Jeeeyul, EditBox). [mp](https://marketplace.eclipse.org/content/color-ide-pack)
 <!--
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
 Eclipse Color Theme by Nodeclipse [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
 -->
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1582059)
 [**Nodeclipse EditBox**](https://github.com/Nodeclipse/editbox)
-is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.	
+is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1640500)
-Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack) 
+Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1633965)
  LESS Builder [mp](http://marketplace.eclipse.org/content/less-builder)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1631105)
@@ -51,10 +63,10 @@ Gradle IDE Pack [mp](http://marketplace.eclipse.org/content/gradle-ide-pack)
  [mp](http://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin)
 To try type `#page>div.logo+ul#navigation>li*5>a{Item $}` in HTML Editor then <kbd>Tab</kbd>. Read [abbreviations](http://docs.emmet.io/abbreviations/)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812)
- [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme) 
+ [Moonrise - Dark UI theme for Eclipse 4+](https://github.com/guari/eclipse-ui-theme)
  [mp](http://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
-`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
 `markdown` Markdown Text Editor [mp](http://marketplace.eclipse.org/content/markdown-text-editor),[sources](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
@@ -71,14 +83,14 @@ Tool Suite for Node.js, JavaScript, Java Development (Nodeclipse, Enide, TernIDE
  is alternative and completion to Gradle Eclipse Integration. Minimalist Gradle Editor is included.
  [mp](http://marketplace.eclipse.org/content/gradle)
 
-##### Enide & Nodeclipse 
+##### Enide & Nodeclipse
 
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=775276)
  [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
 
-or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )  
-<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre> 
+or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/help?url=http://www.nodeclipse.org/updates/) )
+<pre>http://www.nodeclipse.org/updates/</pre> or (quicker but fixed version) <pre>{% include nodeclipse_update_site.html %}</pre>
 
 
 
@@ -112,11 +124,11 @@ or use update site ( [how to pics](http://marketplace.eclipse.org/updatesite/hel
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1663595)
  Eclipse Color Theme by Nodeclipse [mp](http://marketplace.eclipse.org/content/eclipse-color-theme-nodeclipse)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336)
-`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)  
+`egit` EGit - Git Team Provider [mp](http://marketplace.eclipse.org/content/egit-git-team-provider)
 Even though EGit is perfect GUI, you may still want to use command line `git`.
  [Msysgit](http://msysgit.github.io/) is nice distribution for Windows, that includes bash.
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1789454)
- Gonsole - [Git Console](http://rherrmann.github.io/gonsole/) [mp](https://marketplace.eclipse.org/content/gonsole)  
+ Gonsole - [Git Console](http://rherrmann.github.io/gonsole/) [mp](https://marketplace.eclipse.org/content/gonsole)
 - [**Up**][2] [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
 `git` [Nodeclipse Git Addon](http://www.nodeclipse.org/git/addon/)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=116)
@@ -157,8 +169,8 @@ WireframeSketcher Wireframing Tool [mp](http://marketplace.eclipse.org/content/w
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=266274)
 Android Development Tools for Eclipse (Eclipse-ADT) by Google [mp](Android Development Tools for Eclipse)
-or use URL    
-`https://dl-ssl.google.com/android/eclipse/`    
+or use URL
+`https://dl-ssl.google.com/android/eclipse/`
 or use offline [installing](https://developer.android.com/sdk/installing/installing-adt.html)
  from zip archive e.g. [ADT-23.0.4.zip](https://dl.google.com/android/ADT-23.0.4.zip)
 
@@ -167,7 +179,7 @@ Android ADT extentions by li.jamling@gmail.com [mp](http://marketplace.eclipse.o
 
 ### Node.js & JavaScript Development
 
-<!-- 
+<!--
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1160101)
 [Nodeclipse & Enide (Nodeclipse core, Chromium Tools, JSHint-Eclipse, Markdown Editor, GFM VIewer,
  StartExplorer, RestClient Tool, Git Addon, Plugins List)](http://www.nodeclipse.org)
@@ -210,8 +222,8 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1316084)
  [Eclipse plugin for JavaScript with Closure Compiler, Closure Library and Closure Linter by Vincent Simonet](http://www.normalesup.org/~simonet/soft/ow/eclipse-closure-javascript.en.html)
 , [Eclipse plugin for Closure Templates](http://www.normalesup.org/~simonet/soft/ow/eclipse-closure-templates.en.html)
- and LESS [mp](- TODO http://marketplace.eclipse.org/content/jsdt-closure) 
- 
+ and LESS [mp](- TODO http://marketplace.eclipse.org/content/jsdt-closure)
+
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=881)
 [Vrapper](https://marketplace.eclipse.org/content/vrapper) acts as a wrapper for Eclipse text editors
  to provide a Vim-like input scheme for moving around and editing text.
@@ -223,7 +235,7 @@ JSON Editor Plugin (optional for Outline as Node Editor can do as well)
 (also handles .jar and .aar files)
  [mp](http://marketplace.eclipse.org/content/eclipse-zip-editor)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1629575)
-[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer) 
+[eExplorer - Embedded Windows Explorer](https://github.com/culmat/eExplorer)
  [mp](http://marketplace.eclipse.org/content/eexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1687099)
 TCF Terminals. [read good description on mp](http://marketplace.eclipse.org/content/tcf-terminals)
@@ -233,14 +245,14 @@ RSE - Remote System Explorer (SSH, Telnet, FTP and DStore protocols)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=641101)
 `startexplorer` [Start Explorer or shell](http://marketplace.eclipse.org/node/641101) [site](http://basti1302.github.io/startexplorer/),[github](https://github.com/basti1302/startexplorer)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=340868)
-Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug) 
-// is actually CLI Shell, Linux/MacOS only; see related TCF Terminals that have all OSes support 
+Terminal Plug-in (by Alex Ruiz) [mp](http://marketplace.eclipse.org/content/terminal-plug)
+// is actually CLI Shell, Linux/MacOS only; see related TCF Terminals that have all OSes support
 
 ## Eclipse Plugin/RCP Development
 
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2234530)
 [Eclipse PDE](https://www.eclipse.org/pde/) (Plug-in Development Environment) [mp](http://marketplace.eclipse.org/content/eclipse-pde-plug-development-environment)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=367947) 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=367947)
 PDE-Tools [mp](http://marketplace.eclipse.org/content/pde-tools) [GitHub](https://github.com/jeeeyul/pde-tools)
 - [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=311838)
 Eclipse 4 Tools: Application Model Editor [mp](https://marketplace.eclipse.org/content/eclipse-4-tools-application-model-editor)
@@ -293,7 +305,7 @@ Rinzo XML Editor by Claudio Cancinos [mp](http://marketplace.eclipse.org/content
 - Synthclipse [mp](http://marketplace.eclipse.org/content/synthclipse) (3D video rendering in Eclipse using OpenGL Shading Language, audio player)
 - Groovy REPL [mp](http://marketplace.eclipse.org/content/eclipse-grovy-repl-scripting-environment)
 - Multiproperties [mp](http://marketplace.eclipse.org/content/multiproperties)
-- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236) 
+- [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=687236)
  [Overview plugin for Eclipse](http://marketplace.eclipse.org/node/687236) (more stable option is Crazy Outline inside PDE-Tools)
 - CKEditor for HTML [mp](http://marketplace.eclipse.org/content/eclipse-ckeditor)
 - Arduino [mp](http://marketplace.eclipse.org/content/arduino-eclipse-ide)
