@@ -21,12 +21,13 @@ Install Pivotal Gradle IDE & Enide Gradle for Eclipse in one operation.
 This plugin set works in any Eclipse (from Mars downto 3.7.2).
 
 <strong>Included</strong>:
--  <a href="https://marketplace.eclipse.org//content/gradle-integration-eclipse">Gradle Integration for Eclipse by Pivotal</a> (feature name is Gradle IDE) <a href="https://github.com/spring-projects/eclipse-integration-gradle/">@GitHub</a>
--  <a href="https://marketplace.eclipse.org//content/gradle">Gradle for Eclipse</a> by Nodeclipse/Enide <a href="https://github.com/nodeclipse/nodeclipse-1/">@GitHub</a>
--  <a href="https://marketplace.eclipse.org//content/minimalist-gradle-editor">Minimalist Gradle Editor plugin</a> <a href="https://github.com/nodeclipse/nodeclipse-1/">@GitHub</a>
--  <a href="https://marketplace.eclipse.org//content/nodeclipse-editbox-background-colors-themes-highlight-code-blocks-c-java-javascript-python">Nodeclipse EditBox</a> for code blocks highlight. <a href="https://github.com/Nodeclipse/EditBox">@GitHub</a>
--  <a href="https://marketplace.eclipse.org//node/641101">StartExplorer</a> for quick switch to command line <a href="https://github.com/basti1302/startexplorer/">@GitHub</a>
--  <a href="https://marketplace.eclipse.org//content/eclipse-zip-editor">ZipEditor</a> with <a href="https://github.com/Nodeclipse/zipeditor">some additions v1.1.2</a> to quickly look inside Gradle output: aar, apk, jar, war ... etc files
+
+-  Gradle Integration for Eclipse by Pivotal (feature name is Gradle IDE) <a href="https://github.com/spring-projects/eclipse-integration-gradle/">@GitHub</a>
+-  Gradle for Eclipse by Nodeclipse/Enide <a href="https://github.com/nodeclipse/nodeclipse-1/">@GitHub</a>
+-  Minimalist Gradle Editor plugin <a href="https://github.com/nodeclipse/nodeclipse-1/">@GitHub</a>
+-  Nodeclipse EditBox for code blocks highlight. <a href="https://github.com/Nodeclipse/EditBox">@GitHub</a>
+-  StartExplorer for quick switch to command line <a href="https://github.com/basti1302/startexplorer/">@GitHub</a>
+-  ZipEditor with <a href="https://github.com/Nodeclipse/zipeditor">some additions v1.1.2</a> to quickly look inside Gradle output: aar, apk, jar, war ... etc files
 
 # Gradle for Eclipse (by Nodeclipse/Enide)
 
