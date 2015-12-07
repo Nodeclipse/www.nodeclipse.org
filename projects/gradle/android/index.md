@@ -16,7 +16,7 @@ Pages:
 - [Importing from Android Studio into Eclipse](Importing-from-Android-Studio-into-Eclipse)
 - [Make Android Eclipse project ready for Android Studio](Make-Android-Eclipse-project-ready-for-Android-Studio)
 - [Drop-in template for classic Android project](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle)
-- [AAR for Eclipse](aar-for-Eclipse)
+- [AAR for Eclipse](aar-for-Eclipse) `gradle-eclipse-aar-plugin`
 - [Support library](Support-library)
 - (old) [Version Compatibility](version-compatibility) of Android Gradle Plugin and Gradle 
 
