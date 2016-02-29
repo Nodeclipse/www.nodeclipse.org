@@ -8,7 +8,7 @@ title: Nodeclipse/Enide Minimalist Gradle Editor
 
 Minimalist Gradle Editor by Paul Verest
 
-- Source, README <https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.enide.editors.gradle>
+- Source, README <https://github.com/Nodeclipse/GradleEditor>
 - Marketplace <http://marketplace.eclipse.org/content/minimalist-gradle-editor>
 
 ![](https://marketplace.eclipse.org/sites/default/files/styles/ds_solution_screenshot/public/Minimalist_Gradle_Editor.PNG)
