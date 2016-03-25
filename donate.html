@@ -1,3 +1,7 @@
+---
+layout: nil
+title: SHARE
+---
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -32,6 +36,7 @@
 
 </head>
 <body>
+	{% include navigation-links.html %}
     <div class="paypal">
         <form class="donate-img" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_xclick">
@@ -50,5 +55,6 @@
         <img class="donate-img" src="img/alipay-donate.png">
         <h1>使用支付宝钱包进行捐赠,请扫描上面的二维码</h1><br>
     </div>
+    {% include enide-2015-downloads.html %}
 </body>
 </html>
