@@ -33,7 +33,7 @@ Never read docs, software can guess your intentions and act in your best interes
 - <https://github.com/takari/polyglot-maven-examples>
 - <https://github.com/jbosstools/m2e-polyglot-poc> v0.0.1
 
-Java 8 is required
+Java 8, Maven 3.3.1+ is required
 
 ## Some advises 
 
