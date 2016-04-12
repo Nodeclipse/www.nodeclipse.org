@@ -37,7 +37,7 @@ Java 8 is required
 
 ## Some advises 
 
-If installation breaks or something does not work, just forget about it for year. Really. Do what you are paid for.
+If installation breaks or something does not work, just forget about it for half a year. Really. Do what you are paid for.
 
 ## Trivia
 
