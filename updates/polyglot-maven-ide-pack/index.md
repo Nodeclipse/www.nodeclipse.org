@@ -8,7 +8,7 @@ This is Eclipse update site. URL should be entered in Help -> Install New Softwa
 
 Break your build by experimenting with Polyglot Maven POC (aka Prove of Concept, aka alpha),
 and loose your `pom.xml` file(s) completely unless it has been in version control, 
-e.g. `git init`, `git add pom.xml`, 'git commit -m "pom save me"'.
+e.g. after `git init`, `git add pom.xml`, 'git commit -m "pom save me"'.
 
 After installing this pack (and Eclipse IDE restart), convert your `pom.xml` into nice shiny `pom.yaml`
 and edit 50 lines inteads of 1000 using nice and steady [YEdit YAML Editor](https://github.com/oyse/yedit)
@@ -27,10 +27,10 @@ and changes applied to the project.
 
 Never read docs, software can guess your intentions and act in your best interests always.
 
-## Links
+## Links and Versions
 
-- https://github.com/takari/polyglot-maven
+- https://github.com/takari/polyglot-maven v0.1.16 
 - https://github.com/takari/polyglot-maven-examples
-- https://github.com/jbosstools/m2e-polyglot-poc
+- https://github.com/jbosstools/m2e-polyglot-poc v0.0.1
 
 {% include navigation-links.html %}

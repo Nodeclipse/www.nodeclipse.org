@@ -10,7 +10,6 @@ layout: nil
     <property name='p2.timestamp' value='1443080002'/>
   </properties>
   <children size='1'>
-	<child location='{% include nodeclipse_update_site.html %}'/>
 	<child location='http://dl.bintray.com/jbosstools/m2e-polyglot-poc/'/>
 	<child location='http://dadacoalition.org/yedit'/>
   </children>
