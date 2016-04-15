@@ -7,7 +7,7 @@ This is Eclipse update site. URL should be entered in Help -> Install New Softwa
 # Polyglot Maven with YAML IDE Pack (bleeding edge)
 
 Break your build by experimenting with Polyglot Maven POC (aka Prove of Concept, aka alpha),
-and loose your `pom.xml` file(s) completely unless it has been in version control, 
+and loose your `pom.xml` file(s) completely unless it has been in version control,  
 e.g. after `git init`, `git add pom.xml`, `git commit -m "pom save me"`.
 
 After installing this pack (and Eclipse IDE restart), convert your `pom.xml` into nice shiny `pom.yaml`
@@ -22,7 +22,7 @@ Press <kbd>Ctrl+Alt+T</kbd> or [<kbd>Ctrl+Alt+D</kbd>](https://github.com/fabioz
 Convert an existing Maven (m2e) project into Polyglot Maven via right-click on a project and 
 `Configure > Convert to Maven Polyglot...`
 
-Edit `pom.xml` and see it instantly converted into `pom.xml` (so you can still enjoy extra informative tabs in m2e POM Editor)
+Edit `pom.yaml` and see it instantly converted into `pom.xml` (so you can still enjoy extra informative tabs in m2e POM Editor)
 and changes applied to the project. 
 
 Never read docs, software can guess your intentions and act in your best interests always.
