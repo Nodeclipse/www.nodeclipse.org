@@ -52,6 +52,7 @@ Thanks to @vsipuli
 - <https://github.com/takari/polyglot-maven> v0.1.16 
 - <https://github.com/takari/polyglot-maven-examples>
 - <https://github.com/jbosstools/m2e-polyglot-poc> v0.0.1
+- [Bug 465483 - Support polyglot maven](https://bugs.eclipse.org/bugs/show_bug.cgi?id=465483) in Eclipse
 
 Java 8, Maven 3.3.1+ is required
 
