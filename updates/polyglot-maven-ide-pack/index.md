@@ -27,6 +27,26 @@ and changes applied to the project.
 
 Never read docs, software can guess your intentions and act in your best interests always.
 
+## Command line
+
+Make sure that there is `.mvn/extensions.xml` with
+
+```xml
+<extensions>
+  <extension>
+    <groupId>io.takari.polyglot</groupId>
+    <artifactId>polyglot-yaml</artifactId>
+    <version>0.1.15</version>
+  </extension>
+</extensions>
+```
+
+Now you can `mvn dependency:tree` within project subfolders.
+
+Even without it, you can specify pom file `mvn -f pom.yaml dependency:tree`    
+
+Thanks to @vsipuli 
+
 ## Links and Versions
 
 - <https://github.com/takari/polyglot-maven> v0.1.16 
@@ -41,7 +61,7 @@ If installation breaks or something does not work, just forget about it for half
 
 ## Trivia
 
-- http://maven.40175.n5.nabble.com/VOTE-Change-project-logo-and-adopt-owl-as-mascot-td5815672.html
+- <http://maven.40175.n5.nabble.com/VOTE-Change-project-logo-and-adopt-owl-as-mascot-td5815672.html>
 
 ![](http://people.apache.org/~stephenc/maven-logo-contest/maven-owl-final.png)
 
