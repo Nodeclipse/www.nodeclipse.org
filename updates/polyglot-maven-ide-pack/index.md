@@ -4,6 +4,8 @@ layout: nil
 
 This is Eclipse update site. URL should be entered in Help -> Install New Software...
 
+![](../../img/logos/maven-owl-logo.png)
+
 # Polyglot Maven with YAML IDE Pack (bleeding edge)
 
 Break your build by experimenting with Polyglot Maven POC (aka Prove of Concept, aka alpha),
@@ -27,6 +29,20 @@ and changes applied to the project.
 
 Never read docs, software can guess your intentions and act in your best interests always.
 
+## Links and Versions
+
+- <https://github.com/takari/polyglot-maven> v0.1.16 
+- <https://github.com/takari/polyglot-maven-examples>
+- <https://github.com/jbosstools/m2e-polyglot-poc> v0.0.1
+- [Bug 465483 - Support polyglot maven](https://bugs.eclipse.org/bugs/show_bug.cgi?id=465483) in Eclipse
+- <https://github.com/Nodeclipse/polyglot-maven-editors>
+
+Java 8, Maven 3.3.1+ is required
+
+## Some advises 
+
+If installation breaks or something does not work, just forget about it for half a year. Really. Do what you are paid for.
+
 ## Command line
 
 Make sure that there is `.mvn/extensions.xml` with
@@ -43,23 +59,9 @@ Make sure that there is `.mvn/extensions.xml` with
 
 Now you can `mvn dependency:tree` within project subfolders.
 
-Even without it, you can specify pom file `mvn -f pom.yaml dependency:tree`    
+Without `.mvn/extensions.xml`, you can specify pom file like `mvn -f pom.yaml`    
 
 Thanks to @vsipuli 
-
-## Links and Versions
-
-- <https://github.com/takari/polyglot-maven> v0.1.16 
-- <https://github.com/takari/polyglot-maven-examples>
-- <https://github.com/jbosstools/m2e-polyglot-poc> v0.0.1
-- [Bug 465483 - Support polyglot maven](https://bugs.eclipse.org/bugs/show_bug.cgi?id=465483) in Eclipse
-- <https://github.com/Nodeclipse/polyglot-maven-editors>
-
-Java 8, Maven 3.3.1+ is required
-
-## Some advises 
-
-If installation breaks or something does not work, just forget about it for half a year. Really. Do what you are paid for.
 
 ## Trivia
 
