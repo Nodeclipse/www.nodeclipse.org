@@ -9,10 +9,44 @@ title: Nodeclipse -- Version History
 
 <p></p>
 
+### Future
+
+New major functionality is going to come from Eclipse,
+within standard Eclipse packages. Node.js goes mainstream.
+  
+That again shows rule that in the end tools are taken care by technology creators.
+As when competing with other stacks, such part as tooling does matter.
+(Compare with STS for Spring, and Red Hat JBoss tools for Hibernate etc.)
+
+
+Eclipse Neon already has major Nodeclipse features and part:
+
+- [JavaScript Editor](https://www.eclipse.org/community/eclipse_newsletter/2016/may/article2.php)
+  (that uses [esprima](http://esprima.org/), but not [ternjs](http://ternjs.net/) parser).
+- Chromium Debugger (moved to `org.eclipse.wst.jsdt.chromium` namespace) 
+ for [Node.js debugging](https://eclipse.org/webtools/development/news/3.8M7/jsdt.php).
+- [JSON editor](https://www.eclipse.org/community/eclipse_newsletter/2016/may/article1.php) 
+for `package.json`, `bower.json`, `.bowerrc`, and `.jshintrc`. (Thanks for Angelo Zerr contribution)
+- npm, bower, Grunt & gulp support (again later 2 are of Angelo Zerr work)
+- markdown editing using WikiText Editor ( with some new bugs:
+e.g. got no letter appearing after pressing in WikiText Editor when editing markdown) 
+
+Not yet: Node perspective, wizards.
+
+New: managing Node runtimes
+proper [EcmaScript 2015 (ES6)](https://www.eclipse.org/community/eclipse_newsletter/2016/may/article2.php) support.
+
+
+And of course would be awesome to have some thanks or just reference to Nodeclipse effort.
+
+#### Links
+
+- [Eclipse May Newsletter - JavaScript Development Tools Rebooted](https://www.eclipse.org/community/eclipse_newsletter/2016/may/)
+- [Eclipse June Newsletter - Neon Top Ten](https://www.eclipse.org/community/eclipse_newsletter/2016/june/article1.php)
+
 <!--
 Suggest new and vote for <a href="http://nodeclipse.uservoice.com/forums/216804-general">ideas for Nodeclipse</a>
 or raise an [issue](https://github.com/Nodeclipse/nodeclipse-1/issues).
--->
 
 [10 ways to support free software you love, 9 won't cost you a dime](/support-us)
 
@@ -22,8 +56,9 @@ Reminder: reset perspective after an update for new UI elements to appear.
 
 Try it from sources. [Check README](https://github.com/Nodeclipse/nodeclipse-1#maven-build)
 - [GitHub](https://github.com/Nodeclipse/nodeclipse-1)
+-->
 
-### Version 1.1 2015-1?-?? (pending)
+### Version 1.1 (not released)
 
 - preference to add JSDT nature
 - disable JSDT nature by default over ES5 [#70][70], Bug 442049 [#159][159], ES6 [#194][194]
