@@ -22,7 +22,8 @@ As when competing with other stacks, such part as tooling does matter.
 Eclipse Neon already has major Nodeclipse features and part:
 
 - [JavaScript Editor](https://www.eclipse.org/community/eclipse_newsletter/2016/may/article2.php)
-  (that uses [esprima](http://esprima.org/), but not [ternjs](http://ternjs.net/) parser).
+  with full EcmaScript 2015 (ES6) support.
+  (Internally uses [esprima](http://esprima.org/), but not [ternjs](http://ternjs.net/) parser).
 - Chromium Debugger (moved to `org.eclipse.wst.jsdt.chromium` namespace) 
  for [Node.js debugging](https://eclipse.org/webtools/development/news/3.8M7/jsdt.php).
 - [JSON editor](https://www.eclipse.org/community/eclipse_newsletter/2016/may/article1.php) 
@@ -33,9 +34,7 @@ e.g. got no letter appearing after pressing in WikiText Editor when editing mark
 
 Not yet: Node perspective, wizards.
 
-New: managing Node runtimes
-proper [EcmaScript 2015 (ES6)](https://www.eclipse.org/community/eclipse_newsletter/2016/may/article2.php) support.
-
+New: managing Node runtimes.
 
 And of course would be awesome to have some thanks or just reference to Nodeclipse effort.
 
