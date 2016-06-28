@@ -36,7 +36,7 @@ Not yet: Node perspective, wizards.
 
 New: managing Node runtimes.
 
-And of course would be awesome to have some thanks or just reference to Nodeclipse effort.
+And of course would be awesome to see some thanks or just reference to Nodeclipse effort.
 
 #### Links
 
