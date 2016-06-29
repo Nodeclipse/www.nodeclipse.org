@@ -122,5 +122,12 @@ Now you see all files:
 </p>
 </div>
 
+### Links
+
+- [Eclipse Shortcuts for a Productive Workflow on genuitec.com](https://www.genuitec.com/eclipse-shortcuts/)
+- [A printable [shortcuts] cheat sheet for the Eclipse](https://github.com/pellaton/eclipse-cheatsheet)
+
 Continue reading on [home page](/).
+
+
 	
