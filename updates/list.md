@@ -6,16 +6,16 @@ layout: nil
 a img {border: none; }
 </style>
 
-{% include navigation-links.html %}
+# Nodeclipse Plugins List 2.0
 
-{% include enide-2015-downloads.html %}
+Drag-n-drop what you need on Eclipse main toolbar.
 
-<!--
- Feeds: [Stackoverfow](http://stackoverflow.com/feeds/tag?tagnames=nodeclipse&sort=newest),
- [SourceForge](http://sourceforge.net/p/nodeclipse/activity/feed)
--->
+## News and updates
 
-# Nodeclipse Plugins List
+[![Angular2](../img/list/Angular2-Eclipse.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3037144)
+[![TypeScript_IDE](../img/list/TypeScript_IDE.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3037133)
+
+# Nodeclipse Plugins List 1.0
 
 The list below is for convenient and quick way to install Eclipse plugins.
 Just drag-and-drop such [![InstallLink][1]](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253)
@@ -30,8 +30,13 @@ Also plugin marked with `code formating` can be installed using
   [1]: http://www.nodeclipse.org/img/installbutton.png
   [2]: http://www.nodeclipse.org/updates/#update-site
 
+{% include navigation-links.html %}
 
-## News and updates
+<!--
+{% include enide-2015-downloads.html %}
+ Feeds: [Stackoverfow](http://stackoverflow.com/feeds/tag?tagnames=nodeclipse&sort=newest),
+ [SourceForge](http://sourceforge.net/p/nodeclipse/activity/feed)
+-->
 
 #### 2015
 
