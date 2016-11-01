@@ -15,6 +15,7 @@ title: Nodeclipse/Enide projects
 - [Android for Eclipse](gradle/android)
 - [CoffeScript](coffeescript)
 - [EditBox](https://github.com/Nodeclipse/editbox)
+- [Eclipse Editors for Polyglot Maven: Atom & Groovy & Minimalist .proto files Editor (for Protocol Buffers and gRPC)](https://github.com/Enide/polyglot-maven-editors)
 
 # Friendly projects
 
