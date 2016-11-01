@@ -10,6 +10,8 @@ This is Eclipse update site. URL can be entered in Help -> Install New Software.
 
 # Polyglot Maven with Atom, Groovy, YAML IDE Pack (bleeding edge)
 
+<p></p>
+
 Break your build by experimenting with Polyglot Maven POC (aka Prove of Concept, aka alpha),
 and loose your `pom.xml` file(s) completely unless it has been in version control,  
 e.g. after `git init`, `git add pom.xml`, `git commit -m "pom save me"`.
