@@ -1,8 +1,8 @@
 ---
-layout: nil
+layout: projects
 ---
 
-This is Eclipse update site. URL should be entered in Help -> Install New Software...
+This is Eclipse update site. URL can be entered in Help -> Install New Software...
 
 ![](../../img/logos/maven-owl-logo.png)
 
@@ -35,9 +35,12 @@ Never read docs, software can guess your intentions and act in your best interes
 - <https://github.com/takari/polyglot-maven-examples>
 - <https://github.com/jbosstools/m2e-polyglot-poc> v0.0.1
 - [Bug 465483 - Support polyglot maven](https://bugs.eclipse.org/bugs/show_bug.cgi?id=465483) in Eclipse
-- <https://github.com/Nodeclipse/polyglot-maven-editors>
+- <https://github.com/Enide/polyglot-maven-editors>
 
 Java 8, Maven 3.3.1+ is required
+
+UPDATE 2016-11-1: YAML is not recommended, because of language limitation it is impossible to give plugin `configuration` with list of values.
+Use `pom.groovy` or `pom.ruby`.
 
 ## Some advises 
 
@@ -51,7 +54,7 @@ Make sure that there is `.mvn/extensions.xml` with
 <extensions>
   <extension>
     <groupId>io.takari.polyglot</groupId>
-    <artifactId>polyglot-yaml</artifactId>
+    <artifactId>polyglot-groovy</artifactId>
     <version>0.1.15</version>
   </extension>
 </extensions>
@@ -59,7 +62,7 @@ Make sure that there is `.mvn/extensions.xml` with
 
 Now you can `mvn dependency:tree` within project subfolders.
 
-Without `.mvn/extensions.xml`, you can specify pom file like `mvn -f pom.yaml`    
+Without `.mvn/extensions.xml`, you can specify pom file like `mvn -f pom.groovy`    
 
 Thanks to @vsipuli 
 
