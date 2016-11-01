@@ -2,11 +2,13 @@
 layout: projects
 ---
 
+<p></p>
+
 This is Eclipse update site. URL can be entered in Help -> Install New Software...
 
 ![](../../img/logos/maven-owl-logo.png)
 
-# Polyglot Maven with YAML IDE Pack (bleeding edge)
+# Polyglot Maven with Atom, Groovy, YAML IDE Pack (bleeding edge)
 
 Break your build by experimenting with Polyglot Maven POC (aka Prove of Concept, aka alpha),
 and loose your `pom.xml` file(s) completely unless it has been in version control,  
