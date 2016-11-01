@@ -7,7 +7,8 @@ title: Nodeclipse/Enide projects
 
 <p></p>
 
-- [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli--installer) $ `nodeclipse install eclipse-plugin`
+- [Nodeclipse CLI](https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.ui/templates#nodeclipse-cli--installer) $ `nodeclipse install eclipse-plugin`  
+$ `nodeclipse materialize from luna to D:/Progs/EclipseLuna1/`
 - [IDE packages](/enide/studio)
 - [Node.js in Eclipse](nodejs)
 - [Maven for Eclipse](maven)
