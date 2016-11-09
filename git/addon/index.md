@@ -14,7 +14,13 @@ Associate *.git* files with TextEditor
 
 ![](with-git-addon.PNG)
 
+## Warning
+
+`.gitattributes` file will not be used by EGit, see open [Bug 342372 - support gitattributes](https://bugs.eclipse.org/bugs/show_bug.cgi?id=342372)
+
 Builded against Indigo and tested in Kepler.
+
+Sources at GitHub <https://github.com/Nodeclipse/org.nodeclipse.gitaddon>
 
 Hint: Press <kbd>Alt+Shift+W</kbd> for `Show In`
 
