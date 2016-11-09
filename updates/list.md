@@ -8,10 +8,15 @@ a img {border: none; }
 
 # Nodeclipse Plugins List 2.0
 
-Drag-n-drop what you need on Eclipse main toolbar.
+Drag-n-drop what you need on Eclipse main toolbar. ([See tip how](list-tip-how)).   
+If it does not work, say to [Bug 507117 - Why drag-n-drop Marketplace icon does not work](https://bugs.eclipse.org/bugs/show_bug.cgi?id=507117) 
+and/or [new GitHub issue](https://github.com/Nodeclipse/www.nodeclipse.org).  
+And why [click-through (instead of drag-n-drop) does not show relevant page](https://bugs.eclipse.org/bugs/show_bug.cgi?id=365410).
 
 ## News and updates
 
+[![Git Addon](../img/list/git-addon.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
+[![Proto](../img/list/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377)
 [![Angular2](../img/list/Angular2-Eclipse.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3037144)
 [![TypeScript_IDE](../img/list/TypeScript_IDE.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3037133)
 
