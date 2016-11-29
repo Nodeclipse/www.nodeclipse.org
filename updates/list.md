@@ -15,6 +15,7 @@ And why [click-through (instead of drag-n-drop) does not show relevant page](htt
 
 ## News and updates
 
+[![LiClipseText](../img/list/liclipsetext_banner_1.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2894763)
 [![Git Addon](../img/list/git-addon.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1076754)
 [![Proto](../img/list/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377)
 [![Angular2](../img/list/Angular2-Eclipse.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3037144)
