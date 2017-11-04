@@ -13,8 +13,13 @@ If it does not work, say to [Bug 507117 - Why drag-n-drop Marketplace icon does 
 and/or [new GitHub issue](https://github.com/Nodeclipse/www.nodeclipse.org).  
 And why [click-through (instead of drag-n-drop) does not show relevant page](https://bugs.eclipse.org/bugs/show_bug.cgi?id=365410).
 
-## News and updates
+## Editors
 
+[![BlueSky](../img/list/bluesky-lojo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3394048)
+[![Jenkinsfile Editor](../img/list/jenkins-editor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3680354)
+[![Markdown](../img/list/Markdown_0.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
+[![FluentMark](../img/list/FluentMark_Logo110x80.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3217596)
+[![GFM](../img/list/egit-github-marketplace-logo-GFM.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=900708)
 [![CSV Edit 'or](../img/list/resurrector-CSV-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3739198)
 [![Bash Editor](../img/list/bash-editor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3536358)
 [![LiClipseText](../img/list/liclipsetext_banner_1.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2894763)
