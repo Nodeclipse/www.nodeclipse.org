@@ -20,6 +20,12 @@ This plugin in distributed within [Nodeclispe NTS](/nts/), [Enide Studio](/enide
 You can install plugin from `http://www.nodeclipse.org/updates/`  
 It is inside "Enide Tools Collection" group.
 
+### UPDATE Nov 2017
+
+Try similar, but more advanced `http4e` <https://github.com/nextinterfaces/http4e>
+
+![](http://nextinterfaces.com/http4e/images/main.png)
+
 ### See more in README
 
 [README](README)
