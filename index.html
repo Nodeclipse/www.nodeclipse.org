@@ -196,20 +196,28 @@ title: Nodeclipse, Enide
 
 
 	<p>
-                2016-11-03 Have you tried <a href="https://github.com/mickaelistria/eclipse-bluesky">BlueSky</a> -
+		2018-01-11 Nodejs 8 has depricated <code>--debug</code> command option, so debug may not work.
+		The code in question is <code>cmdLine.add("--debug"+brk+"="+nodeDebugPort);</code> 
+		<a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.debug/src/org/nodeclipse/debug/launch/LaunchConfigurationDelegate.java#L114">LaunchConfigurationDelegate.java#L114</a>.
+                Help is needed to try out solution for Nodejs 8 
+		<a href="https://github.com/Nodeclipse/nodeclipse-1/issues/220">#220</a>
+		.		
+            </p>
+	<p>
+                2017-11-03 Have you tried <a href="https://github.com/mickaelistria/eclipse-bluesky">BlueSky</a> -
 		new simple and productive Web Development Tools by Mickael Istria.
                 Available on <a href="https://marketplace.eclipse.org/content/bluesky-web-development-eclipse-ide-experimental">marketplace</a>
 		and soon in <a href="http://www.nodeclipse.org/updates/list">Nodeclipse plugin list</a>.		
             </p>
 	<p>
-                2016-10-31 <a href="https://github.com/Mathieuu/CsvEdit">CSV Edit</a> (with a tiny change)
+                2017-10-31 <a href="https://github.com/Mathieuu/CsvEdit">CSV Edit</a> (with a tiny change)
 				was built and update site is now at 
                 <code>http://www.nodeclipse.org/updates/csvedit/</code><br>
 		Also installable via on <a href="https://marketplace.eclipse.org/content/csv-edit-resurrector">marketplace</a>
 		and in <a href="http://www.nodeclipse.org/updates/list">Nodeclipse plugin list</a>.		
             </p>
 	<p>
-                2016-11-18 <a href="http://www.nodeclipse.org/updates/gradle-ide-pack">Gradle IDE Pack</a> repository
+                2017-11-18 <a href="http://www.nodeclipse.org/updates/gradle-ide-pack">Gradle IDE Pack</a> repository
                 (<a href="https://marketplace.eclipse.org/content/gradle-ide-pack">on marketplace</a>)
                 now includes <a href="https://github.com/de-jcup/egradle">EGradle</a>.
                 And by default when using MPC 
